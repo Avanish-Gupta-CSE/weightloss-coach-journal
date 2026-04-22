@@ -1516,7 +1516,8 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 - **Snack:** Dahi 200g + sugar ❌ Rule 5 | Papaya 350g ✅ | Grapes 100g ✅
 - **Dinner:** 2 roti + 100g gobhi sabzi ❌ CRITICAL — zero protein source at dinner (Tuesday, R-L = no non-veg)
 - **Evening biscuit:** Milkbikis ¾ small packet ❌ Rule 3 (maida) + Rule 5 (sugar biscuit)
-- **10 PM whey:** NOT TAKEN ❌
-- **Day 38 TOTAL: ~1,521 kcal ✅ (under) / ~72g protein ❌❌ (108g short — worst gym day in protocol)**
+- **10 PM whey:** SKIPPED ❌ (fell asleep)
+- **Late night (post-session):** 100g paneer bhurji ✅ + 1 naariyal paani ✅
+- **Day 38 FINAL TOTAL: ~1,831 kcal / ~90.5g protein ❌❌ (89.5g short of 180g — still worst gym day in protocol)**
 - **Root cause:** No eggs at breakfast + paneer depleted + gobhi-only dinner + no 10 PM whey + Milkbikis craving
 - **Next:** Paneer order URGENT (R-B). Tomorrow Wednesday = Rest day but must compensate protein — dal + paneer + eggs at every meal.

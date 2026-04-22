@@ -10,13 +10,13 @@
 
 | Field | Value |
 |---|---|
-| Current day | Day 38 — April 21, 2026 (Tuesday). Phase 2 Session 18 Lower Body DONE ✅. Office day (11 AM–8 PM). Walking pad STILL UNCONFIRMED (7+ days). |
-| Phase | **PHASE 2 ACTIVE — begins today April 20.** 3 sets × 10-12 reps. Machine-only (no dumbbells confirmed yet). Session 17 Upper Body today. |
+| Current day | **Day 39 — April 22, 2026 (Wednesday). REST day. Office day (11 AM–8 PM).** No gym. Walking pad if possible. Cook available. |
+| Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. Next gym: Thursday Apr 23 = Session 19 Upper Body. DB Bent-Over Row debut. |
 | Last weight | **W5 official: 88.15 kg** (Apr 20, post-BM, naked). W4 was 88.05 kg → W5 = +0.10 kg on scale (water retention from Sunday: mango shake + milk + 200g biryani rice + rest day). True fat trend still downward. Cumulative: -3.30 kg from Day 0. |
 | Starting weight | 91.45 kg (March 14, Day 0) |
 | Next weigh-in | **W6 — Monday April 27, 2026. Naked, post-BM, fasted. First thing at 6 AM.** Target: 87.3–87.5 kg (what W5 should have been — water retention delayed it). |
 | Diet mode | Non-veg available. Maida ban LIFTED (April 20). Multigrain bread/roti OK. LPG cylinder exhausted — induction cooking only until resolved. |
-| Protein status | Day 38 CRITICAL: ~72g / ~1,521 kcal. LEG DAY with 108g protein shortfall. Root causes: no eggs at breakfast, no paneer (depleted), gobhi-only dinner (zero protein), 10 PM whey skipped, Milkbikis = Rule 3 violation, dahi+sugar = Rule 5. Order paneer urgently (R-B). Tomorrow must have 2+ protein sources at every meal. |
+| Protein status | Day 38 FINAL: ~90.5g / ~1,831 kcal. Recovered slightly with late-night paneer + naariyal paani but still 89.5g short on a leg day. Day 39 (today) = REST day, cook available — must maximise protein at every meal. Target: ≥130g today. |
 | Gym sessions completed | **18 complete (Phase 2 active).** Session 18 (Apr 21) Lower Body ✅ — Leg Press 90 kg 3 sets \| Goblet Squat 10 kg 2 sets \| Leg Extension 29 kg 3 sets \| Leg Curl 29 kg 3 sets \| Calf Raise 2 sets \| Cable Crunch 3×12-13 \| Hip Abductor 23 kg 3 sets \| Hip Adductor 23 kg 3 sets. Plank skipped. R-A: 0.75 scoop OWN post-workout ✅ (streak 3 sessions). **CORRECTED Phase 2 DB day map:** Mon=DB Shoulder Press (replaces Shoulder Press machine) \| Tue=Goblet Squat (replaces Leg Press) \| Thu=DB Bent-Over Row (replaces Row set) \| Sat=both. Session 17 Monday error: prescribed Goblet Squat on Upper day — correct is DB Shoulder Press on Mon. |
 | Medications active | Thyroxine 50mcg at 6 AM daily (permanent). |
 
@@ -31,7 +31,7 @@ _Last updated: Day 14, March 28, 2026_
 | OWN Whey Protein Isolate (Cocoa) — CURRENT PACK | ⚠️ Near depletion | ~2–3 servings left | ₹2,099 / 500g ordered Apr 21. Delivery Apr 26. PRIMARY protein. If exhausted before Apr 26 → use ON Concentrate as GAP ONLY (see note below). |
 | OWN Whey Protein Isolate (Cocoa) — NEW PACK | ⏳ Incoming | 500g | Ordered Apr 21 night. Delivery Apr 26. Resume as primary once arrived. |
 | ON Gold Standard Whey | ✅ In stock — GAP FILLER ONLY | ~½ tub | Use ONLY if OWN Isolate runs out before Apr 26. Same R-A protocol: lukewarm, ≥5 almonds, sip slowly. Monitor for bloating each use. NOT a permanent switch. |
-| Paneer | ✅ In stock | ~400g (delivered Apr 21 night) | R-B restored ✅. No paneer at breakfast (thyroxine 4hr calcium rule). Use 100g tonight if awake + 100g lunch + 100g dinner Day 39. |
+| Paneer | ✅ In stock | ~300g remaining | 100g eaten late night Day 38. Use: 100g tiffin lunch (Day 39) + 100g dinner (Day 39). Keep ≥100g reserve. Reorder if drops below 200g (R-B). |
 | Soya granules (dry) | ✅ In stock | ~300g | 50g dry → soak 15 min → squeeze hard → sauté 1 tsp oil |
 | Besan | ✅ In stock | ~400g | Chilla, kadhi, pakodi, khandvi |
 | Moong dal (dry) | ✅ In stock | ~400g | Khichdi, dal, lunch protein base |
