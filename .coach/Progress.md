@@ -1521,3 +1521,61 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 - **Day 38 FINAL TOTAL: ~1,831 kcal / ~90.5g protein ❌❌ (89.5g short of 180g — still worst gym day in protocol)**
 - **Root cause:** No eggs at breakfast + paneer depleted + gobhi-only dinner + no 10 PM whey + Milkbikis craving
 - **Next:** Paneer order URGENT (R-B). Tomorrow Wednesday = Rest day but must compensate protein — dal + paneer + eggs at every meal.
+
+---
+### 2026-04-22 (Day 39) — REST Day / Office Day
+- **Gym:** REST DAY ✅
+- **Topics discussed:** Day 39 meal plan, mango deviation flagging, W6 water retention risk, OWN whey depletion timeline, paneer critical low
+- **Breakfast:** 2 egg omelette + 2 WW bread slices ✅ (~270 kcal, ~17g protein)
+- **Lunch:** Moong dal 175g cooked + rice 100g cooked + paneer sabzi 100g + dahi 200g ✅ (~725 kcal, ~40g protein)
+- **Office fruits:** Musk melon 250g + grapes 100g ✅ (~155 kcal, ~3g protein)
+- **Office drink:** OWN Whey Isolate 0.75 scoop ✅ R-A: lukewarm, 5 almonds (~115 kcal, ~21g protein)
+- **Dinner:** Kadhi 200g + 2 pakodis ⚠️ (deep-fried, minimal) + rice 75g + egg bhurji 2 eggs ✅ + 1 mango ❌ unapproved + half mango shake (100g mango + 100ml milk) ❌ W6 water retention risk
+- **10 PM whey:** SKIPPED ❌ (consecutive skip — Day 38 + Day 39)
+- **Day 39 TOTAL: ~1,920–1,930 kcal (just over 1,900 ceiling) / ~113g protein ❌ (~67g short of 180g — whey skipped, no dinner protein gap)**
+- **Critical flags:** Mango + milk at night = exact W5 water retention repeat pattern. W6 is Monday Apr 27. No mango shake / milk at night Thu–Sun. Paneer stock CRITICAL LOW (~100g remaining after this day — reorder urgent).
+- **Next actions:** Day 40 = Apr 23 (Thursday). Session 19 Upper Pull. Office day. DB Bent-Over Row DEBUT. Set 9:45 PM alarm before sleeping.
+
+---
+### 2026-04-23 (Day 40) — Phase 2 Session 19 (Upper Pull) / Office Day
+- **Topics discussed:** Day 40 workout split, post-gym whey protocol, DB Bent-Over Row form cues, W6 water retention risk, 10 PM whey consecutive-skip crisis, OWN whey depletion, paneer reorder
+- **Thyroxine:** ✅ Taken at 6 AM
+- **Gym:** Session 19 ✅ Upper Pull DONE. Warm-up incline treadmill 2.5 kmph, 9.0→13.0. Pec Deck 55 lbs ×1 + 70 lbs ×2. Lat Pulldown close grip 50–55 lbs. DB Bent-Over Row 7.5 kg ×3 per arm. Cable Face Pull 20 lbs ×3. Lateral Raise Machine 7.5 kg ×3. Cable Tricep Overhead Extension 15 lbs ×3. Cable Hammer Curl 25 lbs ×3.
+- **Workout analysis:** Controlled session overall. Major win = no repeat of the old 70-lb+ pulldown / curl overreach spiral. DB row debut was correctly conservative. Next Thursday lock: Pec Deck 70 lbs working sets, Lat Pulldown 50–55 lbs only if zero torso swing, DB Row 7.5 kg again unless all 3 sets hit 12 clean, Face Pull 20 lbs again unless rear delts were too easy, Lateral Raise 7.5 kg, Tricep OH Ext 15 lbs, Hammer Curl 25 lbs.
+- **Post-gym whey actual:** 0.75 scoop OWN Isolate ✅, lukewarm water, R-A followed. OWN current pack ENDED immediately after this serving.
+- **10 PM whey prescribed:** 0.5 scoop OWN (if any remains) OR ON Concentrate. 9:45 PM alarm mandatory. STOP consecutive skip streak.
+- **W6 prep restriction (R-N):** No mango shake / milk at night Apr 23–27. Mango OK daytime only before 4 PM.
+- **OWN Whey status:** ❌ Depleted now. From today evening: ON Concentrate gap protocol. Apr 26: new OWN 500g arrives.
+- **Paneer reorder:** ❌ CRITICAL LOW ~100g. Reorder tonight.
+- **Breakfast prescribed:** Vermicelli 180g cooked + 1 nariyal paani (~200–250ml) + 2 tbsp sattu (~20g) in plain water. Keep breakfast controlled because lunch is outside.
+- **Breakfast actual:** ✅ Ate exactly as prescribed — vermicelli 180g cooked + 1 nariyal paani + 2 tbsp sattu.
+- **Lunch research:** Zomato checked for Sally By 1522 and Ishaara (Mall of Asia). Ishaara is cleaner choice for today's high-protein lunch.
+- **Office snack update:** Bought 1 scoop ON Concentrate for office gap period ✅. Bought watermelon + 200g dahi pack, but carry tiffin spilled in an unwashed bag. **Coach hygiene call:** contaminated cut watermelon = DISCARD, do not wash and eat. Dahi pack = usable only if seal remains intact.
+- **Lunch strategy refined:** 4 scenarios prepared — Ishaara self-order, Ishaara shared, Sally self-order, Sally shared.
+- **Compliance (to be updated end of day):** Workout complete ✅. Post-gym whey complete ✅. Breakfast complete ✅. Lunch + evening snack pending.
+
+---
+### 2026-04-23 (Day 40) — Actual Lunch Outcome / GI Flare
+- **Restaurant chosen:** Ishaara
+- **Lunch actuals:** 8 medium chicken pieces + 1 leg piece + 1/4 chicken roll (maida) + 2 small bowls aamras + ~3 tbsp gajar halwa + ~1 tbsp cheesecake + 1/4 plate biryani + 1 chicken piece + ~3/4 seekh mutton kebab + 1 Diet Coke can + 1 veg corn kebab
+- **Protocol violations:** Maida roll ❌ | stacked desserts ❌ | biryani + kebab + dessert combination ❌ | outside-meal overload on post-antibiotic gut ❌
+- **Medical event:** Loose motion x3 in office + abdominal pain. At home: loperamide 2mg ×2, probiotic ×1, ORS x3. **No dinner.**
+- **Coach analysis:** This was not one bad item. This was a full-stack gut hit: maida + aamras + halwa + cheesecake + biryani + kebab mix on a recently sensitive stomach. Weight response and bowel response after this are water/gut reactions, not body-fat signal.
+
+---
+### 2026-04-24 (Day 41) — Recovery Day / Gym Missed
+- **Weight check:** 86.40 kg ⚠️ **NOT official**. Likely dehydration / GI emptying artifact after loose motion. Ignore for fat-loss tracking.
+- **Morning:** 1 ORS ✅
+- **Breakfast:** Khichdi 2 bowls ✅
+- **Lunch:** Rice 100g + moong dal 150g + aloo beans 100g ✅
+- **Evening:** Some namkeen + 1 murukku ⚠️
+- **Dinner:** SKIPPED
+- **Gym:** MISSED due recovery ✅ Appropriate call. Friday workout shifted to Saturday. Saturday workout shifted to Sunday for this week only.
+- **Coach analysis:** Correct move to skip the gym. Body was dehydrated, inflamed, and under-fueled. 86.40 kg is not a fat-loss victory; it is a water-loss distortion.
+
+---
+### 2026-04-25 (Day 42) — Morning Check-In
+- **Status:** Feeling better on waking.
+- **Today’s decision rule:** Gym only if no loose stool since waking, stomach pain minimal, no dizziness on standing, and breakfast/fluids tolerated.
+- **Workout shift:** Friday Lower Body + Core will be done today if green-light symptoms hold. Saturday full-body moves to Sunday this week only.
+- **Stock update:** OWN Whey Isolate 500g arrived early ✅. OWN resumes as primary protein powder from the next shake. ON Concentrate returns to backup only.

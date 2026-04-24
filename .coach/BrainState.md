@@ -10,14 +10,14 @@
 
 | Field | Value |
 |---|---|
-| Current day | **Day 39 — April 22, 2026 (Wednesday). REST day. Office day (11 AM–8 PM).** No gym. Walking pad if possible. Cook available. |
-| Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. Next gym: Thursday Apr 23 = Session 19 Upper Body. DB Bent-Over Row debut. |
+| Current day | **Day 42 — April 25, 2026 (Saturday). Recovery from Apr 23 acute loose-motion episode. Feeling better this morning. Friday lower-body workout shifted to TODAY; Saturday full-body moved to Sunday for this week only.** |
+| Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. Today = illness-adjusted Lower Body + Core re-entry IF no loose stool/cramps/dizziness. |
 | Last weight | **W5 official: 88.15 kg** (Apr 20, post-BM, naked). W4 was 88.05 kg → W5 = +0.10 kg on scale (water retention from Sunday: mango shake + milk + 200g biryani rice + rest day). True fat trend still downward. Cumulative: -3.30 kg from Day 0. |
 | Starting weight | 91.45 kg (March 14, Day 0) |
 | Next weigh-in | **W6 — Monday April 27, 2026. Naked, post-BM, fasted. First thing at 6 AM.** Target: 87.3–87.5 kg (what W5 should have been — water retention delayed it). |
 | Diet mode | Non-veg available. Maida ban LIFTED (April 20). Multigrain bread/roti OK. LPG cylinder exhausted — induction cooking only until resolved. |
-| Protein status | Day 38 FINAL: ~90.5g / ~1,831 kcal. Recovered slightly with late-night paneer + naariyal paani but still 89.5g short on a leg day. Day 39 (today) = REST day, cook available — must maximise protein at every meal. Target: ≥130g today. |
-| Gym sessions completed | **18 complete (Phase 2 active).** Session 18 (Apr 21) Lower Body ✅ — Leg Press 90 kg 3 sets \| Goblet Squat 10 kg 2 sets \| Leg Extension 29 kg 3 sets \| Leg Curl 29 kg 3 sets \| Calf Raise 2 sets \| Cable Crunch 3×12-13 \| Hip Abductor 23 kg 3 sets \| Hip Adductor 23 kg 3 sets. Plank skipped. R-A: 0.75 scoop OWN post-workout ✅ (streak 3 sessions). **CORRECTED Phase 2 DB day map:** Mon=DB Shoulder Press (replaces Shoulder Press machine) \| Tue=Goblet Squat (replaces Leg Press) \| Thu=DB Bent-Over Row (replaces Row set) \| Sat=both. Session 17 Monday error: prescribed Goblet Squat on Upper day — correct is DB Shoulder Press on Mon. |
+| Protein status | Day 40 ended with restaurant-triggered GI flare and no dinner. Day 41 recovery intake was low-protein and low-calorie (khichdi + dal/rice lunch, no dinner). Day 42 priority = rehydrate, restore gut calm, then resume protein gradually. **No aggressive overload today even if symptoms feel better.** |
+| Gym sessions completed | **19 complete.** Session 20 pending today only if symptom-free. Session 19 (Apr 23) Upper Pull ✅ — incline treadmill 2.5 kmph, 9.0→13.0 warm-up \| Pec Deck 55 lbs ×1 + 70 lbs ×2 \| Lat Pulldown close grip 50–55 lbs \| DB Bent-Over Row 7.5 kg ×3/arm \| Cable Face Pull 20 lbs ×3 \| Lateral Raise Machine 7.5 kg ×3 \| Cable Tricep Overhead Extension 15 lbs ×3 \| Cable Hammer Curl 25 lbs ×3. **CORRECTED Phase 2 DB day map:** Mon=DB Shoulder Press \| Tue/Fri=Goblet Squat \| Thu=DB Bent-Over Row \| Sat=both. |
 | Medications active | Thyroxine 50mcg at 6 AM daily (permanent). |
 
 ---
@@ -28,10 +28,11 @@ _Last updated: Day 14, March 28, 2026_
 
 | Item | Status | Approx Qty | Notes |
 |---|---|---|---|
-| OWN Whey Protein Isolate (Cocoa) — CURRENT PACK | ⚠️ Near depletion | ~2–3 servings left | ₹2,099 / 500g ordered Apr 21. Delivery Apr 26. PRIMARY protein. If exhausted before Apr 26 → use ON Concentrate as GAP ONLY (see note below). |
-| OWN Whey Protein Isolate (Cocoa) — NEW PACK | ⏳ Incoming | 500g | Ordered Apr 21 night. Delivery Apr 26. Resume as primary once arrived. |
-| ON Gold Standard Whey | ✅ In stock — GAP FILLER ONLY | ~½ tub | Use ONLY if OWN Isolate runs out before Apr 26. Same R-A protocol: lukewarm, ≥5 almonds, sip slowly. Monitor for bloating each use. NOT a permanent switch. |
-| Paneer | ✅ In stock | ~300g remaining | 100g eaten late night Day 38. Use: 100g tiffin lunch (Day 39) + 100g dinner (Day 39). Keep ≥100g reserve. Reorder if drops below 200g (R-B). |
+| OWN Whey Protein Isolate (Cocoa) — PREVIOUS PACK | ❌ Depleted | 0 | 0.75 scoop taken post-gym Day 40. Pack ended immediately after that serving. |
+| OWN Whey Protein Isolate (Cocoa) — CURRENT PACK | ✅ In stock | 500g | **Arrived Day 42 (Apr 25).** Resume as primary protein powder from the next shake. |
+| ON Gold Standard Whey | ✅ In stock — BACKUP ONLY | ~½ tub | Gap-filler period is over once OWN resumes. Keep only as backup with the same R-A protocol: lukewarm, ≥5 almonds, sip slowly. |
+| ORS sachets | ⚠️ In use | Unknown remaining | Used heavily after Apr 23 loose-motion episode (reported ORS x3 night of Apr 23 + 1 ORS morning Apr 24). Keep available through W6 weigh-in. |
+| Paneer | ❌ CRITICAL LOW | ~100g remaining | Used 200g Day 39 (100g lunch + 100g dinner). R-B violated — stock below 200g threshold. **REORDER TONIGHT or tomorrow morning.** |
 | Soya granules (dry) | ✅ In stock | ~300g | 50g dry → soak 15 min → squeeze hard → sauté 1 tsp oil |
 | Besan | ✅ In stock | ~400g | Chilla, kadhi, pakodi, khandvi |
 | Moong dal (dry) | ✅ In stock | ~400g | Khichdi, dal, lunch protein base |
@@ -41,6 +42,8 @@ _Last updated: Day 14, March 28, 2026_
 | Makhana | ✅ In stock | ~100g | Air-fried night snack. 40g ≈ 150 kcal, 4g protein. Approved. |
 | Dosa batter | ✅ In stock | ~300g | 2 uttapam used today (~200g). Fermented = gut-friendly. |
 | Curd | ✅ In stock | ~400g | Lunch/dinner only. NOT at breakfast (thyroxine 4hr calcium rule). |
+| Dahi pack (office) | ⚠️ Conditional use | 200g | Bought for office on Day 40. **Use ONLY if factory seal/lid is intact after spill. If outer spill only: wipe and keep. If seal compromised: discard.** |
+| Watermelon (office carry) | ❌ Discard | 0 | Day 40 carry container spilled into an unwashed bag. **Cut fruit contaminated by dirty bag = DO NOT wash and eat. Discard.** |
 | Rice (cooked or raw) | ✅ In stock | — | Cook staple |
 | Multigrain atta | ✅ In stock | — | Cook uses for rotis and parathas |
 | Hajmola Maha Candy | ✅ In stock | ~12 pieces | Digestive herb candy (ajwain, jeera, hing, amla, ginger). APPROVED. |
@@ -75,6 +78,8 @@ _Permanent additions or modifications to Protocol.md base rules. Apply always un
 | R-K | Uttapam = approved breakfast | Dosa batter (rice + urad dal) = no maida, no calcium, thyroxine-safe. Fermented = gut-friendly. Replaces besan chilla as a valid morning option. | Day 14, Mar 28 |
 | R-L | No non-veg on Tuesdays + Hindu festivals | Permanent personal observance. Vegetarian only on these days regardless of cook availability. | Day 14, Mar 28 |
 | R-M | No cold/fridge water — ever | Cold fridge water in hot weather caused fever on Day 15. Drink room temperature or warm water only. During summer, fill a bottle and leave on counter 30 min before drinking. This is PERMANENT, not just when sick. | Day 15, Mar 29 |
+| R-N | W6 mango/milk restriction (temp) | No mango shake, no milk-based drinks at night from Apr 23–27 (Thu–Mon). Prevent W5 water retention repeat before W6 weigh-in (Apr 27). Mango OK daytime only, whole fruit, max 1/day, before 4 PM. | Day 40, Apr 23 |
+| R-O | Outside meal damage-control | During W6 prep and post-antibiotic gut recovery: if eating out, choose **one protein main + one controlled carb only**. No mixed dessert sampling, no maida roll/naan, no biryani + kebab + dessert stacking. | Day 42, Apr 25 |
 
 ---
 
@@ -105,6 +110,8 @@ _Permanent additions or modifications to Protocol.md base rules. Apply always un
 | Mar 30 12:30 PM (Day 16) | Fever returned to 102.2°F. Doctor prescribed Wymox (Amoxicillin 500mg) ×2/day ×3 days + Sinarest. NS1 dengue test + CBC via Dr Lal Pathlabs. | ✅ RESOLVED |
 | Apr 2–3 (Days 19–20) | Antibiotics course completed April 1. Fever fully resolved by April 3 (Friday). **NS1 dengue test: NEGATIVE. CBC: normal.** Bacterial infection (throat/sinusitis) — fully cleared. MOIL exam taken April 3 despite illness — paper reportedly easy but could not prepare. | ✅ RESOLVED — fully recovered |
 | Apr 4–5 (Days 21–22) | Recovery eating: biryani + maida items (garlic naan, rumali roti, chicken pita pocket) 2 nights in a row. Stomach aching both nights → resolved with morning BM. Pattern = maida in post-antibiotic gut. **No maida for 2 weeks (until April 20).** | ⚠️ Monitor gut. Eat curd daily for probiotics. |
+| Apr 23 evening (Day 40) | **Acute loose-motion / stomach pain after Ishara team lunch.** Intake stack: chicken pieces + leg piece + 1/4 maida roll + 2 small bowls aamras + gajar halwa + cheesecake + 1/4 plate biryani + seekh mutton kebab + veg corn kebab + Diet Coke. 3 loose stools in office, abdominal pain. At home: loperamide 2mg ×2, probiotic ×1, ORS x3, no dinner. | ⚠️ IMPROVING by Apr 25 morning. Dehydration weight dip on Apr 24 likely water loss, not fat loss. |
+| Apr 24 (Day 41) | Recovery day after loose motion. Morning ORS. Ate khichdi breakfast, rice+moong dal+aloo beans lunch, namkeen + murukku, no dinner. Gym skipped appropriately; Friday lower shifted to Saturday. | ✅ RECOVERY DAY. Resume gym only if symptom-free. |
 | Ongoing | Hypothyroidism — Levothyroxine 50mcg at 6 AM daily. 4-hr calcium gap. | Managed. No issues. |
 | Ongoing | Gastritis, acid reflux — recovering. No deep-fried, no maida, no cream gravies, no cold protein powder. Post-antibiotic gut — requires probiotics (curd daily) for 4–6 weeks. | ⚠️ Post-antibiotic phase. |
 
@@ -117,7 +124,7 @@ _Permanent additions or modifications to Protocol.md base rules. Apply always un
 | Roasted chana (bhuna chana) | 500g | March 24 night (Day 10) | Zepto/Blinkit | ✅ Delivered (in stock) |
 | Sattu powder | 500g | March 24 night (Day 10) | Zepto/Blinkit | ✅ Delivered (in stock) |
 | Paneer | 400g | Apr 21 night (Day 38) | Zepto | ✅ Delivered |
-| OWN Whey Isolate 500g | 500g | Apr 21 night (Day 38) | Online (₹2,099) | ⏳ Delivery Apr 26 — ON Concentrate is gap filler until then |
+| OWN Whey Isolate 500g | 500g | Apr 21 night (Day 38) | Online (₹2,099) | ✅ Delivered early on Apr 25 (Day 42). OWN resumes as primary; ON returns to backup only |
 
 ---
 
