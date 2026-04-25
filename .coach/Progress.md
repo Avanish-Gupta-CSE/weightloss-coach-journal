@@ -1581,6 +1581,10 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 - **Stock update:** OWN Whey Isolate 500g arrived early ✅. OWN resumes as primary protein powder from the next shake. ON Concentrate returns to backup only.
 - **Breakfast actual:** 3 bread + aloo sandwich ✅
 - **Hydration actual:** 2 nariyal paani ✅ (1 before breakfast, 1 after)
-- **Gym:** Went at 1 PM and completed the shifted Friday lower-body session ✅ Detailed exercise/weight log still pending.
+- **Weight spot check:** 86.70 kg naked ⚠️ **UNOFFICIAL**. This is only a recovery spot check, not W6. It is +0.30 kg from the 86.40 dehydration low on Apr 24, which is expected as rehydration starts.
+- **Gym:** Went at 1 PM and completed the shifted Friday lower-body session ✅
+- **Warm-up actual:** No treadmill. Did own flat-surface dynamic warm-up: leg stretching, bending, mobility work ✅ Acceptable during GI recovery.
+- **Session 20 actuals:** Leg Press 90 kg ×3 ✅ | Goblet Squat 10 kg ×2 ✅ | Leg Extension 25 kg ×3 ✅ | Leg Curl 29 kg ×3 ⚠️ slightly above the conservative recovery prescription but tolerated | Hip Adductor 23 kg ×3 ✅ | Hip Abductor 23 kg ×3 ✅ | Cable Crunch 15 lbs ×3 ⚠️ one set more than planned.
+- **Workout analysis:** Overall a good re-entry. Main positives: you trained again without forcing increases, matched the last clean 90 kg leg press, hit the correct 10 kg goblet squat, and kept adductor/abductor under control. The only slight overreach vs recovery plan was leg curl at 29 kg and doing 3 cable-crunch sets instead of 2. Because you tolerated them, do **not** increase next lower session; just repeat these exact numbers once more before progressing.
 - **Post-gym whey:** 1 scoop OWN Whey Isolate ✅
 - **Lunch prescribed:** Moong dal **250g cooked** + rice **100g cooked max** + lauki **150g cooked**. Make dal the largest portion; do not take a second rice serving.
