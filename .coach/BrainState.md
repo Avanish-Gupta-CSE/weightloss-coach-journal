@@ -10,14 +10,14 @@
 
 | Field | Value |
 |---|---|
-| Current day | **Day 42 — April 25, 2026 (Saturday). Recovery from Apr 23 acute loose-motion episode. Feeling better this morning. Friday lower-body workout shifted to TODAY; Saturday full-body moved to Sunday for this week only.** |
-| Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. Today = illness-adjusted Lower Body + Core re-entry IF no loose stool/cramps/dizziness. |
+| Current day | **Day 42 — April 25, 2026 (Saturday). Recovery improving. Went to gym at 1 PM for the shifted Friday lower-body session. Saturday full-body remains moved to Sunday for this week only.** |
+| Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. Day 42 = illness-adjusted Lower Body + Core re-entry completed at 1 PM; detailed exercise-by-exercise log still pending. |
 | Last weight | **W5 official: 88.15 kg** (Apr 20, post-BM, naked). W4 was 88.05 kg → W5 = +0.10 kg on scale (water retention from Sunday: mango shake + milk + 200g biryani rice + rest day). True fat trend still downward. Cumulative: -3.30 kg from Day 0. |
 | Starting weight | 91.45 kg (March 14, Day 0) |
 | Next weigh-in | **W6 — Monday April 27, 2026. Naked, post-BM, fasted. First thing at 6 AM.** Target: 87.3–87.5 kg (what W5 should have been — water retention delayed it). |
 | Diet mode | Non-veg available. Maida ban LIFTED (April 20). Multigrain bread/roti OK. LPG cylinder exhausted — induction cooking only until resolved. |
-| Protein status | Day 40 ended with restaurant-triggered GI flare and no dinner. Day 41 recovery intake was low-protein and low-calorie (khichdi + dal/rice lunch, no dinner). Day 42 priority = rehydrate, restore gut calm, then resume protein gradually. **No aggressive overload today even if symptoms feel better.** |
-| Gym sessions completed | **19 complete.** Session 20 pending today only if symptom-free. Session 19 (Apr 23) Upper Pull ✅ — incline treadmill 2.5 kmph, 9.0→13.0 warm-up \| Pec Deck 55 lbs ×1 + 70 lbs ×2 \| Lat Pulldown close grip 50–55 lbs \| DB Bent-Over Row 7.5 kg ×3/arm \| Cable Face Pull 20 lbs ×3 \| Lateral Raise Machine 7.5 kg ×3 \| Cable Tricep Overhead Extension 15 lbs ×3 \| Cable Hammer Curl 25 lbs ×3. **CORRECTED Phase 2 DB day map:** Mon=DB Shoulder Press \| Tue/Fri=Goblet Squat \| Thu=DB Bent-Over Row \| Sat=both. |
+| Protein status | Day 40 ended with restaurant-triggered GI flare and no dinner. Day 41 recovery intake was low-protein and low-calorie. Day 42 so far: breakfast = 3-bread aloo sandwich + 2 nariyal paani, then 1 scoop OWN post-gym ✅. Lunch must stay simple: make moong dal the biggest portion, keep rice controlled, lauki moderate. |
+| Gym sessions completed | **20 complete.** Session 20 done at 1 PM on Day 42 as the shifted Friday Lower Body + Core re-entry. Detailed weight log still pending from user. Session 19 (Apr 23) Upper Pull ✅ — incline treadmill 2.5 kmph, 9.0→13.0 warm-up \| Pec Deck 55 lbs ×1 + 70 lbs ×2 \| Lat Pulldown close grip 50–55 lbs \| DB Bent-Over Row 7.5 kg ×3/arm \| Cable Face Pull 20 lbs ×3 \| Lateral Raise Machine 7.5 kg ×3 \| Cable Tricep Overhead Extension 15 lbs ×3 \| Cable Hammer Curl 25 lbs ×3. **CORRECTED Phase 2 DB day map:** Mon=DB Shoulder Press \| Tue/Fri=Goblet Squat \| Thu=DB Bent-Over Row \| Sat=both. |
 | Medications active | Thyroxine 50mcg at 6 AM daily (permanent). |
 
 ---
@@ -29,7 +29,7 @@ _Last updated: Day 14, March 28, 2026_
 | Item | Status | Approx Qty | Notes |
 |---|---|---|---|
 | OWN Whey Protein Isolate (Cocoa) — PREVIOUS PACK | ❌ Depleted | 0 | 0.75 scoop taken post-gym Day 40. Pack ended immediately after that serving. |
-| OWN Whey Protein Isolate (Cocoa) — CURRENT PACK | ✅ In stock | 500g | **Arrived Day 42 (Apr 25).** Resume as primary protein powder from the next shake. |
+| OWN Whey Protein Isolate (Cocoa) — CURRENT PACK | ✅ In stock | ~470g remaining | **Arrived Day 42 (Apr 25).** 1 scoop used post-gym on Day 42. OWN is primary protein powder again. |
 | ON Gold Standard Whey | ✅ In stock — BACKUP ONLY | ~½ tub | Gap-filler period is over once OWN resumes. Keep only as backup with the same R-A protocol: lukewarm, ≥5 almonds, sip slowly. |
 | ORS sachets | ⚠️ In use | Unknown remaining | Used heavily after Apr 23 loose-motion episode (reported ORS x3 night of Apr 23 + 1 ORS morning Apr 24). Keep available through W6 weigh-in. |
 | Paneer | ❌ CRITICAL LOW | ~100g remaining | Used 200g Day 39 (100g lunch + 100g dinner). R-B violated — stock below 200g threshold. **REORDER TONIGHT or tomorrow morning.** |

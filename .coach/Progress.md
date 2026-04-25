@@ -1579,3 +1579,8 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 - **Today’s decision rule:** Gym only if no loose stool since waking, stomach pain minimal, no dizziness on standing, and breakfast/fluids tolerated.
 - **Workout shift:** Friday Lower Body + Core will be done today if green-light symptoms hold. Saturday full-body moves to Sunday this week only.
 - **Stock update:** OWN Whey Isolate 500g arrived early ✅. OWN resumes as primary protein powder from the next shake. ON Concentrate returns to backup only.
+- **Breakfast actual:** 3 bread + aloo sandwich ✅
+- **Hydration actual:** 2 nariyal paani ✅ (1 before breakfast, 1 after)
+- **Gym:** Went at 1 PM and completed the shifted Friday lower-body session ✅ Detailed exercise/weight log still pending.
+- **Post-gym whey:** 1 scoop OWN Whey Isolate ✅
+- **Lunch prescribed:** Moong dal **250g cooked** + rice **100g cooked max** + lauki **150g cooked**. Make dal the largest portion; do not take a second rice serving.
