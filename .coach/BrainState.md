@@ -10,13 +10,13 @@
 
 | Field | Value |
 |---|---|
-| Current day | **Day 42 — April 25, 2026 (Saturday). Recovery improving. Shifted Friday lower-body session DONE at 1 PM. Saturday full-body remains moved to Sunday for this week only.** |
-| Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. Day 42 lower-body re-entry was completed with mostly controlled weights. Sunday full-body proceeds only if no GI relapse tonight or tomorrow morning. |
+| Current day | **Day 43 — April 26, 2026 (Sunday). Day 42 ended with missed EOD whey + golgappe/bhujia/shakarpara late snack. Shifted Saturday full-body remains due today only if there is zero stomach pain, bloating, nausea, or loose stool since waking.** |
+| Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. Day 42 lower-body re-entry was completed with mostly controlled weights. **Today is a symptom-gated, reduced full-body day with no HIIT if green-lit; otherwise walking pad only.** W6-W8 focus = consolidation and recovery-complete return, not aggressive load jumps. |
 | Last weight | **W5 official: 88.15 kg** (Apr 20, post-BM, naked). **Unofficial spot check Apr 25: 86.70 kg naked** — still not official due Apr 23 GI episode/dehydration swing. W4 was 88.05 kg → W5 = +0.10 kg on scale (water retention from Sunday: mango shake + milk + 200g biryani rice + rest day). True fat trend still downward. Cumulative official loss: -3.30 kg from Day 0. |
 | Starting weight | 91.45 kg (March 14, Day 0) |
 | Next weigh-in | **W6 — Monday April 27, 2026. Naked, post-BM, fasted. First thing at 6 AM.** Target: 87.3–87.5 kg (what W5 should have been — water retention delayed it). |
 | Diet mode | Non-veg available. Maida ban LIFTED (April 20). Multigrain bread/roti OK. LPG cylinder exhausted — induction cooking only until resolved. |
-| Protein status | Day 40 ended with restaurant-triggered GI flare and no dinner. Day 41 recovery intake was low-protein and low-calorie. Day 42 so far: breakfast = 3-bread aloo sandwich + 2 nariyal paani, 1 scoop OWN post-gym ✅. Lunch still needs to stay simple: moong dal largest portion, rice controlled, lauki moderate. Protein intake is improving again but still not yet a full 180g day. |
+| Protein status | Day 42 actually ended at approximately **~2,010 kcal / ~82g protein** because the planned second whey was **missed** and late-night snack food was added instead (6 atta golgappe + 2 spoons bhujia + 1 shakarpara). That left calories slightly above target and protein drastically below target. **Day 43 breakfast plan:** 2 eggs + 1 glass sattu in water (~250 kcal / ~19g protein). If today's workout happens, post-gym whey is mandatory. |
 | Gym sessions completed | **20 complete.** Session 20 done at 1 PM on Day 42 as the shifted Friday Lower Body + Core re-entry — **dynamic flat-surface warm-up only (no treadmill)** \| Leg Press 90 kg ×3 \| Goblet Squat 10 kg ×2 \| Leg Extension 25 kg ×3 \| Leg Curl 29 kg ×3 \| Hip Adductor 23 kg ×3 \| Hip Abductor 23 kg ×3 \| Cable Crunch 15 lbs ×3. Session 19 (Apr 23) Upper Pull ✅ — incline treadmill 2.5 kmph, 9.0→13.0 warm-up \| Pec Deck 55 lbs ×1 + 70 lbs ×2 \| Lat Pulldown close grip 50–55 lbs \| DB Bent-Over Row 7.5 kg ×3/arm \| Cable Face Pull 20 lbs ×3 \| Lateral Raise Machine 7.5 kg ×3 \| Cable Tricep Overhead Extension 15 lbs ×3 \| Cable Hammer Curl 25 lbs ×3. **CORRECTED Phase 2 DB day map:** Mon=DB Shoulder Press \| Tue/Fri=Goblet Squat \| Thu=DB Bent-Over Row \| Sat=both. |
 | Medications active | Thyroxine 50mcg at 6 AM daily (permanent). |
 
@@ -80,6 +80,7 @@ _Permanent additions or modifications to Protocol.md base rules. Apply always un
 | R-M | No cold/fridge water — ever | Cold fridge water in hot weather caused fever on Day 15. Drink room temperature or warm water only. During summer, fill a bottle and leave on counter 30 min before drinking. This is PERMANENT, not just when sick. | Day 15, Mar 29 |
 | R-N | W6 mango/milk restriction (temp) | No mango shake, no milk-based drinks at night from Apr 23–27 (Thu–Mon). Prevent W5 water retention repeat before W6 weigh-in (Apr 27). Mango OK daytime only, whole fruit, max 1/day, before 4 PM. | Day 40, Apr 23 |
 | R-O | Outside meal damage-control | During W6 prep and post-antibiotic gut recovery: if eating out, choose **one protein main + one controlled carb only**. No mixed dessert sampling, no maida roll/naan, no biryani + kebab + dessert stacking. | Day 42, Apr 25 |
+| R-P | Induction dinner simplicity + Ayurveda pairing | For practical dinner planning while LPG is out: suggest **one main + one carb only**. If non-veg is chosen, do **not** pair chicken with curd in the same meal. Since user also flags chicken+lauki as incompatible for his protocol, avoid that pairing in recommendations too. | Day 42, Apr 25 |
 
 ---
 
@@ -94,6 +95,8 @@ _Permanent additions or modifications to Protocol.md base rules. Apply always un
 | Post-gym progressive overload | ~~After 2 return sessions at 75% weights, retest Day 14 baselines~~ DONE — Session 9 baselines confirmed and corrected. See corrected baseline row below. | ✅ |
 | Dumbbell purchase | Deferred to Phase 2 (April 19+). Kore PVC 20kg set, ~1,200–1,800 INR. | Low |
 | Readymade chilla batter packet | Check ingredients label for maida. If no maida → approve permanently as Alt B3 breakfast. | Low |
+| Objective visual progress check | Start **Monday Apr 27**: same-light front + side mirror photos immediately after official weigh-in. Use these for visual tracking instead of random candid group photos. | High |
+| Program redesign threshold | **Do NOT redesign before end of W8.** Current pace review = on target. Only redesign if W6-W8 official weigh-ins stall despite good protein, walking-pad, and outside-meal compliance. Current bottleneck = adherence variance, not split design. | High |
 | Cult.fit renewal decision | ✅ DONE: ELITE PLUS at 16,940 INR. Start: May 1, 2026. 13 months, 60 pause days. Amazon voucher: spend on OWN Whey 2kg. | ✅ RESOLVED |
 | All Phase 1 baselines confirmed | ✅ ALL FOUND (Sessions 9–11). Chest Press **50 lbs**, Seated Row **28 kg**, Shoulder Press **40 lbs** found Sess 11. **Session 12+ baseline targets:** Leg Press 95 kg, Hip Adductor/Abductor 28 kg, consolidate all upper at current weights first. Leg Press: 80 kg → 90 kg (back-to-back days) — let legs recover before pushing to 95 kg. | ✅ RESOLVED |
 
@@ -113,6 +116,8 @@ _Permanent additions or modifications to Protocol.md base rules. Apply always un
 | Apr 23 evening (Day 40) | **Acute loose-motion / stomach pain after Ishara team lunch.** Intake stack: chicken pieces + leg piece + 1/4 maida roll + 2 small bowls aamras + gajar halwa + cheesecake + 1/4 plate biryani + seekh mutton kebab + veg corn kebab + Diet Coke. 3 loose stools in office, abdominal pain. At home: loperamide 2mg ×2, probiotic ×1, ORS x3, no dinner. | ⚠️ IMPROVING by Apr 25 morning. Dehydration weight dip on Apr 24 likely water loss, not fat loss. |
 | Apr 24 (Day 41) | Recovery day after loose motion. Morning ORS. Ate khichdi breakfast, rice+moong dal+aloo beans lunch, namkeen + murukku, no dinner. Gym skipped appropriately; Friday lower shifted to Saturday. | ✅ RECOVERY DAY. Resume gym only if symptom-free. |
 | Apr 25 (Day 42) | Symptom improvement sufficient for re-entry. Naked spot check: 86.70 kg (unofficial). Completed shifted lower-body session at 1 PM with dynamic warm-up instead of treadmill. | ✅ IMPROVING. Able to train again, but weight still not official until Monday Apr 27. |
+| Apr 25 (Day 42) | Group photo + selfie triggered harsh body-image spiral about height, face, and current shape. | ⚠️ ACTIVE. Use official weigh-in + same-light mirror photos for assessment, not random candid shots. |
+| Apr 25 late night → Apr 26 morning | Missed planned EOD whey. Ate 6 atta golgappe + 2 spoons bhujia + 1 shakarpara after recent GI recovery window. | ⚠️ MONITOR GI this morning. If any stomach symptom is present, no gym today. |
 | Ongoing | Hypothyroidism — Levothyroxine 50mcg at 6 AM daily. 4-hr calcium gap. | Managed. No issues. |
 | Ongoing | Gastritis, acid reflux — recovering. No deep-fried, no maida, no cream gravies, no cold protein powder. Post-antibiotic gut — requires probiotics (curd daily) for 4–6 weeks. | ⚠️ Post-antibiotic phase. |
 

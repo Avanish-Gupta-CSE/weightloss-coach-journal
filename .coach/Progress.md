@@ -1588,3 +1588,55 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 - **Workout analysis:** Overall a good re-entry. Main positives: you trained again without forcing increases, matched the last clean 90 kg leg press, hit the correct 10 kg goblet squat, and kept adductor/abductor under control. The only slight overreach vs recovery plan was leg curl at 29 kg and doing 3 cable-crunch sets instead of 2. Because you tolerated them, do **not** increase next lower session; just repeat these exact numbers once more before progressing.
 - **Post-gym whey:** 1 scoop OWN Whey Isolate ✅
 - **Lunch prescribed:** Moong dal **250g cooked** + rice **100g cooked max** + lauki **150g cooked**. Make dal the largest portion; do not take a second rice serving.
+- **Lunch actual:** Rice **150g** + daal **250g** + lauki **100g** + **1 Banganapalli mango** ✅
+- **Lunch analysis:** Overall this was a clean recovery lunch, not a damage meal. Good: dal stayed the largest protein source, food was simple, and the mango was a whole fruit rather than a milkshake/dessert. Misses: rice went **50g above** prescription and lauki stayed **50g below** target. Net effect = carb-heavy but still protocol-safe if the mango was eaten before 4 PM under **R-N**.
+- **Protein status after lunch:** Better than yesterday, but still nowhere near a full 180g day. Breakfast was low-protein, so dinner and late protein feeding still need to carry the day.
+- **Body-image note:** Group photo + selfie triggered a strong negative reaction about height, face, and current body shape. Coach call: this is **not** evidence of being permanently "ugly"; it is a candid-photo hit taken at a body-fat level that is still too high for your frame, with tired expression, soft posture, and unhelpful camera geometry. 168 cm is not the main problem. Current fat level and presentation are.
+- **Projection reviewed:** Goal timeline remains realistic for late 2026 if compliance returns immediately after this GI interruption. Early visible wins over the next 8-12 weeks should be less facial puffiness, a cleaner jaw/neck line, a smaller waist, and better T-shirt drape.
+- **Week-wise workout roadmap reviewed:** W6 = finish recovery week, do shifted Sunday full-body only if zero GI relapse, then no aggressive increases. W7 = return to normal Phase 2 Monday-Saturday structure. W8 = first micro-progression week only on lifts that hit all prescribed reps clean. W9-W12 = same split, gradually consolidate DB movements and machine overload. W13+ = move into the more complete hybrid structure only after current Phase 2 lifts are stable, not before.
+- **Serious pace/program review:** Current protocol is sufficient to get you in shape **if** execution becomes more consistent. Official progress is **-3.30 kg in 37 days**, which is roughly **0.62 kg/week** despite fever week, GI flare, water-retention spikes, and missed walking-pad compliance. That is inside the exact target band from Protocol/Metrics.
+- **Coach verdict:** The plan is **not** the bottleneck right now. The bottlenecks are: protein misses, walking-pad inconsistency, outside-meal stacking, and occasional recovery disruptions. Do **not** redesign the split yet. First demand 2-3 clean weeks of compliant execution, then judge the trend.
+- **Dinner protein-rescue prescribed:** Best option tonight = **200g chicken** (grilled or soup-style curry) + **2 multigrain roti OR 100g cooked rice max** + **150-200g easy veg** + **200g curd**. This keeps the meal gut-safe, protein-dominant, and controlled before Monday W6 weigh-in.
+- **Biryani call:** Biryani is **not** the right protein-rescue food tonight. If unavoidable, cap rice at **120-150g cooked biryani rice only**, eat the lean chicken pieces first, skip dessert/Coke/fried extras, and stop there. Do **not** treat biryani as a high-protein recovery meal.
+- **Night protein shake call:** **No milk + banana shake tonight.** Temporary rule **R-N** blocks milk-based night drinks until Apr 27, and banana+milk adds unnecessary carb/bloat before the weigh-in. Use **1 scoop OWN in lukewarm water** with **5 almonds or 30g roasted chana** at ~9:30-9:45 PM. If dinner ends up veg-only and stomach stays calm, **0.5 extra scoop** 45-60 min later is acceptable.
+- **Dinner correction after user feedback + web check:** Previous suggestion pairing **chicken + curd** was wrong for this user's protocol. Quick web search confirmed chicken + curd is commonly treated as **viruddha ahara** in Ayurveda. Search was **not** conclusive that chicken + lauki is a standard forbidden combo, but user flags it as incompatible for his protocol, so future plans will avoid both pairings.
+- **Corrected dinner planning rule:** Keep induction-cook dinner to **one main + one carb only**. Valid structures: **chicken gravy + rice/roti**, **biryani alone**, or **veg sabzi + rice/roti**. Do not stack chicken + curd and do not bombard the cook with multiple side dishes while induction-only cooking is active.
+- **Stomach-ache timing review:** Since the GI pain/loose-motion episode was only on **Thursday (Day 40)**, tonight's dinner must stay **symptom-gated**, not just macro-gated. If there is **zero** stomach pain, heaviness, nausea, bloating, or loose stool tonight, then **light chicken gravy/soup-style curry + rice/roti** is acceptable. If **any** symptom remains, then the correct move is **moong dal khichdi or plain dal-rice**, and protein rescue is reduced rather than forced.
+- **Dinner actual:** **200g rice** + **4 medium chicken pieces** (one was a leg piece) ✅
+- **Dinner analysis:** Better than a veg-only dinner for protein rescue, but still not a full high-protein meal because curry-piece chicken usually gives much less edible meat than raw boneless 200g chicken. The rice portion was on the higher side for a pre-weigh-in recovery night. This was acceptable if the stomach tolerated it, but it was still more carb-heavy and less protein-dense than the ideal dinner plan.
+- **Late protein plan:** **1 scoop OWN by end of day** planned. This is the correct close to the day. Without that scoop, the day finishes too low on protein.
+- **Physique projection reviewed:** If the current split is followed consistently through Nov-Dec with progressive overload, better protein, and continued fat loss, then a clearly **more muscular** look is realistic. **Some abs are possible**, but only if body weight/fat gets low enough by then. The split can support that outcome, but **linear weight increases will not continue forever**; early progression will be faster, then it will become slower and more selective by lift.
+- **Intake correction:** Previous day-total estimate missed the **already consumed post-gym whey scoop**. Correct Day 42 intake must count **2 scoops total for the day** if the end-of-day scoop is completed.
+- **Day 42 intake table reviewed against target (estimated):** Breakfast = 3-bread aloo sandwich (~350 kcal, ~8g protein) + 2 nariyal paani (~90 kcal, ~1g protein) | Post-gym whey = ~120 kcal, ~25g protein | Lunch = rice 150g + daal 250g + lauki 100g + 1 Banganapalli mango (~550 kcal, ~18g protein) | Dinner = rice 200g + 4 medium chicken pieces (~500 kcal, ~24g protein) | EOD whey planned = ~120 kcal, ~25g protein. **Projected total if EOD whey is done:** ~1,730 kcal and ~101g protein. **Gap vs target:** ~170 kcal below 1,900 and ~79g protein below 180g. Estimates remain approximate because sandwich filling/oil and chicken-piece edible meat vary, but the verdict does not change: calories are near cut target, protein is still far too low.
+- **Whey clarification after user correction:** The correct interpretation is **1 scoop already consumed post-gym + 1 more scoop by EOD = 2 scoops total for Day 42**. That is acceptable. **2 more scoops tonight** would mean 3 scoops total for the day; this may still fit calories, but it is **not** the default recommendation this soon after Thursday's stomach episode unless the stomach is fully calm and the scoops are spaced, not taken together.
+
+---
+### 2026-04-26 (Day 43) — Morning Check-In
+- **Day 42 late-night actual:** Fell asleep and **missed the planned end-of-day whey** ❌
+- **Late-night intake actual:** **6 atta golgappe** with meetha paani + khatta paani, **2 spoons Bikaneri bhujia**, **1 piece shakarpara**.
+- **Late-night analysis:** This was the wrong direction after Thursday's stomach episode and before Monday W6 weigh-in. Main issue was not massive calories alone; it was the combination of **missed whey + low-protein fried/snack food + meetha water + street-style pani**. That pushed Day 42 calories slightly above target while leaving protein far below target, and it may also create temporary scale noise / gut irritation.
+- **Day 42 final intake table against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| Breakfast: 3-bread aloo sandwich | 350 | 8g | 350 | 8g | 1,550 kcal, 172g protein |
+| 2 nariyal paani | 90 | 1g | 440 | 9g | 1,460 kcal, 171g protein |
+| Post-gym OWN whey, 1 scoop | 120 | 25g | 560 | 34g | 1,340 kcal, 146g protein |
+| Lunch: 150g rice + 250g daal + 100g lauki + 1 mango | 550 | 18g | 1,110 | 52g | 790 kcal, 128g protein |
+| Dinner: 200g rice + 4 medium chicken pieces | 500 | 24g | 1,610 | 76g | 290 kcal, 104g protein |
+| 6 atta golgappe + pani | 240 | 4g | 1,850 | 80g | 50 kcal, 100g protein |
+| 2 spoons Bikaneri bhujia | 110 | 2g | 1,960 | 82g | -60 kcal, 98g protein |
+| 1 piece shakarpara | 50 | 0g | 2,010 | 82g | -110 kcal, 98g protein |
+
+- **Day 42 closing verdict:** Final day estimate = **~2,010 kcal / ~82g protein**. That is roughly **+110 kcal above cut target** and **~98g below protein target**.
+- **Today workout split:** Sunday is the **shifted Saturday Full Body** for this week **only**, but it is still symptom-gated. **Do the gym only if there is zero stomach pain, bloating, nausea, or loose stool since waking.** If any GI symptom is present, skip the gym and do walking pad 30-45 min only.
+- **Today full-body plan if green-light symptoms:** Warm-up 5 min easy walk or dynamic mobility → Chest Press **50 lbs** × 3 → Lat Pulldown **50 lbs** × 3 → DB Shoulder Press **5 kg/arm** × 3 → Leg Press **80-90 kg** × 2 only → DB Bent-Over Row **7.5 kg/arm** × 3 → Leg Curl **23-29 kg** × 2 only → Cable Crunch **15 lbs** × 2. **No HIIT today.**
+- **Breakfast planned:** **2 eggs + 1 glass sattu**.
+- **Breakfast intake table against target (planned estimate):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| 2 eggs | 140 | 12g | 140 | 12g | 1,760 kcal, 168g protein |
+| 1 glass sattu in water | 110 | 7g | 250 | 19g | 1,650 kcal, 161g protein |
+
+- **Breakfast analysis:** This is **thyroxine-safe** and **gut-safe** if the sattu is in plain water, not milk. It is acceptable, but still modest on protein for a training morning. If the workout happens today, **post-gym whey is mandatory** and cannot be skipped again.
