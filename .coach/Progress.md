@@ -1631,12 +1631,16 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 - **Day 42 closing verdict:** Final day estimate = **~2,010 kcal / ~82g protein**. That is roughly **+110 kcal above cut target** and **~98g below protein target**.
 - **Today workout split:** Sunday is the **shifted Saturday Full Body** for this week **only**, but it is still symptom-gated. **Do the gym only if there is zero stomach pain, bloating, nausea, or loose stool since waking.** If any GI symptom is present, skip the gym and do walking pad 30-45 min only.
 - **Today full-body plan if green-light symptoms:** Warm-up 5 min easy walk or dynamic mobility → Chest Press **50 lbs** × 3 → Lat Pulldown **50 lbs** × 3 → DB Shoulder Press **5 kg/arm** × 3 → Leg Press **80-90 kg** × 2 only → DB Bent-Over Row **7.5 kg/arm** × 3 → Leg Curl **23-29 kg** × 2 only → Cable Crunch **15 lbs** × 2. **No HIIT today.**
-- **Breakfast planned:** **2 eggs + 1 glass sattu**.
-- **Breakfast intake table against target (planned estimate):**
+- **Breakfast actual:** **2-egg omelette** + **2 spoons sattu in water with lemon + salt** + **250g dahi** + **5g jaggery** + **1 scoop whey** ✅
+- **Breakfast intake table against target (estimated):**
 
 | Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
 |---|---:|---:|---:|---:|---:|
-| 2 eggs | 140 | 12g | 140 | 12g | 1,760 kcal, 168g protein |
-| 1 glass sattu in water | 110 | 7g | 250 | 19g | 1,650 kcal, 161g protein |
+| 2-egg omelette | 170 | 12g | 170 | 12g | 1,730 kcal, 168g protein |
+| 2 spoons sattu in water + lemon + salt | 80 | 5g | 250 | 17g | 1,650 kcal, 163g protein |
+| 250g dahi | 150 | 9g | 400 | 26g | 1,500 kcal, 154g protein |
+| 5g jaggery | 20 | 0g | 420 | 26g | 1,480 kcal, 154g protein |
+| 1 scoop whey | 120 | 25g | 540 | 51g | 1,360 kcal, 129g protein |
 
-- **Breakfast analysis:** This is **thyroxine-safe** and **gut-safe** if the sattu is in plain water, not milk. It is acceptable, but still modest on protein for a training morning. If the workout happens today, **post-gym whey is mandatory** and cannot be skipped again.
+- **Breakfast analysis:** From a macro angle this is a strong start: **~540 kcal / ~51g protein**. Two cautions: **(1)** if the dahi was eaten within 4 hours of 6 AM thyroxine, it was a calcium-timing violation; **(2)** because dahi + whey were both used early, lunch and dinner still need real protein, not just carbs. If the workout happens today, there is **still no HIIT** and post-gym protein discipline remains mandatory.
+- **HIIT decision update:** **Do not add HIIT today even if gym happens later.** Reason: Thursday GI event is too recent, yesterday ended with golgappe/bhujia/shakarpara, and tomorrow is official weigh-in. Today's job is controlled lifting, not adding extra dehydration or gut stress.
