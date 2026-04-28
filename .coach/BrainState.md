@@ -10,14 +10,14 @@
 
 | Field | Value |
 |---|---|
-| Current day | **Day 43 — April 26, 2026 (Sunday). Day 42 ended with missed EOD whey + golgappe/bhujia/shakarpara late snack. Breakfast today improved protein intake strongly. Shifted Saturday full-body remains due today only if there is zero stomach pain, bloating, nausea, or loose stool by gym time.** |
-| Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. Day 42 lower-body re-entry was completed with mostly controlled weights. **Today remains a symptom-gated, reduced full-body day with NO HIIT even if green-lit; otherwise walking pad only.** W6-W8 focus = consolidation and recovery-complete return, not aggressive load jumps. |
+| Current day | **Day 45 — April 28, 2026 (Tuesday). Day 44 included Session 22 Monday Upper Body, but food drifted later in the day: lunch rice exceeded prescription, evening became a second meal, and dinner added shakarpara + bhujia. Day 45 has now started with Session 23 Tuesday Lower Body completed, post-gym OWN whey done, and a controlled breakfast/lunch plan set.** |
+| Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. Day 44 Monday upper-body / DB shoulder-press day is complete. **Day 45 Tuesday Lower Body + Core / Goblet Squat day is now completed.** Leg Press **90 kg ×3** and Goblet Squat **10 kg ×3** are consolidating well. Leg Extension **29 kg ×3** should be treated as a repeat-to-confirm load, not instantly locked as the new baseline yet. W6-W8 focus = consolidation and recovery-complete return, not aggressive load jumps. |
 | Last weight | **W5 official: 88.15 kg** (Apr 20, post-BM, naked). **Unofficial spot check Apr 25: 86.70 kg naked** — still not official due Apr 23 GI episode/dehydration swing. W4 was 88.05 kg → W5 = +0.10 kg on scale (water retention from Sunday: mango shake + milk + 200g biryani rice + rest day). True fat trend still downward. Cumulative official loss: -3.30 kg from Day 0. |
 | Starting weight | 91.45 kg (March 14, Day 0) |
-| Next weigh-in | **W6 — Monday April 27, 2026. Naked, post-BM, fasted. First thing at 6 AM.** Target: 87.3–87.5 kg (what W5 should have been — water retention delayed it). |
-| Diet mode | Non-veg available. Maida ban LIFTED (April 20). Multigrain bread/roti OK. LPG cylinder exhausted — induction cooking only until resolved. |
-| Protein status | Day 42 actually ended at approximately **~2,010 kcal / ~82g protein** because the planned second whey was **missed** and late-night snack food was added instead (6 atta golgappe + 2 spoons bhujia + 1 shakarpara). That left calories slightly above target and protein drastically below target. **Day 43 breakfast actual:** 2-egg omelette + 2 spoons sattu water with lemon/salt + 250g dahi + 5g jaggery + 1 scoop whey = approximately **~540 kcal / ~51g protein**. Strong protein start, but dahi at breakfast is only compliant if it was taken after the thyroxine calcium-gap window. |
-| Gym sessions completed | **20 complete.** Session 20 done at 1 PM on Day 42 as the shifted Friday Lower Body + Core re-entry — **dynamic flat-surface warm-up only (no treadmill)** \| Leg Press 90 kg ×3 \| Goblet Squat 10 kg ×2 \| Leg Extension 25 kg ×3 \| Leg Curl 29 kg ×3 \| Hip Adductor 23 kg ×3 \| Hip Abductor 23 kg ×3 \| Cable Crunch 15 lbs ×3. Session 19 (Apr 23) Upper Pull ✅ — incline treadmill 2.5 kmph, 9.0→13.0 warm-up \| Pec Deck 55 lbs ×1 + 70 lbs ×2 \| Lat Pulldown close grip 50–55 lbs \| DB Bent-Over Row 7.5 kg ×3/arm \| Cable Face Pull 20 lbs ×3 \| Lateral Raise Machine 7.5 kg ×3 \| Cable Tricep Overhead Extension 15 lbs ×3 \| Cable Hammer Curl 25 lbs ×3. **CORRECTED Phase 2 DB day map:** Mon=DB Shoulder Press \| Tue/Fri=Goblet Squat \| Thu=DB Bent-Over Row \| Sat=both. |
+| Next weigh-in | **W6 official weigh-in was not reported on Apr 27.** Do **not** replace it with a non-fasted number. Next clean official weigh-in = **W7 Monday May 4, 2026**, naked, post-BM, fasted. |
+| Diet mode | **Tuesday vegetarian-only rule active today (R-L).** Maida ban LIFTED (April 20). Multigrain bread/roti OK. LPG cylinder exhausted — induction cooking only until resolved. |
+| Protein status | **Day 44 actually ended at approximately ~2,710 kcal / ~169g protein.** Day 45 so far: **1 scoop OWN post-gym + 2 spoons sattu** = approximately **~200 kcal / ~30g protein** so far. Breakfast should stay controlled at **1 atta-bread aloo sandwich only**. Lunch target = **150g paneer sukha sabzi + 250g cooked moong dal + 100g cooked rice max**. |
+| Gym sessions completed | **23 complete.** Session 23 done on Day 45 as Tuesday Lower Body + Core / Goblet Squat day — 5 min leg/full-body stretching warm-up \| Leg Press 90 kg ×3 \| Goblet Squat 10 kg ×3 \| Leg Extension 29 kg ×3 \| Leg Curl 29 kg ×3 \| Hip Adductor 23 kg ×3 \| Hip Abductor 23 kg ×3 \| Cable Crunch 15 lbs ×3. Session 22 done on Day 44 as Monday Upper Body / DB shoulder-press day — rod-based upper-body stretching warm-up \| Chest Press 50 lbs ×3 \| Lat Pulldown 50 lbs ×3 \| Seated Row 29.6 kg ×3 \| DB Shoulder Press 7.5 kg/arm ×3 \| Tricep Pushdown 23 kg ×3 \| Cable Bicep Curl 70 lbs ×3. **CORRECTED Phase 2 DB day map:** Mon=DB Shoulder Press \| Tue/Fri=Goblet Squat \| Thu=DB Bent-Over Row \| Sat=both. |
 | Medications active | Thyroxine 50mcg at 6 AM daily (permanent). |
 
 ---
@@ -29,10 +29,10 @@ _Last updated: Day 14, March 28, 2026_
 | Item | Status | Approx Qty | Notes |
 |---|---|---|---|
 | OWN Whey Protein Isolate (Cocoa) — PREVIOUS PACK | ❌ Depleted | 0 | 0.75 scoop taken post-gym Day 40. Pack ended immediately after that serving. |
-| OWN Whey Protein Isolate (Cocoa) — CURRENT PACK | ✅ In stock | ~470g remaining | **Arrived Day 42 (Apr 25).** 1 scoop used post-gym on Day 42. OWN is primary protein powder again. |
-| ON Gold Standard Whey | ✅ In stock — BACKUP ONLY | ~½ tub | Gap-filler period is over once OWN resumes. Keep only as backup with the same R-A protocol: lukewarm, ≥5 almonds, sip slowly. |
+| OWN Whey Protein Isolate (Cocoa) — CURRENT PACK | ✅ In stock | ~327g remaining | **Arrived Day 42 (Apr 25).** Current-packet usage counter = **5.75 scoops total** so far: **1 scoop post-gym on Day 42**, **1 scoop at Day 43 breakfast**, **1 scoop post-gym on Day 43**, **1 scoop post-gym on Day 44**, **0.75 scoop on Day 44 evening**, **1 scoop post-gym on Day 45**. Approx **~10-11 scoops remain**. |
+| ON Gold Standard Whey | ✅ In stock — BACKUP ONLY | Slightly below ~⅓–½ tub | Gap-filler period is over once OWN resumes. **0.5 scoop used in Day 43 night mango-milk shake** and **0.75 scoop used in Day 44 breakfast shake**. Keep only as backup with the same R-A protocol: lukewarm, ≥5 almonds, sip slowly. |
 | ORS sachets | ⚠️ In use | Unknown remaining | Used heavily after Apr 23 loose-motion episode (reported ORS x3 night of Apr 23 + 1 ORS morning Apr 24). Keep available through W6 weigh-in. |
-| Paneer | ❌ CRITICAL LOW | ~100g remaining | Used 200g Day 39 (100g lunch + 100g dinner). R-B violated — stock below 200g threshold. **REORDER TONIGHT or tomorrow morning.** |
+| Paneer | ⚠️ Available today / stock unclear | Unknown | **Paneer sukha sabzi is available for Day 45 lunch**, so paneer is not fully depleted in practice. Recheck raw paneer stock after lunch and reorder if low. |
 | Soya granules (dry) | ✅ In stock | ~300g | 50g dry → soak 15 min → squeeze hard → sauté 1 tsp oil |
 | Besan | ✅ In stock | ~400g | Chilla, kadhi, pakodi, khandvi |
 | Moong dal (dry) | ✅ In stock | ~400g | Khichdi, dal, lunch protein base |
@@ -41,7 +41,7 @@ _Last updated: Day 14, March 28, 2026_
 | Sattu powder | ✅ In stock | ~480g | Ordered Zepto Day 10. 30g in water = 7g protein. Gut-friendly. |
 | Makhana | ✅ In stock | ~100g | Air-fried night snack. 40g ≈ 150 kcal, 4g protein. Approved. |
 | Dosa batter | ✅ In stock | ~300g | 2 uttapam used today (~200g). Fermented = gut-friendly. |
-| Curd | ✅ In stock | ~400g | Lunch/dinner only. NOT at breakfast (thyroxine 4hr calcium rule). |
+| Curd | ⚠️ Low / recheck | Unknown | **225ml used on Day 44 evening.** Lunch/dinner only. NOT at breakfast (thyroxine 4hr calcium rule). |
 | Dahi pack (office) | ⚠️ Conditional use | 200g | Bought for office on Day 40. **Use ONLY if factory seal/lid is intact after spill. If outer spill only: wipe and keep. If seal compromised: discard.** |
 | Watermelon (office carry) | ❌ Discard | 0 | Day 40 carry container spilled into an unwashed bag. **Cut fruit contaminated by dirty bag = DO NOT wash and eat. Discard.** |
 | Rice (cooked or raw) | ✅ In stock | — | Cook staple |
@@ -118,6 +118,10 @@ _Permanent additions or modifications to Protocol.md base rules. Apply always un
 | Apr 25 (Day 42) | Symptom improvement sufficient for re-entry. Naked spot check: 86.70 kg (unofficial). Completed shifted lower-body session at 1 PM with dynamic warm-up instead of treadmill. | ✅ IMPROVING. Able to train again, but weight still not official until Monday Apr 27. |
 | Apr 25 (Day 42) | Group photo + selfie triggered harsh body-image spiral about height, face, and current shape. | ⚠️ ACTIVE. Use official weigh-in + same-light mirror photos for assessment, not random candid shots. |
 | Apr 25 late night → Apr 26 morning | Missed planned EOD whey. Ate 6 atta golgappe + 2 spoons bhujia + 1 shakarpara after recent GI recovery window. | ⚠️ MONITOR GI this morning. If any stomach symptom is present, no gym today. |
+| Apr 26 (Day 43) | Symptom-free enough to complete shifted Saturday full-body recovery session exactly as prescribed. No HIIT. Post-gym whey completed. Night ended with paneer + rice + mango-milk shake, which may create weigh-in noise rather than reflecting fat gain. | ✅ TRAINING RECOVERY BETTER; weigh-in interpretation caution on Apr 27. |
+| Apr 27 (Day 44) | Monday upper-body session completed. Pre-gym sattu done, post-gym whey done. Session included some heavier-than-planned selections (DB Shoulder Press 7.5 kg and Cable Bicep Curl 70 lbs). Treat these as trial loads pending repeat with strict form. | ✅ ACTIVE DAY; monitor shoulder/elbow recovery. |
+| Apr 27 (Day 44) | Food drift later in the day: lunch rice exceeded prescription, then evening included bread+eggs+dahi+whey, and dinner added shakarpara + bhujia on top of roti + egg bhurji. | ⚠️ CALORIE OVERSHOOT DAY, not a protein-collapse day. |
+| Apr 28 (Day 45) | Tuesday lower-body session completed well. Several sets reached 12-15 reps. Post-gym OWN whey completed, but sattu was mixed with **cold water**, which violates permanent rule **R-M**. | ✅ TRAINING GOOD; correct the cold-water habit immediately. |
 | Ongoing | Hypothyroidism — Levothyroxine 50mcg at 6 AM daily. 4-hr calcium gap. | Managed. No issues. |
 | Ongoing | Gastritis, acid reflux — recovering. No deep-fried, no maida, no cream gravies, no cold protein powder. Post-antibiotic gut — requires probiotics (curd daily) for 4–6 weeks. | ⚠️ Post-antibiotic phase. |
 

@@ -1644,3 +1644,111 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 
 - **Breakfast analysis:** From a macro angle this is a strong start: **~540 kcal / ~51g protein**. Two cautions: **(1)** if the dahi was eaten within 4 hours of 6 AM thyroxine, it was a calcium-timing violation; **(2)** because dahi + whey were both used early, lunch and dinner still need real protein, not just carbs. If the workout happens today, there is **still no HIIT** and post-gym protein discipline remains mandatory.
 - **HIIT decision update:** **Do not add HIIT today even if gym happens later.** Reason: Thursday GI event is too recent, yesterday ended with golgappe/bhujia/shakarpara, and tomorrow is official weigh-in. Today's job is controlled lifting, not adding extra dehydration or gut stress.
+- **Dahi timing correction:** User confirmed the **250g dahi was eaten at 11:30 AM**, so the thyroxine calcium-gap rule was **NOT violated** today.
+- **Lunch guidance issued:** **Do not eat the cooked biryani rice** if it sat outside overnight in summer and was refrigerated only at **6 AM**. Food-safety risk is too high. Use **puffed rice instead: 25-30g dry max** with the **4 medium chicken pieces**. **Skip raita** with chicken under rule **R-P** (no chicken + curd pairing). **1 mango is allowed only if eaten before 4 PM** under rule **R-N**.
+- **Lunch actual:** **30g puffed rice** + **3 bone-in chicken pieces only** + **1 mango** ✅
+- **Lunch analysis:** This was the **correct food-safety call** versus eating the old biryani rice. Main limitation was protein quantity: **3 bony chicken pieces** deliver much less edible meat than a clean 200g boneless serving, so lunch stayed safer but not high-protein.
+- **Gym actual:** Session 21 ✅ Shifted Saturday **Full Body** completed exactly as prescribed. Warm-up = **stretching only**. **No HIIT done** ✅
+- **Session 21 actuals:** Chest Press **50 lbs ×3** | Lat Pulldown **50 lbs ×3** | DB Shoulder Press **5 kg/arm ×3** | Leg Press **80 kg ×2** | DB Bent-Over Row **7.5 kg/arm ×3** | Leg Curl **29 kg ×2** | Cable Crunch **15 lbs ×2**.
+- **Workout analysis:** Good decision quality. You followed the **reduced full-body recovery template** instead of turning it into an ego session. Best part of the day = **full adherence** on the workout with **no HIIT drift**.
+- **Post-gym whey actual:** **1 scoop OWN Whey Isolate** ✅
+- **Dinner actual:** **100g paneer sabzi** + **170g rice** + **2 small Sindhura mango** blended with **250ml milk** + **10g jaggery** + **0.5 scoop ON Whey Concentrate**.
+- **Dinner analysis:** Protein improved versus a junk-food dinner, but this was still **too stacked for a pre-weigh-in night**: paneer + rice + **mango-milk shake** pushed calories up and likely created **water/scale noise** for Apr 27. The biggest miss was the **night milk + mango** combination because temporary rule **R-N** was still active through Apr 27.
+- **Day 43 final intake table against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| Breakfast total already logged | 540 | 51g | 540 | 51g | 1,360 kcal, 129g protein |
+| Lunch: 30g puffed rice | 110 | 2g | 650 | 53g | 1,250 kcal, 127g protein |
+| Lunch: 3 medium bone-in chicken pieces | 180 | 20g | 830 | 73g | 1,070 kcal, 107g protein |
+| Lunch: 1 mango | 150 | 1g | 980 | 74g | 920 kcal, 106g protein |
+| Post-gym OWN whey, 1 scoop | 120 | 25g | 1,100 | 99g | 800 kcal, 81g protein |
+| Dinner: 100g paneer sabzi | 265 | 18g | 1,365 | 117g | 535 kcal, 63g protein |
+| Dinner: 170g rice | 221 | 4g | 1,586 | 121g | 314 kcal, 59g protein |
+| Dinner shake: 2 small Sindhura mango + 250ml milk + 10g jaggery + 0.5 scoop ON | 410 | 21g | 1,996 | 142g | -96 kcal, 38g protein |
+
+- **Day 43 closing verdict:** Final day estimate = **~1,996 kcal / ~142g protein**. That is roughly **+96 kcal above target** and **~38g below protein target**. This is **much better than Day 42** because lunch stayed safe, gym was completed, and post-gym whey was not missed. The only real damage was the **night mango-milk shake**, which likely hurt the Apr 27 weigh-in quality more than it helped recovery.
+
+---
+### 2026-04-27 (Day 44) — Morning Plan
+- **First task:** Official **W6 weigh-in** immediately after bathroom, naked, fasted. Then take **same-light front + side mirror photos**.
+- **Scale interpretation rule:** If weight is a bit higher than expected, do **not** panic. Day 43 ended with **rice + paneer + milk + 2 mangoes**, so some temporary water/glycogen noise is expected.
+- **Today workout split:** Return to normal **Phase 2 Monday = Upper Body / DB Shoulder Press day**.
+- **High-level workout plan:** Warm-up 5 min easy walk or mobility → Chest Press **50 lbs ×3** → Lat Pulldown **50 lbs ×3** → Seated Row **28 kg ×3** → DB Shoulder Press **5 kg/arm ×3** → Tricep Pushdown **3 sets** → Cable Bicep Curl **3 sets**. **No HIIT today.**
+- **Training priority for Day 44:** Do **not** chase increases one day after full body. Monday is a **consolidation upper session**, not a PR attempt.
+- **Nutrition priority for Day 44:** Keep breakfast and lunch **clean, protein-first, and low-drama**. No milk-based night drinks again tonight. Post-gym whey is mandatory if gym happens.
+- **Pre-gym intake actual:** **2 spoons sattu + half lemon + salt in room-temperature water** ✅
+- **Session 22 actual:** Monday Upper Body / DB Shoulder Press day completed ✅ Warm-up = rod-based upper-body and hand stretching. Chest Press **50 lbs ×3** ✅ | Lat Pulldown **50 lbs ×3** ✅ | Seated Row **29.6 kg ×3** ✅ | DB Shoulder Press **7.5 kg/arm ×3** ⚠️ above plan | Tricep Pushdown **23 kg ×3** ✅ | Cable Bicep Curl **70 lbs ×3** ⚠️ aggressive jump.
+- **Workout analysis:** Good compliance and good machine discipline overall. **Seated Row 29.6 kg** is an acceptable machine-increment substitute for 28 kg. **DB Shoulder Press 7.5 kg** and **Cable Bicep Curl 70 lbs** should be treated as **trial weights, not locked new baselines yet** unless all reps were clean with zero torso sway, no back arch, and no shoulder/elbow irritation.
+- **Post-gym whey actual:** **1 scoop OWN Whey Isolate in water** ✅
+- **Breakfast actual:** **2 roti** + **2-egg omelette** + **250ml milk** + **0.75 scoop ON Whey Concentrate vanilla** + **5g jaggery** blended as a shake ✅
+- **Breakfast analysis:** From a macro angle this is a strong recovery breakfast. Because thyroxine was taken at **5:30 AM**, the milk was **safe only if this breakfast happened at or after 9:30 AM**. Based on the user's sequence (gym + post-gym whey + 3-hour gap), it was **most likely compliant**. Main positive = much better protein distribution than older low-protein breakfasts.
+- **Day 44 intake table so far against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| Pre-gym sattu drink | 80 | 5g | 80 | 5g | 1,820 kcal, 175g protein |
+| Post-gym OWN whey, 1 scoop | 120 | 25g | 200 | 30g | 1,700 kcal, 150g protein |
+| Breakfast: 2 roti | 200 | 6g | 400 | 36g | 1,500 kcal, 144g protein |
+| Breakfast: 2-egg omelette | 170 | 12g | 570 | 48g | 1,330 kcal, 132g protein |
+| Breakfast: 250ml milk | 150 | 8g | 720 | 56g | 1,180 kcal, 124g protein |
+| Breakfast: 0.75 scoop ON whey | 90 | 18g | 810 | 74g | 1,090 kcal, 106g protein |
+| Breakfast: 5g jaggery | 20 | 0g | 830 | 74g | 1,070 kcal, 106g protein |
+
+- **Lunch prescription issued:** For today's afternoon meal, take **egg curry = 4 whole eggs if available** and **rice = 100g cooked max**. If only **3 eggs** are available, take all 3 and keep rice at **80-100g max**. Do not take a second rice serving.
+- **Remaining-day strategy:** Because current intake is already around **~830 kcal / ~74g protein**, dinner must be **protein-first**. Best evening structure = **1 scoop OWN with 5 almonds or 30g roasted chana at 5:30-6 PM if hunger/protein gap exists**, then dinner = **200g chicken gravy or grilled chicken + 2 roti OR 100g cooked rice max**. No milk-based drink tonight.
+- **Lunch actual:** **150g rice** + **4 eggs in egg curry** ✅
+- **Post-lunch intake:** **1 nariyal paani** + **1 banana** ✅
+- **Evening intake actual:** **2 bread + 2 eggs** + **225ml dahi** + **0.75 scoop OWN Whey Isolate** + **5g jaggery** ✅
+- **Dinner actual:** **2 roti** + **150g egg bhurji** + **4 shakarpara** + **2 spoons Bikaneri bhujia**.
+- **Day 44 final intake table against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| Pre-gym sattu drink | 80 | 5g | 80 | 5g | 1,820 kcal, 175g protein |
+| Post-gym OWN whey, 1 scoop | 120 | 25g | 200 | 30g | 1,700 kcal, 150g protein |
+| Breakfast: 2 roti | 200 | 6g | 400 | 36g | 1,500 kcal, 144g protein |
+| Breakfast: 2-egg omelette | 170 | 12g | 570 | 48g | 1,330 kcal, 132g protein |
+| Breakfast: 250ml milk | 150 | 8g | 720 | 56g | 1,180 kcal, 124g protein |
+| Breakfast: 0.75 scoop ON whey | 90 | 18g | 810 | 74g | 1,090 kcal, 106g protein |
+| Breakfast: 5g jaggery | 20 | 0g | 830 | 74g | 1,070 kcal, 106g protein |
+| Lunch: 150g rice | 195 | 4g | 1,025 | 78g | 875 kcal, 102g protein |
+| Lunch: 4 eggs in egg curry | 310 | 24g | 1,335 | 102g | 565 kcal, 78g protein |
+| 1 nariyal paani | 45 | 0g | 1,380 | 102g | 520 kcal, 78g protein |
+| 1 banana | 105 | 1g | 1,485 | 103g | 415 kcal, 77g protein |
+| Evening: 2 bread | 140 | 5g | 1,625 | 108g | 275 kcal, 72g protein |
+| Evening: 2 eggs | 140 | 12g | 1,765 | 120g | 135 kcal, 60g protein |
+| Evening: 225ml dahi | 135 | 8g | 1,900 | 128g | 0 kcal, 52g protein |
+| Evening: 0.75 scoop OWN whey | 90 | 19g | 1,990 | 147g | -90 kcal, 33g protein |
+| Evening: 5g jaggery | 20 | 0g | 2,010 | 147g | -110 kcal, 33g protein |
+| Dinner: 2 roti | 200 | 6g | 2,210 | 153g | -310 kcal, 27g protein |
+| Dinner: 150g egg bhurji | 190 | 14g | 2,400 | 167g | -500 kcal, 13g protein |
+| 4 shakarpara | 200 | 0g | 2,600 | 167g | -700 kcal, 13g protein |
+| 2 spoons Bikaneri bhujia | 110 | 2g | 2,710 | 169g | -810 kcal, 11g protein |
+
+- **Day 44 closing verdict:** Final day estimate = **~2,710 kcal / ~169g protein**. Protein quality was actually decent and much better distributed than older bad days, but calories overshot heavily. The main problems were **(1)** lunch rice went **50g above prescription**, **(2)** evening became a second full meal instead of a controlled snack, and **(3)** dinner added **shakarpara + bhujia** on top of roti + egg bhurji. This was not a protein failure day. It was a **calorie-control failure day**.
+- **Day 44 feedback:** Best part = gym + post-gym whey + protein spread across the day. Main correction needed = stop turning evenings into a second dinner, and stop adding fried/sweet snack items after a real dinner is already eaten.
+
+---
+### 2026-04-28 (Day 45) — Morning Plan
+- **Today workout split:** **Tuesday = Lower Body + Core / Goblet Squat day.** Also note **R-L applies today**: Tuesday is **vegetarian only** for food.
+- **Training priority for Day 45:** Lower-body consolidation only. Do **not** chase jumps just because Monday upper session went well.
+- **High-level workout plan:** Warm-up 5 min easy walk or dynamic lower-body mobility → Leg Press **90 kg ×3** → Goblet Squat **10 kg ×3** → Leg Extension **25 kg ×3** → Leg Curl **29 kg ×3** → Hip Adductor **23 kg ×3** → Hip Abductor **23 kg ×3** → Cable Crunch **15 lbs ×3**. **No HIIT today.**
+- **Nutrition priority for Day 45:** Because yesterday overshot calories, today must be **clean and boring**: controlled carbs, no bhujia, no shakarpara, no dessert-type extras. Hit protein with vegetarian sources because Tuesday is veg-only.
+- **Session 23 actual:** Tuesday Lower Body + Core / Goblet Squat day completed ✅ Warm-up = 5 min leg and full-body stretching. Leg Press **90 kg ×3** ✅ | Goblet Squat **10 kg ×3** ✅ | Leg Extension **29 kg ×3** ⚠️ above plan | Leg Curl **29 kg ×3** ✅ | Hip Adductor **23 kg ×3** ✅ | Hip Abductor **23 kg ×3** ✅ | Cable Crunch **15 lbs ×3** ✅
+- **Rep-quality note:** User reported **at least 12 reps on every set**, with some sets reaching **14-15 reps**.
+- **Workout analysis:** This was a strong lower-body day. **Leg Press 90 kg ×3** and **Goblet Squat 10 kg ×3** are now properly consolidated. **Leg Extension 29 kg ×3** is above the original plan and looks promising, but do **not** auto-promote it as the new permanent baseline until it is repeated clean next lower session with zero knee irritation. Because several sets reached **14-15 reps**, the session was **not a failure grind**; that is good. It means control is improving.
+- **Post-gym actual:** **1 scoop OWN Whey Isolate** in water ✅
+- **Post-gym follow-up drink:** **2 spoons sattu + salt in cold water** ⚠️ Sattu itself is fine, but **cold water** is still against rule **R-M**. Use room-temperature or normal water only.
+- **OWN current-pack scoop counter:** Counting **only the current OWN packet** that arrived on **Day 42**, the total used is now **5.75 scoops**. Approximate remaining stock = **~10-11 scoops left** (around **~327g** if using ~30g per scoop). **Reorder trigger:** when usage reaches about **12.5 scoops total** or when the packet looks below **~120g**.
+- **Day 45 intake table so far against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| Post-gym OWN whey, 1 scoop | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| 2 spoons sattu + salt | 80 | 5g | 200 | 30g | 1,700 kcal, 150g protein |
+
+- **Breakfast prescription issued:** For the **aloo sandwich made with English Oven 100% atta high-fibre bread**, eat **1 sandwich only = 2 slices bread total**. Do **not** make it 4 slices / 2 sandwiches today. Because post-gym whey + sattu are already done, breakfast should stay controlled.
+- **Lunch prescription issued:** For lunch, take **paneer sukha sabzi = 150g**, **moong dal = 250g cooked**, and **rice = 100g cooked max**. Make **paneer + dal** the bigger portion and keep rice the smallest part.
+- **Visceral fat / belly / hip fat question answered:** Yes, the **current workout split can absolutely help reduce visceral fat, belly fat, and hip fat** — but **not by spot reduction**. The split preserves/builds muscle and improves insulin sensitivity; the **diet deficit + walking pad + consistency** are what actually strip the fat off. **Visceral fat** usually responds earlier. **Lower belly and hip fat** are usually slower and more stubborn.
+- **Rest-day activity plan added:** If the goal is to stop feeling lethargic on rest days, add a **light recovery gym template** on the 2 rest days instead of a full workout: 10 min easy treadmill/walk → 10 min mobility/stretching → 2 rounds only of bodyweight squat **15**, incline push-up or wall push-up **12**, plank **30 sec**, light cable face pull **15** → 10 min easy walk. This is **activity**, not a hard training day.
