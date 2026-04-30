@@ -110,7 +110,7 @@ Weigh every **Monday morning**, fasted, after bathroom, same clothing (or none).
 | 3 | Apr 06, 2026 | **88.15** | **-1.85 from W1** | **-3.30** | W3 official (Monday Apr 6 naked). Apr 5 reading: 87.65 naked (slightly lower — less carb load). +0.50 kg difference = biryani + maida sodium water retention from Apr 5 meals. True lean weight ~87.65–88.00. 7 sick days (Mar 30 – Apr 5) — weight drop partly illness (glycogen depletion + zero appetite). |
 | 4 | Apr 13, 2026 | **88.05** | **-0.10 from W3** | **-3.40** | Post-bath naked post-BM. W4 underwhelming on scale but real lean trend = ~87.5 kg (Apr 12 pre-bath clean reading). Last night banana+250ml milk+whey = ~0.4–0.5 kg overnight retention. 7 sick days + fried rice + calorie overages affected Week 4. Walking pad = 0 sessions in 30 days. Month 1 net = -3.40 kg in 30 days despite illness week. |
 | 5 | Apr 20, 2026 | **88.15** | **+0.10 from W4** | **-3.30** | W5 scale higher due to Sunday retention (mango shake + 250ml milk + 200g biryani rice + jaggery + rest day). True fat trend still downward. Cumulative = -3.30 kg in 37 days including fever week. Phase 2 begins today. |
-| 6 | Apr 27, 2026 | | | | |
+| 6 | Apr 27, 2026 | **MISSED official** | — | **-3.30 official still** | Official Monday weigh-in was missed. **Delayed spot check Apr 29: 86.45 kg naked / 87.00 kg clothed after BM**. Useful trend signal and first **-5.00 kg from Day 0**, but do **not** count it as the official W6 reading. |
 | 7 | May 04, 2026 | | | | |
 | 8 | May 11, 2026 | | | | |
 | 9 | May 18, 2026 | | | | |

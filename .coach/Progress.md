@@ -1752,3 +1752,137 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 - **Lunch prescription issued:** For lunch, take **paneer sukha sabzi = 150g**, **moong dal = 250g cooked**, and **rice = 100g cooked max**. Make **paneer + dal** the bigger portion and keep rice the smallest part.
 - **Visceral fat / belly / hip fat question answered:** Yes, the **current workout split can absolutely help reduce visceral fat, belly fat, and hip fat** — but **not by spot reduction**. The split preserves/builds muscle and improves insulin sensitivity; the **diet deficit + walking pad + consistency** are what actually strip the fat off. **Visceral fat** usually responds earlier. **Lower belly and hip fat** are usually slower and more stubborn.
 - **Rest-day activity plan added:** If the goal is to stop feeling lethargic on rest days, add a **light recovery gym template** on the 2 rest days instead of a full workout: 10 min easy treadmill/walk → 10 min mobility/stretching → 2 rounds only of bodyweight squat **15**, incline push-up or wall push-up **12**, plank **30 sec**, light cable face pull **15** → 10 min easy walk. This is **activity**, not a hard training day.
+- **Breakfast actual:** **3 sandwiches total** (**2 paneer-filled + 1 aloo-filled**) made from **English Oven 100% atta high-fibre bread** + **1 shakarpara** + **1 coconut water**.
+- **Breakfast analysis:** This was **well above** the prescribed breakfast quantity. Main issue = you stacked **3 sandwiches** after already doing **post-gym whey + sattu**. If thyroxine was taken at **6 AM**, then the **paneer sandwiches were only thyroid-safe if breakfast happened at or after 10 AM**. If breakfast happened earlier than that, paneer timing was a calcium-gap violation.
+- **Lunch actual:** **100g cooked rice** + **150g paneer sabzi** + **250g moong dal** ✅
+- **Lunch drink actual:** **225ml Amul Masti dahi** + **6g jaggery** + **47g banana** + **1 scoop ON whey vanilla concentrate** ✅
+- **Extra munching actual:** **3 normal spoons Bikaneri bhujia**.
+- **Lunch analysis:** The **food plate itself** was actually good: paneer + dal were the correct anchor and rice stayed on prescription. The problem came from **stacking the dahi-banana-ON drink plus bhujia on top**. That turned a clean lunch into a calorie-heavy lunch block. Timing-wise the **dahi + banana + ON** combo is acceptable at lunch because the thyroxine calcium gap is long over by then.
+- **OWN scoop counter note:** **No change from lunch drink** because that drink used **ON**, not **OWN**. Current OWN packet counter remains **5.75 scoops used** so far.
+- **Lunch drink correction:** User later clarified he drank **only half** of the **dahi + ON + jaggery + banana** drink, **not the full drink**.
+- **Evening extra actual:** **2 anjeer** eaten.
+- **Day 45 intake table so far against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| Post-gym OWN whey, 1 scoop | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| 2 spoons sattu + salt | 80 | 5g | 200 | 30g | 1,700 kcal, 150g protein |
+| Breakfast: 3 sandwiches total (2 paneer + 1 aloo) | 780 | 30g | 980 | 60g | 920 kcal, 120g protein |
+| 1 shakarpara | 50 | 0g | 1,030 | 60g | 870 kcal, 120g protein |
+| 1 coconut water | 45 | 0g | 1,075 | 60g | 825 kcal, 120g protein |
+| Lunch: 100g cooked rice | 130 | 3g | 1,205 | 63g | 695 kcal, 117g protein |
+| Lunch: 150g paneer sabzi | 300 | 20g | 1,505 | 83g | 395 kcal, 97g protein |
+| Lunch: 250g moong dal | 180 | 12g | 1,685 | 95g | 215 kcal, 85g protein |
+| Lunch drink: 112.5ml dahi (half) | 68 | 4g | 1,753 | 99g | 147 kcal, 81g protein |
+| Lunch drink: 23.5g banana (half) | 21 | 0g | 1,774 | 99g | 126 kcal, 81g protein |
+| Lunch drink: 3g jaggery (half) | 12 | 0g | 1,786 | 99g | 114 kcal, 81g protein |
+| Lunch drink: 0.5 scoop ON whey (half) | 60 | 12g | 1,846 | 111g | 54 kcal, 69g protein |
+| 3 spoons Bikaneri bhujia | 165 | 3g | 2,011 | 114g | -111 kcal, 66g protein |
+| 2 anjeer | 42 | 1g | 2,053 | 115g | -153 kcal, 65g protein |
+
+- **Day 45 corrected so-far verdict:** With the drink corrected to **half only**, you are at approximately **~2,053 kcal / ~115g protein** before dinner. This is **still above target before dinner**, but it is less bad than the previous estimate. The problem remains the same: breakfast was too large, lunch was then stacked again, and protein is still not high enough to justify the calories.
+- **Drink question answered:** **Do not drink the remaining half now.** It is a poor trade today because it adds calories faster than it improves the protein problem. If you take another protein serving tonight, it should be **OWN**, not finishing the old ON+dahi+banana mix.
+- **Dinner guidance updated:** Dinner should still be **controlled damage control**, but because your protein is only around **115g so far**, it cannot be carb-heavy. With **paneer aloo gravy sabzi + roti** available, eat **1 roti only** + about **120-150g sabzi total**, while deliberately choosing **more paneer pieces and less aloo/gravy**.
+- **Next scoop guidance updated:** **Do not take OWN with warm milk tonight.** Because calories are already above target, the better move is **1 scoop OWN in lukewarm water**, sipped slowly. If you insist on milk, cap it at **100-150ml toned milk max**, but warm water is the better choice tonight.
+- **Dinner actual:** **120g paneer-aloo gravy sabzi** + **1 roti** ✅
+- **Night protein actual:** **1 scoop OWN Whey Isolate in water** ✅
+- **Dinner analysis:** This was a correct **damage-control dinner**, not a perfect diet dinner. The main positive is that you **did not** turn the night into another snack spiral. The weak point is that the day was already calorie-positive before dinner, so even a controlled paneer+roti meal still finished the day above target.
+- **Day 45 final intake table against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| Post-gym OWN whey, 1 scoop | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| 2 spoons sattu + salt | 80 | 5g | 200 | 30g | 1,700 kcal, 150g protein |
+| Breakfast: 3 sandwiches total (2 paneer + 1 aloo) | 780 | 30g | 980 | 60g | 920 kcal, 120g protein |
+| 1 shakarpara | 50 | 0g | 1,030 | 60g | 870 kcal, 120g protein |
+| 1 coconut water | 45 | 0g | 1,075 | 60g | 825 kcal, 120g protein |
+| Lunch: 100g cooked rice | 130 | 3g | 1,205 | 63g | 695 kcal, 117g protein |
+| Lunch: 150g paneer sabzi | 300 | 20g | 1,505 | 83g | 395 kcal, 97g protein |
+| Lunch: 250g moong dal | 180 | 12g | 1,685 | 95g | 215 kcal, 85g protein |
+| Half of lunch drink total | 161 | 16g | 1,846 | 111g | 54 kcal, 69g protein |
+| 3 spoons Bikaneri bhujia | 165 | 3g | 2,011 | 114g | -111 kcal, 66g protein |
+| 2 anjeer | 42 | 1g | 2,053 | 115g | -153 kcal, 65g protein |
+| Dinner: 120g paneer-aloo gravy sabzi | 180 | 9g | 2,233 | 124g | -333 kcal, 56g protein |
+| Dinner: 1 roti | 100 | 3g | 2,333 | 127g | -433 kcal, 53g protein |
+| Night: OWN whey, 1 scoop | 120 | 25g | 2,453 | 152g | -553 kcal, 28g protein |
+
+- **Day 45 closing verdict:** Final day estimate = **~2,453 kcal / ~152g protein**. This is **~553 kcal above target** and **~28g below protein target**. The damage-control dinner prevented the day from becoming even worse, but it did **not** rescue the overshoot created earlier. The central lesson is clear: **breakfast size and lunch stacking decided the day**, not dinner.
+- **Day 45 learnings:** **(1)** Post-gym whey + sattu means breakfast must shrink, not stay large. **(2)** A clean lunch plate can still become a bad lunch if a shake and fried munching are stacked on top. **(3)** When calories are already high, the next protein serving should be the **cleanest version possible**: whey in water, not calorie-dense extras. **(4)** The controlled night ending was still a win because it stopped a second spiral.
+
+---
+### 2026-04-29 (Day 46) — Plan
+- **Today workout split:** **Wednesday = Rest + Walking Pad day**. No heavy gym is required today.
+- **Primary plan:** **Walking pad 45-60 min at 4-5 kmph** while studying. This is the main task.
+- **If you feel lethargic and want gym movement:** Use the **light recovery gym template only**, not a real workout: 10 min easy treadmill/walk → 10 min mobility/stretching → 2 rounds only of bodyweight squat **15**, incline push-up or wall push-up **12**, plank **30 sec**, light cable face pull **15** → 10 min easy walk.
+- **Training priority for Day 46:** Recover from the Tuesday lower-body session. Do **not** load legs heavily again today.
+- **Nutrition priority for Day 46:** After yesterday's overshoot, today must be **simple and calorie-stable**: protein in every meal, no bhujia, no shakarpara, no random stacking. Breakfast should be controlled, lunch should be one clean plate, and dinner should not need damage control.
+- **Delayed weigh check actual:** **86.45 kg naked / 87.00 kg clothed** after excretion on Apr 29 morning. This is **not** an official W6 Monday weigh-in, but it is a strong trend checkpoint and marks the first **-5.00 kg** from the Day 0 baseline of **91.45 kg**.
+- **Progress interpretation:** This delayed reading is **good**. It shows the recent high-calorie day did **not** erase the downward trend. Treat it as confirmation that the plan is working when compliance is steady, not as a reason to relax today.
+- **Morning intake actual:** **2 spoons sattu with water** completed.
+- **Breakfast prescription:** Vermicelli is now confirmed as **savory namkeen semiya with onion, tomato, little oil**. Cap breakfast at **~170g cooked ready-to-eat vermicelli**. That is the eating quantity to weigh on the plate. Do **not** push this into a refill bowl.
+- **Whey timing today:** Take **1 scoop OWN whey at 10:30-11:00 AM** in **lukewarm water**, not cold, and sip it slowly with **5 almonds or 30g roasted chana**. This is the cleanest way to patch the breakfast protein gap on a rest day.
+- **Lunch prescription:** For **kadhi pakodi + rice**, keep it to **250g cooked kadhi**, **30g cooked pakodi total if fried** (about 2 small), and **100g cooked rice**. If the pakodi are air-fried, the pakodi portion can go up to **45g cooked total**. The target is mostly kadhi liquid plus controlled rice, not a pakodi-heavy plate.
+- **Near-term scale expectation:** If Day 46 stays controlled, the next clean official Monday weigh-in on **May 4** should realistically open somewhere around the **86.2-86.7 kg** zone, depending on sodium and bowel timing.
+- **Breakfast actual:** **170g cooked savory vermicelli** ✅
+- **Lunch actual:** **250g cooked kadhi-pakodi combined** (2 pakodi included in that total) + **100g cooked rice** ✅
+- **Lunch shake actual:** **225ml dahi + 1 small Sindhura mango (estimated ~100g edible fruit) + 5g jaggery + water + 1 scoop ON whey vanilla concentrate** ✅
+- **Lunch-shake analysis:** Timing-wise this is acceptable because it happened well after the thyroxine window. The issue is not rule-violation; the issue is that liquid calories were added on top of an already complete lunch. Protein improved, but so did calories.
+- **Day 46 intake table so far against target (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Sattu with water | 20g sattu powder | 80 | 5g | 80 | 5g | 1,820 kcal, 175g protein |
+| Breakfast: savory vermicelli | 170g cooked | 250 | 7g | 330 | 12g | 1,570 kcal, 168g protein |
+| Lunch: kadhi-pakodi dish | 250g cooked total | 190 | 7g | 520 | 19g | 1,380 kcal, 161g protein |
+| Lunch: rice | 100g cooked | 130 | 3g | 650 | 22g | 1,250 kcal, 158g protein |
+| Lunch shake: dahi | 225ml | 135 | 8g | 785 | 30g | 1,115 kcal, 150g protein |
+| Lunch shake: small Sindhura mango | ~100g edible fruit | 65 | 1g | 850 | 31g | 1,050 kcal, 149g protein |
+| Lunch shake: jaggery | 5g | 20 | 0g | 870 | 31g | 1,030 kcal, 149g protein |
+| Lunch shake: ON whey vanilla concentrate | 1 scoop | 120 | 24g | 990 | 55g | 910 kcal, 125g protein |
+| Bikaneri bhujia | ~1 spoon (~10g) | 55 | 1g | 1,045 | 56g | 855 kcal, 124g protein |
+| Anjeer | 2 pieces | 42 | 1g | 1,087 | 57g | 813 kcal, 123g protein |
+| Murukku | ~1/2 piece (estimated ~8g) | 35 | 1g | 1,122 | 58g | 778 kcal, 122g protein |
+| OWN whey isolate | 1 scoop OWN | 120 | 25g | 1,242 | 83g | 658 kcal, 97g protein |
+
+- **Extra snack actual:** **1 spoon Bikaneri bhujia + 2 anjeer + 1/2 murukku** ✅
+- **Snack analysis:** This is **snack drift**, not a disaster. The calories matter more than the protein here. The bigger problem is behavioral: the day had already been put on a predictable track, and this snack pushed it off-script for no real protein benefit.
+- **Evening protein actual:** **1 scoop OWN whey isolate** ✅
+- **Day 46 current verdict:** At approximately **~1,242 kcal / ~83g protein**, calories are **still recoverable**, but protein is still well short of target. Current remaining quota is approximately **~658 kcal and ~97g protein**. That means dinner must now do almost all the remaining heavy lifting.
+- **Predictable remaining-day plan:**
+  - **Walking pad:** **45-60 min at 4-5 kmph** today. This stays mandatory.
+  - **Evening protein block (around 5:30-6:00 PM):** **1 scoop OWN whey in lukewarm water** completed. If it was taken without **5 almonds or 30g roasted chana**, do not compensate with random snacks now; just keep dinner simpler.
+  - **Dinner decision:** **200-250g cooked chicken curry + 1 roti is acceptable**, but the right target depends on what the weight means. If the **200-250g includes bones and gravy**, then **250g total dish** is the better choice because edible meat/protein will be lower. If the weight is **actual edible cooked chicken pieces only**, then **200g** is enough with **1 roti**.
+  - **Dinner guardrails:** Keep it to **1 roti only**, **no rice**, **no second helping of curry**, and no dessert-like drink after dinner.
+  - **If veg-only dinner happens:** Replace the chicken with **200g cooked soya-chunks sabzi** + **1 roti** + **150g cooked sabzi**, and keep the evening OWN whey exactly as above.
+  - **Night whey:** If dinner is closer to **200g total bone-in curry** or feels gravy-heavy / protein-light, take **0.75 scoop OWN in lukewarm water** at **10:15 PM**. If dinner clearly gives **~200g edible cooked chicken** or the full **250g bone-in target**, the night whey becomes optional rather than mandatory.
+  - **What is banned for the rest of Day 46:** No bhujia, no shakarpara, no biscuits, no second mango, no extra rice refill, no dessert-like drinks.
+- **Dinner actual:** **250g bone-in cooked chicken curry** + **1.5 roti** ✅
+- **Night protein actual:** **Skipped / forgot post-dinner OWN whey** ❌
+- **Day 46 final intake estimate:** Dinner added approximately **~510 kcal / ~43g protein**, so Day 46 likely closed around **~1,752 kcal / ~126g protein**. Calories stayed under target, but protein finished badly short because the night OWN scoop was missed.
+- **What the missed OWN scoop cost:** Approximately **~120 kcal / ~25g protein**. If it had been taken, the day would still have stayed roughly within calories at **~1,872 kcal**, while protein would have improved to only about **~151g**, still below target but materially better.
+- **Day 46 closing verdict:** This was **not** a calorie-disaster day. The real miss was protein, not calories. The final dinner was acceptable, but **1.5 roti** was slightly above the ideal guardrail and the forgotten night OWN scoop removed the only clean protein rescue left in the day.
+
+---
+### 2026-04-30 (Day 47) — Morning Check-In
+- **Today workout split target:** **Thursday Upper Body Variation 2 / DB Bent-Over Row day**.
+- **Workout actual:** Session completed using the correct **Thursday-type upper-body template**, even though it was self-directed.
+- **Warm-up actual:** **5 min stretching** ✅ Acceptable, but next time add **2-3 min brisk walk or shoulder/cable activation** before the first working set.
+- **Session 24 actuals:** Pec Deck / Machine Fly **32 kg x3x12** ✅ | Lat Pulldown **55 lbs x3x12** ✅ | **DB Bent-Over Row 10 kg x3x12 each arm** ✅ | Cable Face Pull **23 kg x3x12** ⚠️ trial load only | Lateral Raise **7.5 kg each arm x3x12** ⚠️ treat as trial load pending strict-form repeat | Cable Tricep Overhead Extension **20 lbs x3x12** ✅ | Cable Hammer Curl **~28 kg x3x12** ⚠️ exact weight not remembered.
+- **Workout analysis:** This was a **valid Session 24**, not a random gym visit. You basically executed the intended Thursday upper-body variation and correctly included the **DB Bent-Over Row**, which is the Phase 2 Thursday DB movement. The main things to tighten next time are **(1)** record the exact pulldown handle and hammer-curl weight, and **(2)** keep face pulls and lateral raises strict rather than chasing heavier numbers too early.
+- **Progression note:** **DB Bent-Over Row 10 kg x3x12 each arm** is a strong sign. Repeat this one more clean Thursday before trying **12.5 kg**.
+- **Post-gym protein actual:** **1 scoop OWN Whey Isolate** ✅
+- **OWN current-packet counter update:** Now **8.75 scoops total used** from the current pack. Approx remaining powder **~237g**, which is roughly **~7-8 scoops left**.
+- **Breakfast guidance:** **1 aloo parantha is acceptable** because post-gym OWN is already in. Cap it at **~125g cooked ready-to-eat**. **No butter**, and **no curd/paneer** with breakfast if you are eating before **10:00 AM**, because the 4-hour thyroxine calcium gap still applies.
+- **Lunch risk note:** **Aloo parantha breakfast + rice + dum aloo lunch = starch stacking.** Because both meals are potato-heavy, lunch must stay controlled.
+- **Lunch prescription:** Keep lunch to **100g cooked rice** + **150g cooked dum aloo max**. If **curd is available**, add **150g curd** with lunch because otherwise this meal has almost no protein. If curd is **not** available, then plan a **0.75-1 scoop whey** protein correction later in the day instead of increasing rice or dum aloo.
+- **Day 47 intake table so far / planned through lunch (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Post-gym OWN whey isolate | 1 scoop OWN | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Breakfast: aloo parantha | ~125g cooked | 280 | 6g | 400 | 31g | 1,500 kcal, 149g protein |
+| Lunch: rice | 100g cooked | 130 | 3g | 530 | 34g | 1,370 kcal, 146g protein |
+| Lunch: dum aloo | 150g cooked | 210 | 3g | 740 | 37g | 1,160 kcal, 143g protein |
+| Lunch: curd (if available) | 150g | 90 | 5g | 830 | 42g | 1,070 kcal, 138g protein |
+
+- **Day 47 early verdict:** Training is on track, but food quality is drifting toward a **low-protein carb-heavy morning** unless lunch gets the **150g curd** add-on or an evening protein correction later. Keep lunch tight and do **not** turn dum aloo into a second-parantha-style meal.
