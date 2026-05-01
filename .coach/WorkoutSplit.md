@@ -69,17 +69,17 @@ Goal: Learn every machine. Build the gym habit. Do NOT chase heavy weights. Focu
 
 ### Tuesday — Lower Body + Core Machines
 
-| # | Exercise | Sets x Reps | Target Muscle | Machine Tip |
-|---|---|---|---|---|
-| — | Warm-up: 5 min walking pad or treadmill at 5 kmph | — | — | — |
-| 1 | Leg Press | 2 x 12–15 | Quads, glutes | Feet shoulder-width on platform. Push through heels. Don't lock knees at top. |
-| 2 | Leg Extension | 2 x 12–15 | Quads | Adjust pad to sit above ankles. Extend fully, squeeze at top, slow lower. |
-| 3 | Leg Curl (lying or seated) | 2 x 12–15 | Hamstrings | Curl until pad touches glutes (or close). Slow release. |
-| 4 | Calf Raise Machine (or standing on step) | 2 x 20 | Calves | Full range: stretch at bottom, squeeze at top. Slow tempo. |
-| 5 | Cable Crunch (kneeling) | 2 x 15 | Abs | Kneel facing cable, rope behind head. Crunch down, round spine. Do not pull with arms. |
-| 6 | Plank (on floor) | 2 x 30 sec | Core | Elbows under shoulders, straight line from head to heels. Squeeze glutes and abs. |
-| — | Cool-down: quad, hamstring, hip flexor stretch | — | — | 3 min |
-| | | | **Total:** | **~38 min** |
+| #   | Exercise                                          | Sets x Reps | Target Muscle | Machine Tip                                                                            |
+| --- | ------------------------------------------------- | ----------- | ------------- | -------------------------------------------------------------------------------------- |
+| —   | Warm-up: 5 min walking pad or treadmill at 5 kmph | —           | —             | —                                                                                      |
+| 1   | Leg Press                                         | 2 x 12–15   | Quads, glutes | Feet shoulder-width on platform. Push through heels. Don't lock knees at top.          |
+| 2   | Leg Extension                                     | 2 x 12–15   | Quads         | Adjust pad to sit above ankles. Extend fully, squeeze at top, slow lower.              |
+| 3   | Leg Curl (lying or seated)                        | 2 x 12–15   | Hamstrings    | Curl until pad touches glutes (or close). Slow release.                                |
+| 4   | Calf Raise Machine (or standing on step)          | 2 x 20      | Calves        | Full range: stretch at bottom, squeeze at top. Slow tempo.                             |
+| 5   | Cable Crunch (kneeling)                           | 2 x 15      | Abs           | Kneel facing cable, rope behind head. Crunch down, round spine. Do not pull with arms. |
+| 6   | Plank (on floor)                                  | 2 x 30 sec  | Core          | Elbows under shoulders, straight line from head to heels. Squeeze glutes and abs.      |
+| —   | Cool-down: quad, hamstring, hip flexor stretch    | —           | —             | 3 min                                                                                  |
+|     |                                                   |             | **Total:**    | **~38 min**                                                                            |
 
 ---
 

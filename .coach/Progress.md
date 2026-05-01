@@ -1886,3 +1886,141 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 | Lunch: curd (if available) | 150g | 90 | 5g | 830 | 42g | 1,070 kcal, 138g protein |
 
 - **Day 47 early verdict:** Training is on track, but food quality is drifting toward a **low-protein carb-heavy morning** unless lunch gets the **150g curd** add-on or an evening protein correction later. Keep lunch tight and do **not** turn dum aloo into a second-parantha-style meal.
+- **Lunch actual:** **100g cooked rice** + **150g cooked dum aloo** ✅
+- **Evening shake actual:** **1 scoop ON whey concentrate + 1 small Sindhura mango (~100g edible fruit) + 5g jaggery + 200ml dahi + 5 almonds + 2 anjeer + water** ✅
+- **Evening shake analysis:** This is not a thyroid-timing problem because it is well after the 6 AM thyroxine window. The problem is nutritional efficiency: it patches protein somewhat, but it also adds another liquid-calorie block on top of an already starch-heavy day. The **5 almonds + 2 anjeer** make it even more filling, but they do not fix the weak protein-to-calorie ratio.
+- **Day 47 intake table through evening (estimated, assuming the planned 1 aloo parantha breakfast was eaten):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Post-gym OWN whey isolate | 1 scoop OWN | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Breakfast: aloo parantha | ~125g cooked | 280 | 6g | 400 | 31g | 1,500 kcal, 149g protein |
+| Lunch: rice | 100g cooked | 130 | 3g | 530 | 34g | 1,370 kcal, 146g protein |
+| Lunch: dum aloo | 150g cooked | 210 | 3g | 740 | 37g | 1,160 kcal, 143g protein |
+| Evening shake: ON whey concentrate | 1 scoop ON | 120 | 24g | 860 | 61g | 1,040 kcal, 119g protein |
+| Evening shake: dahi | 200ml | 120 | 7g | 980 | 68g | 920 kcal, 112g protein |
+| Evening shake: small Sindhura mango | ~100g edible fruit | 65 | 1g | 1,045 | 69g | 855 kcal, 111g protein |
+| Evening shake: jaggery | 5g | 20 | 0g | 1,065 | 69g | 835 kcal, 111g protein |
+| 5 almonds | ~6g | 35 | 1g | 1,100 | 70g | 800 kcal, 110g protein |
+| 2 anjeer | 2 pieces | 42 | 1g | 1,142 | 71g | 758 kcal, 109g protein |
+
+- **Day 47 current verdict:** By evening you are at approximately **~1,142 kcal / ~71g protein**. Calories are still controllable, but protein remains low for a gym day. That means dinner must stay **quantity-controlled** and then be followed by a clean whey finish.
+- **Dinner analysis for paneer parantha:** Because the parantha is **fully stuffed with paneer** and also has **some ghee**, **2 paneer paranthas is not a good choice**. It would give a lot of calories and starch/fat, but still not enough protein to justify the load.
+- **Dinner prescription:** Cap dinner at **1 paneer parantha = ~150g cooked ready-to-eat max**. If it is very large and visibly greasy, stop at **~130-140g cooked total** instead. Keep **green chilli + garlic chutney** to **15g max**.
+- **Dinner whey guidance:** Take **1 scoop OWN whey isolate** in **lukewarm water** about **45-60 min after dinner**. Sip slowly. No milk.
+- **Anything else with dinner:** If available, add only **100-150g cucumber/onion salad** or plain sliced cucumber for volume. **Do not** add curd, butter, extra ghee, a second parantha, or any sweet item.
+- **If you ignore the cap and eat 2 paranthas:** The day likely jumps to around **~1,840-1,950 kcal** even before any extra add-ons, while protein still stays far below target. That is exactly the wrong trade for a gym day.
+- **Dinner actual:** **2 paneer paranthas** eaten ❌
+- **Immediate coach read:** This was a hunger-driven overshoot, not a catastrophe. The calories went up fast, but protein still did **not** go up enough to justify the meal. Regret is useless now; correction is the only useful move.
+- **Day 47 updated estimate before night correction (still assuming the planned 1 aloo parantha breakfast was eaten):** Two paneer paranthas with some ghee likely add roughly **~620 kcal / ~22g protein**. That puts the day at approximately **~1,762 kcal / ~93g protein** before any night whey.
+- **Current remaining gap before night whey:** Roughly **~138 kcal left** to the 1,900 target and still about **~87g protein short**. That means the day is calorie-tight but protein-poor.
+- **Night whey correction now:** Take **1 scoop OWN whey isolate** in **lukewarm water only**. **Do not** take 1.5 or 2 scoops tonight. They will not rescue the protein gap enough to justify the extra calories or digestion load.
+- **Walking-pad damage control now:** Do **45 min total** while revising MSTC notes. Use **4.0 kmph for the first 10 min**, **4.8-5.0 kmph for the next 25 min**, then **4.0-4.2 kmph for the final 10 min**. This is damage control, not punishment.
+- **Sequence from here:** If you feel too full right now, start the walking pad after **10-15 min** of settling. Take the **1 scoop OWN** after the walk, not immediately on top of the paranthas.
+- **Expected day-end if you follow this now:** Approximately **~1,882 kcal / ~118g protein**. That is still protein-short for a gym day, but it is much better than ending with no correction at all.
+- **What actually happened after dinner:** **No night OWN whey** and **no walking pad**. Fell asleep.
+- **True Day 47 closeout:** Day 47 likely closed around **~1,762 kcal / ~93g protein** on the working assumption that the planned **1 aloo parantha breakfast** was eaten. That means calories stayed below target, but protein was very poor for a gym day and the walking-pad calorie burn was also missed.
+- **Day 47 verdict:** This was another **protein-short gym day**, not a calorie-blowout day. The pattern is now clear: training is getting more consistent than nutrition follow-through. The missed night whey mattered more than the missed walking pad, but both together made the day weaker than it should have been.
+
+---
+### 2026-05-01 (Day 48) — Morning Plan
+- **Today workout split:** **Friday = Lower Body + Core / Goblet Squat day.** This is the Friday consolidation session, not a max-out day.
+- **Training priority for Day 48:** Repeat the latest clean lower-body loads. Do **not** chase increases unless a movement feels obviously too easy with strict form.
+- **Workout table for today:**
+
+| # | Exercise | Target Weight | Sets x Reps | Instruction |
+|---|---|---:|---:|---|
+| — | Warm-up | — | 5-7 min | Easy walk or dynamic lower-body mobility. Do ankle rolls, leg swings, bodyweight squats, hip circles. |
+| 1 | Leg Press (high foot placement) | **90 kg** | **3 x 10-12** | Feet slightly higher on platform than Tuesday. Push through heels. No knee lockout. |
+| 2 | Goblet Squat | **10 kg DB** | **3 x 10-12** | Chest tall, elbows down, full controlled descent. This is today's key Phase 2 DB movement. |
+| 3 | Leg Extension | **29 kg** | **3 x 10-12** | Repeat **29 kg** one more time cleanly before calling it locked. Control the lowering. |
+| 4 | Leg Curl | **29 kg** | **3 x 10-12** | Smooth reps only. No jerking or hip lift. |
+| 5 | Hip Adductor | **23 kg** | **3 x 12-15** | Squeeze in, pause briefly, slow return. |
+| 6 | Hip Abductor | **23 kg** | **3 x 12-15** | Open with control. Do not bounce at the end range. |
+| 7 | Cable Crunch | **15 lbs** | **3 x 12-15** | Kneel, round down with abs, not arms. |
+| — | Cool-down | — | 3-5 min | Quad, hamstring, glute, and hip-flexor stretch. |
+
+- **Today's progression rule:** If **all 3 sets** of a movement hit the **top of the rep range cleanly**, note it, but still do **not** jump weight today. First earn a second clean repeat.
+- **Big watch-out today:** Because Thursday upper body is already done and recovery debt is mild, the temptation will be to push lower body harder. Avoid that. Today should be **repeatability**, not ego progression.
+- **Session 25 actual:** Lower Body + Core / Goblet Squat day completed ✅ Warm-up = leg/body mobility plus **5 min treadmill at 2.5 kmph**, incline **9.0 → 13.0** ✅ | Leg Press **90 kg x3** ✅ felt solid but not yet easy enough to progress | Goblet Squat **10 kg x3** ✅ comfortable with good pose | Leg Extension **29 kg x3** ✅ hard but clean | Leg Curl **29 kg x3** ⚠️ hard and some jerking | Hip Adductor **23 kg x3** ✅ stable | Hip Abductor **23 kg x3** ✅ stable | Cable Crunch **15 lbs x3** ✅ clean |
+- **Workout feedback:** This was a **good consolidation session**. You did exactly what was needed: repeat the current weights rather than chase random jumps. **Leg Press 90 kg** stays the same for now because you yourself do not feel it is fully owned yet. **Goblet Squat 10 kg** now looks ready for a progression trial next lower session because this was another comfortable repeat with good posture. **Leg Extension 29 kg** can now be treated as a proper locked working weight because you completed it hard but clean. **Leg Curl 29 kg** is **not** ready to progress because the jerking means the hamstrings are not owning the load cleanly yet.
+- **Progression note for next lower session:** Keep **Leg Press 90 kg**, test **Goblet Squat 12.5 kg** only if the dumbbell is available and setup is stable, keep **Leg Extension 29 kg**, keep **Leg Curl 29 kg**, keep **Hip Adductor/Abductor 23 kg**, keep **Cable Crunch 15 lbs**.
+- **Post-gym protein actual:** **1 scoop OWN Whey Isolate** ✅
+- **OWN current-packet counter update:** Now **9.75 scoops total used** from the current pack. Approx remaining powder **~207g**, which is roughly **~6-7 scoops left**.
+- **Breakfast plan revised per user preference:** Make **2 omelettes of 2 whole eggs each** = **4 whole eggs total**, which should come to roughly **~180g cooked omelette total** with onion + tomato + minimal oil.
+- **Breakfast carb choice:** **Choose 2 slices of the high-protein bread** instead of 2 rotis. Target **~60g ready-to-eat bread total**. Because lunch already includes rice, **2 rotis** at breakfast would create unnecessary starch stacking. If the protein bread is unavailable, then use **1 roti only**, not 2.
+- **Lunch prescription revised:** Make **200g cooked edible chicken pieces** if boneless or mostly edible, or **250g cooked total dish** if it is bone-in chicken curry. Keep rice at **100g cooked max**. If possible, add **100g curd** or **150g cooked light sabzi**. Keep oil at **1 tsp max** total in the chicken/sabzi.
+- **Why this food plan today:** After two protein-short evenings in a row, today should still be **protein-led**, but now using the user's preferred breakfast format. **4 whole eggs + 2 protein-bread slices** works better than **4 whole eggs + 2 rotis** because it improves protein density while leaving more room for the lunch rice.
+- **Day 48 planned intake table through lunch (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Post-gym OWN whey isolate | 1 scoop OWN | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Breakfast: 4-whole-egg omelette | ~180g cooked | 280 | 24g | 400 | 49g | 1,500 kcal, 131g protein |
+| Breakfast: high-protein bread | ~60g ready-to-eat (2 slices) | 160 | 10g | 560 | 59g | 1,340 kcal, 121g protein |
+| Lunch: chicken | 200g cooked edible pieces | 330 | 52g | 750 | 106g | 1,150 kcal, 74g protein |
+| Lunch: rice | 100g cooked | 130 | 3g | 880 | 109g | 1,020 kcal, 71g protein |
+| Lunch: light sabzi (if available) | 150g cooked | 80 | 2g | 1,100 | 111g | 800 kcal, 69g protein |
+| Lunch: curd (if available) | 100g | 60 | 3g | 1,160 | 114g | 740 kcal, 66g protein |
+
+- **Day 48 early verdict:** If you follow this breakfast and lunch exactly, the day becomes **much stronger than the last two days**. You would be at roughly **~111g protein by lunch without curd/sabzi**, and around **~114g** if the curd add-on is included. That is the correct direction for fixing the recent pattern.
+- **Breakfast actual:** **2 omelettes of 2 whole eggs each** = **~180g cooked omelette total** ✅ + **2 Protein Chef high-protein bread slices (~60g ready-to-eat)** ✅ + **1 coconut water** ✅
+- **Lunch actual:** **4 chicken pieces, total ~225g** + **200g cooked rice** ✅
+- **Snack actual:** **2 spoons Bikaneri besan bhujia** ✅
+- **Current-intake assumption note:** The estimate below assumes the **225g chicken** was **mostly edible cooked chicken pieces**. If that weight included a lot of bone/gravy, true protein is lower.
+- **Day 48 intake table so far against target (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Post-gym OWN whey isolate | 1 scoop OWN | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Breakfast: 4-whole-egg omelette | ~180g cooked | 280 | 24g | 400 | 49g | 1,500 kcal, 131g protein |
+| Breakfast: Protein Chef high-protein bread | ~60g ready-to-eat | 160 | 10g | 560 | 59g | 1,340 kcal, 121g protein |
+| Coconut water | ~200ml | 45 | 0g | 605 | 59g | 1,295 kcal, 121g protein |
+| Lunch: chicken | ~225g cooked pieces | 370 | 58g | 975 | 117g | 925 kcal, 63g protein |
+| Lunch: rice | 200g cooked | 260 | 6g | 1,235 | 123g | 665 kcal, 57g protein |
+| Snack: Bikaneri besan bhujia | ~2 spoons (~20g) | 110 | 2g | 1,345 | 125g | 555 kcal, 55g protein |
+
+- **Current Day 48 verdict:** You are at approximately **~1,345 kcal / ~125g protein** so far. That means you still have roughly **~555 kcal** left before the **1,900 kcal** target, and about **~55g protein** still missing against the **180g** target. This is **recoverable**, but only if dinner stays controlled and the planned dessert-style shake is corrected.
+- **Dinner analysis for shimla-mirch paneer sabzi:** Because you already had **bread at breakfast**, **200g rice at lunch**, and **bhujia** later, dinner cannot be another free-form comfort meal. Keep paneer dinner focused and tight.
+- **Dinner prescription:** Eat **150g cooked shimla-mirch paneer sabzi** with **1 roti only**. If the sabzi is visibly oily or paneer-heavy, stay closer to **130-140g cooked total**. **Do not take 2 rotis.**
+- **Your planned shake verdict:** **Do not make the 2-scoop ON + dahi + mango + jaggery shake tonight.** That is too calorie-dense for the remaining quota.
+- **Best shake correction tonight:** If you still want a protein drink, take **1 scoop OWN whey isolate** in **lukewarm water** only, about **45-60 min after dinner**. If you insist on a curd-based drink, then cap it at **1 scoop ON + 225ml dahi + water only**, and **skip the mango and jaggery**. But the better option tonight is still **OWN in water**.
+- **How to make any curd drink thin:** Use **plain water** only. Add **150-200ml water** to thin **225ml dahi**. Do **not** use milk.
+- **Expected day-end if you follow the recommended version:** **150g paneer sabzi + 1 roti + 1 scoop OWN in water** would likely close the day around **~1,915 kcal / ~173g protein**. That is a small calorie overshoot at worst, but a much better protein finish than the last two evenings.
+- **Dinner actual:** **1 roti** + **150g cooked paneer-shimla mirch sabzi** ✅
+- **Night shake actual:** **1 scoop ON whey concentrate** + **225ml dahi** + **1 mango** + **5g jaggery** + **water** ✅
+- **Night shake analysis:** This was better than the original **2-scoop** version, but the **mango + jaggery** still turned the closeout from a controlled recovery into a calorie overshoot. The protein gap was almost fixed, but the extra sugar/carbs created unnecessary **water/glycogen noise** for the weekend.
+- **Day 48 final intake table against target (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Dinner: paneer-shimla mirch sabzi | 150g cooked | 250 | 18g | 1,595 | 143g | 305 kcal, 37g protein |
+| Dinner: roti | 1 roti | 100 | 3g | 1,695 | 146g | 205 kcal, 34g protein |
+| Night shake: ON whey concentrate | 1 scoop ON | 120 | 24g | 1,815 | 170g | 85 kcal, 10g protein |
+| Night shake: dahi | 225ml | 135 | 8g | 1,950 | 178g | -50 kcal, 2g protein |
+| Night shake: mango | ~180g edible fruit | 110 | 1g | 2,060 | 179g | -160 kcal, 1g protein |
+| Night shake: jaggery | 5g | 20 | 0g | 2,080 | 179g | -180 kcal, 1g protein |
+
+- **True Day 48 closeout:** Day 48 likely closed around **~2,080 kcal / ~179g protein** under the working assumption that the earlier **225g chicken** was mostly edible cooked meat. That is roughly **~180 kcal above target** and about **~1g short** of the protein target. If the lunch chicken included more bone/gravy than assumed, true protein is slightly lower.
+- **Day 48 verdict:** This was **not** a protein-collapse day. It was a **late liquid-calorie overshoot day**. The correct lesson is very specific: **the roti + paneer dinner was fine; the mango + jaggery in the dahi-whey shake was the calorie leak.**
+
+---
+### 2026-05-02 (Day 49) — Morning Plan
+- **Today workout split:** **Saturday = Full Body consolidation day.** In the corrected Phase 2 map, this is the day to include the **upper-body dumbbell work again** without turning the session into a max-out attempt.
+- **Training priority for Day 49:** Thursday upper and Friday lower are already done. So today should be **controlled repeatability**, not random progression. Leave the gym feeling trained, not cooked.
+- **Workout table for today:**
+
+| # | Exercise | Target Weight | Sets x Reps | Instruction |
+|---|---|---:|---:|---|
+| — | Warm-up | — | 5-7 min | Easy treadmill walk or dynamic mobility. Open shoulders, hips, ankles. |
+| 1 | Chest Press | **50 lbs** | **3 x 10-12** | Repeat the locked baseline. Slow return, no bounce. |
+| 2 | Lat Pulldown | **55 lbs** | **3 x 10-12** | Use the clean Thursday load. Pull to upper chest, no torso swing. |
+| 3 | DB Shoulder Press | **7.5 kg each arm** | **3 x 10-12** | This is a **trial repeat**, not a locked progression. If back arches or rep path gets messy, drop to **5 kg** for the remaining work. |
+| 4 | Leg Press | **90 kg** | **2 x 10-12** | Keep volume lower because Friday lower body was yesterday. No need for 3 sets today. |
+| 5 | DB Bent-Over Row | **10 kg each arm** | **3 x 10-12 each arm** | Repeat the clean Thursday load. Support hand firmly, pull toward hip, not shoulder. |
+| 6 | Leg Curl | **29 kg** | **2 x 10-12** | Smooth reps only. If jerking starts, slow down instead of forcing range. |
+| 7 | Cable Crunch | **15 lbs** | **2 x 12-15** | Strict ab crunch. No arm yanking. |
+| — | Post-workout walking pad | — | 30-40 min | **4.5-5.0 kmph** while studying. Use this instead of HIIT today. |
+
+- **Today feedback:** Best decision today is to keep the session **compact and crisp**. Yesterday already proved the real weak point is **late-night calorie drift**, not lack of training volume. So do the full-body session, get the walking pad done, and keep tonight free of dessert-style shakes.
+- **Specific red flags for today:** **Do not** add HIIT, **do not** chase heavier leg work one day after Friday lower body, and **do not** reward the workout with a mango-based night drink.
