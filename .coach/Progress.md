@@ -2112,3 +2112,22 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 | Wrong move: chicken curry + **2 rotis** | ~2,021+ | ~158g or less | Bad carb trade; not approved |
 
 - **Direct answer:** **Do not take 2 rotis.** If you want the best outcome tonight, eat **150g chicken curry, no roti, then 1 scoop OWN later**. If you emotionally want roti, take **1 roti max** and accept that the day closes protein-short.
+- **Evening activity actual:** **Badminton** ✅ Duration **43 min 14 sec** | Apple Watch **374 active kcal / 454 total kcal** | Avg heart rate **172 bpm** | Effort **Moderate**.
+- **Morning-vs-evening activity clarification:** The Apple Watch **Other** workout in the morning is the **gym session** already logged. The badminton block is an **additional evening session**, not a duplicate.
+- **Combined activity read for Day 49:** Morning gym watch block = **528 active kcal / 656 total kcal**. Evening badminton = **374 active kcal / 454 total kcal**. Combined watch total for the day = approximately **902 active kcal / 1,110 total kcal**. This is a **real high-activity day**.
+- **Double-session analysis:** This does **not** mean you fully eat back watch calories. But it **does** mean I can allow a **small protein-led overshoot** tonight if it helps you recover instead of ending another gym day protein-short.
+- **Revised dinner guidance after badminton:** Because of the extra badminton load, **1 roti is now acceptable**, but **2 rotis is still wrong**.
+- **Dinner prescription now:** Eat **150g cooked edible chicken curry** if it is mostly meaty, or **220-250g cooked total chicken-curry dish** if it is bone-in with gravy. Pair it with **1 roti max**.
+- **Further whey tonight:** **Yes. Take 1 scoop OWN Whey Isolate** in **lukewarm water** about **45-60 min after dinner**.
+- **Mango decision tonight:** **No whole mango tonight.** The badminton calories do **not** buy you a fruit-sugar dessert at night when you are still protein-short. If you force a mango in, it should only be **half a mango and only if you skip the roti**, but that is still a worse choice than the whey.
+- **Dinner options table after badminton (from current real bank):**
+
+| Dinner option | Estimated day-end kcal | Estimated day-end protein | Coach read |
+|---|---:|---:|---|
+| **Recommended:** 150g chicken curry + **1 roti** + **1 scoop OWN** | ~2,041 | ~181g | Acceptable on a real double-session day; best practical close |
+| Leaner close: 150g chicken curry + **no roti** + **1 scoop OWN** | ~1,941 | ~178g | Cleaner calories, slightly protein-short |
+| If chicken is bone-in: 220-250g total curry + **1 roti** + **1 scoop OWN** | ~2,000-2,060 | ~176-182g | Acceptable range depending on edible meat |
+| Wrong move: chicken curry + **2 rotis** + whey | ~2,140+ | ~184g or less | Extra carb load, not approved |
+| Wrong move: add **1 whole mango** on top | ~2,150+ | Protein barely changes | Not approved |
+
+- **Direct answer now:** Because badminton happened, you can eat **1 roti** with dinner. **Do not eat 2 rotis.** Eat **150g chicken curry + 1 roti**, then later take **1 scoop OWN** in lukewarm water. **Do not eat 1 whole mango tonight.**
