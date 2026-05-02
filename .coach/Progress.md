@@ -2058,3 +2058,33 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 | Lunch: rice | 80g cooked | 104 | 2g | 1,504 | 119g | 396 kcal, 61g protein |
 
 - **Lunch feedback:** If the sabzi is unusually oily or paneer-heavy, hold it to **130-140g cooked** and keep the dal at **250g cooked**. The dal is the smarter quantity lever here, not the rice.
+- **Later snack actual:** **5 almonds** + **2 anjeer** ✅
+- **Snack analysis:** This was a much cleaner choice than namkeen or a second shake. It adds a little energy and a little protein, but it does **not** materially solve the protein gap.
+- **Day 49 confirmed intake table after snack (lunch still unreported):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| 5 almonds | ~6g | 35 | 1g | 1,005 | 88g | 895 kcal, 92g protein |
+| 2 anjeer | 2 pieces | 42 | 1g | 1,047 | 89g | 853 kcal, 91g protein |
+
+- **Current Day 49 confirmed bank:** Based on what is actually reported so far, you are at approximately **~1,047 kcal / ~89g protein**. So the **confirmed calorie bank** is about **~853 kcal**, and the **confirmed protein bank** is about **~91g**. This excludes lunch because you still have **not reported lunch actual**.
+- **Dinner decision under this uncertainty:** Because lunch is unreported, I am giving the **safe dinner cap**, not the biggest possible dinner.
+- **Dinner prescription:** Eat **200g cooked edible chicken curry** if it is mostly boneless/meaty, or **250g cooked total chicken-curry dish** if it is bone-in with gravy. Pair it with **1 roti only**. **Do not take 2 rotis by default.**
+- **Why not 2 rotis:** If lunch was actually eaten in any meaningful amount, **2 rotis** pushes the day in the wrong direction. The smarter move is **more chicken, not more roti**.
+- **If hunger is still high after this dinner:** Add **50-80g extra cooked chicken**, not a second roti.
+- **Projected dinner table from confirmed intake only (if lunch was skipped/light):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Dinner: chicken curry | 200g cooked edible chicken OR 250g cooked total if bone-in | 320 | 42g | 1,367 | 131g | 533 kcal, 49g protein |
+| Dinner: roti | 1 roti | 100 | 3g | 1,467 | 134g | 433 kcal, 46g protein |
+
+- **Further whey guidance:** Because lunch actual is still unknown, **do not auto-take a full whey scoop right now**.
+- **Safe whey rule tonight:**
+
+| Lunch reality | Whey after dinner |
+|---|---:|
+| If lunch was skipped or very light | **1 scoop OWN** in lukewarm water, **45-60 min after dinner** |
+| If lunch was close to the earlier paneer-dal-rice prescription | **Skip extra whey**, or **max 0.5 scoop OWN** only if dinner chicken is smaller than prescribed |
+
+- **Coach feedback:** Today is still a **good gym day**, but the decision quality now matters more than motivation. The clean move tonight is **1 roti + high chicken + no dessert calories**. If you want to improve the day, the fix is **lean protein**, not extra carb.
