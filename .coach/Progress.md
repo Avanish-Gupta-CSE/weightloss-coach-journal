@@ -2088,3 +2088,27 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 | If lunch was close to the earlier paneer-dal-rice prescription | **Skip extra whey**, or **max 0.5 scoop OWN** only if dinner chicken is smaller than prescribed |
 
 - **Coach feedback:** Today is still a **good gym day**, but the decision quality now matters more than motivation. The clean move tonight is **1 roti + high chicken + no dessert calories**. If you want to improve the day, the fix is **lean protein**, not extra carb.
+- **Lunch actual:** **150g cooked paneer-shimla mirch sabzi** + **250g cooked moong dal** + **80g cooked rice** ✅ exactly as prescribed.
+- **Lunch analysis:** Good compliance. The biggest positive is that you followed the **rice cap** instead of letting lunch become a second carb-heavy meal. This was the correct move after a breakfast that already had **2 rotis**.
+- **Day 49 intake table after actual lunch (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Lunch: paneer-shimla mirch sabzi | 150g cooked | 250 | 18g | 1,297 | 107g | 603 kcal, 73g protein |
+| Lunch: moong dal | 250g cooked | 180 | 12g | 1,477 | 119g | 423 kcal, 61g protein |
+| Lunch: rice | 80g cooked | 104 | 2g | 1,581 | 121g | 319 kcal, 59g protein |
+
+- **True current Day 49 bank:** You are now at approximately **~1,581 kcal / ~121g protein**. That means your **current calorie bank** is only about **~319 kcal**, while your **current protein bank** is still about **~59g**. This is now a **tight evening**.
+- **Dinner correction after actual lunch:** Now that lunch is confirmed, **2 rotis is clearly wrong**.
+- **Dinner prescription now:** Eat **150g cooked edible chicken curry** if it is mostly boneless/meaty, or **200g cooked total chicken-curry dish** if it is bone-in with gravy. **Roti: max 1 only**, and honestly **0 roti is the better macro close**.
+- **Best close option tonight:** **150g chicken curry + no roti + 1 scoop OWN in lukewarm water** about **45-60 min after dinner**.
+- **If you insist on roti:** Then do **150g chicken curry + 1 roti max**, and **skip extra carbs completely**. In that case, whey becomes optional, but even with whey the day will not close as cleanly as the no-roti version.
+- **Dinner options table from current real bank:**
+
+| Dinner option | Estimated day-end kcal | Estimated day-end protein | Coach read |
+|---|---:|---:|---|
+| **Best close:** 150g chicken curry + **no roti** + **1 scoop OWN** | ~1,941 | ~178g | Slight calorie overshoot, but best protein-to-calorie trade tonight |
+| Acceptable: 150g chicken curry + **1 roti** + **no whey** | ~1,921 | ~155g | Calories acceptable, protein still too low |
+| Wrong move: chicken curry + **2 rotis** | ~2,021+ | ~158g or less | Bad carb trade; not approved |
+
+- **Direct answer:** **Do not take 2 rotis.** If you want the best outcome tonight, eat **150g chicken curry, no roti, then 1 scoop OWN later**. If you emotionally want roti, take **1 roti max** and accept that the day closes protein-short.
