@@ -2024,3 +2024,37 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 
 - **Today feedback:** Best decision today is to keep the session **compact and crisp**. Yesterday already proved the real weak point is **late-night calorie drift**, not lack of training volume. So do the full-body session, get the walking pad done, and keep tonight free of dessert-style shakes.
 - **Specific red flags for today:** **Do not** add HIIT, **do not** chase heavier leg work one day after Friday lower body, and **do not** reward the workout with a mango-based night drink.
+- **Pre-gym intake actual:** **2 spoons sattu in water** ✅ after thyroxine. This is acceptable **only if there was at least a 30-min gap after the pill**. If it was taken immediately after thyroxine, that was a timing violation.
+- **Session 26 actual:** Saturday Full Body consolidation completed ✅ Warm-up = **rod + band stretching for hands and full body** ✅ | Chest Press **50 lbs x3, >12 reps each set** ✅ | Lat Pulldown **55 lbs x3, >12 reps each set** ✅ | DB Shoulder Press **7.5 kg each arm x3x12** ✅ | Leg Press **90 kg x3x12** ⚠️ one extra set beyond plan | DB Bent-Over Row **10 kg each arm x3x12** ✅ | Leg Curl **29 kg x2x12** ✅ | Cable Crunch **15 lbs x3x15** ⚠️ one extra set beyond plan.
+- **Workout analysis:** This was a **strong session**. Best part = the **upper-body repeatability is clearly improving**. **Chest Press 50 lbs** and **Lat Pulldown 55 lbs** now look ready for a future progression trial because you crossed the top of the rep range. **DB Shoulder Press 7.5 kg** passed the repeat test well. **DB Bent-Over Row 10 kg** is now looking like a stable working weight. The caution is simple: **motivation is good, but it does not get to rewrite recovery rules**. The extra third set on **Leg Press** the day after Friday lower body was unnecessary. Treat it as a one-off, not the new template.
+- **Post-gym protein actual:** **1 scoop OWN Whey Isolate** ✅
+- **Breakfast actual:** **2 omelettes of 2 whole eggs each** = **~180g cooked omelette total** ✅ + **2 wheat rotis** ✅
+- **Hydration actual:** **1 coconut water** ✅
+- **Later protein drink actual:** **0.75 scoop OWN Whey Isolate** + **225ml dahi** + **5g jaggery** + **water** ✅
+- **Timing caution on the dahi drink:** This drink is nutritionally acceptable, but it is only fully thyroid-compliant if it happened **after 10:00 AM**. If it happened earlier than that, the **225ml dahi** was a calcium-timing violation.
+- **OWN counter update:** Today's OWN intake so far = **1.75 scoops total**. **Global current-pack counter = 11.5 scoops used**. Approx remaining powder = **~154g**, which is roughly **~5 scoops left**.
+- **Day 49 intake table so far against target (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Pre-gym sattu water | 2 spoons in water | 80 | 5g | 80 | 5g | 1,820 kcal, 175g protein |
+| Post-gym OWN whey isolate | 1 scoop OWN | 120 | 25g | 200 | 30g | 1,700 kcal, 150g protein |
+| Breakfast: 4-whole-egg omelette | ~180g cooked | 280 | 24g | 480 | 54g | 1,420 kcal, 126g protein |
+| Breakfast: wheat roti | 2 rotis | 200 | 6g | 680 | 60g | 1,220 kcal, 120g protein |
+| Coconut water | ~200ml | 45 | 0g | 725 | 60g | 1,175 kcal, 120g protein |
+| Later drink: OWN whey isolate | 0.75 scoop OWN | 90 | 19g | 815 | 79g | 1,085 kcal, 101g protein |
+| Later drink: dahi | 225ml | 135 | 8g | 950 | 87g | 950 kcal, 93g protein |
+| Later drink: jaggery | 5g | 20 | 0g | 970 | 87g | 930 kcal, 93g protein |
+
+- **Current Day 49 verdict:** You are currently at approximately **~970 kcal / ~87g protein**. So your **current calorie bank** is about **~930 kcal**, and your **current protein bank** is about **~93g**. This is a decent position after training, but because breakfast used **2 rotis** and you already added a **dahi + whey** drink, lunch must stay **protein-led and rice-controlled**.
+- **Lunch prescription for today's available food:** Eat **150g cooked paneer-capsicum sabzi** + **250g cooked moong dal** + **80g cooked rice**. **Do not add roti** at this lunch.
+- **Why this lunch quantity:** The dal gives a cleaner protein lift than just increasing rice. The paneer sabzi is already calorie-dense, so rice must stay capped. You already took **2 rotis** in breakfast, which is why lunch rice must stay low.
+- **Projected lunch table if you follow the prescription:**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Lunch: paneer-capsicum sabzi | 150g cooked | 250 | 18g | 1,220 | 105g | 680 kcal, 75g protein |
+| Lunch: moong dal | 250g cooked | 180 | 12g | 1,400 | 117g | 500 kcal, 63g protein |
+| Lunch: rice | 80g cooked | 104 | 2g | 1,504 | 119g | 396 kcal, 61g protein |
+
+- **Lunch feedback:** If the sabzi is unusually oily or paneer-heavy, hold it to **130-140g cooked** and keep the dal at **250g cooked**. The dal is the smarter quantity lever here, not the rice.
