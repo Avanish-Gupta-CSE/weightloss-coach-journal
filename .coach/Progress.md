@@ -2228,3 +2228,34 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 | **Best close:** 200g chicken + **1 scoop OWN** + **no roti/rice** | ~1,885 | ~185g | Best recovery and best macro trade |
 | Acceptable: 200g chicken + **1 roti** + **no whey** | ~1,865 | ~163g | Calories okay, protein too low |
 | Wrong move: add rice / another mango / dessert | 2,000+ | Protein barely improves | Not approved |
+
+- **Late-night protein decision update:** User now wants dinner to be **either only roasted paneer or only roasted chicken**, with **OWN shifted to just before sleep** because evening OWN isolate appears to trigger a strong sleep-wave that kills study productivity.
+- **Mechanism read:** I trust the **pattern observation**, but I do **not** fully buy the mechanism as “OWN is easy to digest, therefore 2 scoops is the right fix.” The useful signal is this: **OWN in the evening is functioning like a sleep trigger for this user**, so the timing should move closer to sleep. That does **not** automatically justify doubling the scoop every night.
+- **Night option table from the current Day 50 bank (~465 kcal / ~72g protein left):**
+
+| Night option | Quantity | Estimated added kcal | Estimated added protein | Estimated day-end kcal | Estimated day-end protein | Coach read |
+|---|---:|---:|---:|---:|---:|---|
+| **Best** | **Roasted chicken 200g cooked edible** + **1 scoop OWN** | ~447 | ~79g | ~1,882 | ~187g | Best close. Approved. |
+| Paneer option | **Roasted paneer 120g cooked** + **1 scoop OWN** | ~438 | ~49g | ~1,873 | ~157g | Calories fine, but protein still badly short. |
+| If whey is shifted to pre-sleep | **Roasted chicken 200g dinner** + **1 scoop OWN 30 min before sleep** | ~447 | ~79g | ~1,882 | ~187g | Same good math, better study protection. |
+
+- **If you insist on testing 2 scoops OWN before sleep instead:**
+
+| 2-scoop test option | Quantity | Estimated added kcal | Estimated added protein | Estimated day-end kcal | Estimated day-end protein | Coach read |
+|---|---:|---:|---:|---:|---:|---|
+| Better 2-scoop version | **Roasted chicken 135-140g cooked edible** + **2 scoops OWN** | ~461-469 | ~89-90g | ~1,896-1,904 | ~197-198g | Numerically workable, but whey is now doing too much of the job. |
+| Weak 2-scoop paneer version | **Roasted paneer 80-85g cooked** + **2 scoops OWN** | ~452-465 | ~68-69g | ~1,887-1,900 | ~176-177g | Still borderline protein and too dependent on powder. |
+| Wrong default rule | **2 scoops OWN every night regardless of dinner** | Variable | Variable | Often pushes out solid protein or adds unnecessary calories | Not approved |
+
+- **Coach verdict on the research:**
+
+| Claim | Verdict | Why |
+|---|---|---|
+| “OWN isolate makes me very sleepy” | **Accepted as a real personal pattern** | Repeated self-observation matters more than theory here |
+| “So I should move OWN to 30 min before sleep” | **Approved** | Good timing fix if it protects the study block |
+| “Therefore 2 scoops nightly is the best strategy” | **Not approved as a default** | This is a dose jump, not just a timing fix, and it can crowd out real-food protein |
+
+- **Tonight's direct call:**
+  **If chicken is available:** eat **200g roasted chicken (cooked edible weight)** and take **1 scoop OWN 30 min before sleep**.
+  **If only paneer is available:** keep it to **120g roasted paneer (cooked weight)** and take **1 scoop OWN 30 min before sleep**, but understand clearly that this closes the day **protein-short**.
+- **Protocol decision:** Move **1 scoop OWN** to **30 min before sleep** as the default **timing** when evening study is still pending. **Do not make 2 scoops the nightly default.** Use **2 scoops only on specially justified protein-short days** and only when the full day math still fits.
