@@ -2131,3 +2131,100 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 | Wrong move: add **1 whole mango** on top | ~2,150+ | Protein barely changes | Not approved |
 
 - **Direct answer now:** Because badminton happened, you can eat **1 roti** with dinner. **Do not eat 2 rotis.** Eat **150g chicken curry + 1 roti**, then later take **1 scoop OWN** in lukewarm water. **Do not eat 1 whole mango tonight.**
+- **Dinner actual:** **2 rotis** ❌ + **225g chicken** + **half Malika mango** ❌
+- **Dinner assumption note:** I am treating the **225g chicken** as **mostly edible cooked chicken**. If that weight included substantial bone/gravy, true protein is lower than the estimate below.
+- **Dinner analysis:** The extra **1 roti** and the **half mango** were not a disaster on a double-session day, but both were still the wrong trade. The chicken was useful. The second roti and mango were not.
+- **Day 49 estimated closeout without any further whey:**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Dinner: chicken curry | ~225g cooked edible chicken | 360 | 50g | 1,941 | 171g | -41 kcal, 9g protein |
+| Dinner: roti | 2 rotis | 200 | 6g | 2,141 | 177g | -241 kcal, 3g protein |
+| Half Malika mango | ~90g edible fruit | 55 | 1g | 2,196 | 178g | -296 kcal, 2g protein |
+
+- **Current Day 49 read:** You likely closed around **~2,196 kcal / ~178g protein** before any extra whey. That means the day is about **~296 kcal above target**, but protein is still slightly short by about **~2g**. Because this was a genuine **double-session day**, the overshoot is **not catastrophic**, but it is still an overshoot.
+- **Further whey now:** **No full scoop now.** A full scoop would push calories up further for a benefit you do not need anymore.
+- **If you want to finish protein exactly:** Take **0.25-0.5 scoop OWN** in **lukewarm water only**. That is optional, not mandatory. If you are already full, skip it and sleep.
+- **No more fruit tonight:** **No more mango. No dessert. No peanut butter.** Day is done.
+- **HPCL early-morning breakfast decision:** For an **early morning exam**, **high-protein bread + paneer is the wrong pairing** if breakfast is inside the **4-hour thyroxine block**. Paneer is calcium-rich and violates the thyroid rule.
+- **Protein-chef bread + Pintola unsweetened peanut butter analysis:** The bread is a useful emergency exam-morning carb-protein base. The peanut butter is acceptable as a **portion-controlled fat spread**, but it is **not** a primary protein source in this protocol.
+- **Per-serving reality check (practical exam serving):**
+
+| Food | Practical serving | Estimated kcal | Estimated protein | Coach read |
+|---|---:|---:|---:|---|
+| Protein Chef high-protein bread | 2 slices | ~160 | ~10g | Useful |
+| Pintola unsweetened peanut butter | 20g | ~120 | ~6g | Acceptable, but fat-heavy |
+| Paneer | 100g | ~265 | ~18g | Better protein, but **not allowed** in early breakfast after thyroxine |
+
+- **Best choice between your two options:**
+
+| Exam timing | Better option | Why |
+|---|---|---|
+| **Before 10:00 AM** | **Protein bread + 20g peanut butter** | Paneer violates the thyroxine calcium rule |
+| **After 10:00 AM** | **Protein bread + 100g paneer** | Paneer becomes the better protein choice once the calcium window is over |
+
+- **Best HPCL exam breakfast overall:** Neither of those is the best standalone setup. The strongest exam-morning option is **2 slices Protein Chef bread + 2 boiled eggs or 1 omelette**, because it stays thyroid-safe, lighter than paneer, and more protein-efficient than peanut butter.
+- **Exact exam-morning breakfast recommendation:**
+
+| Option | Quantity | Estimated kcal | Estimated protein | Coach read |
+|---|---:|---:|---:|---|
+| **Best** | 2 slices Protein Chef bread + 2 boiled eggs | ~300-320 | ~22g | Best mix of focus, digestion, and thyroid safety |
+| **If only peanut butter is available** | 2 slices Protein Chef bread + 20g Pintola unsweetened peanut butter | ~280 | ~16g | Acceptable backup |
+| **Do not do for early exam** | 2 slices bread + 100g paneer | ~425 | ~28g | Thyroxine/calcium conflict if before 10 AM |
+
+- **HPCL exam feedback:** Keep the breakfast **simple, thyroid-safe, and portable**. Exam mornings are not the place for heavy paneer or thick peanut-butter loading.
+- **User choice confirmed for HPCL morning:** **Protein Chef high-protein bread + Pintola unsweetened peanut butter** ✅ acceptable as the backup exam breakfast plan. Keep peanut butter to **20g max**.
+- **Go Zero ice cream craving analysis:** **Not approved tonight.** “Guilt-free” is marketing language, not protocol permission. The product may still add roughly **~100-180 kcal** depending on serving, and the bigger problem for you is the **cold sweet dessert hit at night** on a day that is already above calories. With your gut history, sugar alcohols or sweeteners can also be a bad gamble before an exam morning.
+- **Go Zero decision table:**
+
+| Question | Decision | Why |
+|---|---|---|
+| Can you eat 1 Go Zero ice cream tonight? | **No** | Day already overshot and exam is tomorrow |
+| Is it truly guilt-free? | **No** | Calories still count and sweet cravings still reinforce the loop |
+| Better late-night move | **Sleep + no more food** | The day is already complete |
+
+- **Tomorrow training decision:** **Use 1 pause day for tomorrow. Do not do a gym session.**
+- **Why pause tomorrow:** Tomorrow is **Sunday**, today was already a **double-session day**, and **HPCL exam performance matters more than squeezing in one extra workout**. This is exactly when a pause day is justified.
+- **Tomorrow activity rule:** No gym. If you feel mentally fried, do **nothing**. If you want movement after the exam, do only **20-30 min easy walking pad at 4-4.5 kmph** or a short relaxed walk. That is optional, not mandatory.
+- **Day 50 decision table:**
+
+| Item | Decision |
+|---|---|
+| Gym tomorrow | **No** |
+| Pause day tomorrow | **Yes, use 1** |
+| Walking pad tomorrow | **Optional easy 20-30 min only after exam** |
+| Recovery priority | **Sleep, gut calm, exam sharpness** |
+
+---
+### 2026-05-03 (Day 50) — Exam Day Intake
+- **Day type:** **HPCL exam day / pause day used.** No gym session today.
+- **Breakfast actual:** **2 slices Protein Chef high-protein bread** + **Pintola unsweetened peanut butter on one side of each slice** ✅
+- **Breakfast analysis:** This was **thyroxine-safe** and acceptable for an exam morning. It is lighter and safer than paneer. The limitation is simple: it is still **not a high-protein breakfast**.
+- **Lunch actual:** **1 coconut water** ✅ + **220g cooked boneless chicken** ✅ + **200g cooked rice** ✅ + **50g puffed rice** ✅
+- **Lunch analysis:** The **220g chicken** was the right anchor. The mistake was stacking **200g rice + 50g puffed rice** in the same meal on a **pause day**. That is a carb-heavy lunch, not a protein-led cut meal.
+- **Later shake actual:** **200ml dahi** + **half Malika mango pulp** + **10g jaggery** + **0.75 scoop ON whey** + **water** ✅
+- **Shake analysis:** Same pattern again: the **ON whey** helps, but the **mango + jaggery** make the drink calorie-inefficient. On a no-gym day, this is a weak trade.
+- **Day 50 intake table so far against target (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Breakfast: Protein Chef high-protein bread | 2 slices | 160 | 10g | 160 | 10g | 1,740 kcal, 170g protein |
+| Breakfast: Pintola unsweetened peanut butter | ~20g | 120 | 6g | 280 | 16g | 1,620 kcal, 164g protein |
+| Coconut water | ~200ml | 45 | 0g | 325 | 16g | 1,575 kcal, 164g protein |
+| Lunch: boneless chicken | 220g cooked | 360 | 57g | 685 | 73g | 1,215 kcal, 107g protein |
+| Lunch: rice | 200g cooked | 260 | 6g | 945 | 79g | 955 kcal, 101g protein |
+| Lunch: puffed rice | 50g dry | 185 | 3g | 1,130 | 82g | 770 kcal, 98g protein |
+| Later shake: dahi | 200ml | 120 | 7g | 1,250 | 89g | 650 kcal, 91g protein |
+| Later shake: half Malika mango pulp | ~90g edible fruit | 55 | 1g | 1,305 | 90g | 595 kcal, 90g protein |
+| Later shake: jaggery | 10g | 40 | 0g | 1,345 | 90g | 555 kcal, 90g protein |
+| Later shake: ON whey | 0.75 scoop | 90 | 18g | 1,435 | 108g | 465 kcal, 72g protein |
+
+- **Current Day 50 bank:** You are currently at approximately **~1,435 kcal / ~108g protein**. So your **current calorie bank** is about **~465 kcal**, and your **current protein bank** is about **~72g**. This means the day is still recoverable, but only with a **lean-protein dinner**.
+- **Best closeout guidance for tonight:** Eat **200g cooked edible chicken** or **220-250g cooked total chicken curry if bone-in**, with **no roti and no rice**, then take **1 scoop OWN** in **lukewarm water** later. **No more mango, no more jaggery, no dessert.**
+- **Best-close table from current bank:**
+
+| Dinner option | Estimated day-end kcal | Estimated day-end protein | Coach read |
+|---|---:|---:|---|
+| **Best close:** 200g chicken + **1 scoop OWN** + **no roti/rice** | ~1,885 | ~185g | Best recovery and best macro trade |
+| Acceptable: 200g chicken + **1 roti** + **no whey** | ~1,865 | ~163g | Calories okay, protein too low |
+| Wrong move: add rice / another mango / dessert | 2,000+ | Protein barely improves | Not approved |
