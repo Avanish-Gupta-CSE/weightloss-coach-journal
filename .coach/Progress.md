@@ -2259,3 +2259,128 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
   **If chicken is available:** eat **200g roasted chicken (cooked edible weight)** and take **1 scoop OWN 30 min before sleep**.
   **If only paneer is available:** keep it to **120g roasted paneer (cooked weight)** and take **1 scoop OWN 30 min before sleep**, but understand clearly that this closes the day **protein-short**.
 - **Protocol decision:** Move **1 scoop OWN** to **30 min before sleep** as the default **timing** when evening study is still pending. **Do not make 2 scoops the nightly default.** Use **2 scoops only on specially justified protein-short days** and only when the full day math still fits.
+
+- **Logged pasta recipe retrieved from Day 29:** The self-cooked penne breakfast used **80g Yu Foodlabs whole wheat penne pasta**, **200ml milk**, **20g paneer crushed**, **4 tomatoes + capsicum + 2 onions + garlic + veggies**, and **~1 tsp oil**. That whole bowl was estimated at **~685 kcal / ~28g protein**.
+- **Coach read on using that same pasta idea tonight:** If you repeat that full Day 29 recipe and then just add chicken plus **1 scoop OWN** later, the night blows up immediately. That would turn into a **1,000+ kcal** dinner block and is **not approved** for today's remaining bank.
+- **Corrected night pasta version using the Day 29 recipe skeleton:**
+
+| Item | Quantity | Estimated kcal | Estimated protein | Coach read |
+|---|---:|---:|---:|---|
+| Yu Foodlabs whole wheat penne pasta | **25-30g dry** | ~90-105 | ~3-4g | Keep pasta small. This is a garnish-carb, not the main food. |
+| Chicken | **140-150g cooked edible** | ~225-245 | ~36-39g | This must be the protein anchor. |
+| Sauce veg | **2 tomatoes max + 1 small onion + capsicum + garlic** | ~55-70 | ~2g | Cut down from the Day 29 breakfast recipe. |
+| Oil | **1/4-1/2 tsp max** | ~10-20 | 0g | No creamy base. |
+
+- **What to remove from the old recipe tonight:** **No milk. No paneer. No cheese slice. No creamy base.** Also **do not use 4 tomatoes** again; that was already flagged earlier as a gut-acidity risk.
+- **Night pasta + whey closeout table from current Day 50 bank:**
+
+| Night option | Estimated added kcal | Estimated added protein | Estimated day-end kcal | Estimated day-end protein | Coach read |
+|---|---:|---:|---:|---:|---|
+| **Best clean close still**: roasted chicken **200g** + **1 scoop OWN** | ~447 | ~79g | ~1,882 | ~187g | Cleanest close. Still wins. |
+| **Controlled pasta compromise**: **25-30g dry penne + 140-150g cooked chicken** + **1 scoop OWN** | ~400-440 + ~120 | ~41-45g + ~27g | ~1,955-1,995 | ~176-180g | Acceptable only if you really want pasta; still worse than plain chicken. |
+| **Wrong move**: full Day 29 pasta recipe + chicken + whey | 1,000+ | Protein okay but calories explode | 2,400+ | — | Not approved. |
+
+- **Direct recommendation tonight:** If the goal is the **best macro close**, do **not** make pasta. Eat **200g roasted chicken** and take **1 scoop OWN** pre-sleep. If you strongly want the pasta version, keep it to **25-30g dry penne** and **140-150g cooked chicken**, with **no milk / no paneer / no creamy base**.
+- **OWN stock / reorder analysis:** Current logged OWN usage is **11.5 scoops** on the active pack. If tonight's planned **1 scoop OWN** is taken, the counter effectively moves to about **12.5 scoops used**, which leaves only roughly **~4 scoops**. That is already in **reorder-now** territory.
+
+| OWN pack decision | Verdict | Why |
+|---|---|---|
+| Order next OWN pack now | **Approved** | Avoid a protein-gap repeat when current stock falls below ~4 scoops |
+| Wait until pack is almost empty | **Not approved** | Too risky; delivery lag can force another ON backup phase |
+
+- **OWN order advice:** Place the next OWN order **tonight or tomorrow morning**. Do **not** wait for the current pack to finish.
+
+- **Dinner actual:** Homemade chicken penne pasta eaten. User reports it felt **very good on the gut/stomach** and used **no ketchup, no sauce, no preservative-based add-ons**.
+- **Dinner actual ingredients reported:** **200g boneless chicken cubes**, **30g dry penne**, **2 medium onions**, **3 tomatoes**, **1 capsicum**, **100ml milk**, **2 tbsp mustard oil**, **2 green chillies**, salt, haldi, dhaniya powder, **2 oregano sachets**.
+- **Assumption note:** I am treating the **200g boneless chicken** as **cooked edible weight**, because in this protocol eaten amounts default to **ready-to-eat / cooked form** unless stated otherwise.
+- **Dinner analysis:** The **good part** is real: no preservative sauces, no ketchup, and your stomach tolerated it well. The **main failure** is also clear: **2 tbsp mustard oil alone is about ~240 kcal**. That single choice is what turned a potentially acceptable chicken-pasta compromise into a calorie overshoot dinner.
+- **Second warning:** **100ml milk** for cheesiness was not a gut problem tonight, but it was an unnecessary calorie add-on. It is not the main damage; the oil is.
+- **Day 50 dinner table against target (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Pre-dinner running total | — | 1,435 | 108g | 1,435 | 108g | 465 kcal, 72g protein |
+| Dinner: boneless chicken | 200g cooked edible | 330 | 52g | 1,765 | 160g | 135 kcal, 20g protein |
+| Dinner: penne pasta | 30g dry | 105 | 4g | 1,870 | 164g | 30 kcal, 16g protein |
+| Dinner: onions + tomatoes + capsicum + green chilli | 2 medium onions + 3 tomatoes + 1 capsicum + 2 chillies | 180 | 5g | 2,050 | 169g | -150 kcal, 11g protein |
+| Dinner: milk | 100ml | 50 | 3g | 2,100 | 172g | -200 kcal, 8g protein |
+| Dinner: mustard oil | 2 tbsp | 240 | 0g | 2,340 | 172g | -440 kcal, 8g protein |
+
+- **Current Day 50 read after dinner actual:** You are now at approximately **~2,340 kcal / ~172g protein** **before** the planned pre-sleep OWN. That means the day is already about **~440 kcal above target**, while still about **~8g protein short**.
+- **Pre-sleep OWN plan analysis:** Taking **1 scoop OWN** later will fix the protein gap, but it will push the calorie overshoot further. On balance, I still approve it tonight because the protein close matters more than protecting a day that is **already** above calories.
+
+| Planned late intake | Quantity | Estimated kcal | Estimated protein | Projected day-end kcal | Projected day-end protein | Coach read |
+|---|---:|---:|---:|---:|---:|---|
+| OWN Whey Isolate | 1 scoop | 120 | 27g | ~2,460 | ~199g | This was the earlier projection, but it is **no longer the correct call** |
+
+- **Coach verdict:**
+
+| Claim | Verdict | Why |
+|---|---|---|
+| “This pasta was better for my stomach” | **Accepted** | Real tolerance matters; no sauce/ketchup helped |
+| “So this is a good cut meal” | **Not accepted** | The **2 tbsp mustard oil** made it too calorie-expensive |
+| “The problem would have been preservatives” | **Only partly true** | Gut-wise maybe yes, but fat-loss-wise the real problem was the oil load |
+
+- **Future corrected version if you want to repeat this recipe:**
+  Keep **200g cooked chicken** and **30g dry penne**.
+  Cut to **1 medium onion + 2 tomatoes + 1 capsicum**.
+  Use **1 tsp oil max**, not 2 tbsp.
+  Keep milk to **0-50ml max** or skip it fully.
+  That corrected version keeps the taste profile, stays easier on your stomach, and stops this from becoming a fake-health pasta.
+- **Correction after user challenge:** The user is right to question the whey now. At **~172g protein already**, the remaining gap is only about **~8g**, while calories are already about **~440 kcal above target**. On a **pause day**, that last 8g does **not** justify another **~120 kcal**.
+- **Revised late-night decision:** **Skip the OWN tonight.** The day should close at approximately **~2,340 kcal / ~172g protein**.
+
+| Recheck question | Decision | Why |
+|---|---|---|
+| At ~172g protein, do you still need 1 scoop OWN tonight? | **No** | Protein is already close enough; calorie damage is already real |
+| Is 180g a magic number that must be forced every night? | **No** | Hitting ~172g on an overshot pause day is acceptable |
+| Better move now | **Stop food here and sleep** | Best damage control for Day 50 |
+
+- **Updated coach verdict:** Earlier I prioritized closing protein exactly. On recheck, that is too rigid for tonight. The better decision is to **skip the whey**, accept **~172g protein**, and avoid making the calorie overshoot worse.
+- **OWN reorder call remains approved:** Even without tonight's scoop, current-pack usage is still logged at **11.5 scoops** with only about **~5 scoops remaining**, so ordering the next OWN pack now is still the correct move.
+
+- **Global OWN count check:**
+
+| Count type | Value | Meaning |
+|---|---:|---|
+| Current pack counter | **11.5 scoops** | Exact count for the active OWN isolate pack in BrainState |
+| Confirmed lifetime OWN count from explicit logs | **24.25 scoops** | Conservative count using only entries that explicitly say **OWN** |
+| Likely true lifetime OWN count | **~30-31 scoops** | More realistic estimate if generic **"whey"** entries from the pre-ON gap era are also treated as OWN |
+
+- **Note on the count:** Use **11.5 scoops** for current-stock math. Use **24.25 scoops confirmed** as the clean global log number. The true lifetime number is probably higher, but not all older entries named the brand explicitly.
+- **Web findings on OWN isolate vs OWN concentrate:**
+
+| Source / finding | What it showed | Coach read |
+|---|---|---|
+| Amazon listing for **OWN Whey Protein Isolate** | **24g protein per scoop**, **5.6g BCAA**, no added sugar/flavours/artificial sweeteners/colours, lab-tested | Lean-positioned product, but listing copy has a weird inconsistency |
+| Amazon listing for **OWN Whey Protein Concentrate** | **24g protein per scoop**, **5.2g BCAA**, same clean-label claims, lab-tested | On paper this is closer to the isolate than normal market expectations |
+| Important anomaly | The **OWN isolate** Amazon page bullet copy oddly says it is made from **whey protein concentrate** | Verify the label/photo before buying. Listing copy may be sloppy. |
+| GNC comparison article | Concentrate is usually **70-80% protein** with more lactose/fat/carbs; isolate usually **90-95% protein** with lower lactose/fat and easier digestion | General whey physiology still favors isolate for gut-sensitive fat-loss phases |
+
+- **Concentrate trial decision:**
+
+| Question | Decision | Why |
+|---|---|---|
+| Should you blind-switch from OWN isolate to OWN concentrate? | **No** | Your current isolate is already gut-safe; concentrate will not automatically solve the sleepiness issue |
+| Is a **500g concentrate trial** at **~₹1,300** acceptable? | **Yes, conditionally** | Cheap enough to test without committing the whole stack |
+| Should concentrate become your only protein powder immediately? | **No** | Trial first, then decide based on digestion and consistency |
+
+- **Coach recommendation:** If you want to test it, order **only 500g** of OWN concentrate, not a big bulk buy. But treat it as a **controlled digestion/value experiment**, not as a full switch.
+- **Exact test protocol if you buy it:**
+  First 3-4 uses should be on **non-exam, non-gym-critical days**.
+  Start with **0.5 scoop** in **lukewarm water** with **5 almonds or 30g roasted chana**, around **late morning or mid-day**, not before sleep.
+  If there is **no bloating, reflux, heaviness, or loose motion** across those trials, then the concentrate is acceptable as a budget option.
+  If even mild gut trouble appears, revert to isolate and stop experimenting.
+- **Bottom line:** Your **sleep-wave issue is a timing issue first**, not proof that isolate is wrong. But at **₹1,300 for 500g**, a **controlled concentrate trial** is reasonable if you want a cheaper backup/main option and you test it properly.
+
+- **Health-first purchase decision update:** User clarified that the priority is **health and cut consistency first**, not chasing cheaper protein if it creates digestion/calorie-noise risk.
+
+| Option | Coach call | Reason |
+|---|---|---|
+| **OWN Whey Isolate** at **~₹2,000** from Swiggy Instamart | **Preferred buy now** | Already proven safer for this gut-sensitive cut phase; keeps digestion risk and decision fatigue lower |
+| **OWN Whey Concentrate** at **~₹1,300** for 500g | **Defer for now** | Saving money is not worth disrupting a calorie cut with even a small chance of bloating, reflux, heaviness, or appetite/noise issues |
+
+- **Final coach recommendation:** Order the **current OWN Whey Isolate** now. In your case, the extra ~₹700 is basically an insurance premium for **gut stability, cleaner cut execution, and fewer variables during exam + training weeks**.
+- **Concentrate policy from here:** Revisit only later if either **(a)** isolate becomes unavailable, or **(b)** the cut is stable and you want to run a controlled low-risk digestion trial on a calmer week.
+- **Order update:** User has now ordered **one more 500g packet of OWN Whey Isolate, Cocoa** for restock via **Swiggy Instamart**.
+- **Coach read:** Correct move. This keeps the primary protein powder unchanged during the cut, protects gut stability, and removes pressure from the current pack running low.
