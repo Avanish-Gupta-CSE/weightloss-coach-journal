@@ -1,0 +1,50 @@
+{
+  "startDate": "2026-03-14",
+  "startWeight": 91.45,
+  "targetWeight": 70.0,
+  "height": 168,
+  "age": 26,
+  "sex": "male",
+  "macroTargets": {
+    "calories": 1900,
+    "protein": 180,
+    "carbs": 170,
+    "fat": 56
+  },
+  "phases": [
+    {
+      "name": "Phase 1: Foundation",
+      "weeks": "1-4",
+      "start": "2026-03-14",
+      "end": "2026-04-11",
+      "description": "Machine-only workouts, build habit, fix gut"
+    },
+    {
+      "name": "Phase 2: Machines + Free Weights",
+      "weeks": "5-8",
+      "start": "2026-04-12",
+      "end": "2026-06-06",
+      "description": "Add goblet squats, DB rows, DB press"
+    },
+    {
+      "name": "Phase 3: Push",
+      "weeks": "9-24",
+      "start": "2026-06-07",
+      "end": "2026-09-05",
+      "description": "Full hybrid program, increase HIIT"
+    },
+    {
+      "name": "Phase 4: Final Cut",
+      "weeks": "25+",
+      "start": "2026-09-06",
+      "end": null,
+      "description": "Final push to 70 kg, refeed days"
+    }
+  ],
+  "milestones": [
+    { "weight": 86.45, "label": "-5 kg", "targetDate": "2026-05-09" },
+    { "weight": 81.45, "label": "-10 kg", "targetDate": "2026-07-01" },
+    { "weight": 76.45, "label": "-15 kg", "targetDate": "2026-09-01" },
+    { "weight": 70.0, "label": "GOAL", "targetDate": "2026-12-01" }
+  ]
+}

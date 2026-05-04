@@ -1,0 +1,29 @@
+[
+  {
+    "sessionNumber": 1,
+    "date": "2026-03-14",
+    "day": 0,
+    "type": "Workout",
+    "details": "rest day (exam day)",
+    "exercises": [],
+    "notes": ""
+  },
+  {
+    "sessionNumber": 2,
+    "date": "2026-03-20",
+    "day": 6,
+    "type": "Workout",
+    "details": "Rest day. Too tired post-travel. Gym resumes **Monday March 23** at 6:20 AM (Phase 1 Week 1, Day 1, machines-only).",
+    "exercises": [],
+    "notes": "- **Diet shift:** User converted to vegetarian mode (no eggs, no non-veg). Paneer, dal, besan, oats, chapatis, curd = new protein sources.\n- **Gym note:** Phase 1 machine-only continues (beginner, no dumbbell form yet). Crowded morning gym — arrive at 6:15 AM sharp to grab machines before office wor"
+  },
+  {
+    "sessionNumber": 3,
+    "date": "2026-03-21",
+    "day": 7,
+    "type": "Workout",
+    "details": "Rest day. Walking pad 60 min at 4–5 kmph while studying. Optional home bodyweight circuit (3 rounds: 15 BW squats, 10 push-ups, 30s plank, 10 reverse lunges, 20 mountain climbers).",
+    "exercises": [],
+    "notes": ""
+  }
+]

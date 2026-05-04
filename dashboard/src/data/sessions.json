@@ -1,0 +1,104 @@
+[
+  {
+    "sessionNumber": 20,
+    "date": "2026-04-06",
+    "day": 23,
+    "phase": 1,
+    "type": "Upper Body",
+    "exercises": [
+      { "name": "Chest Press", "weight": "50 lbs", "sets": 2, "reps": "12-15" },
+      { "name": "Lat Pulldown", "weight": "45 lbs", "sets": 2, "reps": "12-15" },
+      { "name": "Seated Row", "weight": "28 kg", "sets": 2, "reps": "12-15" },
+      { "name": "Shoulder Press", "weight": "40 lbs", "sets": 2, "reps": "12-15" }
+    ],
+    "notes": "W3 weigh-in day"
+  },
+  {
+    "sessionNumber": 21,
+    "date": "2026-04-09",
+    "day": 26,
+    "phase": 1,
+    "type": "Lower Body",
+    "exercises": [
+      { "name": "Leg Press", "weight": "85 kg", "sets": 2, "reps": "12-15" },
+      { "name": "Leg Extension", "weight": "25 kg", "sets": 2, "reps": "12-15" },
+      { "name": "Leg Curl", "weight": "25 kg", "sets": 2, "reps": "12-15" }
+    ],
+    "notes": ""
+  },
+  {
+    "sessionNumber": 22,
+    "date": "2026-04-13",
+    "day": 30,
+    "phase": 1,
+    "type": "Upper Body",
+    "exercises": [
+      { "name": "Chest Press", "weight": "50 lbs", "sets": 2, "reps": "12-15" },
+      { "name": "Lat Pulldown", "weight": "50 lbs", "sets": 2, "reps": "12-15" },
+      { "name": "Seated Row", "weight": "28 kg", "sets": 2, "reps": "12-15" }
+    ],
+    "notes": "W4 weigh-in"
+  },
+  {
+    "sessionNumber": 23,
+    "date": "2026-04-14",
+    "day": 31,
+    "phase": 2,
+    "type": "Lower Body",
+    "exercises": [
+      { "name": "Leg Press", "weight": "90 kg", "sets": 3, "reps": "10-12" },
+      { "name": "Goblet Squat", "weight": "10 kg", "sets": 3, "reps": "10-12" },
+      { "name": "Leg Extension", "weight": "28 kg", "sets": 3, "reps": "10-12" },
+      { "name": "Leg Curl", "weight": "28 kg", "sets": 3, "reps": "10-12" }
+    ],
+    "notes": "Phase 2 begins"
+  },
+  {
+    "sessionNumber": 24,
+    "date": "2026-04-20",
+    "day": 37,
+    "phase": 2,
+    "type": "Upper Body",
+    "exercises": [
+      { "name": "Chest Press", "weight": "50 lbs", "sets": 3, "reps": "10-12" },
+      { "name": "Lat Pulldown", "weight": "50 lbs", "sets": 3, "reps": "10-12" },
+      { "name": "DB Shoulder Press", "weight": "7.5 kg", "sets": 3, "reps": "10-12" },
+      { "name": "DB Bent-Over Row", "weight": "10 kg", "sets": 3, "reps": "10-12" }
+    ],
+    "notes": "W5 official - Phase 2 Day 1"
+  },
+  {
+    "sessionNumber": 25,
+    "date": "2026-05-01",
+    "day": 48,
+    "phase": 2,
+    "type": "Lower Body",
+    "exercises": [
+      { "name": "Leg Press", "weight": "90 kg", "sets": 3, "reps": "10-12" },
+      { "name": "Goblet Squat", "weight": "10 kg", "sets": 3, "reps": "10-12" },
+      { "name": "Leg Extension", "weight": "29 kg", "sets": 3, "reps": "10-12" },
+      { "name": "Leg Curl", "weight": "29 kg", "sets": 3, "reps": "10-12" },
+      { "name": "Hip Adductor", "weight": "23 kg", "sets": 3, "reps": "12-15" },
+      { "name": "Hip Abductor", "weight": "23 kg", "sets": 3, "reps": "12-15" },
+      { "name": "Cable Crunch", "weight": "15 lbs", "sets": 3, "reps": "12-15" }
+    ],
+    "notes": "Good consolidation. Leg Curl still jerky."
+  },
+  {
+    "sessionNumber": 26,
+    "date": "2026-05-02",
+    "day": 49,
+    "phase": 2,
+    "type": "Full Body",
+    "exercises": [
+      { "name": "Chest Press", "weight": "50 lbs", "sets": 3, "reps": "12+" },
+      { "name": "Lat Pulldown", "weight": "55 lbs", "sets": 3, "reps": "12+" },
+      { "name": "DB Shoulder Press", "weight": "7.5 kg", "sets": 3, "reps": "12" },
+      { "name": "Leg Press", "weight": "90 kg", "sets": 3, "reps": "12" },
+      { "name": "DB Bent-Over Row", "weight": "10 kg", "sets": 3, "reps": "12" },
+      { "name": "Leg Curl", "weight": "29 kg", "sets": 2, "reps": "12" },
+      { "name": "Cable Crunch", "weight": "15 lbs", "sets": 3, "reps": "15" }
+    ],
+    "notes": "Strong session. Upper repeatability improving."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  { "date": "2026-03-14", "week": 0, "weight": 91.45, "type": "baseline", "notes": "Day 0" },
+  { "date": "2026-03-23", "week": 1, "weight": 90.00, "type": "official", "notes": "Naked, post-BM, post-bath" },
+  { "date": "2026-03-30", "week": 2, "weight": null, "type": "skipped", "notes": "Fever 102.2F - false reading" },
+  { "date": "2026-04-06", "week": 3, "weight": 88.15, "type": "official", "notes": "W3 official" },
+  { "date": "2026-04-13", "week": 4, "weight": 88.05, "type": "official", "notes": "Post-bath naked" },
+  { "date": "2026-04-20", "week": 5, "weight": 88.15, "type": "official", "notes": "Phase 2 begins" },
+  { "date": "2026-04-27", "week": 6, "weight": null, "type": "missed", "notes": "Official missed" },
+  { "date": "2026-04-29", "week": 6, "weight": 86.45, "type": "spot-check", "notes": "Unofficial, post-GI recovery" }
+]
