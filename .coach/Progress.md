@@ -2384,3 +2384,88 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 - **Concentrate policy from here:** Revisit only later if either **(a)** isolate becomes unavailable, or **(b)** the cut is stable and you want to run a controlled low-risk digestion trial on a calmer week.
 - **Order update:** User has now ordered **one more 500g packet of OWN Whey Isolate, Cocoa** for restock via **Swiggy Instamart**.
 - **Coach read:** Correct move. This keeps the primary protein powder unchanged during the cut, protects gut stability, and removes pressure from the current pack running low.
+
+- **Delivery confirmation:** The newly ordered **OWN Whey Isolate 500g (Cocoa)** was delivered later on **Day 50**. Keep it as the sealed restock; the current open pack remains the one in active use.
+- **Forgotten late add-ons actual after delivery:** **2 spoons Bikaneri besan bhujia**, **2 spoons aloo bhujia**, **10 almonds**, **1 very small bite of muruku**, and **2 spoons leftover chicken penne pasta**.
+- **Add-on analysis:** These extras did **not** solve a protein problem. They mainly added crunchy fat-and-carb calories on top of an already overshot pause day. The main nutrition damage came from **stacking** them after the dinner overshoot was already locked in.
+- **Day 50 late add-ons table against target (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|---:|
+| Pre-add-on running total | — | 2,340 | 172g | 2,340 | 172g | -440 kcal, 8g protein |
+| Bikaneri besan bhujia | 2 spoons | 110 | 2g | 2,450 | 174g | -550 kcal, 6g protein |
+| Aloo bhujia | 2 spoons | 110 | 1g | 2,560 | 175g | -660 kcal, 5g protein |
+| Almonds | 10 pieces | 70 | 2g | 2,630 | 177g | -730 kcal, 3g protein |
+| Muruku | 1 very small bite | 15 | 0g | 2,645 | 177g | -745 kcal, 3g protein |
+| Leftover chicken penne pasta | 2 spoons | 40 | 2g | 2,685 | 179g | -785 kcal, 1g protein |
+
+- **Revised Day 50 closing verdict:** Final day estimate is now approximately **~2,685 kcal / ~179g protein**.
+- **Coach read:** This is **not** a protein-failure day anymore. It is a **late-calorie-drift pause day**: first the oil-heavy pasta, then the namkeen/grazing extras.
+- **Carry-forward rule from this closeout:** Once dinner is finished on a **pause/rest day**, the kitchen is closed unless there is a clearly planned protein block. **Bhujia + almonds + leftover bites** are exactly how a manageable overshoot becomes a big overshoot.
+
+---
+### 2026-05-04 (Day 51) — Morning Plan
+- **First task:** Official **W7 weigh-in** immediately after bathroom, naked, fasted, if not already done. Then take **same-light front + side mirror photos**.
+- **Today workout split:** Return to normal **Phase 2 Monday = Upper Body / DB Shoulder Press day**.
+- **Training priority for Day 51:** Resume normal structure after the exam/pause day. This is **not** a punishment workout for yesterday. Keep it compact, no HIIT, no junk volume.
+- **Gym timing:** If today is an **office day**, target **~6:20 AM** gym entry. If today is **WFH**, the best slot remains **~12:30 PM**.
+- **Day 51 workout table:**
+
+| # | Exercise | Target load | Sets x reps | Coach note |
+|---|---|---:|---:|---|
+| — | Warm-up | 5 min easy walk or rod/band mobility | — | Open shoulders, elbows, and upper back before the first press |
+| 1 | Chest Press | 50 lbs | 3 x 10-12 | Hold here until all 3 sets are clean with no rushed lockout |
+| 2 | Lat Pulldown | 55 lbs | 3 x 10-12 | Saturday repeat supports this; zero torso swing |
+| 3 | Seated Row | 29.6 kg | 3 x 10-12 | Accept the machine increment; chest tall, squeeze back hard |
+| 4 | DB Shoulder Press | 7.5 kg each arm | 3 x 10-12 | Passed the repeat test; if back arches, drop to 5 kg for the remaining work |
+| 5 | Tricep Pushdown | 23 kg | 3 x 10-12 | Keep elbows pinned; smooth lockout only |
+| 6 | Cable Bicep Curl | 55 lbs | 3 x 10-12 | Do **not** retest 70 lbs today; strict elbows, no torso sway |
+| — | Cool-down | 3-5 min easy walk + stretch | — | No HIIT today |
+| — | Post-workout walking pad | 4.5-5.0 kmph | 30-40 min | Use this while studying instead of adding HIIT |
+
+- **Session length target:** ~45 min gym + **30-40 min** walking pad.
+- **Post-workout protein call:** **1 scoop OWN Whey Isolate** in **lukewarm water** with **5 almonds or 30g roasted chana** is approved **if the gym session is completed**.
+- **Food discipline priority for today:** After yesterday's overshoot, today must be **boring and protein-first**. No bhujia, no muruku, no leftover grazing.
+
+---
+### 2026-05-04 (Day 51) — Actual Workout + Weigh-In Update
+- **Gym:** Session 27 ✅ Monday Upper Body / DB Shoulder Press day completed. Warm-up = **hand stretching with band + rod for ~5-10 min**.
+- **Workout actual:** Chest Press **50 lbs x3x12** ✅ | Lat Pulldown **55 lbs x3x12** ✅ | Seated Row **29.6 kg x3x12** ✅ | DB Shoulder Press **7.5 kg each arm x3x12** ✅ with **minor hand wobble on some reps** | Tricep Pushdown **23 kg x3x12** ✅ with **mid-set fatigue / urge to leave the set briefly, but all reps completed** | Cable Bicep Curl **60 lbs x3x12** ✅ because the machine did **not** offer a **55-lb** option, and user reports the load still felt **stable**.
+- **Post-gym protein actual:** **1 scoop OWN Whey Isolate** ✅
+- **Weigh-in actual:** **86.65 kg naked**. User reports some bowel movement happened in the morning before gym, but the scale reading was taken **after the gym** and **after the post-gym OWN whey**, so this is a **useful Monday checkpoint** but **not** a perfectly clean fasted protocol-standard weigh-in.
+
+- **Workout review table:**
+
+| Exercise | Planned load | Actual load | Result | Coach read |
+|---|---:|---:|---:|---|
+| Chest Press | 50 lbs | 50 lbs | 3 x 12 | **Stable.** Clean repeatability confirmed. |
+| Lat Pulldown | 55 lbs | 55 lbs | 3 x 12 | **Stable.** Keep torso still; future increase only after one more equally clean repeat. |
+| Seated Row | 29.6 kg | 29.6 kg | 3 x 12 | **Stable.** Accepted machine increment looks solid now. |
+| DB Shoulder Press | 7.5 kg each arm | 7.5 kg each arm | 3 x 12 | **Stable, but not fully crisp yet.** Minor hand wobble means the weight is right at the edge of the current control zone. |
+| Tricep Pushdown | 23 kg | 23 kg | 3 x 12 | **Stable with fatigue.** Good sign that you wanted to pause mid-set but still completed all work. |
+| Cable Bicep Curl | 55 lbs planned | 60 lbs actual | 3 x 12 | **Stable result on a forced jump.** Good sign, but still repeat once more before calling 60 lbs fully locked. |
+
+- **Workout analysis:** This was a **full compliance win**. The biggest positive is that the whole Monday upper-body block now looks **mostly stable**, not shaky or random. That is the exact boring repeatability Phase 2 needs.
+- **DB shoulder press interpretation:** **7.5 kg** stays approved, but the **slight hand wobble** means do **not** rush to increase it. First goal = make all reps look calmer and more planted.
+- **Tricep-pushdown interpretation:** Wanting to break the set in the middle but still finishing all reps is actually useful information. It means **23 kg is a real working weight**, not an easy warm-up weight.
+- **Bicep-curl interpretation:** Because **55 lbs** was unavailable, **60 lbs** became a forced machine jump rather than a chosen overreach. Since it still felt **stable** and you hit **3 x 12**, this is a strong sign, but it should still be treated as a **repeat-once-more checkpoint**, not an automatic permanent baseline.
+
+- **Weight interpretation table:**
+
+| Checkpoint | Weight | Coach read |
+|---|---:|---|
+| Day 0 baseline | 91.45 kg | Starting point |
+| W5 official (Apr 20) | 88.15 kg | Last clean official Monday reading |
+| Apr 29 delayed spot check | 86.45 kg | Useful but unofficial |
+| Today (May 4) post-gym / post-whey | 86.65 kg | **Useful checkpoint, not a perfect protocol-standard weigh-in** |
+
+- **Scale analysis:** Even with the imperfect weigh-in conditions and the heavy Day 50 overshoot, today still reads **-4.80 kg from Day 0** and **-1.50 kg versus the last official weigh-in (W5)**. It is also only **+0.20 kg above** the Apr 29 delayed spot check. That means there is **no real rebound problem here**.
+- **Most important caution:** Because this was **after gym** and **after whey**, do **not** over-interpret the decimal. Use it as a strong trend confirmation, not as lab-grade data.
+
+- **Day 51 intake table so far against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| OWN Whey Isolate, 1 scoop post-gym | 120 | 27g | 120 | 27g | 1,780 kcal, 153g protein |
+
+- **Coach feedback:** Today is exactly what was needed after yesterday: **no drama, no skipped session, no punishment cardio, no fake heroics**. The upper-body structure is now credible enough that next Monday can include **selective** progression trials instead of random jumps. Until then, the job is simple: eat clean, keep protein high, and do not waste the session with evening snack drift.
