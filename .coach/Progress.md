@@ -2469,3 +2469,166 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 | OWN Whey Isolate, 1 scoop post-gym | 120 | 27g | 120 | 27g | 1,780 kcal, 153g protein |
 
 - **Coach feedback:** Today is exactly what was needed after yesterday: **no drama, no skipped session, no punishment cardio, no fake heroics**. The upper-body structure is now credible enough that next Monday can include **selective** progression trials instead of random jumps. Until then, the job is simple: eat clean, keep protein high, and do not waste the session with evening snack drift.
+
+- **Breakfast actual later:** **2 rotis** + **2 omelettes of 2 eggs each** + **1 coconut water** ✅
+- **Extra snack actual:** **5-6 almonds** ✅
+- **Lunch actual:** **90g cooked rice** + **230g cooked moong dal** + **80g paneer sabzi** ✅
+- **Office event actual:** User resisted most of the Woliba snacks but still ate **3 fried bakery potato chips**, **1 vada pav with green + sweet chutney**, and only a **1 teaspoon taste of cake**. **Dairy Milk was not eaten.**
+- **Dinner actual:** **2 eggs in egg curry** + **2 rotis**.
+- **Day 51 final intake table against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| OWN Whey Isolate, 1 scoop post-gym | 120 | 27g | 120 | 27g | 1,780 kcal, 153g protein |
+| Breakfast: 2 omelettes of 2 eggs each | 340 | 25g | 460 | 52g | 1,440 kcal, 128g protein |
+| Breakfast: 2 rotis | 200 | 6g | 660 | 58g | 1,240 kcal, 122g protein |
+| Breakfast: 1 coconut water | 45 | 0g | 705 | 58g | 1,195 kcal, 122g protein |
+| 5-6 almonds | 40 | 1g | 745 | 59g | 1,155 kcal, 121g protein |
+| Lunch: 90g cooked rice | 115 | 2g | 860 | 61g | 1,040 kcal, 119g protein |
+| Lunch: 230g cooked moong dal | 235 | 16g | 1,095 | 77g | 805 kcal, 103g protein |
+| Lunch: 80g paneer sabzi | 210 | 14g | 1,305 | 91g | 595 kcal, 89g protein |
+| Office event: 3 fried bakery chips | 25 | 0g | 1,330 | 91g | 570 kcal, 89g protein |
+| Office event: 1 vada pav + chutneys | 300 | 7g | 1,630 | 98g | 270 kcal, 82g protein |
+| Office event: 1 tsp cake taste | 20 | 0g | 1,650 | 98g | 250 kcal, 82g protein |
+| Dinner: 2 eggs in egg curry | 180 | 12g | 1,830 | 110g | 70 kcal, 70g protein |
+| Dinner: 2 rotis | 200 | 6g | 2,030 | 116g | -130 kcal, 64g protein |
+
+- **Day 51 closing verdict:** Final day estimate = **~2,030 kcal / ~116g protein**.
+- **Day 51 analysis:** This was **not** a collapse day, because you resisted the cake and Dairy Milk and kept the office damage far smaller than it could have become. But it was still a **protein-short day**. The major leak was the **vada pav** block: roughly **~300 kcal** for only about **~7g protein**.
+- **Coach read:** The workout side was excellent. The nutrition side wasted that good session by turning the office event into a calorie block without enough protein return. On a gym day, that is the exact kind of snack that keeps calories near target but leaves recovery underfed.
+
+---
+### 2026-05-05 (Day 52) — Morning Update / Recovery Shift
+- **Recovery update:** User woke at **5:00 AM** and wanted to go to the gym, but reported **whole-body pain / fatigue** strong enough to prevent getting up. Today is approved as a **rest day** instead of the normal Tuesday lower-body day.
+- **Temporary schedule shift approved:** Move **Tuesday Lower Body + Core / Goblet Squat day** to **Wednesday this week only**. Then resume **Thursday Upper Pull / DB Bent-Over Row day** exactly as normal.
+- **Today workout call:** **No gym today.** If the body loosens later, only do **20-30 min easy walking pad at 4.0-4.5 kmph**. No forced cardio. No guilt spiral.
+- **Today food structure:** Tuesday is **veg-only** under permanent rule **R-L**, so breakfast and lunch must stay controlled and whey must patch the protein gap.
+
+- **Day 52 breakfast prescription:**
+
+| Item | Quantity to eat | Coach note |
+|---|---:|---|
+| High-protein bread sandwich | **2 sandwiches total = 4 slices bread** | This is the max. Do **not** go to 3 sandwiches. |
+| Aloo filling inside sandwiches | **80-100g cooked aloo total** | Keep filling controlled. No butter, cheese, or mayo. |
+| Chutney | **Thin layer only if already used** | Green chutney is better than sweet chutney. No ketchup. |
+
+- **Day 52 lunch prescription:**
+
+| Item | Quantity to eat | Coach note |
+|---|---:|---|
+| Rice | **70g cooked** | Keep this tight because breakfast is already bread-based. |
+| Moong dal | **250g cooked** | This is the main lunch protein anchor. |
+| Aloo-paneer sabzi | **150g ready-to-eat total** | Serve a **paneer-heavy** portion, roughly **60-70g paneer** within that serving. |
+
+- **Day 52 whey plan:**
+
+| Whey block | Quantity | Time | How |
+|---|---:|---|---|
+| Primary whey today | **1 scoop OWN** | **10:30-11:00 AM** | Lukewarm water only, with **5 almonds** or **30g roasted chana** |
+| Backup whey tonight | **0.5-1 scoop OWN only if dinner is protein-light** | **9:30-10:00 PM** | Use only after dinner math, not automatically |
+
+- **Why the whey is mid-morning, not breakfast:** Breakfast is already bread + aloo heavy and today is a **rest + veg-only** day. The cleanest place to patch protein is **10:30-11:00 AM**, exactly as earlier rest-day whey strategy has worked in this protocol.
+
+---
+### 2026-05-05 (Day 52) — Actual Intake Update + Dinner Call
+- **Actual breakfast:** **4 high-protein bread slices** with **~80g cooked aloo filling total** + **1 coconut water**.
+- **Actual protein patch:** **1 scoop OWN Whey Isolate** at about **11:00 AM**.
+- **Actual lunch:** **80g cooked rice** + **200g cooked moong dal** + **150g paneer-aloo sabzi** + **1 Amul Premium buttermilk**.
+- **Actual extra snacks:** **BRB peanut butter wafer bites = about 1.5 servings / ~37.5g total** + **1 spoon Bikaneri besan bhujia**.
+- **Web-check correction for BRB wafers:** The quoted **129 kcal / 4g protein** is **per 25g serving**, not per **100g**. Cross-check sources were consistent enough to use **~129-134 kcal and ~3.8-4g protein per 25g serving**. So **1.5 servings** is logged as roughly **~194 kcal / ~6g protein**.
+
+- **Day 52 intake table so far against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| Breakfast: high-protein bread, 4 slices | 320 | 20g | 320 | 20g | 1,580 kcal, 160g protein |
+| Breakfast: aloo filling, ~80g cooked | 70 | 2g | 390 | 22g | 1,510 kcal, 158g protein |
+| Breakfast: 1 coconut water | 45 | 0g | 435 | 22g | 1,465 kcal, 158g protein |
+| OWN Whey Isolate, 1 scoop at ~11 AM | 120 | 27g | 555 | 49g | 1,345 kcal, 131g protein |
+| Lunch: 80g cooked rice | 105 | 2g | 660 | 51g | 1,240 kcal, 129g protein |
+| Lunch: 200g cooked moong dal | 205 | 14g | 865 | 65g | 1,035 kcal, 115g protein |
+| Lunch: 150g paneer-aloo sabzi | 230 | 13g | 1,095 | 78g | 805 kcal, 102g protein |
+| Lunch: 1 Amul Premium buttermilk | 35 | 2g | 1,130 | 80g | 770 kcal, 100g protein |
+| BRB wafer bites, ~1.5 servings / ~37.5g | 194 | 6g | 1,324 | 86g | 576 kcal, 94g protein |
+| Bikaneri besan bhujia, 1 spoon | 45 | 1g | 1,369 | 87g | 531 kcal, 93g protein |
+
+- **Dinner prescription now:**
+
+| Item | Quantity to eat | Why |
+|---|---:|---|
+| Roti | **1 medium roti only** | Bread + rice + wafers have already used most of today’s carb budget. |
+| Gobhi sabzi | **200g ready-to-eat** | Gives volume and satiety without turning dinner into another starch block. |
+
+- **Night whey prescription now:**
+
+| Whey block | Quantity | Time | How |
+|---|---:|---|---|
+| OWN Whey Isolate | **1 scoop** | **9:30-10:00 PM** | Lukewarm water only, with **5 almonds** |
+| OWN Whey Isolate top-up | **0.5 scoop** | **20-30 min before sleep** | Do it tonight because dinner is low-protein and today is still far below the 180g goal |
+
+- **Projected Day 52 close if you follow this exactly:** about **~1,795 kcal / ~135g protein**. That is still **protein-short**, but it is much better than turning the evening into another fried-snack block.
+- **Sooji golgappe decision:** **Do not order them.** Even if the shell is sooji-based, it is still a **deep-fried, low-protein, easy-to-overeat snack**, and your stomach has a recent GI sensitivity history. If this is after **7:30 PM**, it is also a direct **Rule 2** violation.
+- **Coach verdict:** The main leak today was not lunch. It was the **wafer + bhujia block** on an already bread-based, veg-only recovery day. Dinner now must stay boring and controlled.
+- **Later dinner clarification:** User proposed reducing gobhi to **100g** and swapping the night plan to **1 scoop ON blended with dahi + small mango pulp**, then **0.5 scoop before sleep**. Final verdict: **reject that swap**. Keep the original plan of **1 roti + 200g gobhi sabzi**, then **OWN in lukewarm water only**. No mango+dahi protein shake tonight.
+
+---
+### 2026-05-05 (Day 52) — Session Update
+- **Topics discussed:** Day 52 actual intake, BRB wafer nutrition correction, dinner quantity, night whey, sooji golgappe decision.
+- **Decisions made:** Log BRB wafers as **~1.5 servings / ~37.5g = ~194 kcal / ~6g protein**; dinner locked at **1 roti + 200g gobhi sabzi**; user-proposed **ON + dahi + mango** night shake was explicitly rejected; night whey stays **OWN in lukewarm water at 9:30-10:00 PM** plus **0.5 scoop pre-sleep**; **no sooji golgappe**.
+- **Compliance notes:** Recovery rest day remained approved; mid-morning OWN completed; intake drift came from the wafer + bhujia block on a bread-based veg day.
+- **Next actions:** Eat the locked dinner only, skip ordering fried snacks, take the planned night whey, and do only **20-30 min easy walking pad** if the body loosens.
+- **Copilot context:** Open OWN pack counter is now **13.5 scoops used**. Day 52 sits at **~1,369 kcal / ~87g protein before dinner**.
+
+---
+### 2026-05-05 (Day 52) — Actual Night Closeout
+- **Actual dinner:** **120g gobhi sabzi** + **1 roti**.
+- **Night whey miss:** User made a whey drink but fell asleep while resting and woke up later, so **both planned night servings were missed**.
+
+- **Day 52 final intake table against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| Day 52 total before dinner | 1,369 | 87g | 1,369 | 87g | 531 kcal, 93g protein |
+| Dinner: 1 roti | 100 | 3g | 1,469 | 90g | 431 kcal, 90g protein |
+| Dinner: gobhi sabzi, 120g | 88 | 3g | 1,557 | 93g | 343 kcal, 87g protein |
+| Planned night whey actually consumed | 0 | 0g | 1,557 | 93g | 343 kcal, 87g protein |
+
+- **Day 52 closing verdict:** Final day estimate = **~1,557 kcal / ~93g protein**.
+- **Day 52 analysis:** Calories stayed controlled, but protein collapsed because the already-approved recovery-day whey patch at night was fully missed. This was not a junk-food failure close. It was a **sleep-driven protein miss** on a veg day.
+
+---
+### 2026-05-06 (Day 53) — Shifted Wednesday Workout Plan
+- **Workout shift confirmed:** Yesterday’s missed Tuesday Lower + Core / Goblet Squat day is officially moved to **today (Wednesday)**. This is a **make-up session**, not a progression day.
+- **Training goal today:** Repeat the last clean lower-body numbers with **zero load jumps**. The job is completion and clean reps, not ego.
+
+- **Today workout table:**
+
+| Exercise | Sets x Reps | Load | Coach note |
+|---|---:|---:|---|
+| Warm-up: treadmill or brisk walk | 5-7 min | Easy pace | Then do leg swings, quad loosening, and hip circles for 2-3 min |
+| Leg Press | 3 x 10-12 | **90 kg** | Hold this. No jump to 95 kg today. |
+| Goblet Squat | 3 x 10-12 | **10 kg dumbbell** | Controlled descent, chest up, heels planted |
+| Leg Extension | 3 x 10-12 | **29 kg** | Repeat cleanly before promoting further |
+| Leg Curl | 3 x 10-12 | **29 kg** | Smooth reps, no jerking |
+| Hip Adductor | 3 x 10-12 | **23 kg** | Controlled squeeze, slow return |
+| Hip Abductor | 3 x 10-12 | **23 kg** | No swinging the stack |
+| Cable Crunch | 3 x 12 | **15 lbs** | Core tight, pull with abs not arms |
+| Cool-down walk + stretch | 3-5 min | Easy pace | Quads, hamstrings, hip flexors |
+
+- **Today workout rules:**
+
+| Rule | Instruction |
+|---|---|
+| Progression | **No progression today** even if the first sets feel easy |
+| HIIT | **No HIIT today** |
+| Failure grinding | Stop 1-2 reps before ugly form |
+| Session identity | Treat this as **Session 28 planned**, only mark complete after the workout is actually done |
+
+- **Post-workout recovery guidance:**
+
+| Item | Quantity | Time | Note |
+|---|---:|---|---|
+| OWN Whey Isolate | **1 scoop** | Within 20-30 min after workout | Lukewarm water only, with **5 almonds** or **30g roasted chana** |
+| Walking pad later | **20-30 min easy** | Evening only if legs feel OK | Optional, not mandatory |
+
+- **Copilot context:** Day 52 closed much lower than projected because dinner became **120g sabzi + 1 roti** and the night whey was fully missed. Today therefore needs **training completion + clean post-workout protein**, not extra calorie restriction.
