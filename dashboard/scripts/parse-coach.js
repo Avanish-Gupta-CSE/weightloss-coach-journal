@@ -1,6 +1,6 @@
-import fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { parseMetrics } from './parsers/parseMetrics.js';
 import { parseBrainState } from './parsers/parseBrainState.js';
 import { parseProtocol } from './parsers/parseProtocol.js';
@@ -31,6 +31,22 @@ function hasCoachFiles(dir) {
   );
 }
 
+function mergeMeals(previousMeals, nextMeals) {
+  const merged = {
+    ...previousMeals,
+    ...nextMeals,
+  };
+
+  return Object.keys(merged).length > 0 ? merged : {};
+}
+
+function getSessionType(workoutDetails = '') {
+  if (workoutDetails.includes('Upper')) return 'Upper Body';
+  if (workoutDetails.includes('Lower')) return 'Lower Body';
+  if (workoutDetails.includes('Full')) return 'Full Body';
+  return 'Workout';
+}
+
 function mergeDailyEntries(entries) {
   const byDay = new Map();
 
@@ -43,10 +59,7 @@ function mergeDailyEntries(entries) {
       date: entry.date || previous.date || null,
       day: entry.day,
       dayType: entry.dayType || previous.dayType || '',
-      meals: {
-        ...(previous.meals || {}),
-        ...(entry.meals || {}),
-      },
+      meals: mergeMeals(previous.meals, entry.meals),
       protein: entry.protein ?? previous.protein ?? null,
       calories: entry.calories ?? previous.calories ?? null,
       workout: Boolean(previous.workout || entry.workout),
@@ -145,9 +158,7 @@ function extractSessions(progress) {
         sessionNumber: sessionNum,
         date: day.date,
         day: day.day,
-        type: day.workoutDetails.includes('Upper') ? 'Upper Body' :
-              day.workoutDetails.includes('Lower') ? 'Lower Body' :
-              day.workoutDetails.includes('Full') ? 'Full Body' : 'Workout',
+        type: getSessionType(day.workoutDetails),
         details: day.workoutDetails,
         exercises: [],
         notes: day.notes,

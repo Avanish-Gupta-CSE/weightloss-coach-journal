@@ -4,6 +4,34 @@ import Card from '../common/Card';
 import { CalendarDays } from 'lucide-react';
 import { useDashboard } from '../../context/DashboardContext';
 
+function getCellClasses(cell) {
+  let backgroundClass = 'bg-bg-tertiary/30';
+  if (cell.hasData) {
+    backgroundClass = cell.workout ? 'bg-accent-green' : 'bg-accent-red/40';
+  }
+
+  let opacityClass = 'opacity-30';
+  if (cell.hasData) {
+    if (cell.workout && cell.walkingPad) {
+      opacityClass = 'opacity-100';
+    } else if (cell.workout) {
+      opacityClass = 'opacity-85';
+    } else {
+      opacityClass = 'opacity-50';
+    }
+  }
+
+  return `w-8 h-8 rounded-md ${backgroundClass} ${opacityClass} transition-all hover:scale-110 hover:ring-2 hover:ring-accent-blue/50 cursor-pointer relative group`;
+}
+
+function getCellTitle(cell) {
+  if (!cell.hasData) return 'No data';
+
+  const status = cell.workout ? 'Workout' : 'Rest';
+  const walkingSuffix = cell.walkingPad ? ' + Walking' : '';
+  return `Day ${cell.day}: ${status}${walkingSuffix}`;
+}
+
 export default function GymHeatmap() {
   const { daily } = useDashboard();
   
@@ -64,12 +92,12 @@ export default function GymHeatmap() {
             
             <div className="flex gap-1.5">
               {heatmapData.map((week, weekIndex) => (
-                <div key={weekIndex} className="flex flex-col gap-1.5">
-                  {week.map((cell, dayIndex) => (
+                <div key={week[0]?.date?.toISOString() || `week-${weekIndex}`} className="flex flex-col gap-1.5">
+                  {week.map((cell) => (
                     <div
-                      key={`${weekIndex}-${dayIndex}`}
-                      className={`w-8 h-8 rounded-md ${cell.hasData ? (cell.workout ? 'bg-accent-green' : 'bg-accent-red/40') : 'bg-bg-tertiary/30'} ${cell.hasData ? (cell.workout && cell.walkingPad ? 'opacity-100' : cell.workout ? 'opacity-85' : 'opacity-50') : 'opacity-30'} transition-all hover:scale-110 hover:ring-2 hover:ring-accent-blue/50 cursor-pointer relative group`}
-                      title={cell.hasData ? `Day ${cell.day}: ${cell.workout ? 'Workout' : 'Rest'}${cell.walkingPad ? ' + Walking' : ''}` : 'No data'}
+                      key={cell.date.toISOString()}
+                      className={getCellClasses(cell)}
+                      title={getCellTitle(cell)}
                     >
                       {cell.hasData && cell.day !== null && (
                         <span className="absolute inset-0 flex items-center justify-center text-[9px] font-medium text-text-primary/70">{cell.day % 10}</span>

@@ -39,16 +39,16 @@ export default function Timeline() {
             transition={{ duration: 1, ease: 'easeOut' }}
             className="absolute inset-y-0 left-0 bg-gradient-to-r from-accent-blue to-accent-green rounded-full"
           />
-          {ms.map((m, i) => (
-            <div key={i} className="absolute top-1/2 -translate-y-1/2 -translate-x-1/2" style={{ left: `${m.pct}%` }}>
+          {ms.map((m) => (
+            <div key={`${m.milestone}-${m.weight}`} className="absolute top-1/2 -translate-y-1/2 -translate-x-1/2" style={{ left: `${m.pct}%` }}>
               <div className={`w-3 h-3 rounded-full border-2 ${m.reached ? 'bg-accent-green border-accent-green' : 'bg-bg-secondary border-accent-purple'} shadow-sm`} />
             </div>
           ))}
         </div>
         
         <div className="flex justify-between mt-3">
-          {ms.map((m, i) => (
-            <div key={i} className="text-center" style={{ width: `${100 / ms.length}%` }}>
+          {ms.map((m) => (
+            <div key={`${m.milestone}-${m.weight}-label`} className="text-center" style={{ width: `${100 / ms.length}%` }}>
               <div className={`text-xs font-semibold ${m.reached ? 'text-accent-green' : 'text-accent-purple'}`}>{m.milestone}</div>
               <div className="text-[10px] text-text-muted">{m.weight} kg</div>
             </div>

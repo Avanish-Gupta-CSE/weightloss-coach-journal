@@ -1,0 +1,89 @@
+{
+  "identity": {
+    "name": "Protocol 200 v2",
+    "mission": "91.45 kg → 70 kg body recomposition",
+    "startDate": "March 14, 2026 (Day 0)",
+    "targetDate": "~November–December 2026 (~33–43 weeks at 0.5–0.65 kg/week, adjusted for hypothyroidism)"
+  },
+  "targets": {
+    "Daily calories": "1,900 kcal",
+    "Protein": "180g (2.0 g/kg)",
+    "Carbs": "170g",
+    "Fat": "56g",
+    "Water": "3.0 L/day minimum",
+    "Sleep": "7–7.5 hours (bed by 11:00–11:30 PM)",
+    "Weekly weight loss rate": "0.5–0.65 kg/week (hypothyroid-adjusted)"
+  },
+  "phases": [
+    {
+      "phase": "Phase 1: Foundation",
+      "weeks": "1–4 (Mar 14 – Apr 11)",
+      "focus": "Machine-only workouts, learn every machine, build habit, fix gut, stop binge cycle",
+      "calorieTarget": "1,900 kcal"
+    },
+    {
+      "phase": "Phase 2: Machines + Free Weights",
+      "weeks": "5–12 (Apr 12 – Jun 6)",
+      "focus": "Add goblet squats, DB rows, DB press. Buy dumbbells. Progressive overload begins.",
+      "calorieTarget": "1,800–1,900 kcal"
+    },
+    {
+      "phase": "Phase 3: Push",
+      "weeks": "13–24 (Jun 7 – Sep 5)",
+      "focus": "Full hybrid program, increase HIIT frequency, tighten carbs on rest days",
+      "calorieTarget": "1,750–1,850 kcal"
+    },
+    {
+      "phase": "Phase 4: Final Cut",
+      "weeks": "25–35+ (Sep 6 – Nov/Dec)",
+      "focus": "Final push to 70 kg, refeed days every 10 days",
+      "calorieTarget": "1,700–1,800 kcal"
+    }
+  ],
+  "rules": [
+    {
+      "title": "Thyroxine first, food later.",
+      "description": "Take 50 mcg Levothyroxine at 6:00 AM with plain water only. Wait 30 min before lemon water or any food. No curd/milk/paneer at breakfast (wait 4 hours after pill). No coffee for 30 min after pill."
+    },
+    {
+      "title": "No Swiggy/Zomato food orders after 7:30 PM.",
+      "description": "Uninstall the apps. Re-install only for weekly grocery orders."
+    },
+    {
+      "title": "No maida",
+      "description": "(refined flour) in any form — no white bread, naan, paratha made with maida, Domino's, packaged biscuits."
+    },
+    {
+      "title": "No deep-fried food",
+      "description": "— no pakoras, samosas, fried aloo, fried parottas."
+    },
+    {
+      "title": "No sugar-loaded sweets",
+      "description": "— Biscoff, Kunafa, Rasmalai, Ghewar, Gulab Jamun = permanently banned."
+    },
+    {
+      "title": "Oil discipline:",
+      "description": "Cook uses max 1 tsp (5ml) oil per dish. Zero butter, cream, ghee."
+    },
+    {
+      "title": "Walking pad = study time.",
+      "description": "Minimum 30 min/day at 4–5 kmph while reviewing notes or listening to exam audio."
+    },
+    {
+      "title": "Sleep by 11:30 PM, wake by 6:00 AM.",
+      "description": "Non-negotiable for cortisol control, recovery, and thyroxine timing."
+    },
+    {
+      "title": "Weekly weigh-in:",
+      "description": "Every Monday morning, fasted, after bathroom. Log in Metrics.md."
+    },
+    {
+      "title": "No skipping protein.",
+      "description": "Every meal must have a protein source (chicken, eggs, paneer, dal, curd)."
+    },
+    {
+      "title": "Exam prep is sacred.",
+      "description": "Workouts energize, never exhaust. If gym would cost study time, do bodyweight + walking pad at home."
+    }
+  ]
+}
