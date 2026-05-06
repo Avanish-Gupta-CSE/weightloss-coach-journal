@@ -1,0 +1,391 @@
+{
+  "baseline": {
+    "weight": 91.45,
+    "height": 168,
+    "age": 26,
+    "sex": "male"
+  },
+  "bmi": [
+    {
+      "state": "Current",
+      "calculation": "91.45 / (1.68)²",
+      "bmi": "32.4",
+      "category": "Obese Class I"
+    },
+    {
+      "state": "Target (70 kg)",
+      "calculation": "70 / (1.68)²",
+      "bmi": "24.8",
+      "category": "Normal (upper end)"
+    }
+  ],
+  "bmr": {
+    "standard": 1839.5,
+    "adjusted": 1700
+  },
+  "tdee": [
+    {
+      "activityLevel": "Sedentary (desk job, no exercise)",
+      "multiplier": "1.2",
+      "tdee": "~2,040 kcal"
+    },
+    {
+      "activityLevel": "Lightly Active (1-3 days exercise/week)",
+      "multiplier": "1.375",
+      "tdee": "~2,338 kcal"
+    },
+    {
+      "activityLevel": "Moderately Active (4-5 days exercise/week)",
+      "multiplier": "1.55",
+      "tdee": "~2,635 kcal"
+    }
+  ],
+  "macros": {
+    "protein": {
+      "grams": 180,
+      "calories": 720,
+      "percentage": 38
+    },
+    "carbs": {
+      "grams": 170,
+      "calories": 680,
+      "percentage": 36
+    },
+    "fat": {
+      "grams": 56,
+      "calories": 504,
+      "percentage": 26
+    }
+  },
+  "timeline": [
+    {
+      "milestone": "Start",
+      "weight": 91.45,
+      "weeks": "Week 0",
+      "approxDate": "Mar 14, 2026"
+    },
+    {
+      "milestone": "-5 kg",
+      "weight": 86.45,
+      "weeks": "~8–10 weeks",
+      "approxDate": "May 9–23, 2026"
+    },
+    {
+      "milestone": "-10 kg",
+      "weight": 81.45,
+      "weeks": "~15–20 weeks",
+      "approxDate": "Jun 27 – Aug 1, 2026"
+    },
+    {
+      "milestone": "-15 kg",
+      "weight": 76.45,
+      "weeks": "~23–30 weeks",
+      "approxDate": "Aug 22 – Oct 10, 2026"
+    },
+    {
+      "milestone": "-21.45 kg (GOAL)",
+      "weight": 70,
+      "weeks": "~33–43 weeks",
+      "approxDate": "Nov 7 – Dec 26, 2026"
+    }
+  ],
+  "weighins": [
+    {
+      "week": 0,
+      "date": "Mar 14, 2026",
+      "weight": 91.45,
+      "type": "official",
+      "change": "—",
+      "cumulative": "—",
+      "notes": "Day 0 baseline"
+    },
+    {
+      "week": 1,
+      "date": "Mar 23, 2026",
+      "weight": 90,
+      "type": "skipped",
+      "change": "-1.45",
+      "cumulative": "-1.45",
+      "notes": "Logged Mar 25 (Mon missed — office day). TRUE reading: naked + post-BM + post-bath dried = 90.00 kg. Clothed reading was 90.45 (~0.45 kg clothes). Pre-BM clothed = 90.80. ~0.65–0.80 kg of total loss = water/glycogen flush (normal Wk1). Actual fat loss ~0.55–0.65 kg. Rate ~0.92 kg/wk this week — faster than target due to water weight; will normalize by Wk3–4. Standard: all future weigh-ins = naked + post-BM + dry."
+    },
+    {
+      "week": 2,
+      "date": "Mar 30, 2026",
+      "weight": null,
+      "type": "skipped",
+      "change": "—",
+      "cumulative": "—",
+      "notes": "Fever 102.2°F — false reading (Calpol water retention + no BM). Estimated ~89.0 kg. Antibiotics started Mar 30. NS1 dengue: NEGATIVE."
+    },
+    {
+      "week": 3,
+      "date": "Apr 06, 2026",
+      "weight": 88.15,
+      "type": "official",
+      "change": "-1.85 from W1",
+      "cumulative": "-3.30",
+      "notes": "W3 official (Monday Apr 6 naked). Apr 5 reading: 87.65 naked (slightly lower — less carb load). +0.50 kg difference = biryani + maida sodium water retention from Apr 5 meals. True lean weight ~87.65–88.00. 7 sick days (Mar 30 – Apr 5) — weight drop partly illness (glycogen depletion + zero appetite)."
+    },
+    {
+      "week": 4,
+      "date": "Apr 13, 2026",
+      "weight": 88.05,
+      "type": "official",
+      "change": "-0.10 from W3",
+      "cumulative": "-3.40",
+      "notes": "Post-bath naked post-BM. W4 underwhelming on scale but real lean trend = ~87.5 kg (Apr 12 pre-bath clean reading). Last night banana+250ml milk+whey = ~0.4–0.5 kg overnight retention. 7 sick days + fried rice + calorie overages affected Week 4. Walking pad = 0 sessions in 30 days. Month 1 net = -3.40 kg in 30 days despite illness week."
+    },
+    {
+      "week": 5,
+      "date": "Apr 20, 2026",
+      "weight": 88.15,
+      "type": "official",
+      "change": "+0.10 from W4",
+      "cumulative": "-3.30",
+      "notes": "W5 scale higher due to Sunday retention (mango shake + 250ml milk + 200g biryani rice + jaggery + rest day). True fat trend still downward. Cumulative = -3.30 kg in 37 days including fever week. Phase 2 begins today."
+    },
+    {
+      "week": null,
+      "date": "Apr 25, 2026",
+      "weight": 86.7,
+      "type": "spot-check",
+      "change": "",
+      "cumulative": "",
+      "notes": "Naked spot check during GI-recovery re-entry phase | Useful recovery marker, not an official week reading"
+    },
+    {
+      "week": 6,
+      "date": "Apr 27, 2026",
+      "weight": null,
+      "type": "skipped",
+      "change": "—",
+      "cumulative": "-3.30 official still",
+      "notes": "Official Monday weigh-in was missed. Delayed spot check Apr 29: 86.45 kg naked / 87.00 kg clothed after BM. Useful trend signal and first -5.00 kg from Day 0, but do not count it as the official W6 reading."
+    },
+    {
+      "week": null,
+      "date": "Apr 29, 2026",
+      "weight": 86.45,
+      "type": "spot-check",
+      "change": "",
+      "cumulative": "",
+      "notes": "Naked delayed spot check after BM | First clean-looking -5 kg trend signal, still unofficial"
+    },
+    {
+      "week": 7,
+      "date": "May 04, 2026",
+      "weight": 86.65,
+      "type": "spot-check",
+      "change": "-1.50 from W5 official",
+      "cumulative": "-4.80",
+      "notes": "Naked reading, but taken after gym and after 1 scoop OWN whey, with only partial morning BM before training. So this is the closest Monday checkpoint, not a perfectly clean fasted protocol-standard weigh-in. Still a strong trend marker: only +0.20 kg above the Apr 29 delayed spot check despite the Day 50 calorie overshoot."
+    },
+    {
+      "week": null,
+      "date": "May 04, 2026",
+      "weight": 86.65,
+      "type": "spot-check",
+      "change": "",
+      "cumulative": "",
+      "notes": "Naked, but taken after gym and after 1 scoop OWN whey | Closest Monday checkpoint, not protocol-standard"
+    },
+    {
+      "week": null,
+      "date": "May 06, 2026",
+      "weight": 85.85,
+      "type": "spot-check",
+      "change": "",
+      "cumulative": "",
+      "notes": "Naked, but taken after gym and after post-gym OWN whey on Day 53 | Strong trend marker and first sub-86 reading, but still unofficial"
+    },
+    {
+      "week": 8,
+      "date": "May 11, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 9,
+      "date": "May 18, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 10,
+      "date": "May 25, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 11,
+      "date": "Jun 01, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 12,
+      "date": "Jun 08, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 13,
+      "date": "Jun 15, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 14,
+      "date": "Jun 22, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 15,
+      "date": "Jun 29, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 16,
+      "date": "Jul 06, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 17,
+      "date": "Jul 13, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 18,
+      "date": "Jul 20, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 19,
+      "date": "Jul 27, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 20,
+      "date": "Aug 03, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 21,
+      "date": "Aug 10, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 22,
+      "date": "Aug 17, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 23,
+      "date": "Aug 24, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 24,
+      "date": "Aug 31, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 25,
+      "date": "Sep 07, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 26,
+      "date": "Sep 14, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 27,
+      "date": "Sep 21, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    },
+    {
+      "week": 28,
+      "date": "Sep 28, 2026",
+      "weight": null,
+      "type": "official",
+      "change": "",
+      "cumulative": "",
+      "notes": ""
+    }
+  ]
+}
