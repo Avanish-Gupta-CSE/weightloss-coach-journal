@@ -2714,3 +2714,26 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 - **Compliance notes:** Confirmed later intake after the morning workout block = **80g cooked rice + 180g pakodi-kadhi + 3 tiny chicken pieces + 3 spoons biryani rice + cut muskmelon + 5 anjeer + 1 spoon Bikaneri besan bhujia**. Breakfast vermicelli remains **unconfirmed**. Confirmed Day 53 pre-dinner total is therefore about **~900 kcal / ~55g protein**, or about **~1,120 kcal / ~60g protein** if the planned **150g cooked savory vermicelli** was also eaten.
 - **Next actions:** Eat only the locked dinner quantity, avoid extra rice/roti, take the late OWN near sleep, and confirm whether the vermicelli breakfast actually happened.
 - **Copilot context:** Dashboard parser bug was validated locally in `gh-pages`; regenerated daily data now shows **Day 48 = ~2,080/179**, **Day 49 = ~2,196/178**, and **Day 50 = ~2,685/179** instead of the earlier partial subtotals.
+
+---
+### 2026-05-06 (Day 53) — Actual Dinner + Night Shake Update
+- **Actual dinner:** **1 roti** + **50g puffed rice** + **220g black chana sabzi**.
+- **Actual late shake:** **1 scoop ON Whey Concentrate** + **200ml dahi** + **4g jaggery** + **pulp of 1 small Malika mango**.
+- **Dinner + shake analysis:** The day did have calorie room if the earlier **150g vermicelli** breakfast was actually skipped, so this was **not** a reckless binge block. The two inefficiencies were specific: **50g puffed rice** is much more calorie-dense than the earlier planned **50g cooked rice**, and the **dahi + mango + jaggery** made the whey block more like a dessert-style recovery drink than a clean protein finish.
+
+- **Day 53 late update table against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| Confirmed Day 53 pre-dinner total | 900 | 55g | 900 | 55g | 1,000 kcal, 125g protein |
+| Dinner: black chana sabzi, 220g | 285 | 15g | 1,185 | 70g | 715 kcal, 110g protein |
+| Dinner: 1 roti | 100 | 3g | 1,285 | 73g | 615 kcal, 107g protein |
+| Dinner: puffed rice, 50g | 185 | 3g | 1,470 | 76g | 430 kcal, 104g protein |
+| Late shake: ON Whey Concentrate, 1 scoop | 120 | 24g | 1,590 | 100g | 310 kcal, 80g protein |
+| Late shake: dahi, 200ml | 120 | 7g | 1,710 | 107g | 190 kcal, 73g protein |
+| Late shake: Malika mango pulp, 1 small | 80 | 1g | 1,790 | 108g | 110 kcal, 72g protein |
+| Late shake: jaggery, 4g | 16 | 0g | 1,806 | 108g | 94 kcal, 72g protein |
+
+- **Confirmed Day 53 closeout:** Approximately **~1,810 kcal / ~108g protein** before counting the still-unconfirmed **150g cooked vermicelli** breakfast.
+- **If the vermicelli breakfast was actually eaten:** Likely true Day 53 close becomes approximately **~2,030 kcal / ~113g protein**.
+- **Day 53 verdict:** Good workout day and not a calorie-disaster day. But it is still a **protein-short day** either way. If breakfast was skipped, calories likely stayed inside target. If breakfast was eaten, calories likely finished slightly above target. In both versions, the main miss is still that too much of the day’s intake came from carb-heavy meals and dessert-style protein drinks rather than leaner protein anchors.
