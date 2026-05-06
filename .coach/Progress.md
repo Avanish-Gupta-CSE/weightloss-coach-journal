@@ -2632,3 +2632,65 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 | Walking pad later | **20-30 min easy** | Evening only if legs feel OK | Optional, not mandatory |
 
 - **Copilot context:** Day 52 closed much lower than projected because dinner became **120g sabzi + 1 roti** and the night whey was fully missed. Today therefore needs **training completion + clean post-workout protein**, not extra calorie restriction.
+
+---
+### 2026-05-06 (Day 53) — Actual Workout + Morning Intake Update
+- **Medication update:** Thyroxine taken at **5:30 AM** with water.
+- **Session 28 actual:** The shifted Wednesday make-up lower-body session is now **completed**.
+
+- **Workout performance table:**
+
+| Exercise | Actual performance | Coach read |
+|---|---|---|
+| Warm-up | **5-7 min leg stretching + body stretching** | Acceptable, though a brisk walk first is still better for future sessions |
+| Leg Press | **90 kg x 3 sets x 13 reps** | Strong. This is now clearly stable. No need to chase 95 kg yet. |
+| Goblet Squat | **10 kg x 3 sets x 12-13 reps** | Stable. Good control. Keep 10 kg one more lower session before progressing. |
+| Leg Extension | **29 kg x 3 x 12** | Good completion. Your own note about wanting more stability is correct, so do not increase yet. |
+| Leg Curl | **29 kg x 3 x 12** | Same call as leg extension: completed, but hold here until it feels more automatic. |
+| Hip Adductor | **23 kg x 3 sets x 12-15 reps** | Good posture noted. Stable. |
+| Hip Abductor | **23 kg x 3 sets x 12-15 reps** | Good posture noted. Stable. |
+| Cable Crunch | **15 lbs x 3 sets x 15 reps** | Easy with great posture. This is the one place that may be ready to move up later, but not today. |
+
+- **Workout feedback:** This was a **very good make-up session**. You did not just “show up”; you completed the whole lower-body block cleanly after yesterday’s fatigue-rest decision. The important technical read is: **Leg Press and Goblet Squat are clearly consolidated**, while **Leg Extension and Leg Curl are completed but should stay fixed until they feel more stable**. That is the correct self-assessment.
+
+- **Morning intake actual:** **1 scoop OWN whey post-gym** + **3 spoons sattu water** + **1 coconut water**.
+
+- **Day 53 intake table so far against target (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| OWN Whey Isolate, 1 scoop post-gym | 120 | 27g | 120 | 27g | 1,780 kcal, 153g protein |
+| Sattu water, 3 spoons (~30g) | 110 | 7g | 230 | 34g | 1,670 kcal, 146g protein |
+| Coconut water, 1 | 45 | 0g | 275 | 34g | 1,625 kcal, 146g protein |
+
+- **Breakfast prescription now:**
+
+| Item | Quantity to eat | Coach note |
+|---|---:|---|
+| Vermicelli, savory form | **150g cooked ready-to-eat** | Keep it to **1 medium bowl only**. No second serving. |
+
+- **Lunch prescription now:**
+
+| Item | Quantity to eat | Coach note |
+|---|---:|---|
+| Rice | **80g cooked** | Keep rice tight because breakfast is also carb-based. |
+| Pakodi-kadhi | **180g ready-to-eat total** | Take mostly **kadhi liquid**, with **max 2 small pakodi pieces** only. Pakodi is a Rule 4 compromise because it is deep-fried. |
+
+- **Projected Day 53 table if you follow the breakfast and lunch quantities exactly:**
+
+| Intake item | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---:|---:|---:|---:|---:|
+| Day 53 total so far before breakfast | 275 | 34g | 275 | 34g | 1,625 kcal, 146g protein |
+| Breakfast: savory vermicelli, 150g cooked | 220 | 5g | 495 | 39g | 1,405 kcal, 141g protein |
+| Lunch: rice, 80g cooked | 105 | 2g | 600 | 41g | 1,300 kcal, 139g protein |
+| Lunch: pakodi-kadhi, 180g with max 2 small pakodis | 220 | 7g | 820 | 48g | 1,080 kcal, 132g protein |
+
+- **Day 53 coaching read at this point:** Breakfast and lunch today are both **carb-dominant and protein-poor**. So the right move is **not** to enlarge them. Keep both controlled, then recover protein later with a stronger evening and dinner block.
+
+---
+### 2026-05-06 (Day 53) — Session Update
+- **Topics discussed:** Session 28 actual performance, post-workout intake, breakfast vermicelli quantity, lunch rice + pakodi-kadhi quantity.
+- **Decisions made:** Session 28 logged as completed; keep **Leg Press 90 kg** and **Goblet Squat 10 kg** unchanged next lower session; keep **Leg Extension 29 kg** and **Leg Curl 29 kg** fixed until stability improves; breakfast capped at **150g cooked vermicelli**; lunch capped at **80g cooked rice + 180g pakodi-kadhi with max 2 small pakodis**.
+- **Compliance notes:** Thyroxine taken at **5:30 AM**; shifted Wednesday make-up workout completed fully; post-gym OWN completed; sattu + coconut water completed.
+- **Next actions:** Eat the controlled breakfast and lunch only, then use evening and dinner to repair the protein gap.
+- **Copilot context:** Day 53 so far is **~275 kcal / ~34g protein** before breakfast. Open OWN pack should now be treated as **14.5 scoops used**.
