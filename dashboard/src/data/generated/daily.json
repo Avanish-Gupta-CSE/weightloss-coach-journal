@@ -810,10 +810,10 @@
   {
     "date": "2026-05-06",
     "day": 53,
-    "dayType": "Session Update",
+    "dayType": "Actual Dinner + Night Shake Update",
     "meals": {},
-    "protein": 55,
-    "calories": 900,
+    "protein": 108,
+    "calories": 1810,
     "workout": true,
     "workoutType": "",
     "walkingPad": false,

@@ -65,7 +65,7 @@ function findBestMacroMatch(text, day) {
 
 function extractMacroTotals(text, day) {
   const closeoutPatterns = [
-    new RegExp(`Confirmed\\s+Day\\s+${day}[^\\n]*?~?([\\d,]+)\\s*kcal\\s*\\/\\s*~?(\\d+)g\\s*protein`, 'i'),
+    new RegExp(`Confirmed\\s+Day\\s+${day}\\s+closeout[^\\n]*?~?([\\d,]+)\\s*kcal\\s*\\/\\s*~?(\\d+)g\\s*protein`, 'i'),
     new RegExp(`True\\s+Day\\s+${day}\\s+closeout[^\\n]*?~?([\\d,]+)\\s*kcal\\s*\\/\\s*~?(\\d+)g\\s*protein`, 'i'),
     new RegExp(`(?:Revised\\s+)?Day\\s+${day}\\s+closing\\s+verdict[^\\n]*?~?([\\d,]+)\\s*kcal\\s*\\/\\s*~?(\\d+)g\\s*protein`, 'i'),
     new RegExp(`Current\\s+Day\\s+${day}\\s+read[^\\n]*?~?([\\d,]+)\\s*kcal\\s*\\/\\s*~?(\\d+)g\\s*protein`, 'i'),

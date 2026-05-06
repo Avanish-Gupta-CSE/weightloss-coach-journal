@@ -1654,9 +1654,30 @@
     "cravings": false,
     "cravingsDetails": "",
     "mood": null,
-    "protein": 55,
-    "calories": 900,
+    "protein": 60,
+    "calories": 1120,
     "notes": "",
     "raw": "### 2026-05-06 (Day 53) — Session Update\n- **Topics discussed:** Protein chart underreporting on the dashboard, Day 53 lunch/snack actuals, black chana dinner quantities, late-night whey timing.\n- **Decisions made:** `gh-pages` parser must prefer day-close totals over interim subtotals; chart truth is now **Day 48 = ~2,080 kcal / ~179g protein**, **Day 49 = ~2,196 kcal / ~178g protein**, and **Day"
+  },
+  {
+    "date": "2026-05-06",
+    "day": 53,
+    "dayType": "Actual Dinner + Night Shake Update",
+    "weight": null,
+    "meals": {},
+    "workout": false,
+    "workoutType": "",
+    "workoutDetails": "",
+    "walkingPad": false,
+    "walkingPadMinutes": 0,
+    "water": null,
+    "sleep": null,
+    "cravings": false,
+    "cravingsDetails": "",
+    "mood": null,
+    "protein": 108,
+    "calories": 1810,
+    "notes": "",
+    "raw": "### 2026-05-06 (Day 53) — Actual Dinner + Night Shake Update\n- **Actual dinner:** **1 roti** + **50g puffed rice** + **220g black chana sabzi**.\n- **Actual late shake:** **1 scoop ON Whey Concentrate** + **200ml dahi** + **4g jaggery** + **pulp of 1 small Malika mango**.\n- **Dinner + shake analysis:** The day did have calorie room if the earlier **150g vermicelli** breakfast was actually skipped, "
   }
 ]
