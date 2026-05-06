@@ -2637,6 +2637,7 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 ### 2026-05-06 (Day 53) — Actual Workout + Morning Intake Update
 - **Medication update:** Thyroxine taken at **5:30 AM** with water.
 - **Session 28 actual:** The shifted Wednesday make-up lower-body session is now **completed**.
+- **Weight spot check:** **85.85 kg naked**, but taken **after the gym** and **after the post-gym OWN whey** when user came back home. Treat this as a **strong trend marker**, not as a clean official weigh-in.
 
 - **Workout performance table:**
 
@@ -2662,6 +2663,17 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 | OWN Whey Isolate, 1 scoop post-gym | 120 | 27g | 120 | 27g | 1,780 kcal, 153g protein |
 | Sattu water, 3 spoons (~30g) | 110 | 7g | 230 | 34g | 1,670 kcal, 146g protein |
 | Coconut water, 1 | 45 | 0g | 275 | 34g | 1,625 kcal, 146g protein |
+
+- **Weight checkpoint table:**
+
+| Checkpoint | Weight | Coach read |
+|---|---:|---|
+| Day 0 baseline | 91.45 kg | Starting point |
+| Apr 29 delayed spot check | 86.45 kg | First unofficial **-5.00 kg** trend marker |
+| May 04 post-gym / post-whey | 86.65 kg | Useful Monday checkpoint, not protocol-standard |
+| Today (May 06) post-gym / post-whey | 85.85 kg | First **sub-86** trend marker; useful but unofficial |
+
+- **Scale analysis:** Even after allowing for the fact that this was a **post-gym / post-whey** reading, **85.85 kg** is still a very strong signal. It is **-5.60 kg from Day 0**, **-0.80 kg below** the May 4 checkpoint, and **-0.60 kg below** the Apr 29 delayed spot check. Do **not** treat that whole drop as pure fat in 48 hours, but do treat it as confirmation that the **real fat trend is still moving down**.
 
 - **Breakfast prescription now:**
 
@@ -2689,8 +2701,8 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 
 ---
 ### 2026-05-06 (Day 53) — Session Update
-- **Topics discussed:** Session 28 actual performance, post-workout intake, breakfast vermicelli quantity, lunch rice + pakodi-kadhi quantity.
-- **Decisions made:** Session 28 logged as completed; keep **Leg Press 90 kg** and **Goblet Squat 10 kg** unchanged next lower session; keep **Leg Extension 29 kg** and **Leg Curl 29 kg** fixed until stability improves; breakfast capped at **150g cooked vermicelli**; lunch capped at **80g cooked rice + 180g pakodi-kadhi with max 2 small pakodis**.
+- **Topics discussed:** Session 28 actual performance, post-workout intake, Day 53 unofficial weight checkpoint, breakfast vermicelli quantity, lunch rice + pakodi-kadhi quantity.
+- **Decisions made:** Session 28 logged as completed; keep **Leg Press 90 kg** and **Goblet Squat 10 kg** unchanged next lower session; keep **Leg Extension 29 kg** and **Leg Curl 29 kg** fixed until stability improves; log **85.85 kg** as an unofficial post-gym/post-whey trend marker; breakfast capped at **150g cooked vermicelli**; lunch capped at **80g cooked rice + 180g pakodi-kadhi with max 2 small pakodis**.
 - **Compliance notes:** Thyroxine taken at **5:30 AM**; shifted Wednesday make-up workout completed fully; post-gym OWN completed; sattu + coconut water completed.
 - **Next actions:** Eat the controlled breakfast and lunch only, then use evening and dinner to repair the protein gap.
-- **Copilot context:** Day 53 so far is **~275 kcal / ~34g protein** before breakfast. Open OWN pack should now be treated as **14.5 scoops used**.
+- **Copilot context:** Day 53 so far is **~275 kcal / ~34g protein** before breakfast. Latest unofficial scale checkpoint = **85.85 kg naked post-gym/post-whey**. Open OWN pack should now be treated as **14.5 scoops used**.

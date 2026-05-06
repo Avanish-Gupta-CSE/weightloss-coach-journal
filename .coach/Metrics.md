@@ -133,3 +133,14 @@ Weigh every **Monday morning**, fasted, after bathroom, same clothing (or none).
 | 26   | Sep 14, 2026 |                     |                   |                          |                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | 27   | Sep 21, 2026 |                     |                   |                          |                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | 28   | Sep 28, 2026 |                     |                   |                          |                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+## Unofficial Spot Checks
+
+These are **useful trend markers**, but they do **not** replace the Monday fasted protocol weigh-in.
+
+| Date | Weight (kg) | Context | Coach read |
+|---|---:|---|---|
+| Apr 25, 2026 | 86.70 | Naked spot check during GI-recovery re-entry phase | Useful recovery marker, not an official week reading |
+| Apr 29, 2026 | 86.45 | Naked delayed spot check after BM | First clean-looking **-5 kg** trend signal, still unofficial |
+| May 04, 2026 | 86.65 | Naked, but taken **after gym** and **after 1 scoop OWN whey** | Closest Monday checkpoint, not protocol-standard |
+| May 06, 2026 | 85.85 | Naked, but taken **after gym** and **after post-gym OWN whey** on Day 53 | Strong trend marker and first **sub-86** reading, but still unofficial |
