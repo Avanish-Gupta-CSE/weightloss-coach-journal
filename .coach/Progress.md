@@ -2706,3 +2706,11 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 - **Compliance notes:** Thyroxine taken at **5:30 AM**; shifted Wednesday make-up workout completed fully; post-gym OWN completed; sattu + coconut water completed.
 - **Next actions:** Eat the controlled breakfast and lunch only, then use evening and dinner to repair the protein gap.
 - **Copilot context:** Day 53 so far is **~275 kcal / ~34g protein** before breakfast. Latest unofficial scale checkpoint = **85.85 kg naked post-gym/post-whey**. Open OWN pack should now be treated as **14.5 scoops used**.
+
+---
+### 2026-05-06 (Day 53) — Session Update
+- **Topics discussed:** Protein chart underreporting on the dashboard, Day 53 lunch/snack actuals, black chana dinner quantities, late-night whey timing.
+- **Decisions made:** `gh-pages` parser must prefer day-close totals over interim subtotals; chart truth is now **Day 48 = ~2,080 kcal / ~179g protein**, **Day 49 = ~2,196 kcal / ~178g protein**, and **Day 50 = ~2,685 kcal / ~179g protein**. Day 53 dinner is locked at **250g black chana ghugani + 50g cooked rice + 1 roti max**. Because evening OWN causes a sleep-wave, late whey shifts to **1 scoop OWN in lukewarm water at ~1:15-1:30 AM**. If the earlier **150g cooked savory vermicelli** breakfast was actually skipped, an extra **0.5 scoop OWN** is approved.
+- **Compliance notes:** Confirmed later intake after the morning workout block = **80g cooked rice + 180g pakodi-kadhi + 3 tiny chicken pieces + 3 spoons biryani rice + cut muskmelon + 5 anjeer + 1 spoon Bikaneri besan bhujia**. Breakfast vermicelli remains **unconfirmed**. Confirmed Day 53 pre-dinner total is therefore about **~900 kcal / ~55g protein**, or about **~1,120 kcal / ~60g protein** if the planned **150g cooked savory vermicelli** was also eaten.
+- **Next actions:** Eat only the locked dinner quantity, avoid extra rice/roti, take the late OWN near sleep, and confirm whether the vermicelli breakfast actually happened.
+- **Copilot context:** Dashboard parser bug was validated locally in `gh-pages`; regenerated daily data now shows **Day 48 = ~2,080/179**, **Day 49 = ~2,196/178**, and **Day 50 = ~2,685/179** instead of the earlier partial subtotals.

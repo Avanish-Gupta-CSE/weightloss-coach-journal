@@ -5,6 +5,83 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+function parseMacroNumber(value) {
+  return parseInt(value.replace(/,/g, ''), 10);
+}
+
+function toMacroTotals(match) {
+  return {
+    calories: parseMacroNumber(match[1]),
+    protein: parseInt(match[2], 10),
+  };
+}
+
+function findBestMacroMatch(text, day) {
+  const matches = Array.from(text.matchAll(/~?([\d,]+)\s*kcal\s*\/\s*~?(\d+)g\s*protein/gi));
+
+  if (matches.length === 0) {
+    return null;
+  }
+
+  let bestMatch = null;
+  let bestScore = Number.NEGATIVE_INFINITY;
+
+  matches.forEach(match => {
+    const index = match.index ?? 0;
+    const context = text
+      .slice(Math.max(0, index - 180), Math.min(text.length, index + match[0].length + 120))
+      .toLowerCase();
+
+    let score = 0;
+
+    if (context.includes(`day ${day}`)) score += 20;
+    if (context.includes('closing verdict')) score += 60;
+    if (context.includes('closeout')) score += 55;
+    if (context.includes('closed around')) score += 45;
+    if (context.includes('final day estimate')) score += 40;
+    if (context.includes('current day')) score += 25;
+    if (context.includes('verdict')) score += 20;
+
+    if (context.includes('projected')) score -= 35;
+    if (context.includes('projected day-end')) score -= 35;
+    if (context.includes('day-end')) score -= 30;
+    if (context.includes('best close')) score -= 25;
+    if (context.includes('acceptable:')) score -= 20;
+    if (context.includes('wrong move')) score -= 25;
+    if (context.includes('option |')) score -= 20;
+    if (context.includes('practical serving')) score -= 30;
+    if (context.includes('exam timing')) score -= 30;
+
+    score += index / Math.max(text.length, 1);
+
+    if (score >= bestScore) {
+      bestScore = score;
+      bestMatch = match;
+    }
+  });
+
+  return bestMatch ? toMacroTotals(bestMatch) : null;
+}
+
+function extractMacroTotals(text, day) {
+  const closeoutPatterns = [
+    new RegExp(`Confirmed\\s+Day\\s+${day}[^\\n]*?~?([\\d,]+)\\s*kcal\\s*\\/\\s*~?(\\d+)g\\s*protein`, 'i'),
+    new RegExp(`True\\s+Day\\s+${day}\\s+closeout[^\\n]*?~?([\\d,]+)\\s*kcal\\s*\\/\\s*~?(\\d+)g\\s*protein`, 'i'),
+    new RegExp(`(?:Revised\\s+)?Day\\s+${day}\\s+closing\\s+verdict[^\\n]*?~?([\\d,]+)\\s*kcal\\s*\\/\\s*~?(\\d+)g\\s*protein`, 'i'),
+    new RegExp(`Current\\s+Day\\s+${day}\\s+read[^\\n]*?~?([\\d,]+)\\s*kcal\\s*\\/\\s*~?(\\d+)g\\s*protein`, 'i'),
+    new RegExp(`Day\\s+${day}\\s+(?:current\\s+verdict|early\\s+verdict|updated\\s+estimate|estimated\\s+closeout|final\\s+estimate)[^\\n]*?~?([\\d,]+)\\s*kcal\\s*\\/\\s*~?(\\d+)g\\s*protein`, 'i'),
+  ];
+
+  for (const pattern of closeoutPatterns) {
+    const match = text.match(pattern);
+    if (match) {
+      return toMacroTotals(match);
+    }
+  }
+
+  return findBestMacroMatch(text, day);
+}
+
 export function parseProgress(filePath) {
   const text = fs.readFileSync(filePath, 'utf-8');
   
@@ -126,30 +203,10 @@ function parseBlock(text) {
   const moodMatch = text.match(/\*\*Mood\/energy:\*\*\s*([\d\.]+)/);
   if (moodMatch) entry.mood = parseFloat(moodMatch[1]);
   
-  // Extract protein and calories from various patterns
-  // Pattern 1: "~X kcal / ~Xg protein"
-  const pcMatch = text.match(/~?([\d,]+)\s*kcal\s*\/\s*~?([\d]+)g\s*protein/);
-  if (pcMatch) {
-    entry.calories = parseInt(pcMatch[1].replace(',', ''));
-    entry.protein = parseInt(pcMatch[2]);
-  }
-  
-  // Pattern 2: "X kcal / Xg protein" (without tildes)
-  if (!entry.protein) {
-    const pcMatch2 = text.match(/(\d{3,4})\s*kcal\s*\/\s*(\d{2,3})g\s*protein/);
-    if (pcMatch2) {
-      entry.calories = parseInt(pcMatch2[1]);
-      entry.protein = parseInt(pcMatch2[2]);
-    }
-  }
-  
-  // Pattern 3: From intake tables
-  if (!entry.protein) {
-    const tableMatch = text.match(/verdict.*?\|\s*~?([\d,]+)\s*kcal\s*\/\s*~?([\d]+)g\s*protein/i);
-    if (tableMatch) {
-      entry.calories = parseInt(tableMatch[1].replace(',', ''));
-      entry.protein = parseInt(tableMatch[2]);
-    }
+  const macroTotals = extractMacroTotals(text, day);
+  if (macroTotals) {
+    entry.calories = macroTotals.calories;
+    entry.protein = macroTotals.protein;
   }
   
   // Extract notes
