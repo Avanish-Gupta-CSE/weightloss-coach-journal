@@ -2737,3 +2737,58 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 - **Confirmed Day 53 closeout:** Approximately **~1,810 kcal / ~108g protein** before counting the still-unconfirmed **150g cooked vermicelli** breakfast.
 - **If the vermicelli breakfast was actually eaten:** Likely true Day 53 close becomes approximately **~2,030 kcal / ~113g protein**.
 - **Day 53 verdict:** Good workout day and not a calorie-disaster day. But it is still a **protein-short day** either way. If breakfast was skipped, calories likely stayed inside target. If breakfast was eaten, calories likely finished slightly above target. In both versions, the main miss is still that too much of the day’s intake came from carb-heavy meals and dessert-style protein drinks rather than leaner protein anchors.
+
+---
+### 2026-05-07 (Day 54) — Morning Plan
+- **Today workout split:** **Thursday Upper Pull / DB Bent-Over Row day.** Yesterday's shifted lower-body make-up session is already done, so today returns to the normal Thursday slot.
+- **Training goal today:** Controlled upper-body repeatability. Because Day 53 ended protein-short, today is **not** the day for random ego jumps. Lock in clean reps and leave the gym feeling trained, not fried.
+
+- **Today workout table:**
+
+| Exercise | Sets x Reps | Load | Coach note |
+|---|---:|---:|---|
+| Warm-up: treadmill or brisk walk + shoulder activation | 5-7 min | Easy pace | Then do band pull-aparts, shoulder circles, and 1-2 light cable warm-up sets before the first pull |
+| Pec Deck / Machine Fly | 3 x 10-12 | **32 kg** | Repeat the last clean Thursday load. No jump today. Slow stretch, controlled squeeze. |
+| Lat Pulldown (close grip) | 3 x 10-12 | **55 lbs** | Pull to upper chest only. Zero torso swing. If reps get sloppy, keep the same load and slow the tempo. |
+| DB Bent-Over Row | 3 x 10-12 each arm | **10 kg** | This is the key Thursday DB movement. Repeat once more cleanly before even thinking about **12.5 kg**. |
+| Cable Face Pull | 3 x 12-15 | **20 lbs** | Drop back to the last clearly controlled setting. Do **not** repeat the heavier trial load today. |
+| Lateral Raise | 3 x 10-12 | **7.5 kg each arm** | Repeat only if form stays strict. If the first set swings or traps take over, drop to **5 kg** for the remaining sets. |
+| Cable Tricep Overhead Extension | 3 x 10-12 | **20 lbs** | Smooth lockout, no elbow flare. Stable load. |
+| Cable Hammer Curl | 3 x 10-12 | **25 lbs** | Use the last clearly remembered clean load. No guesswork jump just because the arms feel fresh. |
+| Cool-down walk + stretch | 3-5 min | Easy pace | Lats, rear delts, chest opener, triceps |
+
+- **Today workout rules:**
+
+| Rule | Instruction |
+|---|---|
+| Session identity | Treat this as **Session 29 planned**. Mark complete only after the workout is actually done. |
+| Progression | **No progression today** unless every rep on every set looks obviously cleaner than the last Thursday repeat. |
+| HIIT | **No HIIT today.** Yesterday was lower body and Day 53 nutrition was already recovery-poor. |
+| Effort | Stop 1-2 reps before ugly form on face pulls, lateral raises, and hammer curls. |
+
+- **Gym timing:** If today is an **office day**, target **~6:15-6:20 AM** gym entry. If today is **WFH**, the best slot remains **~12:30 PM**.
+- **Post-workout protein call:** **1 scoop OWN Whey Isolate** in **lukewarm water** within **20-30 min** after training is approved if the gym session is completed.
+
+---
+### 2026-05-07 (Day 54) — Session 29 Actual Workout + Morning Intake Update
+- **Topics discussed:** Session 29 actual loads, lateral-raise failure analysis, post-gym sattu + partial OWN intake, breakfast quantity, lunch quantity, whey timing spread, gh-pages sync workflow
+- **Gym:** **Session 29 ✅ Upper Pull DONE.** Warm-up = **5-10 min stretching + body-mobility work**. Pec Deck / Machine Fly **32 kg x3x12** easy. Lat Pulldown close grip **55 lbs x3x12** stable and good. **DB Bent-Over Row 10 kg x3** each arm stable and good. Cable Face Pull **18 kg x3** stable and good on the actual cable stack used today. Lateral Raise was done **too late in the session** and broke down: **2.5 kg each x12** for the first clean set, then **3.75 kg each** failed on the first attempt, then **3.75 kg each x8-10** on the real second set, then the third-set attempts failed again even after fallback. Cable Tricep Overhead Extension **20 lbs / ~9 kg x3x12** stable. Cable Hammer Curl = **40 lbs x1** very easy, then **50 lbs x2** stable and good.
+- **Workout analysis:** This was a **valid Session 29** and the main upper-pull lifts are clearly stabilizing. **Pec Deck 32 kg**, **Lat Pulldown 55 lbs**, and **DB Bent-Over Row 10 kg** all look repeatable now. The **18 kg face-pull station** should be treated as today's real reference load for that machine. The big failure point was **exercise order**, not shoulder capacity: lateral raises were pushed to the end, so fatigue wrecked the sets. Next Thursday keep **lateral raise in its original slot before triceps and curls**. Hammer Curl **50 lbs** now looks like a legitimate working load if form stays strict.
+- **Post-gym actual intake:** **3 spoons sattu in water** ✅, then **~0.5 scoop OWN Whey Isolate actually consumed**. A full scoop had been carried over dry in the shaker from yesterday's missed office plan, but it smelled foul when finally mixed this morning, so only about half was consumed and the rest was dumped.
+- **Shaker hygiene rule for today:** **Do not reuse old pre-loaded shaker powder blocks after an overnight hold if the shaker smells off.** Dump immediately. Count intake only for the amount actually consumed, but count stock depletion for the full scoop that was loaded and then partly discarded.
+- **Breakfast prescription:** **2 aloo sandwiches = 4 slices The Health Factory zero-maida bread + ~80g cooked aloo filling total.** Toast/dry roast only; **no butter, no cheese, no mayo**. Because the bread is the main protein contributor, do **not** add extra potato beyond the **~80g cooked** filling cap.
+- **Lunch prescription:** **80g cooked rice + 150g paneer sabzi + 250g cooked moong dal.** Keep the rice tight because breakfast is already bread-based. Paneer and dal together are the lunch protein anchor.
+- **Whey timing spread for today:** Morning **~0.5 scoop OWN already consumed**. **No second whey before lunch.** Next planned whey should be **1 scoop OWN at ~5:30-6:00 PM** with **lukewarm water**, ideally with **5 almonds or ~30g roasted chana**. If dinner later turns out protein-weak, a final rescue scoop can be moved to **~10:00-10:15 PM, about 30 min before sleep**, instead of taking it earlier and hurting study focus.
+
+- **Day 54 intake table so far / prescribed through lunch (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym sattu water | 3 spoons | 85 | 5g | 85 | 5g | 1,815 kcal, 175g protein |
+| OWN Whey Isolate actually consumed | ~0.5 scoop | 60 | 12g | 145 | 17g | 1,755 kcal, 163g protein |
+| Breakfast: zero-maida protein bread + aloo filling | 4 slices bread + ~80g cooked aloo | 330 | 20g | 475 | 37g | 1,425 kcal, 143g protein |
+| Lunch: cooked rice | 80g | 105 | 2g | 580 | 39g | 1,320 kcal, 141g protein |
+| Lunch: paneer sabzi | 150g | 260 | 16g | 840 | 55g | 1,060 kcal, 125g protein |
+| Lunch: cooked moong dal | 250g | 210 | 14g | 1,050 | 69g | 850 kcal, 111g protein |
+
+- **Midday verdict:** Breakfast + lunch can stay calorie-controlled if the rice cap is respected, but even then the day will still be **very protein-short by afternoon**. That is why the **5:30-6:00 PM whey slot is not optional** unless dinner becomes a clearly high-protein meal.
