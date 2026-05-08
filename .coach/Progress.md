@@ -3084,4 +3084,58 @@ Reasons:
 4. You've already had 1 scoop ON whey in a dahi-mango shake at lunch. A second dahi-based shake in the same day is calorie-wasteful.
 5. R-A rule: protein powder = lukewarm water, sip slowly. This is the correct execution.
 
-**Final dinner recommendation:** Eat all 250g bone-in chicken + 2-egg bhurji + 1 roti + then 1 scoop OWN in lukewarm water before sleep. This is Option A — it maximizes protein (~198g) and the calorie overshoot (~487 kcal on a gym day with TDEE ~2,500-2,600) still keeps you in deficit. If you want tighter calories, skip the egg bhurji (Option B) or skip both egg bhurji and roti (Option C).
+**Final dinner recommendation (original):** Eat all 250g bone-in chicken + 2-egg bhurji + 1 roti + then 1 scoop OWN in lukewarm water before sleep. This was Option A — it maximizes protein (~198g) and the calorie overshoot (~487 kcal on a gym day with TDEE ~2,500-2,600) still keeps you in deficit. If you want tighter calories, skip the egg bhurji (Option B) or skip both egg bhurji and roti (Option C).
+
+**User chose Option C+ deviation:** User agreed to skip roti and egg bhurji initially, but then ate **153g bone-in chicken + 1 roti + 100g egg bhurji** — which is between Option B (chicken + egg bhurji, no roti) and Option A (full). The key deviation is: user ate **1 roti + egg bhurji** after agreeing to skip both.
+
+---
+### 2026-05-08 (Day 55) — Dinner Actuals + Full Day Close
+
+**Dinner actual:**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Dinner: bone-in chicken curry | 153g total (with bones) | 190 | 24g | 1,857 | 145g | 43 kcal, 35g protein |
+| Dinner: roti | 1 roti | 100 | 3g | 1,957 | 148g | -57 kcal, 32g protein |
+| Dinner: egg bhurji | 100g cooked (~1.5 eggs) | 150 | 10g | 2,107 | 158g | -207 kcal, 22g protein |
+
+**Dinner analysis:** The chicken was correct protein-led eating. The roti and egg bhurji were the calorie-costly additions — together they added ~250 kcal but only ~13g protein. Still, the protein from egg bhurji is real protein that helps close the gap. On a gym day (TDEE ~2,500-2,600), this is still a caloric deficit day.
+
+**Deviation notes:**
+- **1 roti** was eaten despite being told to skip it (carbs already ~45g over target at dinner start → now ~66g over)
+- **100g egg bhurji** was eaten despite being told the leaner close was chicken-only. The egg bhurji adds real protein (+10g) but at a calorie cost of ~150 kcal with ~11g additional fat
+- The combination of roti + egg bhurji adds ~250 kcal / ~13g protein / ~21g carbs / ~12.5g fat — that's a **19 kcal/g protein ratio**, which is very calorie-expensive for the protein gained
+
+**Pre-bed (mandatory) — 1 scoop OWN Whey Isolate in lukewarm water:**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Pre-bed: OWN Whey Isolate (water) | 1 scoop | 120 | 25g | 2,227 | 183g | -327 kcal, target hit |
+
+**Day 55 FINAL PROJECTED CLOSE (with OWN whey):**
+
+| | kcal | Protein | Carbs | Fat |
+|---|---|---|---|---|
+| Consumed before dinner | ~1,667 | ~121 | ~215 | ~72 |
+| Dinner: chicken + roti + egg bhurji | ~440 | ~37 | ~26 | ~22.5 |
+| Pre-bed: OWN whey (water) | ~120 | ~25 | ~2 | ~1 |
+| **Day 55 total (projected)** | **~2,227** | **~183** | **~243** | **~95.5** |
+| Daily target | 1,900 | 180 | 170 | 56 |
+| Over/under | **+327** | **+3** | **+73** | **+39.5** |
+
+**Day 55 FINAL PROJECTED CLOSE (without OWN whey — DO NOT SKIP):**
+
+| | kcal | Protein | Carbs | Fat |
+|---|---|---|---|---|
+| **Day 55 total (without OWN whey)** | **~2,107** | **~158** | **~241** | **~94.5** |
+| Daily target | 1,900 | 180 | 170 | 56 |
+| Over/under | **+207** | **-22** | **+71** | **+38.5** |
+
+**Verdict:**
+- **With OWN whey:** ~2,227 kcal / ~183g protein — calories ~327 over target but protein barely hits 180g. Gym day TDEE ~2,500-2,600 means still ~275-375 kcal deficit. **Acceptable gym day outcome.**
+- **Without OWN whey:** ~2,107 kcal / ~158g protein — calories less over target but protein is **22g short**. **NOT acceptable.** The OWN whey before sleep is mandatory tonight.
+- **Carbs at 243g vs 170g target (+73g over):** The roti was the marginal culprit here — without it, carbs would be at ~222g (+52g over), still over but less dramatically.
+- **Fat at 95.5g vs 56g target (+39.5g over):** The egg bhurji added ~11g fat, the chicken added ~10g fat from curry, and breakfast roasted chana + lunch dahi/mango shake already pushed fat high.
+- **Coach verdict on the deviation:** Eating the roti and egg bhurji after agreeing to skip both is a discipline slip, not a disaster. The day is still in caloric deficit (estimated ~275-375 kcal deficit vs TDEE). Protein at ~183g with OWN whey is near target. The main damage is carbs and fat overshooting their targets — both of which self-correct through glycogen/water weight within 24-48 hours.
+
+**OWN WHEY BEFORE SLEEP IS MANDATORY TONIGHT.** Without it, protein drops to ~158g — unacceptable on a gym day (Session 30 Lower Body). Take 1 scoop OWN Whey Isolate in lukewarm water, sip slowly over 5 minutes, no earlier than 9:45 PM, no later than 10:30 PM.
