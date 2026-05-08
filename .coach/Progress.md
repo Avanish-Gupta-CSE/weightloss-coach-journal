@@ -2924,3 +2924,88 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 | Lunch: egg curry | 3 whole eggs in curry | 280 | 21g | 1,110 | 85g | 790 kcal, 95g protein |
 
 - **Midday verdict:** Calories are well-controlled through lunch. Protein is also building well — the post-gym whey plus eggs at breakfast and lunch give today a much stronger protein base than yesterday had at the same point. This is a **good trajectory** if the rest of the day stays disciplined.
+
+---
+### 2026-05-08 (Day 55) — Actual Intake Update (Breakfast + Lunch)
+
+**Breakfast actual (DEVIATION from prescription):**
+
+Prescribed was: 2 rotis + 2 omelettes (4 eggs) only.
+Actual was: 2 rotis + 2 omelettes (4 eggs) **+ 7-8 spoons roasted chana (~60g)** — extra item added.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym OWN Whey Isolate | 1 scoop | 120 | 27g | 120 | 27g | 1,780 kcal, 153g protein |
+| Post-gym sattu water | 3 spoons | 85 | 5g | 205 | 32g | 1,695 kcal, 148g protein |
+| Breakfast: 2 omelettes (4 eggs + 1 tsp oil) | 4 whole eggs | 320 | 24g | 525 | 56g | 1,375 kcal, 124g protein |
+| Breakfast: 2 rotis | 2 rotis | 200 | 6g | 725 | 62g | 1,175 kcal, 118g protein |
+| Breakfast: roasted chana (extra, not prescribed) | ~60g (7-8 spoons) | 213 | 11g | 938 | 73g | 962 kcal, 107g protein |
+
+**Lunch actual (DEVIATION from prescription):**
+
+Prescribed was: 80g cooked rice + 3 eggs in egg curry.
+Actual was: **110g cooked rice** (not 80g) + **2 eggs in egg curry** (not 3) + **protein mango shake** (not prescribed).
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Lunch: egg curry (2 eggs + 1 tsp oil) | 2 eggs + oil + onion/tomato | 190 | 12g | 1,128 | 85g | 772 kcal, 95g protein |
+| Lunch: cooked rice | 110g | 143 | 2.7g | 1,271 | 87.7g | 629 kcal, 92.3g protein |
+| Lunch shake: mango pulp | 90g | 54 | 0.7g | 1,325 | 88.4g | 575 kcal, 91.6g protein |
+| Lunch shake: dahi | 190g | 114 | 6.7g | 1,439 | 95.1g | 461 kcal, 84.9g protein |
+| Lunch shake: jaggery | 6g | 24 | 0g | 1,463 | 95.1g | 437 kcal, 84.9g protein |
+| Lunch shake: ON whey concentrate | 1 scoop | 120 | 24g | 1,583 | 119.1g | 317 kcal, 60.9g protein |
+
+**Day 55 running total after lunch (ACTUAL):**
+
+| | kcal | Protein | Carbs | Fat |
+|---|---|---|---|---|
+| Consumed so far | ~1,583 | ~119 | ~207 | ~72 |
+| Daily target | 1,900 | 180 | 170 | 56 |
+| Remaining (deficit) | ~317 | ~61 | over by 37 | over by 16 |
+
+**Breakfast analysis:** Roasted chana was a good protein-fat addition (11g protein in ~213 kcal) but pushed carbs above the per-meal target. Without the chana, breakfast would have been ~938 kcal / 62g protein — still within range. With it, breakfast was calorie-dense but protein-effective.
+
+**Lunch analysis:** The protein mango shake was a calorie-expensive protein delivery method (~312 kcal for ~31g protein = 10 kcal/g protein). Rice went 30g over prescription (110g vs 80g). Only 2 eggs in curry instead of prescribed 3 = lost ~6g protein. However, the ON whey in the shake compensated for the missing egg protein (+24g). Net lunch was protein-adequate but carb-heavy.
+
+**Critical flags:**
+- **Carbs already at ~207g vs 170g target** — dinner must be very low-carb (no rice, max 1 roti).
+- **Fat already at ~72g vs 56g target** — dinner must be lean (no fried, no butter, no extra oil).
+- **Protein at ~119g with ~61g remaining** — this is actually recoverable if dinner and evening snack are protein-first.
+- **Only ~317 kcal remaining** — this is very tight. Every calorie must count.
+
+**Remaining-day plan (corrected for actual intake):**
+
+| Time | Meal | Items | Est. kcal | Est. Protein |
+|---|---|---|---|---|
+| ~5:30 PM | Snack | 1 scoop OWN Whey Isolate + lukewarm water ONLY (no milk, no mango) | ~120 | ~25 |
+| ~8:30 PM | Dinner | 200g grilled/dry chicken breast + 1 roti + 100g lauki sabzi (1 tsp oil max) | ~420 | ~50 |
+| ~10:00 PM | Pre-bed | 1 scoop OWN Whey Isolate in lukewarm water | ~120 | ~25 |
+| **Remaining total** | | | **~660** | **~100** |
+
+**Projected day close: ~2,243 kcal / ~219g protein** — this exceeds both targets. Given the carb and fat overshoot, the smarter move is:
+
+**Tighter close option:**
+
+| Time | Meal | Items | Est. kcal | Est. Protein |
+|---|---|---|---|---|
+| ~5:30 PM | Snack | 1 scoop OWN Whey Isolate in lukewarm water | ~120 | ~25 |
+| ~8:30 PM | Dinner | 200g grilled chicken breast ONLY (no roti, no rice) + 100g lauki sabzi | ~260 | ~46 |
+| ~10:00 PM | Pre-bed | 1 scoop OWN Whey Isolate in lukewarm water | ~120 | ~25 |
+| **Remaining total** | | | **~500** | **~96** |
+
+**Projected day close (tighter): ~2,083 kcal / ~215g protein** — still slightly over calories but hit protein. Even tighter:
+
+**Leanest close (gym day):**
+
+| Time | Meal | Items | Est. kcal | Est. Protein |
+|---|---|---|---|---|
+| ~5:30 PM | Snack | 30g roasted chana (no whey — already had 2 scoops today) | ~110 | ~6 |
+| ~8:30 PM | Dinner | 200g grilled chicken breast + 1 roti + sabzi | ~420 | ~50 |
+| ~10:00 PM | Pre-bed | 1 scoop OWN Whey Isolate in lukewarm water | ~120 | ~25 |
+| **Remaining total** | | | **~650** | **~81** |
+
+**Projected day close (leanest): ~2,233 kcal / ~200g protein** — over calories but hits protein. Best overall trade for a gym day.
+
+**Coach verdict:** The roasted chana at breakfast was a decent protein move but pushed the day calorie-dense. The mango shake at lunch was the weaker choice — it added ~192 kcal of "non-protein calories" (mango + dahi + jaggery = ~192 kcal for ~7.4g protein) that a simple whey-in-water would have avoided. However, the whey in the shake was the right protein play given only 2 eggs in the curry.
+
+**Priority for the rest of the day:** Protein-first, carb-minimal, fat-minimal. Chicken breast is the best remaining dinner protein. **No more rice, no mango, no jaggery, no dahi tonight.** Only lean protein + vegetables + 1 roti max.
