@@ -3009,3 +3009,79 @@ Actual was: **110g cooked rice** (not 80g) + **2 eggs in egg curry** (not 3) + *
 **Coach verdict:** The roasted chana at breakfast was a decent protein move but pushed the day calorie-dense. The mango shake at lunch was the weaker choice — it added ~192 kcal of "non-protein calories" (mango + dahi + jaggery = ~192 kcal for ~7.4g protein) that a simple whey-in-water would have avoided. However, the whey in the shake was the right protein play given only 2 eggs in the curry.
 
 **Priority for the rest of the day:** Protein-first, carb-minimal, fat-minimal. Chicken breast is the best remaining dinner protein. **No more rice, no mango, no jaggery, no dahi tonight.** Only lean protein + vegetables + 1 roti max.
+
+---
+### 2026-05-08 (Day 55) — Evening Snack + Dinner Plan Update
+
+**Evening snack actual:** **5 almonds (~7g)** + **2 anjeer** ✅
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| 5 almonds | ~7g | 42 | 1.3g | 1,625 | 120.4g | 275 kcal, 59.6g protein |
+| 2 anjeer | 2 pieces | 42 | 0.6g | 1,667 | 121g | 233 kcal, 59g protein |
+
+**Evening snack analysis:** Anjeer adds carbs and calories with almost no protein. Almonds add healthy fat but also minimal protein per calorie. The anjeer was a weak bargain — 42 kcal for 0.6g protein. Combined: 84 kcal for 1.9g protein. Not the worst snack but not protein-effective either.
+
+**Dinner plan (corrected for actual intake including evening snack):**
+
+Available dinner items: **250g boned chicken + roti + egg bhurji**
+
+Parameters: ~233 kcal remaining to 1,900 target (but on a gym day TDEE ~2,500-2,600, still safely in deficit even at 2,000-2,100 kcal). ~59g protein remaining.
+
+**Option A — RECOMMENDED (protein-max, calorie-controlled):**
+
+| Intake item | Quantity | Est. kcal | Est. protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Dinner: chicken curry (250g bone-in) | ~140g edible meat + curry | ~310 | ~37g | 1,977 | 158g | -77 kcal, 22g protein |
+| Dinner: egg bhurji (2 eggs + 1 tsp oil) | 2 eggs + oil | 190 | 12g | 2,167 | 170g | -267 kcal, 10g protein |
+| Dinner: 1 roti | 1 roti | 100 | 3g | 2,267 | 173g | -367 kcal, 7g protein |
+| Pre-bed: 1 scoop OWN Whey Isolate (water) | 1 scoop | 120 | 25g | 2,387 | 198g | -487 kcal, target hit |
+
+**Option A projected close: ~2,387 kcal / ~198g protein** ✅ Protein target exceeded. Calories over by ~487 but still in deficit on gym day (TDEE ~2,500-2,600).
+
+**Option B — Tighter calorie control (skip egg bhurji):**
+
+| Intake item | Quantity | Est. kcal | Est. protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Dinner: chicken curry (250g bone-in) | ~140g edible meat + curry | ~310 | ~37g | 1,977 | 158g | -77 kcal, 22g protein |
+| Dinner: 1 roti | 1 roti | 100 | 3g | 2,077 | 161g | -177 kcal, 19g protein |
+| Pre-bed: 1 scoop OWN Whey Isolate (water) | 1 scoop | 120 | 25g | 2,197 | 186g | -297 kcal, target hit |
+
+**Option B projected close: ~2,197 kcal / ~186g protein** ✅ Protein target hit. Calories over by ~297.
+
+**Option C — Leanest (no roti, no egg bhurji):**
+
+| Intake item | Quantity | Est. kcal | Est. protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Dinner: chicken curry (250g bone-in) | ~140g edible meat + curry | ~310 | ~37g | 1,977 | 158g | -77 kcal, 22g protein |
+| Pre-bed: 1 scoop OWN Whey Isolate (water) | 1 scoop | 120 | 25g | 2,097 | 183g | -197 kcal, target hit |
+
+**Option C projected close: ~2,097 kcal / ~183g protein** ✅ Protein near target. Calories over by ~197. Best macro trade on a gym day.
+
+**Coach verdict on dinner quantities:**
+
+| Item | Recommended quantity | Why |
+|---|---|---|
+| **250g bone-in chicken** | **Eat ALL of it** (~140g edible meat) | Best protein source left. Every gram matters for the 59g gap. |
+| **Egg bhurji** | **2 eggs** (if you want it — adds ~190 kcal / 12g protein) | Adds good protein but at significant calorie cost. Include ONLY if you can afford ~190 extra kcal. Option A includes it; Option B/C skip it. |
+| **Roti** | **1 roti MAX** (or 0 if you want leanest close) | Carbs already ~37g over target. Skip roti entirely if you had egg bhurji. If no egg bhurji, 1 roti is acceptable. |
+| **Pre-bed whey** | **1 scoop OWN in lukewarm water ONLY** | See analysis below. |
+
+**Whey decision: OWN + lukewarm water vs OWN + dahi shake**
+
+| Option | Est. kcal | Est. protein | Carbs added | Fat added | Coach read |
+|---|---|---|---|---|---|
+| **1 scoop OWN in lukewarm water** | ~120 | ~25g | ~2g | ~1g | **RECOMMENDED** — cleanest protein delivery, 4.8 kcal/g protein |
+| 1 scoop OWN + 190g dahi | ~235 | ~31g | ~7g | ~7g | ❌ Adds ~115 kcal for only ~6g extra protein, pushes carbs + fat further over target |
+| 1 scoop OWN + 190g dahi + mango + jaggery | ~310+ | ~32g | ~22g+ | ~7g+ | ❌❌ Third mango-based shake of the day. Carbs would be ~50g+ over target. Not approved. |
+
+**Direct answer: 1 scoop OWN Whey Isolate in lukewarm water ONLY tonight.**
+
+Reasons:
+1. Carbs are already ~37g over the 170g target. Adding dahi (+7g carbs) makes it worse.
+2. Fat is already ~16g over the 56g target. Dahi adds ~7g more fat.
+3. Protein efficiency: OWN in water = 4.8 kcal/g protein. OWN + dahi = 7.6 kcal/g protein. Nearly 60% more calorie-expensive per gram of protein.
+4. You've already had 1 scoop ON whey in a dahi-mango shake at lunch. A second dahi-based shake in the same day is calorie-wasteful.
+5. R-A rule: protein powder = lukewarm water, sip slowly. This is the correct execution.
+
+**Final dinner recommendation:** Eat all 250g bone-in chicken + 2-egg bhurji + 1 roti + then 1 scoop OWN in lukewarm water before sleep. This is Option A — it maximizes protein (~198g) and the calorie overshoot (~487 kcal on a gym day with TDEE ~2,500-2,600) still keeps you in deficit. If you want tighter calories, skip the egg bhurji (Option B) or skip both egg bhurji and roti (Option C).
