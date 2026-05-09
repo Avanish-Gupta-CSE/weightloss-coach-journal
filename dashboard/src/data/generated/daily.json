@@ -861,10 +861,10 @@
   {
     "date": "2026-05-09",
     "day": 56,
-    "dayType": "Session 31 Workout Actuals (Saturday Full Body + HIIT)",
+    "dayType": "Dinner Actuals + Updated Totals",
     "meals": {},
-    "protein": null,
-    "calories": null,
+    "protein": 161,
+    "calories": 2341,
     "workout": true,
     "workoutType": "",
     "walkingPad": false,
