@@ -3173,3 +3173,58 @@ Reasons:
 **Coach feedback (tight):**
 - **Progression calls:** Leg Curl ↑ next time. Cable Crunch ↑ next time. DB Shoulder Press stays at **10 kg** until it is 3×12 clean.
 - **Safety cue:** On DB Shoulder Press keep ribs down + glutes tight. If you have to arch/lean back, the weight is too heavy.
+
+---
+### 2026-05-09 (Day 56) — Post-Gym Lunch + Shake Actuals (Running Total)
+
+**Compliance flag:** Deep-fried pakodi = Rule 4 violation. Damage control = keep dinner rice minimal + protein heavy.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: paneer paratha | 2 parathas | 650 | 28g | 650 | 28g | 1,250 kcal, 152g protein |
+| Lunch: cooked rice | 100g | 130 | 2.5g | 780 | 30.5g | 1,120 kcal, 149.5g protein |
+| Lunch: kadhi | 200g | 144 | 7.2g | 924 | 37.7g | 976 kcal, 142.3g protein |
+| Lunch: deep-fried pakodi | 7 small pieces (est) | 385 | 10.5g | 1,309 | 48.2g | 591 kcal, 131.8g protein |
+| Chutney (with pakodi) | ~15g (est) | 20 | 0g | 1,329 | 48.2g | 571 kcal, 131.8g protein |
+| Shake: mango pulp | 100g | 60 | 0.8g | 1,389 | 49.0g | 511 kcal, 131.0g protein |
+| Shake: jaggery | 5g | 20 | 0g | 1,409 | 49.0g | 491 kcal, 131.0g protein |
+| Shake: dahi | 110g | 66 | 3.9g | 1,475 | 52.9g | 425 kcal, 127.1g protein |
+| Shake: ON whey concentrate | 1 scoop | 120 | 24g | 1,595 | 76.9g | 305 kcal, 103.1g protein |
+| Almonds | 5 pieces | 42 | 1.3g | 1,637 | 78.2g | 263 kcal, 101.8g protein |
+| Anjeer | 1 piece | 21 | 0.3g | **1,658** | **78.5g** | **242 kcal, 101.5g protein** |
+
+**As of now:**
+- **Calorie deficit vs 1,900:** **~242 kcal remaining**
+- **Protein deficit vs 180g:** **~101.5g remaining**
+
+---
+### 2026-05-09 (Day 56) — Dinner Plan (Chicken Biryani) + Whey Decision
+
+| Item | Quantity to eat | Why |
+|---|---:|---|
+| Chicken from biryani (cooked meat) | **250–300g** | You’re protein-short today. Prioritize chicken pieces. |
+| Biryani rice | **50–60g cooked** | Keep carbs tight (pakodi + mango already used calories). |
+| Raita | **100g** | OK for gut; keep portion controlled. |
+
+**Pre-sleep OWN whey?** ✅ **YES — 1 scoop OWN in lukewarm water** (sip slow) because protein gap is huge today. Use a small buffer: **5 almonds OR 30g roasted chana**.
+
+---
+### 2026-05-09 (Day 56) — Dinner Actuals + Updated Totals
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total before dinner) | — | 1,658 | 78.5g | 1,658 | 78.5g | 242 kcal, 101.5g protein |
+| Dinner: boneless chicken (biryani chicken pieces) | 250g | 412 | 75g | 2,070 | 153.5g | -170 kcal, 26.5g protein |
+| Dinner: biryani rice | 100g cooked | 160 | 2.5g | 2,230 | 156.0g | -330 kcal, 24.0g protein |
+| Raita + salad veg (onion/kheera/tomato) | 150g | 90 | 5g | 2,320 | 161.0g | -420 kcal, 19.0g protein |
+| Anjeer | 1 piece | 21 | 0.3g | **2,341** | **161.3g** | **-441 kcal, 18.7g protein** |
+
+**As of now (post dinner):**
+- **Calories vs 1,900:** **~+441 kcal over target**
+- **Protein vs 180g:** **~18.7g short**
+
+**Whey decision (because you asked “cut vs protein”):**
+- If you take **1 scoop OWN**: +120 kcal, +25g protein → **~2,461 kcal / ~186g protein** (protein target hit, calories higher).
+- If you take **0.5 scoop OWN**: +60 kcal, +12g protein → **~2,401 kcal / ~173g protein** (better trade today).
+
+**User decision:** Skip pre-sleep whey tonight. Day 56 closes at **~2,341 kcal / ~161g protein** (est).
