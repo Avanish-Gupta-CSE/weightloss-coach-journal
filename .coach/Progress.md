@@ -2792,3 +2792,384 @@ Added at home: 1 muffin (~220 kcal, ❌ Rule 3 maida + Rule 5 sugar) + ½ milk c
 | Lunch: cooked moong dal | 250g | 210 | 14g | 1,050 | 69g | 850 kcal, 111g protein |
 
 - **Midday verdict:** Breakfast + lunch can stay calorie-controlled if the rice cap is respected, but even then the day will still be **very protein-short by afternoon**. That is why the **5:30-6:00 PM whey slot is not optional** unless dinner becomes a clearly high-protein meal.
+
+---
+### 2026-05-07 (Day 54) — Afternoon Intake + Stress Eating Update
+- **Topics discussed:** Actual lunch quantities, stress-eating snack block, current calorie/protein deficit, dinner correction
+- **Lunch actual:** **100g cooked rice + 150g cooked moong dal + 100g paneer**.
+- **Stress-eating actual:** **20 almonds + 10 anjeer + 4 spoons Bikaneri besan bhujia + 3 spoons aloo bhujia + ~1/2 murukku**.
+- **Trigger:** User explicitly identified this as a **stress-eating episode**. This is a calorie-control failure block, not a hunger-based protein block.
+- **Breakfast status:** The earlier planned **2 aloo sandwiches** remain **unconfirmed**. Running math below assumes that breakfast was **not** eaten. If breakfast was eaten, add approximately **~330 kcal / ~20g protein** on top.
+
+- **Day 54 running intake table so far (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym sattu water | 3 spoons | 85 | 5g | 85 | 5g | 1,815 kcal, 175g protein |
+| OWN Whey Isolate actually consumed | ~0.5 scoop | 60 | 12g | 145 | 17g | 1,755 kcal, 163g protein |
+| Lunch: cooked rice | 100g | 130 | 3g | 275 | 20g | 1,625 kcal, 160g protein |
+| Lunch: cooked moong dal | 150g | 125 | 8g | 400 | 28g | 1,500 kcal, 152g protein |
+| Lunch: paneer | 100g | 175 | 11g | 575 | 39g | 1,325 kcal, 141g protein |
+| Almonds | 20 pieces | 140 | 4g | 715 | 43g | 1,185 kcal, 137g protein |
+| Anjeer | 10 pieces | 210 | 5g | 925 | 48g | 975 kcal, 132g protein |
+| Bikaneri besan bhujia | 4 spoons | 220 | 4g | 1,145 | 52g | 755 kcal, 128g protein |
+| Aloo bhujia | 3 spoons | 165 | 2g | 1,310 | 54g | 590 kcal, 126g protein |
+| Murukku | ~1/2 piece | 35 | 1g | 1,345 | 55g | 555 kcal, 125g protein |
+
+- **Current verdict:** On the confirmed math, the day is **not yet a calorie disaster**, but it is a **major protein-collapse day in progress**. The snack block added roughly **~770 kcal** while contributing only about **~16g protein**. That is the exact opposite of what a gym day needed.
+- **If the unconfirmed breakfast sandwiches were also eaten:** Running total becomes approximately **~1,675 kcal / ~75g protein** before dinner, which means the protein target becomes mathematically impossible tonight without a calorie overshoot.
+- **Dinner correction tonight:** Best move = **200g cooked chicken gravy or grilled chicken + 1 roti max**. **No rice, no bhujia, no murukku, no dessert drink.** Then take **1 scoop OWN Whey Isolate at ~10:00-10:15 PM** in **lukewarm water**. If only a vegetarian dinner is possible, fallback = **250g cooked moong dal + 150g paneer**, with **no roti and no rice**, but accept that protein will still close short.
+- **Night rule:** After dinner, **kitchen closed**. No second snack loop. If stress rises again, do **10 min walking pad** and water first, not namkeen.
+
+---
+### 2026-05-07 (Day 54) — Breakfast Confirmation Update
+- **Breakfast actual confirmed:** **3 slices high-protein bread with aloo filling** + **1 coconut water**.
+- **Coach estimate used for running math:** Treat this as approximately **~335 kcal / ~16g protein** total for the breakfast block.
+
+- **Updated Day 54 intake table so far (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym sattu water | 3 spoons | 85 | 5g | 85 | 5g | 1,815 kcal, 175g protein |
+| OWN Whey Isolate actually consumed | ~0.5 scoop | 60 | 12g | 145 | 17g | 1,755 kcal, 163g protein |
+| Breakfast: 3 bread aloo sandwich + coconut water | 3 slices bread + aloo filling + 1 coconut water | 335 | 16g | 480 | 33g | 1,420 kcal, 147g protein |
+| Lunch: cooked rice | 100g | 130 | 3g | 610 | 36g | 1,290 kcal, 144g protein |
+| Lunch: cooked moong dal | 150g | 125 | 8g | 735 | 44g | 1,165 kcal, 136g protein |
+| Lunch: paneer | 100g | 175 | 11g | 910 | 55g | 990 kcal, 125g protein |
+| Almonds | 20 pieces | 140 | 4g | 1,050 | 59g | 850 kcal, 121g protein |
+| Anjeer | 10 pieces | 210 | 5g | 1,260 | 64g | 640 kcal, 116g protein |
+| Bikaneri besan bhujia | 4 spoons | 220 | 4g | 1,480 | 68g | 420 kcal, 112g protein |
+| Aloo bhujia | 3 spoons | 165 | 2g | 1,645 | 70g | 255 kcal, 110g protein |
+| Murukku | ~1/2 piece | 35 | 1g | 1,680 | 71g | 220 kcal, 109g protein |
+
+- **Updated verdict:** You are now sitting at approximately **~1,680 kcal / ~71g protein**. That means the current remaining gap is only **~220 kcal**, but the protein gap is still **~109g**. So the protein target is now **mathematically impossible** to fully hit tonight without a calorie overshoot.
+- **Dinner correction from here:** Best damage-control dinner is **180-200g cooked chicken only**, with **no roti and no rice**. If that chicken is cooked lean, you may overshoot the calorie target only slightly, but that is still better than taking a low-protein carb dinner. If only vegetarian dinner is available, do **150g paneer only** or **250g moong dal only**, but both are weaker salvage options.
+
+---
+### 2026-05-07 (Day 54) — Dinner Projection Clarification
+- **Planned dinner scenario:** **200g cooked boneless chicken** + **1 scoop OWN Whey Isolate by night**.
+- **Projection math using prior house estimates:** Treat this close as roughly **~447 kcal / ~79g protein** total for the dinner + whey block.
+- **Projected Day 54 close if this is followed:** Approximately **~2,127 kcal / ~150g protein**.
+- **Projected gap vs target after this plan:** About **~227 kcal above** the **1,900 kcal** target, and still about **~30g protein short** of the **180g** target.
+- **Coach verdict on the plan:** This is still the **best practical salvage** from the current position. It does **not** fully rescue the protein target, but it gives a much better close than adding roti/rice or taking a low-protein dinner.
+
+---
+### 2026-05-07 (Day 54) — Actual Dinner Close
+- **Actual dinner:** **200g bone-in chicken** + **50g cooked rice** + **50g puffed rice**.
+- **Whey:** **None.** User was not able to take the planned 1 scoop OWN at night.
+- **Day 54 actual close (estimated):**
+
+| Intake item | Estimated kcal | Estimated protein |
+|---|---:|---:|
+| All confirmed pre-dinner intake | 1,680 | 71g |
+| Dinner: 200g bone-in chicken | 220 | 35g |
+| Dinner: 50g cooked rice | 65 | 2g |
+| Dinner: 50g puffed rice | 185 | 3g |
+| **Day 54 closeout total** | **~2,150** | **~111g** |
+
+- **Gap vs target:** Approximately **~250 kcal above** the **1,900 kcal** target, and approximately **~69g protein short** of the **180g** target.
+- **Coach analysis:** The dinner itself was reasonable — the chicken was a good protein anchor and the rice/puffed rice were not unreasonable portions. The real damage was already done earlier in the day by the stress-eating block of **bhujia + almonds + anjeer + murukku**, which added about **~770 kcal** for only about **~16g protein**. That block turned what could have been a close-to-target day into a clear calorie-overshoot day with a major protein shortfall. Missing the night whey made the protein miss worse, but the day was already going to close protein-short even with that scoop. The takeaway is clean: one stress-eating episode in the afternoon, even when the individual items are small, can push a whole gym day well above calories while still leaving protein badly behind.
+
+---
+### 2026-05-08 (Day 55) — Morning Plan
+- **Today workout split:** **Friday Lower Body + Core / Goblet Squat day.** This is the Friday Phase 2 lower-body slot with the Goblet Squat DB movement.
+- **Session identity:** Treat this as **Session 30 planned**. Mark complete only after the workout is actually done.
+- **Training goal today:** Controlled lower-body repeatability. Day 54 nutrition was recovery-poor, so today is about clean consolidation, not ego progression.
+
+- **Today workout table:**
+
+| Exercise | Sets x Reps | Load | Coach note |
+|---|---:|---:|---|
+| Warm-up: treadmill or brisk walk | 5-7 min | Easy pace | Then do leg swings, bodyweight squats, and hip circles before the first set |
+| Leg Press | 3 x 10-12 | **90 kg** | Keep. Feet shoulder-width on platform. Push through heels, no knee lock. |
+| Goblet Squat (DB) | 3 x 10-12 | **10 kg** | This is the key Friday DB movement. Keep 10 kg one more clean session. If all three sets are perfect and deep, progression trial opens next Friday. |
+| Leg Extension | 3 x 10-12 | **29 kg** | Keep. Extend fully, squeeze at top, slow lower. |
+| Leg Curl | 3 x 10-12 | **29 kg** | Keep. Focus on smooth movement — no jerking at the start of the curl. |
+| Hip Adductor | 3 x 12-15 | **23 kg** | Keep. Squeeze in, slow release. |
+| Hip Abductor | 3 x 12-15 | **23 kg** | Keep. Push out, hold 1 sec, slow return. |
+| Cable Crunch | 3 x 12-15 | **15 lbs** | Keep. Round spine, don't pull with arms. |
+| Cool-down: quad, hamstring, hip flexor stretch | 3-5 min | — | — |
+
+- **Today workout rules:**
+
+| Rule | Instruction |
+|---|---|
+| Progression | **No progression today.** Day 54 recovery was poor, so repeat all current loads cleanly. |
+| HIIT | **No HIIT.** Walking pad is fine, but no sprint intervals. |
+| Effort | Stop 1-2 reps before form breaks on leg curl and leg extension. |
+| Goblet Squat | If 10 kg feels genuinely easy on all three sets with deep depth, flag it for next Friday's progression trial. Do not jump today. |
+
+---
+### 2026-05-08 (Day 55) — Session 30 Actual Workout + Morning Intake Update
+- **Topics discussed:** Session 30 actual performance, post-gym whey + sattu, thyroxine timing, breakfast quantity, lunch quantity, rest-of-day guidance
+- **Gym:** **Session 30 ✅ Lower Body + Core / Goblet Squat DONE.** Warm-up = **5 min stretching + body exercises**. Leg Press **90 kg x3x13** (above the 10-12 rep range — good sign). Goblet Squat **10 kg x3x12** stable and deep. Leg Extension **29 kg x3x12** stable. Leg Curl **29 kg x3x12** stable. Hip Adductor **23 kg x3x12-15** stable. Hip Abductor **23 kg x3x12-15** stable. Cable Crunch **15 lbs x3x12-15** stable.
+- **Workout analysis:** This was a **strong Session 30**. Every prescribed load was hit cleanly with no jerking or failure. **Leg Press 90 kg** crossed the top of the rep range on all three sets (13 reps), which means it is now clearly a stable working weight. **Goblet Squat 10 kg** was stable and deep — progression trial to **12.5 kg** opens next Friday. **Leg Curl 29 kg** was smooth this time with no reported jerking — one more clean repeat and it can be promoted to a locked working weight. This is exactly the kind of controlled repeatability day you needed after Day 54's poor recovery.
+- **Post-gym intake:** **1 scoop OWN Whey Isolate** ✅ + **3 spoons sattu with lemon and water** ✅.
+- **⚠️ Thyroxine timing violation:** User reported taking thyroxine **after the gym** and **after whey + sattu**. This is a **protocol violation**. Thyroxine must be taken **FIRST** at **6:00 AM** on an empty stomach with **plain water only**, and then a **30-minute gap** before any food or drink (including lemon water, sattu, or whey). Taking thyroxine after protein (whey) means absorption is compromised. **Correct order tomorrow: wake → thyroxine with plain water → wait 30 min → then lemon water / sattu / gym / whey.**
+- **OWN pack status:** Current open pack is now **effectively depleted** after this scoop. **Open the sealed 500g restock pack** for the next whey serving.
+- **Breakfast prescription:** **2 rotis max** with the **2 omelettes (4 eggs total)**. Do not go to 3 rotis. Cook with **1 tsp oil max** in the omelettes. No butter on the rotis.
+- **Lunch prescription:** **80g cooked rice + egg curry made with 3 whole eggs.** Keep the rice tight because breakfast already has rotis. The egg curry plus the post-gym whey and breakfast eggs together make today's protein anchor strong through mid-day.
+- **Rest-of-day guidance:** Because Day 54 was calorie-high and protein-short, today must close clean. Evening snack should be simple — **roasted chana (~30g)** or **sattu water** if hungry. Dinner should be **protein-first, no bhujia, no murukku, no puffed rice.** If chicken is available, **150-200g cooked chicken + 1 roti max**. If vegetarian, **250g cooked dal + 150g paneer**. **Night whey is optional** tonight only if dinner protein is weak.
+- **Walking pad call:** Today is a gym day so walking pad is not mandatory, but **30 min at 4-5 kmph** while studying is still recommended if energy allows, especially after yesterday's calorie overshoot.
+
+- **Day 55 intake table so far / prescribed through lunch (estimated):**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym OWN Whey Isolate | 1 scoop | 120 | 27g | 120 | 27g | 1,780 kcal, 153g protein |
+| Post-gym sattu water | 3 spoons | 85 | 5g | 205 | 32g | 1,695 kcal, 148g protein |
+| Breakfast: 2 omelettes (4 eggs) | 4 whole eggs + 1 tsp oil | 320 | 24g | 525 | 56g | 1,375 kcal, 124g protein |
+| Breakfast: roti | 2 rotis | 200 | 6g | 725 | 62g | 1,175 kcal, 118g protein |
+| Lunch: cooked rice | 80g | 105 | 2g | 830 | 64g | 1,070 kcal, 116g protein |
+| Lunch: egg curry | 3 whole eggs in curry | 280 | 21g | 1,110 | 85g | 790 kcal, 95g protein |
+
+- **Midday verdict:** Calories are well-controlled through lunch. Protein is also building well — the post-gym whey plus eggs at breakfast and lunch give today a much stronger protein base than yesterday had at the same point. This is a **good trajectory** if the rest of the day stays disciplined.
+
+---
+### 2026-05-08 (Day 55) — Actual Intake Update (Breakfast + Lunch)
+
+**Breakfast actual (DEVIATION from prescription):**
+
+Prescribed was: 2 rotis + 2 omelettes (4 eggs) only.
+Actual was: 2 rotis + 2 omelettes (4 eggs) **+ 7-8 spoons roasted chana (~60g)** — extra item added.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym OWN Whey Isolate | 1 scoop | 120 | 27g | 120 | 27g | 1,780 kcal, 153g protein |
+| Post-gym sattu water | 3 spoons | 85 | 5g | 205 | 32g | 1,695 kcal, 148g protein |
+| Breakfast: 2 omelettes (4 eggs + 1 tsp oil) | 4 whole eggs | 320 | 24g | 525 | 56g | 1,375 kcal, 124g protein |
+| Breakfast: 2 rotis | 2 rotis | 200 | 6g | 725 | 62g | 1,175 kcal, 118g protein |
+| Breakfast: roasted chana (extra, not prescribed) | ~60g (7-8 spoons) | 213 | 11g | 938 | 73g | 962 kcal, 107g protein |
+
+**Lunch actual (DEVIATION from prescription):**
+
+Prescribed was: 80g cooked rice + 3 eggs in egg curry.
+Actual was: **110g cooked rice** (not 80g) + **2 eggs in egg curry** (not 3) + **protein mango shake** (not prescribed).
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Lunch: egg curry (2 eggs + 1 tsp oil) | 2 eggs + oil + onion/tomato | 190 | 12g | 1,128 | 85g | 772 kcal, 95g protein |
+| Lunch: cooked rice | 110g | 143 | 2.7g | 1,271 | 87.7g | 629 kcal, 92.3g protein |
+| Lunch shake: mango pulp | 90g | 54 | 0.7g | 1,325 | 88.4g | 575 kcal, 91.6g protein |
+| Lunch shake: dahi | 190g | 114 | 6.7g | 1,439 | 95.1g | 461 kcal, 84.9g protein |
+| Lunch shake: jaggery | 6g | 24 | 0g | 1,463 | 95.1g | 437 kcal, 84.9g protein |
+| Lunch shake: ON whey concentrate | 1 scoop | 120 | 24g | 1,583 | 119.1g | 317 kcal, 60.9g protein |
+
+**Day 55 running total after lunch (ACTUAL):**
+
+| | kcal | Protein | Carbs | Fat |
+|---|---|---|---|---|
+| Consumed so far | ~1,583 | ~119 | ~207 | ~72 |
+| Daily target | 1,900 | 180 | 170 | 56 |
+| Remaining (deficit) | ~317 | ~61 | over by 37 | over by 16 |
+
+**Breakfast analysis:** Roasted chana was a good protein-fat addition (11g protein in ~213 kcal) but pushed carbs above the per-meal target. Without the chana, breakfast would have been ~938 kcal / 62g protein — still within range. With it, breakfast was calorie-dense but protein-effective.
+
+**Lunch analysis:** The protein mango shake was a calorie-expensive protein delivery method (~312 kcal for ~31g protein = 10 kcal/g protein). Rice went 30g over prescription (110g vs 80g). Only 2 eggs in curry instead of prescribed 3 = lost ~6g protein. However, the ON whey in the shake compensated for the missing egg protein (+24g). Net lunch was protein-adequate but carb-heavy.
+
+**Critical flags:**
+- **Carbs already at ~207g vs 170g target** — dinner must be very low-carb (no rice, max 1 roti).
+- **Fat already at ~72g vs 56g target** — dinner must be lean (no fried, no butter, no extra oil).
+- **Protein at ~119g with ~61g remaining** — this is actually recoverable if dinner and evening snack are protein-first.
+- **Only ~317 kcal remaining** — this is very tight. Every calorie must count.
+
+**Remaining-day plan (corrected for actual intake):**
+
+| Time | Meal | Items | Est. kcal | Est. Protein |
+|---|---|---|---|---|
+| ~5:30 PM | Snack | 1 scoop OWN Whey Isolate + lukewarm water ONLY (no milk, no mango) | ~120 | ~25 |
+| ~8:30 PM | Dinner | 200g grilled/dry chicken breast + 1 roti + 100g lauki sabzi (1 tsp oil max) | ~420 | ~50 |
+| ~10:00 PM | Pre-bed | 1 scoop OWN Whey Isolate in lukewarm water | ~120 | ~25 |
+| **Remaining total** | | | **~660** | **~100** |
+
+**Projected day close: ~2,243 kcal / ~219g protein** — this exceeds both targets. Given the carb and fat overshoot, the smarter move is:
+
+**Tighter close option:**
+
+| Time | Meal | Items | Est. kcal | Est. Protein |
+|---|---|---|---|---|
+| ~5:30 PM | Snack | 1 scoop OWN Whey Isolate in lukewarm water | ~120 | ~25 |
+| ~8:30 PM | Dinner | 200g grilled chicken breast ONLY (no roti, no rice) + 100g lauki sabzi | ~260 | ~46 |
+| ~10:00 PM | Pre-bed | 1 scoop OWN Whey Isolate in lukewarm water | ~120 | ~25 |
+| **Remaining total** | | | **~500** | **~96** |
+
+**Projected day close (tighter): ~2,083 kcal / ~215g protein** — still slightly over calories but hit protein. Even tighter:
+
+**Leanest close (gym day):**
+
+| Time | Meal | Items | Est. kcal | Est. Protein |
+|---|---|---|---|---|
+| ~5:30 PM | Snack | 30g roasted chana (no whey — already had 2 scoops today) | ~110 | ~6 |
+| ~8:30 PM | Dinner | 200g grilled chicken breast + 1 roti + sabzi | ~420 | ~50 |
+| ~10:00 PM | Pre-bed | 1 scoop OWN Whey Isolate in lukewarm water | ~120 | ~25 |
+| **Remaining total** | | | **~650** | **~81** |
+
+**Projected day close (leanest): ~2,233 kcal / ~200g protein** — over calories but hits protein. Best overall trade for a gym day.
+
+**Coach verdict:** The roasted chana at breakfast was a decent protein move but pushed the day calorie-dense. The mango shake at lunch was the weaker choice — it added ~192 kcal of "non-protein calories" (mango + dahi + jaggery = ~192 kcal for ~7.4g protein) that a simple whey-in-water would have avoided. However, the whey in the shake was the right protein play given only 2 eggs in the curry.
+
+**Priority for the rest of the day:** Protein-first, carb-minimal, fat-minimal. Chicken breast is the best remaining dinner protein. **No more rice, no mango, no jaggery, no dahi tonight.** Only lean protein + vegetables + 1 roti max.
+
+---
+### 2026-05-08 (Day 55) — Evening Snack + Dinner Plan Update
+
+**Evening snack actual:** **5 almonds (~7g)** + **2 anjeer** ✅
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| 5 almonds | ~7g | 42 | 1.3g | 1,625 | 120.4g | 275 kcal, 59.6g protein |
+| 2 anjeer | 2 pieces | 42 | 0.6g | 1,667 | 121g | 233 kcal, 59g protein |
+
+**Evening snack analysis:** Anjeer adds carbs and calories with almost no protein. Almonds add healthy fat but also minimal protein per calorie. The anjeer was a weak bargain — 42 kcal for 0.6g protein. Combined: 84 kcal for 1.9g protein. Not the worst snack but not protein-effective either.
+
+**Dinner plan (corrected for actual intake including evening snack):**
+
+Available dinner items: **250g boned chicken + roti + egg bhurji**
+
+Parameters: ~233 kcal remaining to 1,900 target (but on a gym day TDEE ~2,500-2,600, still safely in deficit even at 2,000-2,100 kcal). ~59g protein remaining.
+
+**Option A — RECOMMENDED (protein-max, calorie-controlled):**
+
+| Intake item | Quantity | Est. kcal | Est. protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Dinner: chicken curry (250g bone-in) | ~140g edible meat + curry | ~310 | ~37g | 1,977 | 158g | -77 kcal, 22g protein |
+| Dinner: egg bhurji (2 eggs + 1 tsp oil) | 2 eggs + oil | 190 | 12g | 2,167 | 170g | -267 kcal, 10g protein |
+| Dinner: 1 roti | 1 roti | 100 | 3g | 2,267 | 173g | -367 kcal, 7g protein |
+| Pre-bed: 1 scoop OWN Whey Isolate (water) | 1 scoop | 120 | 25g | 2,387 | 198g | -487 kcal, target hit |
+
+**Option A projected close: ~2,387 kcal / ~198g protein** ✅ Protein target exceeded. Calories over by ~487 but still in deficit on gym day (TDEE ~2,500-2,600).
+
+**Option B — Tighter calorie control (skip egg bhurji):**
+
+| Intake item | Quantity | Est. kcal | Est. protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Dinner: chicken curry (250g bone-in) | ~140g edible meat + curry | ~310 | ~37g | 1,977 | 158g | -77 kcal, 22g protein |
+| Dinner: 1 roti | 1 roti | 100 | 3g | 2,077 | 161g | -177 kcal, 19g protein |
+| Pre-bed: 1 scoop OWN Whey Isolate (water) | 1 scoop | 120 | 25g | 2,197 | 186g | -297 kcal, target hit |
+
+**Option B projected close: ~2,197 kcal / ~186g protein** ✅ Protein target hit. Calories over by ~297.
+
+**Option C — Leanest (no roti, no egg bhurji):**
+
+| Intake item | Quantity | Est. kcal | Est. protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Dinner: chicken curry (250g bone-in) | ~140g edible meat + curry | ~310 | ~37g | 1,977 | 158g | -77 kcal, 22g protein |
+| Pre-bed: 1 scoop OWN Whey Isolate (water) | 1 scoop | 120 | 25g | 2,097 | 183g | -197 kcal, target hit |
+
+**Option C projected close: ~2,097 kcal / ~183g protein** ✅ Protein near target. Calories over by ~197. Best macro trade on a gym day.
+
+**Coach verdict on dinner quantities:**
+
+| Item | Recommended quantity | Why |
+|---|---|---|
+| **250g bone-in chicken** | **Eat ALL of it** (~140g edible meat) | Best protein source left. Every gram matters for the 59g gap. |
+| **Egg bhurji** | **2 eggs** (if you want it — adds ~190 kcal / 12g protein) | Adds good protein but at significant calorie cost. Include ONLY if you can afford ~190 extra kcal. Option A includes it; Option B/C skip it. |
+| **Roti** | **1 roti MAX** (or 0 if you want leanest close) | Carbs already ~37g over target. Skip roti entirely if you had egg bhurji. If no egg bhurji, 1 roti is acceptable. |
+| **Pre-bed whey** | **1 scoop OWN in lukewarm water ONLY** | See analysis below. |
+
+**Whey decision: OWN + lukewarm water vs OWN + dahi shake**
+
+| Option | Est. kcal | Est. protein | Carbs added | Fat added | Coach read |
+|---|---|---|---|---|---|
+| **1 scoop OWN in lukewarm water** | ~120 | ~25g | ~2g | ~1g | **RECOMMENDED** — cleanest protein delivery, 4.8 kcal/g protein |
+| 1 scoop OWN + 190g dahi | ~235 | ~31g | ~7g | ~7g | ❌ Adds ~115 kcal for only ~6g extra protein, pushes carbs + fat further over target |
+| 1 scoop OWN + 190g dahi + mango + jaggery | ~310+ | ~32g | ~22g+ | ~7g+ | ❌❌ Third mango-based shake of the day. Carbs would be ~50g+ over target. Not approved. |
+
+**Direct answer: 1 scoop OWN Whey Isolate in lukewarm water ONLY tonight.**
+
+Reasons:
+1. Carbs are already ~37g over the 170g target. Adding dahi (+7g carbs) makes it worse.
+2. Fat is already ~16g over the 56g target. Dahi adds ~7g more fat.
+3. Protein efficiency: OWN in water = 4.8 kcal/g protein. OWN + dahi = 7.6 kcal/g protein. Nearly 60% more calorie-expensive per gram of protein.
+4. You've already had 1 scoop ON whey in a dahi-mango shake at lunch. A second dahi-based shake in the same day is calorie-wasteful.
+5. R-A rule: protein powder = lukewarm water, sip slowly. This is the correct execution.
+
+**Final dinner recommendation (original):** Eat all 250g bone-in chicken + 2-egg bhurji + 1 roti + then 1 scoop OWN in lukewarm water before sleep. This was Option A — it maximizes protein (~198g) and the calorie overshoot (~487 kcal on a gym day with TDEE ~2,500-2,600) still keeps you in deficit. If you want tighter calories, skip the egg bhurji (Option B) or skip both egg bhurji and roti (Option C).
+
+**User chose Option C+ deviation:** User agreed to skip roti and egg bhurji initially, but then ate **153g bone-in chicken + 1 roti + 100g egg bhurji** — which is between Option B (chicken + egg bhurji, no roti) and Option A (full). The key deviation is: user ate **1 roti + egg bhurji** after agreeing to skip both.
+
+---
+### 2026-05-08 (Day 55) — Dinner Actuals + Full Day Close
+
+**Dinner actual:**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Dinner: bone-in chicken curry | 153g total (with bones) | 190 | 24g | 1,857 | 145g | 43 kcal, 35g protein |
+| Dinner: roti | 1 roti | 100 | 3g | 1,957 | 148g | -57 kcal, 32g protein |
+| Dinner: egg bhurji | 100g cooked (~1.5 eggs) | 150 | 10g | 2,107 | 158g | -207 kcal, 22g protein |
+
+**Dinner analysis:** The chicken was correct protein-led eating. The roti and egg bhurji were the calorie-costly additions — together they added ~250 kcal but only ~13g protein. Still, the protein from egg bhurji is real protein that helps close the gap. On a gym day (TDEE ~2,500-2,600), this is still a caloric deficit day.
+
+**Deviation notes:**
+- **1 roti** was eaten despite being told to skip it (carbs already ~45g over target at dinner start → now ~66g over)
+- **100g egg bhurji** was eaten despite being told the leaner close was chicken-only. The egg bhurji adds real protein (+10g) but at a calorie cost of ~150 kcal with ~11g additional fat
+- The combination of roti + egg bhurji adds ~250 kcal / ~13g protein / ~21g carbs / ~12.5g fat — that's a **19 kcal/g protein ratio**, which is very calorie-expensive for the protein gained
+
+**Pre-bed (mandatory) — 1 scoop OWN Whey Isolate in lukewarm water:**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Pre-bed: OWN Whey Isolate (water) | 1 scoop | 120 | 25g | 2,227 | 183g | -327 kcal, target hit |
+
+**Day 55 FINAL PROJECTED CLOSE (with OWN whey):**
+
+| | kcal | Protein | Carbs | Fat |
+|---|---|---|---|---|
+| Consumed before dinner | ~1,667 | ~121 | ~215 | ~72 |
+| Dinner: chicken + roti + egg bhurji | ~440 | ~37 | ~26 | ~22.5 |
+| Pre-bed: OWN whey (water) | ~120 | ~25 | ~2 | ~1 |
+| **Day 55 total (projected)** | **~2,227** | **~183** | **~243** | **~95.5** |
+| Daily target | 1,900 | 180 | 170 | 56 |
+| Over/under | **+327** | **+3** | **+73** | **+39.5** |
+
+**Day 55 FINAL PROJECTED CLOSE (without OWN whey — DO NOT SKIP):**
+
+| | kcal | Protein | Carbs | Fat |
+|---|---|---|---|---|
+| **Day 55 total (without OWN whey)** | **~2,107** | **~158** | **~241** | **~94.5** |
+| Daily target | 1,900 | 180 | 170 | 56 |
+| Over/under | **+207** | **-22** | **+71** | **+38.5** |
+
+**Verdict:**
+- **With OWN whey:** ~2,227 kcal / ~183g protein — calories ~327 over target but protein barely hits 180g. Gym day TDEE ~2,500-2,600 means still ~275-375 kcal deficit. **Acceptable gym day outcome.**
+- **Without OWN whey:** ~2,107 kcal / ~158g protein — calories less over target but protein is **22g short**. **NOT acceptable.** The OWN whey before sleep is mandatory tonight.
+- **Carbs at 243g vs 170g target (+73g over):** The roti was the marginal culprit here — without it, carbs would be at ~222g (+52g over), still over but less dramatically.
+- **Fat at 95.5g vs 56g target (+39.5g over):** The egg bhurji added ~11g fat, the chicken added ~10g fat from curry, and breakfast roasted chana + lunch dahi/mango shake already pushed fat high.
+- **Coach verdict on the deviation:** Eating the roti and egg bhurji after agreeing to skip both is a discipline slip, not a disaster. The day is still in caloric deficit (estimated ~275-375 kcal deficit vs TDEE). Protein at ~183g with OWN whey is near target. The main damage is carbs and fat overshooting their targets — both of which self-correct through glycogen/water weight within 24-48 hours.
+
+**OWN WHEY BEFORE SLEEP IS MANDATORY TONIGHT.** Without it, protein drops to ~158g — unacceptable on a gym day (Session 30 Lower Body). Take 1 scoop OWN Whey Isolate in lukewarm water, sip slowly over 5 minutes, no earlier than 9:45 PM, no later than 10:30 PM.
+
+---
+### 2026-05-09 (Day 56) — Session Update
+- **Topics discussed:** Latest status recap, Day 55 no-whey close, today’s breakfast log (2 paneer parathas), Saturday workout split, lunch quantities for kadhi/pakodi + rice, thyroxine timing.
+- **Decisions made:** Treat today as a protein-recovery day; cap lunch rice at **100g cooked**; pakodi only if air-fried (30g besan); no calcium until **1:00 PM**; pre-bed OWN whey required tonight.
+- **Compliance notes:** Day 55 closed **without** pre-bed whey (protein short). Thyroxine taken at **9:00 AM** today (late). Breakfast = **2 paneer parathas** (calcium timing risk if eaten before 1:00 PM).
+- **Next actions:** Do Saturday full-body + walking pad HIIT; keep carbs/fat tight; add lean protein later to close gap; OWN whey tonight.
+- **Cursor context:** Paneer paratha estimate assumes **~80g paneer total**, whole wheat, **1 tsp oil**, **no curd**.
+
+---
+### 2026-05-09 (Day 56) — Meal Plan Update
+- **Topics discussed:** Meal quantities for lunch (deep‑fried pakodi + kadhi + rice), evening shake, dry fruits, post‑gym OWN, dinner chicken + carb options, pre‑sleep OWN.
+- **Decisions made:** Allow deep‑fried pakodi but **cap to 2 small pieces (~30g cooked)**; kadhi **250g cooked**; rice **50g cooked**. Evening shake: **100g dahi + 50g mango + 3g jaggery + 1 scoop ON** (room‑temp). Dry fruits: **2 anjeer + 6 almonds**. Dinner: **200g boneless chicken** with **no roti/rice/biryani** if taking both post‑gym + pre‑sleep whey. If you want **1 roti or 80g cooked rice or 200g biryani**, then **skip pre‑sleep whey** or drop chicken to **150g**.
+- **Compliance notes:** Deep‑fried pakodi is a Rule‑4 violation — portion capped for damage control. Thyroxine was at **9:00 AM**, so **no calcium until 1:00 PM**.
+- **Next actions:** Keep fats/carbs tight after lunch, use lukewarm water for whey with a small buffer (almonds or chana), close protein gap tonight.
+- **Cursor context:** Day 56 is a protein‑recovery day after Day 55 no‑whey close.
+
+---
+### 2026-05-09 (Day 56) — Session 31 Workout Actuals (Saturday Full Body + HIIT)
+
+| Exercise | Target | Planned weight | Actual | Verdict | Next time target |
+|---|---|---:|---:|---|---|
+| Chest Press (machine) | 3 × 10–12 | 50 lbs | 50 lbs × 3 × 12 | ✅ Hit top of range | 50 lbs × 3 × 12 (then +1 pin next time if last set has RIR 2) |
+| Lat Pulldown | 3 × 10–12 | 55 lbs | 55 lbs × 3 × 12 | ✅ Hit top of range | 55 lbs × 3 × 12 (then +1 pin next time if last set has RIR 2) |
+| DB Shoulder Press | 3 × 10–12 | 10 kg | 10 kg × 2 × 12; 12.5 kg × 1 × 9–10 | ⚠️ 12.5 kg is not in-range yet | 10 kg × 3 × 12 (earn 12.5 kg later) |
+| Leg Press | 3 × 10–12 | 90 kg | 90 kg × 3 × 12 | ✅ Stable | 90 kg × 3 × 12 (then test 95 kg on a fresh legs day) |
+| DB Bent-Over Row | 3 × 10–12 | 12.5 kg | 10 kg × 1 × 12; 12.5 kg × 2 × 12 | ✅ 12.5 kg is stable | 12.5 kg × 3 × 12 |
+| Leg Curl | 3 × 10–12 | 29 kg | 29 kg × 3 × 12 (easy) | ✅ Too easy | 32 kg × 3 × 10–12 (if next pin exists) |
+| Cable Crunch | 3 × 12–15 | 15 lbs | 15 lbs × 3 × 15 | ✅ Hit top of range | 17.5–20 lbs × 3 × 12–15 |
+| Walking Pad HIIT | 10–12 min | 6 rounds | 10 min (incline 4–10) | ✅ Done | 12 min: 6 rounds 1 min fast / 1 min easy (same incline) |
+
+**Coach feedback (tight):**
+- **Progression calls:** Leg Curl ↑ next time. Cable Crunch ↑ next time. DB Shoulder Press stays at **10 kg** until it is 3×12 clean.
+- **Safety cue:** On DB Shoulder Press keep ribs down + glutes tight. If you have to arch/lean back, the weight is too heavy.
