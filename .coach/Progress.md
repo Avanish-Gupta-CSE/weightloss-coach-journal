@@ -3228,3 +3228,38 @@ Reasons:
 - If you take **0.5 scoop OWN**: +60 kcal, +12g protein → **~2,401 kcal / ~173g protein** (better trade today).
 
 **User decision:** Skip pre-sleep whey tonight. Day 56 closes at **~2,341 kcal / ~161g protein** (est).
+
+---
+### 2026-05-10 (Day 57) — Rest Day (Sunday) — Walking Pad + Intake So Far
+
+**Rest day rule:** No gym. Walking pad is mandatory.
+
+#### Walking pad prescription (today)
+
+| Block | Speed | Duration | Notes |
+|---|---:|---:|---|
+| Warm-up | 4.0 kmph | 5 min | Easy start |
+| Main | 4.5–5.0 kmph | 40–50 min | Steady pace while studying |
+| Cool-down | 4.0 kmph | 5 min | Bring HR down |
+| **Total** |  | **50–60 min** | If time-constrained: **2 × 25–30 min** split (evening + post-dinner) |
+
+---
+#### Intake so far (actuals) + running deficit
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Protein Chef high-protein bread | 2.5 slices | 200 | 12.5g | 200 | 12.5g | 1,700 kcal, 167.5g protein |
+| Pintola unsweetened peanut butter | ~20g (est) | 120 | 6g | 320 | 18.5g | 1,580 kcal, 161.5g protein |
+| Coconut water | 1 | 45 | 0g | 365 | 18.5g | 1,535 kcal, 161.5g protein |
+| Bikaneri besan bhujia | 2 spoons | 110 | 2g | 475 | 20.5g | 1,425 kcal, 159.5g protein |
+| Lunch: chicken pieces (bone-in) | 153g | 190 | 24g | 665 | 44.5g | 1,235 kcal, 135.5g protein |
+| Lunch: cooked rice | 250g | 325 | 6g | 990 | 50.5g | 910 kcal, 129.5g protein |
+| Shake: mango pulp | 80g | 48 | 0.6g | 1,038 | 51.1g | 862 kcal, 128.9g protein |
+| Shake: jaggery | 5g | 20 | 0g | 1,058 | 51.1g | 842 kcal, 128.9g protein |
+| Shake: dahi | 115g | 69 | 4g | 1,127 | 55.1g | 773 kcal, 124.9g protein |
+| Shake: ON whey concentrate | 1 scoop | 120 | 24g | **1,247** | **79.1g** | **653 kcal, 100.9g protein** |
+
+**Feedback (tight):**
+- **Main issue today:** Protein gap is still **~101g** with only **~653 kcal** left — dinner must be **lean-protein heavy** (chicken) and no more fried add-ons.
+- **Bhujia note:** 2 spoons is already the cap. No second snack later.
+- **Next action:** Do the walking pad **50–60 min** today (split is allowed).
