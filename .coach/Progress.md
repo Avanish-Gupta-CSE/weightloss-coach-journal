@@ -3263,3 +3263,22 @@ Reasons:
 - **Main issue today:** Protein gap is still **~101g** with only **~653 kcal** left — dinner must be **lean-protein heavy** (chicken) and no more fried add-ons.
 - **Bhujia note:** 2 spoons is already the cap. No second snack later.
 - **Next action:** Do the walking pad **50–60 min** today (split is allowed).
+
+---
+### 2026-05-10 (Day 57) — Day Close (Dinner + Walking Pad + Whey)
+
+**Walking pad actual:** **30 min** at **3–4 kmph** ✅ (partial — minimum target is 50–60 min, but still a win).
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total before dinner) | — | 1,247 | 79.1g | 1,247 | 79.1g | 653 kcal, 100.9g protein |
+| Sattu with water | 1 spoon | 28 | 1.7g | 1,275 | 80.8g | 625 kcal, 99.2g protein |
+| Dinner: chicken breast (boneless) | 250g | 412 | 78g | 1,687 | 158.8g | 213 kcal, 21.2g protein |
+| OWN Whey Isolate (water) | 1 scoop | 120 | 25g | **1,807** | **183.8g** | **93 kcal, -3.8g protein** |
+
+**Day 57 close (estimated):** **~1,807 kcal / ~184g protein** ✅
+
+**Coach feedback (tight):**
+- **Win:** Protein target hit while staying under calories. This is exactly what a rest day should look like.
+- **Fix:** Lunch rice (250g) + bhujia made the first half of the day carb/fat heavy. Keep rice to **150–180g cooked** on rest days.
+- **Walking pad:** 30 min done ✅. Tomorrow (office day) keep at least **30 min post-dinner**.
