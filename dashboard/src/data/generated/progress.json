@@ -2153,5 +2153,26 @@
     "day": 58,
     "dayType": "",
     "raw": "### Day 58 — Dinner Decision (Roti + Besan Gatte) + Whey Plan\n\n**ON whey is not drinkable in water for you.** If you use ON, it must be **dahi-based** (lassi), which is calorie-expensive. Prefer OWN (water) today.\n\n| Item | Quantity to eat | Why |\n|---|---:|---|\n| Roti | **1 roti** | Cap carbs; you "
+  },
+  {
+    "date": "2026-05-11",
+    "day": 58,
+    "dayType": "Dinner Actuals (Roti + Besan Gatte + ON Mango Lassi) — Updated Totals",
+    "weight": null,
+    "meals": {},
+    "workout": false,
+    "workoutType": "",
+    "workoutDetails": "",
+    "walkingPad": false,
+    "walkingPadMinutes": 0,
+    "water": null,
+    "sleep": null,
+    "cravings": false,
+    "cravingsDetails": "",
+    "mood": null,
+    "protein": null,
+    "calories": null,
+    "notes": "",
+    "raw": "### 2026-05-11 (Day 58) — Dinner Actuals (Roti + Besan Gatte + ON Mango Lassi) — Updated Totals\n\n| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |\n|---|---|---:|---:|---:|---:|---:|\n| (Running total before dinner) | — | 1,343 | 87.1g | 1,343 | 87.1g | 557 kcal, 92.9g protein |\n| Dinner: roti | 0.75 roti | 75 | 2.3g | 1"
   }
 ]

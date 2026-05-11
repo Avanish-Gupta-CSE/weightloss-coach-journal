@@ -3367,3 +3367,26 @@ Assumptions: roti ~100 kcal/3g protein; gatte sabzi (100g) ~170 kcal/7g protein;
 | If you add **OWN (water) 2 scoops** ✅ | **~1,853** | **~147g** | **-47 kcal** | **-33g** |
 
 **Coach call (do exactly this):** Eat **1 roti + ~100g gatte sabzi**, then take **OWN 1 scoop (lukewarm water)**, then **OWN 1 scoop pre-sleep**. No ON mango lassi. No more snacks.
+
+---
+### 2026-05-11 (Day 58) — Dinner Actuals (Roti + Besan Gatte + ON Mango Lassi) — Updated Totals
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total before dinner) | — | 1,343 | 87.1g | 1,343 | 87.1g | 557 kcal, 92.9g protein |
+| Dinner: roti | 0.75 roti | 75 | 2.3g | 1,418 | 89.4g | 482 kcal, 90.6g protein |
+| Dinner: besan gatte sabzi | 50g | 85 | 3.5g | 1,503 | 92.9g | 397 kcal, 87.1g protein |
+| Lassi: dahi | 100g | 60 | 3.5g | 1,563 | 96.4g | 337 kcal, 83.6g protein |
+| Lassi: mango pulp | 400g | 240 | 3g | 1,803 | 99.4g | 97 kcal, 80.6g protein |
+| Lassi: jaggery | 5g | 20 | 0g | 1,823 | 99.4g | 77 kcal, 80.6g protein |
+| Lassi: ON whey concentrate | 1 scoop | 120 | 24g | **1,943** | **123.4g** | **-43 kcal, 56.6g protein** |
+| Pre-sleep: OWN Whey Isolate (water) | 1 scoop | 120 | 25g | **2,063** | **148.4g** | **-163 kcal, 31.6g protein** |
+
+**Day 58 close (estimated, with pre-sleep OWN):**
+- **Calories vs 1,900:** **~+163 kcal over target**
+- **Protein vs 180g:** **~31–32g short**
+
+**Coach verdict (tight):**
+- The **400g mango pulp** created the calorie problem without delivering meaningful protein.
+- **Good correction:** You added **1 scoop OWN** pre-sleep to recover protein.
+- **Now stop eating tonight.** Tomorrow is where we fix the distribution (protein earlier, carbs tighter).
