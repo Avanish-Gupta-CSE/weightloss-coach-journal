@@ -2130,7 +2130,7 @@
   {
     "date": "2026-05-11",
     "day": 58,
-    "dayType": "Lunch + Snacks + Shake Actuals (Running Total)",
+    "dayType": "Lunch + Snacks Actuals (Running Total)",
     "weight": null,
     "meals": {},
     "workout": false,
@@ -2146,12 +2146,12 @@
     "protein": null,
     "calories": null,
     "notes": "",
-    "raw": "### 2026-05-11 (Day 58) — Lunch + Snacks + Shake Actuals (Running Total)\n\n**Compliance flags (today):** BRB wafer + biscuits are likely **maida/sugar** (Rule 3/5 risk). Treat as done; damage control = keep dinner tight and protein-led.\n\n| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |\n|---|---|---:|---:|---:|---:|---:"
+    "raw": "### 2026-05-11 (Day 58) — Lunch + Snacks Actuals (Running Total)\n\n**Compliance flags (today):** BRB wafer + biscuits are likely **maida/sugar** (Rule 3/5 risk). Treat as done; damage control = keep dinner tight and protein-led.\n\n**Shake status:** NOT consumed yet (you asked whether to make it).\n\n| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein"
   },
   {
     "date": null,
     "day": 58,
     "dayType": "",
-    "raw": "### Day 58 — Dinner Decision (Roti + Besan Gatte) + Whey Plan\n\n**You already did a mango + dahi + ON shake today. Do NOT make a second mango whey lassi.**\n\n| Item | Quantity to eat | Why |\n|---|---:|---|\n| Roti | **1 roti** | Cap carbs; you already had rice + fruit + biscuits |\n| Besan gatte sabzi |"
+    "raw": "### Day 58 — Dinner Decision (Roti + Besan Gatte) + Whey Plan\n\n**ON whey is not drinkable in water for you.** If you use ON, it must be **dahi-based** (lassi), which is calorie-expensive. Prefer OWN (water) today.\n\n| Item | Quantity to eat | Why |\n|---|---:|---|\n| Roti | **1 roti** | Cap carbs; you "
   }
 ]
