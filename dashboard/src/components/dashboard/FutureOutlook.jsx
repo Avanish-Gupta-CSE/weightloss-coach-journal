@@ -73,16 +73,42 @@ function OutlookTooltip({ active, payload, label }) {
       <p className="text-text-secondary text-xs mb-2">{label === 0 ? 'Now' : `+${label} weeks`}</p>
       <div className="space-y-1.5 text-sm">
         <div className="flex items-center justify-between gap-4">
-          <span className="text-text-secondary">Low-compliance lane</span>
+          <span className="text-text-secondary">Current trend</span>
           <span className="font-semibold text-text-primary">{values.conservative} kg</span>
         </div>
         <div className="flex items-center justify-between gap-4">
-          <span className="text-text-secondary">150g+ protein lane</span>
+          <span className="text-text-secondary">If you rectify (150g+ protein)</span>
           <span className="font-semibold text-accent-green">{values.recomposition} kg</span>
         </div>
         <div className="flex items-center justify-between gap-4">
-          <span className="text-text-secondary">Hard-push lane</span>
+          <span className="text-text-secondary">Ideal (hard push)</span>
           <span className="font-semibold text-accent-orange">{values.aggressive} kg</span>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LookIndexTooltip({ active, payload, label }) {
+  if (!active || !payload?.length) return null;
+
+  const values = Object.fromEntries(payload.map(item => [item.dataKey, item.value]));
+
+  return (
+    <div className="bg-bg-secondary border border-bg-tertiary rounded-lg p-3 shadow-lg min-w-52">
+      <p className="text-text-secondary text-xs mb-2">{label === 0 ? 'Now' : `+${label} weeks`}</p>
+      <div className="space-y-1.5 text-sm">
+        <div className="flex items-center justify-between gap-4">
+          <span className="text-text-secondary">Current trend</span>
+          <span className="font-semibold text-text-primary">{values.conservative}/100</span>
+        </div>
+        <div className="flex items-center justify-between gap-4">
+          <span className="text-text-secondary">If you rectify (150g+)</span>
+          <span className="font-semibold text-accent-green">{values.recomposition}/100</span>
+        </div>
+        <div className="flex items-center justify-between gap-4">
+          <span className="text-text-secondary">Ideal</span>
+          <span className="font-semibold text-accent-orange">{values.aggressive}/100</span>
         </div>
       </div>
     </div>
@@ -94,6 +120,7 @@ export default function FutureOutlook() {
 
   const summary = useMemo(() => {
     const baselineWeight = metrics.baseline?.weight || 91.45;
+    const targetWeight = 70;
     const weighins = metrics.weighins || [];
     const latestWeighin = weighins.filter(entry => entry.weight).slice(-1)[0];
     const officialRate = parseFloat(calculateWeeklyRate(weighins)) || 0.55;
@@ -112,6 +139,25 @@ export default function FutureOutlook() {
     const proteinGap = Math.max(0, 150 - avgProtein);
     const startDate = latestWeighin?.date || new Date().toISOString().split('T')[0];
 
+    const targetProtein = 180;
+    const lookProteinFactor = {
+      conservative: clamp(avgProtein / targetProtein, 0.55, 1),
+      recomposition: clamp(150 / targetProtein, 0.55, 1),
+      aggressive: 1,
+    };
+    const buildLookIndex = (weight, proteinFactor) => {
+      if (currentWeight <= targetWeight) return 100;
+      const progress = clamp((currentWeight - weight) / (currentWeight - targetWeight), 0, 1);
+      return Number((progress * proteinFactor * 100).toFixed(1));
+    };
+    const chartData = buildScenarioSeries(currentWeight, rates, 16, targetWeight);
+    const lookChartData = chartData.map(point => ({
+      week: point.week,
+      conservative: buildLookIndex(point.conservative, lookProteinFactor.conservative),
+      recomposition: buildLookIndex(point.recomposition, lookProteinFactor.recomposition),
+      aggressive: buildLookIndex(point.aggressive, lookProteinFactor.aggressive),
+    }));
+
     return {
       latestWeighin,
       totalLost: Number((baselineWeight - currentWeight).toFixed(2)),
@@ -120,7 +166,8 @@ export default function FutureOutlook() {
       proteinGap,
       officialRate: recompositionRate,
       rates,
-      chartData: buildScenarioSeries(currentWeight, rates),
+      chartData,
+      lookChartData,
       etaTargets: [80, 76, 70].map(weight => ({
         weight,
         date: projectDate(startDate, currentWeight, weight, recompositionRate),
@@ -177,9 +224,37 @@ export default function FutureOutlook() {
           </div>
 
           <div className="flex flex-wrap items-center gap-4 mt-3 text-xs text-text-muted">
-            <div className="flex items-center gap-1.5"><div className="w-4 h-0.5 bg-slate-400" /><span>Low compliance</span></div>
-            <div className="flex items-center gap-1.5"><div className="w-4 h-0.5 bg-accent-green" /><span>150g+ protein + training</span></div>
-            <div className="flex items-center gap-1.5"><div className="w-4 h-0.5 border-t-2 border-dashed border-accent-orange" /><span>Hard push</span></div>
+            <div className="flex items-center gap-1.5"><div className="w-4 h-0.5 bg-slate-400" /><span>Current trend</span></div>
+            <div className="flex items-center gap-1.5"><div className="w-4 h-0.5 bg-accent-green" /><span>If you rectify (150g+ protein)</span></div>
+            <div className="flex items-center gap-1.5"><div className="w-4 h-0.5 border-t-2 border-dashed border-accent-orange" /><span>Ideal (hard push)</span></div>
+          </div>
+
+          <div className="mt-6">
+            <div className="text-sm font-semibold text-text-primary mb-2">Body look outlook (protein-weighted)</div>
+            <div className="h-60 rounded-xl bg-bg-primary/30 border border-bg-tertiary/30 p-3">
+              <ResponsiveContainer width="100%" height="100%">
+                <LineChart data={summary.lookChartData} margin={{ top: 8, right: 18, left: 4, bottom: 0 }}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="#334155" opacity={0.3} />
+                  <XAxis
+                    dataKey="week"
+                    stroke="#64748b"
+                    fontSize={11}
+                    tickLine={false}
+                    axisLine={false}
+                    tickFormatter={(value) => (value === 0 ? 'Now' : value % 4 === 0 ? `+${value}w` : '')}
+                  />
+                  <YAxis stroke="#64748b" fontSize={11} tickLine={false} axisLine={false} width={48} domain={[0, 100]} />
+                  <Tooltip content={<LookIndexTooltip />} />
+                  <ReferenceLine y={100} stroke="#22c55e" strokeDasharray="4 4" label={{ value: 'Best case', fill: '#22c55e', fontSize: 11, position: 'right' }} />
+                  <Line type="monotone" dataKey="conservative" stroke="#94a3b8" strokeWidth={2} dot={false} />
+                  <Line type="monotone" dataKey="recomposition" stroke="#22c55e" strokeWidth={3} dot={false} />
+                  <Line type="monotone" dataKey="aggressive" stroke="#f97316" strokeWidth={2} dot={false} strokeDasharray="6 4" />
+                </LineChart>
+              </ResponsiveContainer>
+            </div>
+            <p className="mt-2 text-xs text-text-muted">
+              Look index (0–100) is a proxy: weight progress × protein lane. It is not a body-fat measurement.
+            </p>
           </div>
         </div>
 
