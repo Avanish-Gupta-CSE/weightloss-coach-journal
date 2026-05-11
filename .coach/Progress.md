@@ -3282,3 +3282,89 @@ Reasons:
 - **Win:** Protein target hit while staying under calories. This is exactly what a rest day should look like.
 - **Fix:** Lunch rice (250g) + bhujia made the first half of the day carb/fat heavy. Keep rice to **150–180g cooked** on rest days.
 - **Walking pad:** 30 min done ✅. Tomorrow (office day) keep at least **30 min post-dinner**.
+
+---
+### 2026-05-11 (Day 58) — Session 32 Workout Actuals (Monday Upper Body)
+
+| Exercise | Target | Planned weight | Actual | Verdict | Next time target |
+|---|---|---:|---:|---|---|
+| Chest Press (machine) | 3 × 10–12 | 50 lbs | 50 lbs × 1 set; 60 lbs × 2 sets | ✅ Progressed | Aim for **60 lbs × 3 × 10–12** (50 lbs becomes warm-up only) |
+| Lat Pulldown | 3 × 10–12 | 55 lbs | 55 lbs × 3 sets | ✅ Stable | If last set was clean at 12 reps → test **60 lbs** next time |
+| Seated Row (machine) | 3 × 10–12 | 28 kg | 28 kg × 3 sets | ✅ Stable | If 12 reps were clean → test **30–31 kg** next time |
+| DB Shoulder Press | 3 × 10–12 | 10 kg | 10 kg × 3 sets + 12.5 kg × 1 set × 8 reps | ⚠️ Extra heavy set (not needed) | Stay at **10 kg × 3 × 12**. Do not touch 12.5 until 10 kg is clean 3×12 |
+| Tricep Pushdown | 3 × 10–12 | 23 kg | 15 lbs × 3 sets | ✅ Corrected to controllable load | Lock baseline: **15 lbs × 3 × 10–12** (then +1 pin when 12 reps are easy) |
+| Cable Bicep Curl | 3 × 10–12 | 60 lbs | 40 lbs × 3 sets | ✅ Corrected to controllable load | Lock baseline: **40 lbs × 3 × 10–12** (then +1 pin when 12 reps are easy) |
+
+**Coach feedback (tight):**
+- **Big win:** You corrected the tricep + bicep weights instead of ego-lifting. That protects elbows/shoulders.
+- **One fix:** No 4th “ego” set on DB Shoulder Press. Hit **3 clean sets** and stop. Consistency beats spikes.
+
+---
+### 2026-05-11 (Day 58) — Post-Gym Intake + Breakfast (Running Total)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Post-gym: sattu water | 2 spoons | 57 | 3.3g | 177 | 28.3g | 1,723 kcal, 151.7g protein |
+| Breakfast: high-protein bread | 2 slices | 160 | 10g | 337 | 38.3g | 1,563 kcal, 141.7g protein |
+| Breakfast: omelettes | 4 eggs + 1 tsp oil (est) | 325 | 24g | **662** | **62.3g** | **1,238 kcal, 117.7g protein** |
+
+---
+### Day 58 — Office Lunch Quantities (Rice + Moong Dal + Papaya Sabzi)
+
+| Item | Quantity to eat | Why |
+|---|---:|---|
+| Cooked rice | **120g** | You already had bread at breakfast; keep lunch rice controlled |
+| Cooked moong dal | **300g** | This is your lunch protein anchor today |
+| Papaya sabzi | **200g** | Volume + fiber; keep oil minimal |
+
+**If you can add ONE thing to lunch box:** add **150g cooked chicken** (best) or take **0.5 scoop OWN** in water in the evening — otherwise the protein gap stays huge.
+
+---
+### 2026-05-11 (Day 58) — Lunch + Snacks + Shake Actuals (Running Total)
+
+**Compliance flags (today):** BRB wafer + biscuits are likely **maida/sugar** (Rule 3/5 risk). Treat as done; damage control = keep dinner tight and protein-led.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total after post-gym + breakfast) | — | 662 | 62.3g | 662 | 62.3g | 1,238 kcal, 117.7g protein |
+| Lunch: cooked moong dal | 230g | 193 | 13g | 855 | 75.3g | 1,045 kcal, 104.7g protein |
+| Lunch: cooked rice | 110g | 143 | 2.8g | 998 | 78.1g | 902 kcal, 101.9g protein |
+| Lunch: papaya sabzi | 150g | 90 | 2g | 1,088 | 80.1g | 812 kcal, 99.9g protein |
+| Muskmelon (est) | 1 (≈250g edible) | 85 | 2g | 1,173 | 82.1g | 727 kcal, 97.9g protein |
+| Cashews | 7 pieces | 60 | 2g | 1,233 | 84.1g | 667 kcal, 95.9g protein |
+| BRB peanut-butter wafer bites | 3 small pieces (est) | 80 | 2.5g | 1,313 | 86.6g | 587 kcal, 93.4g protein |
+| Biscuits (Monaco + Nice) | small pieces (est) | 30 | 0.5g | 1,343 | 87.1g | 557 kcal, 92.9g protein |
+| Shake: mango pulp | 80g | 48 | 0.6g | 1,391 | 87.7g | 509 kcal, 92.3g protein |
+| Shake: jaggery | 5g | 20 | 0g | 1,411 | 87.7g | 489 kcal, 92.3g protein |
+| Shake: dahi | 115g | 69 | 4g | 1,480 | 91.7g | 420 kcal, 88.3g protein |
+| Shake: ON whey concentrate | 1 scoop | 120 | 24g | **1,600** | **115.7g** | **300 kcal, 64.3g protein** |
+
+**As of now (pre-dinner):**
+- **Calories remaining to 1,900:** **~300 kcal**
+- **Protein remaining to 180g:** **~64g**
+
+---
+### Day 58 — Dinner Decision (Roti + Besan Gatte) + Whey Plan
+
+**You already did a mango + dahi + ON shake today. Do NOT make a second mango whey lassi.**
+
+| Item | Quantity to eat | Why |
+|---|---:|---|
+| Roti | **1 roti** | Cap carbs; you already had rice + fruit + biscuits |
+| Besan gatte sabzi | **~100g** (small bowl) | Taste + some protein, but oil can spike calories |
+| ON whey | **1 scoop in water ONLY** (no mango/dahi/jaggery) | Cleanest protein patch for minimal calories |
+| Pre-sleep whey | **1 scoop OWN in water ONLY** (lukewarm) | Protein recovery; take ~30 min before sleep |
+
+---
+### Predicted End-of-Day Totals (based on the plan above)
+
+Assumptions: roti ~100 kcal/3g protein; gatte sabzi (100g) ~170 kcal/7g protein; ON 1 scoop ~120/24g; OWN 1 scoop ~120/25g.
+
+| Scenario | Projected kcal | Projected protein | Over/under vs 1,900 | Protein gap vs 180g |
+|---|---:|---:|---:|---:|
+| If you eat **only roti + gatte** | ~1,870 | ~126g | -30 kcal | -54g |
+| If you add **ON (water)** | ~1,990 | ~150g | +90 kcal | -30g |
+| If you add **ON (water) + OWN (water)** ✅ | **~2,110** | **~175g** | **+210 kcal** | **-5g** |
+
+**Coach call (do exactly this):** Eat **1 roti + ~100g gatte sabzi**, then **1 scoop ON in water**, then **1 scoop OWN (lukewarm water) pre-sleep**. No mango lassi. No more snacks.
