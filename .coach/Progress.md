@@ -3321,9 +3321,11 @@ Reasons:
 **If you can add ONE thing to lunch box:** add **150g cooked chicken** (best) or take **0.5 scoop OWN** in water in the evening — otherwise the protein gap stays huge.
 
 ---
-### 2026-05-11 (Day 58) — Lunch + Snacks + Shake Actuals (Running Total)
+### 2026-05-11 (Day 58) — Lunch + Snacks Actuals (Running Total)
 
 **Compliance flags (today):** BRB wafer + biscuits are likely **maida/sugar** (Rule 3/5 risk). Treat as done; damage control = keep dinner tight and protein-led.
+
+**Shake status:** NOT consumed yet (you asked whether to make it).
 
 | Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
 |---|---|---:|---:|---:|---:|---:|
@@ -3334,37 +3336,34 @@ Reasons:
 | Muskmelon (est) | 1 (≈250g edible) | 85 | 2g | 1,173 | 82.1g | 727 kcal, 97.9g protein |
 | Cashews | 7 pieces | 60 | 2g | 1,233 | 84.1g | 667 kcal, 95.9g protein |
 | BRB peanut-butter wafer bites | 3 small pieces (est) | 80 | 2.5g | 1,313 | 86.6g | 587 kcal, 93.4g protein |
-| Biscuits (Monaco + Nice) | small pieces (est) | 30 | 0.5g | 1,343 | 87.1g | 557 kcal, 92.9g protein |
-| Shake: mango pulp | 80g | 48 | 0.6g | 1,391 | 87.7g | 509 kcal, 92.3g protein |
-| Shake: jaggery | 5g | 20 | 0g | 1,411 | 87.7g | 489 kcal, 92.3g protein |
-| Shake: dahi | 115g | 69 | 4g | 1,480 | 91.7g | 420 kcal, 88.3g protein |
-| Shake: ON whey concentrate | 1 scoop | 120 | 24g | **1,600** | **115.7g** | **300 kcal, 64.3g protein** |
+| Biscuits (Monaco + Nice) | small pieces (est) | 30 | 0.5g | **1,343** | **87.1g** | **557 kcal, 92.9g protein** |
 
 **As of now (pre-dinner):**
-- **Calories remaining to 1,900:** **~300 kcal**
-- **Protein remaining to 180g:** **~64g**
+- **Calories remaining to 1,900:** **~557 kcal**
+- **Protein remaining to 180g:** **~93g**
 
 ---
 ### Day 58 — Dinner Decision (Roti + Besan Gatte) + Whey Plan
 
-**You already did a mango + dahi + ON shake today. Do NOT make a second mango whey lassi.**
+**ON whey is not drinkable in water for you.** If you use ON, it must be **dahi-based** (lassi), which is calorie-expensive. Prefer OWN (water) today.
 
 | Item | Quantity to eat | Why |
 |---|---:|---|
 | Roti | **1 roti** | Cap carbs; you already had rice + fruit + biscuits |
 | Besan gatte sabzi | **~100g** (small bowl) | Taste + some protein, but oil can spike calories |
-| ON whey | **1 scoop in water ONLY** (no mango/dahi/jaggery) | Cleanest protein patch for minimal calories |
-| Pre-sleep whey | **1 scoop OWN in water ONLY** (lukewarm) | Protein recovery; take ~30 min before sleep |
+| ON mango lassi | ❌ **Skip tonight** | Not protein-efficient for the calories at this point in the day |
+| Whey (to patch protein) | **OWN 1 scoop in water ONLY** (lukewarm) | Cleanest protein patch for minimal calories |
+| Pre-sleep whey | **OWN 1 scoop in water ONLY** (lukewarm) | Protein recovery; take ~30 min before sleep |
 
 ---
 ### Predicted End-of-Day Totals (based on the plan above)
 
-Assumptions: roti ~100 kcal/3g protein; gatte sabzi (100g) ~170 kcal/7g protein; ON 1 scoop ~120/24g; OWN 1 scoop ~120/25g.
+Assumptions: roti ~100 kcal/3g protein; gatte sabzi (100g) ~170 kcal/7g protein; OWN 1 scoop ~120/25g.
 
 | Scenario | Projected kcal | Projected protein | Over/under vs 1,900 | Protein gap vs 180g |
 |---|---:|---:|---:|---:|
-| If you eat **only roti + gatte** | ~1,870 | ~126g | -30 kcal | -54g |
-| If you add **ON (water)** | ~1,990 | ~150g | +90 kcal | -30g |
-| If you add **ON (water) + OWN (water)** ✅ | **~2,110** | **~175g** | **+210 kcal** | **-5g** |
+| If you eat **only roti + gatte** | ~1,613 | ~97g | -287 kcal | -83g |
+| If you add **OWN (water) 1 scoop** | ~1,733 | ~122g | -167 kcal | -58g |
+| If you add **OWN (water) 2 scoops** ✅ | **~1,853** | **~147g** | **-47 kcal** | **-33g** |
 
-**Coach call (do exactly this):** Eat **1 roti + ~100g gatte sabzi**, then **1 scoop ON in water**, then **1 scoop OWN (lukewarm water) pre-sleep**. No mango lassi. No more snacks.
+**Coach call (do exactly this):** Eat **1 roti + ~100g gatte sabzi**, then take **OWN 1 scoop (lukewarm water)**, then **OWN 1 scoop pre-sleep**. No ON mango lassi. No more snacks.
