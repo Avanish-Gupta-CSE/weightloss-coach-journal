@@ -3441,3 +3441,38 @@ Assumptions: roti ~100 kcal/3g protein; gatte sabzi (100g) ~170 kcal/7g protein;
 | Lunch: cooked moong dal | 350g cooked | 293 | 20g | 720 | 54.3g | 1,180 kcal, 125.7g protein |
 | Lunch: cooked rice | 80g cooked | 104 | 2g | 824 | 56.3g | 1,076 kcal, 123.7g protein |
 | Lunch: aloo paneer sabzi | 120g cooked (est) | 220 | 12g | **1,044** | **68.3g** | **856 kcal, 111.7g protein** |
+
+---
+### 2026-05-12 (Day 59) — Breakfast + Lunch + Evening Actuals (Running Total)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total post-gym) | — | 177 | 28.3g | 177 | 28.3g | 1,723 kcal, 151.7g protein |
+| Breakfast: vermicelli (savory) | 200g cooked | 250 | 6g | 427 | 34.3g | 1,473 kcal, 145.7g protein |
+| Lunch: cooked moong dal | 250g cooked | 210 | 14g | 637 | 48.3g | 1,263 kcal, 131.7g protein |
+| Lunch: cooked rice | 80g cooked | 104 | 2g | 741 | 50.3g | 1,159 kcal, 129.7g protein |
+| Lunch: aloo paneer sabzi | 120g cooked (est) | 220 | 12g | 961 | 62.3g | 939 kcal, 117.7g protein |
+| Lunch: Amul buttermilk | 200ml (1 pack) | 59 | 3.4g | 1,020 | 65.7g | 880 kcal, 114.3g protein |
+| Evening: roasted chana | 40g | 147 | 9.3g | 1,167 | 75.0g | 733 kcal, 105.0g protein |
+| Evening: OWN whey (water) | 1 scoop | 120 | 25g | **1,287** | **100.0g** | **613 kcal, 80.0g protein** |
+
+**Day 59 running total (pre-dinner, est): ~1,287 kcal / ~100g protein.**
+
+---
+### 2026-05-12 (Day 59) — Dinner Decision (Paneer Sabzi + Roti + Puffed Rice) + Whey Call
+
+**Do exactly this (protein-first, calorie-controlled):**
+- **Paneer sabzi:** **250g cooked** (paneer-heavy; minimize extra gravy/oil)
+- **Roti:** **1 roti**
+- **Puffed rice:** ❌ **Skip** (pure carbs, no protein payoff)
+- **Dahi + mango + jaggery shake:** ❌ **Skip** (calorie-expensive, low protein)
+- **Pre-sleep:** ✅ **OWN whey 1 scoop in lukewarm water** (sip slowly; 30 min before sleep)
+
+**Projected totals with the plan above (estimates):**
+
+Assumptions: paneer sabzi 250g ≈ 400 kcal / 28g protein; roti 1 ≈ 100 kcal / 3g protein; OWN 1 scoop ≈ 120 kcal / 25g protein.
+
+| Scenario | Projected kcal | Projected protein | Over/under vs 1,900 | Protein gap vs 180g |
+|---|---:|---:|---:|---:|
+| If you eat **paneer sabzi + 1 roti** (no whey) | ~1,787 | ~131g | -113 kcal | -49g |
+| If you add **pre-sleep OWN (water) 1 scoop** ✅ | **~1,907** | **~156g** | **+7 kcal** | **-24g** |
