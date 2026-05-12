@@ -63,6 +63,20 @@ function findBestMacroMatch(text, day) {
   return bestMatch ? toMacroTotals(bestMatch) : null;
 }
 
+function extractMacroTotalsFromCumulativeTable(text) {
+  const hasCumulativeHeader = /cumulative\s+kcal\s+vs/i.test(text) && /cum\.?\s*protein/i.test(text);
+  if (!hasCumulativeHeader) return null;
+
+  const matches = Array.from(text.matchAll(/\|\s*\*\*([\d,]+)\*\*\s*\|\s*\*\*([\d.]+)g\*\*\s*\|/g));
+  if (matches.length === 0) return null;
+
+  const last = matches[matches.length - 1];
+  return {
+    calories: parseMacroNumber(last[1]),
+    protein: Math.round(parseFloat(last[2])),
+  };
+}
+
 function extractMacroTotals(text, day) {
   const closeoutPatterns = [
     new RegExp(`Confirmed\\s+Day\\s+${day}\\s+closeout[^\\n]*?~?([\\d,]+)\\s*kcal\\s*\\/\\s*~?(\\d+)g\\s*protein`, 'i'),
@@ -79,7 +93,13 @@ function extractMacroTotals(text, day) {
     }
   }
 
-  return findBestMacroMatch(text, day);
+  const bestMatch = findBestMacroMatch(text, day);
+  if (bestMatch) return bestMatch;
+
+  const hasDayCloseKeyword = new RegExp(`Day\\s+${day}\\s+close`, 'i').test(text);
+  if (!hasDayCloseKeyword) return null;
+
+  return extractMacroTotalsFromCumulativeTable(text);
 }
 
 export function parseProgress(filePath) {
