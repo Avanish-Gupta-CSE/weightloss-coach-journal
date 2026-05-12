@@ -3390,3 +3390,54 @@ Assumptions: roti ~100 kcal/3g protein; gatte sabzi (100g) ~170 kcal/7g protein;
 - The **400g mango pulp** created the calorie problem without delivering meaningful protein.
 - **Good correction:** You added **1 scoop OWN** pre-sleep to recover protein.
 - **Now stop eating tonight.** Tomorrow is where we fix the distribution (protein earlier, carbs tighter).
+
+---
+### 2026-05-12 (Day 59) — Session Update
+- **Topics discussed:** Thyroxine timing ✅, Session 33 lower-body actuals, post-gym intake, breakfast + lunch quantities.
+- **Decisions made:** Lock today as a clean Tuesday lower session; keep breakfast vermicelli portion controlled; lunch anchored on moong dal with rice capped; correct cable crunch weight next time.
+- **Compliance notes:** Thyroxine at **6:00 AM** ✅. Tuesday = veg-only day; keep protein via whey + dal/paneer/soya.
+- **Next actions:** Eat breakfast + lunch in the quantities below; later today patch protein with **OWN** and/or **soya** if needed.
+- **Cursor context:** Leg Press **95 kg plate unavailable** so user used **100 kg**.
+
+---
+### 2026-05-12 (Day 59) — Session 33 Workout Actuals (Tuesday Lower Body + Core)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Leg Press | 95 kg × 3 × 10–12 | **100 kg × 3 × 12** | ✅ Strong + clean top of range | **100 kg × 3 × 10–12** (then +5 kg only after 3×12 with RIR 2) |
+| Goblet Squat | 12.5 kg × 3 × 10–12 | **12.5 kg × 3 × 12** | ✅ Hit top of range | **15 kg × 3 × 10–12** |
+| Leg Extension | 29 kg × 3 × 10–12 | **29 kg × 3 × 12** | ✅ Stable (not “easy” yet) | **29 kg × 3 × 12** (earn next pin only after it feels easy + controlled) |
+| Leg Curl | 32 kg × 3 × 10–12 | **31.3 kg × 3 × 12** | ✅ Equivalent execution (pin mismatch) | **31.3 kg × 3 × 12** with slow return; then next pin when available |
+| Cable Crunch | 20 lbs × 3 × 12–15 | **15 lbs × 3 × 15** | ⚠️ Missed weight (still hit reps) | **17.5–20 lbs × 3 × 12–15** (no guessing) |
+
+**Feedback (tight):**
+- **Progression calls:** Leg Press baseline is now **100 kg**. Goblet Squat goes to **15 kg** next time. Cable Crunch increases next time.
+- **1 safety cue:** On Leg Press keep lower back glued to pad; depth only as far as you can keep pelvis neutral (no butt-lift).
+
+---
+### 2026-05-12 (Day 59) — Post-Gym Intake (Running Total)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Post-gym: sattu water | 2 spoons | 57 | 3.3g | **177** | **28.3g** | **1,723 kcal, 151.7g protein** |
+
+---
+### 2026-05-12 (Day 59) — Breakfast + Lunch Quantities (Planned)
+
+**Breakfast (vermicelli):** Eat **200g cooked** (savory). Keep oil to **≤1 tsp**. No curd/milk/paneer at breakfast.
+
+**Lunch (moong dal + rice + aloo paneer sabzi):**
+- **Cooked moong dal:** **350g**
+- **Cooked rice:** **80g**
+- **Aloo paneer sabzi:** **120g** (serve paneer-heavy; keep oil to **≤1 tsp** in your portion)
+
+**Projected running total after breakfast + lunch (estimates):**
+
+| Item | Quantity | Est. kcal | Est. protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total post-gym) | — | 177 | 28.3g | 177 | 28.3g | 1,723 kcal, 151.7g protein |
+| Breakfast: vermicelli (savory) | 200g cooked | 250 | 6g | 427 | 34.3g | 1,473 kcal, 145.7g protein |
+| Lunch: cooked moong dal | 350g cooked | 293 | 20g | 720 | 54.3g | 1,180 kcal, 125.7g protein |
+| Lunch: cooked rice | 80g cooked | 104 | 2g | 824 | 56.3g | 1,076 kcal, 123.7g protein |
+| Lunch: aloo paneer sabzi | 120g cooked (est) | 220 | 12g | **1,044** | **68.3g** | **856 kcal, 111.7g protein** |
