@@ -3476,3 +3476,39 @@ Assumptions: paneer sabzi 250g ≈ 400 kcal / 28g protein; roti 1 ≈ 100 kcal /
 |---|---:|---:|---:|---:|
 | If you eat **paneer sabzi + 1 roti** (no whey) | ~1,787 | ~131g | -113 kcal | -49g |
 | If you add **pre-sleep OWN (water) 1 scoop** ✅ | **~1,907** | **~156g** | **+7 kcal** | **-24g** |
+
+---
+### 2026-05-12 (Day 59) — Dinner Actuals + Day Close (Estimated)
+
+**Pre-sleep OWN whey:** ❌ Not taken.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 1,287 | 100.0g | 1,287 | 100.0g | 613 kcal, 80.0g protein |
+| Dinner: paneer sabzi (paneer-heavy) | 200g cooked (est) | 320 | 22g | 1,607 | 122.0g | 293 kcal, 58.0g protein |
+| Dinner: roti | 1 roti | 100 | 3g | 1,707 | 125.0g | 193 kcal, 55.0g protein |
+| Dinner: puffed rice | 40g | 150 | 3g | **1,857** | **128.0g** | **43 kcal, 52.0g protein** |
+
+**Day 59 close (estimated):** **~1,857 kcal / ~128g protein**  
+
+---
+### 2026-05-13 (Day 60) — Rest Day (Office Day) — Morning Intake + Meal Quantities (Planned)
+
+**Walking pad (today):** **45–60 min** at **4–5 kmph** (split 2×25–30 min is allowed).
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Sattu water | 2 spoons | 57 | 3.3g | **57** | **3.3g** | **1,843 kcal, 176.7g protein** |
+
+**Breakfast (omelettes + roti):**
+- **Omelettes:** **2 omelettes using 2 eggs each** (total **4 eggs**)  
+- **Roti:** **1 roti**
+
+**Lunch (egg curry + rice):**
+- **Egg curry:** **2 eggs** (keep oil to **≤1 tsp** for your portion)
+- **Cooked rice:** **100g**
+
+**Office carry (do this):**
+- **Roasted chana:** **30g** (in bag)
+- **Cut melon:** ✅ **200–250g** (only after the chana OR with lunch; do not replace protein with fruit)
+- **Protein in office:** ✅ If you can get warm/room-temp water, take **OWN 1 scoop** in water **in office** (late afternoon). This prevents the “pre-sleep missed whey” repeat.
