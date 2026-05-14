@@ -10,14 +10,14 @@
 
 | Field | Value |
 |---|---|
-| Current day | **Day 60 — May 13, 2026 (Wednesday). REST DAY (office day).** Day 59 dinner actual: **200g paneer sabzi + 1 roti + 40g puffed rice**. **Pre-sleep OWN whey missed.** Today: thyroxine taken; morning intake so far: **2 spoons sattu water**. Breakfast planned: **4 eggs (2 omelettes of 2 eggs each) + 1 roti**. Lunch planned: **2-egg curry + 100g cooked rice**. Office carry: **30g roasted chana**; optional **200–250g cut melon**; if warm/room-temp water available, take **OWN 1 scoop** in office (late afternoon). |
+| Current day | **Day 61 — May 14, 2026 (Thursday).** **Session 34 completed (Upper Pull + group extras).** Post-gym intake: **1 scoop OWN + 2 spoons sattu (lemon+salt)**. Breakfast actual: **250g upma + 1 coconut water**. Lunch actual: **250g moong dal + 80g rice + 150g paneer**. Snack: **~5 spoons besan bhujia (est)**. Dinner pending: aloo+cabbage sabzi + roti; pre-sleep OWN call in Progress.md. **Spot-check weight today:** **86.65 kg naked** (post-gym + post-bath) — trend marker only, not official. |
 | Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. **Latest logged sessions:** Session 32 (Mon Upper) and Session 33 (Tue Lower). W6–W8 focus remains consolidation and clean repeatability, not reckless jumps. |
 | Last weight | **Latest spot check: 85.85 kg naked** (May 6), but taken **after the gym** and **after post-gym OWN whey**, so it is **not** a perfectly clean fasted protocol-standard reading. It is still a strong trend marker: **-5.60 kg from Day 0**, **-0.80 kg below** the May 4 checkpoint of **86.65 kg**, and **-0.60 kg below** the Apr 29 delayed spot check of **86.45 kg**. Treat it as encouraging trend data, not as the official weekly weigh-in. |
 | Starting weight | 91.45 kg (March 14, Day 0) |
 | Next weigh-in | **Monday May 18, 2026 (W9)** — naked, post-BM, fasted, **before** food/water/gym/whey. (W8 May 11 result still not logged.) |
-| Diet mode | **Day 59 closed (est): ~1,857 kcal / ~128g protein (protein short due to missed pre-sleep whey).** **Day 60 active (rest day):** protect calories and patch protein earlier in the day (office whey if possible). |
-| Protein status | **Day 60 so far:** ~57 kcal / ~3.3g protein (sattu water only). |
-| Gym sessions completed | **33 complete.** Session 33 (Tue Lower): Leg Press **100 kg x3x12**, Goblet Squat **12.5 kg x3x12**, Leg Extension **29 kg x3x12**, Leg Curl **31.3 kg x3x12**, Cable Crunch **15 lbs x3x15**. Next time: Cable Crunch **17.5–20 lbs**; Goblet Squat **15 kg**; Leg Press baseline stays **100 kg**. **CORRECTED Phase 2 DB day map:** Mon=DB Shoulder Press \| Tue/Fri=Goblet Squat \| Thu=DB Bent-Over Row \| Sat=both. |
+| Diet mode | **Day 60 closed:** calories controlled but **protein collapsed** (wafers/biscuits + puffed rice crowding protein). **Day 61 active (gym):** keep carbs tight, hit **2 scoops OWN** (post-gym + pre-sleep), and avoid biscuits/wafers. |
+| Protein status | **Day 61 so far (pre-dinner, est): ~1,406 kcal / ~81g protein.** |
+| Gym sessions completed | **34 complete.** Session 34 = Thursday Upper Pull (Lat Pulldown 60 lbs; Seated Row up to 29.6 kg; DB Row 12.5 kg). Next time: Lat Pulldown test **65 lbs** if clean; Seated Row target **29.6 kg x3**. **CORRECTED Phase 2 DB day map:** Mon=DB Shoulder Press \| Tue/Fri=Goblet Squat \| Thu=DB Bent-Over Row \| Sat=both. |
 | Medications active | Thyroxine 50mcg at 6 AM daily (permanent). |
 
 ---

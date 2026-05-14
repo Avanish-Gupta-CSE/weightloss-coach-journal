@@ -3512,3 +3512,115 @@ Assumptions: paneer sabzi 250g ≈ 400 kcal / 28g protein; roti 1 ≈ 100 kcal /
 - **Roasted chana:** **30g** (in bag)
 - **Cut melon:** ✅ **200–250g** (only after the chana OR with lunch; do not replace protein with fruit)
 - **Protein in office:** ✅ If you can get warm/room-temp water, take **OWN 1 scoop** in water **in office** (late afternoon). This prevents the “pre-sleep missed whey” repeat.
+
+---
+### 2026-05-13 (Day 60) — Intake Actuals + Day Close (Estimated)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: omelettes | 4 eggs + 1 tsp oil (est) | 325 | 24g | 325 | 24g | 1,575 kcal, 156g protein |
+| Lunch: cooked rice | 100g | 130 | 2.5g | 455 | 26.5g | 1,445 kcal, 153.5g protein |
+| Lunch: rajma (cooked) | 200g (est) | 254 | 17g | 709 | 43.5g | 1,191 kcal, 136.5g protein |
+| Lunch: dahi | 100g | 60 | 3.5g | 769 | 47.0g | 1,131 kcal, 133.0g protein |
+| BRB wafers (pack) | Rs 30 pack (est) | 258 | 8g | 1,027 | 55.0g | 873 kcal, 125.0g protein |
+| Evening: roasted chana | 20g | 74 | 4.6g | 1,101 | 59.6g | 799 kcal, 120.4g protein |
+| Biscuits (50-50) | 2 pieces (est) | 50 | 1g | 1,151 | 60.6g | 749 kcal, 119.4g protein |
+| Dinner: chicken pieces (bone-in) | 200g (est) | 250 | 31g | 1,401 | 91.6g | 499 kcal, 88.4g protein |
+| Dinner: roti | 1 roti | 100 | 3g | 1,501 | 94.6g | 399 kcal, 85.4g protein |
+| Dinner: puffed rice | 40g | 150 | 3g | **1,651** | **97.6g** | **249 kcal, 82.4g protein** |
+
+**Day 60 close (estimated):** **~1,651 kcal / ~98g protein**  
+**Flag:** biscuits + wafers are likely **maida/sugar** (Rule 3/5 risk) → treat as done and tighten today.
+
+---
+### 2026-05-14 (Day 61) — Session Update
+- **Topics discussed:** Session 34 Upper Pull actuals (group extras), post-gym intake, breakfast + lunch quantities.
+- **Decisions made:** Keep Thursday as a **pull-focused** day (Lat Pulldown + Row + DB Row + Face Pull + curls). Extra “group” movements logged but not repeated.
+- **Compliance notes:** Post-gym protein ✅ (OWN). Keep carbs tight today to compensate for yesterday’s wafer/biscuit drift.
+- **Next actions:** Eat breakfast + lunch in the quantities below; take **pre-sleep OWN** tonight to avoid another protein-short close.
+- **Cursor context:** Seated Row load moved up to **29.6 kg** for 2 sets.
+
+---
+### 2026-05-14 (Day 61) — Session 34 Workout Actuals (Thursday Upper Pull + Extras)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Lat Pulldown | 60 lbs × 3 × 10–12 | **60 lbs × 3 × 12** | ✅ Hit top of range | **65 lbs × 3 × 10–12** (only if last set still had RIR 2) |
+| Seated Row (machine) | 28 kg × 3 × 10–12 | **25 kg × 1 × 12; 29.6 kg × 2 × 12** | ✅ Progressed | **29.6 kg × 3 × 10–12** |
+| DB Bent-Over Row | 12.5 kg × 3 × 10–12 | **12.5 kg: 1 set both-arms ×10; 2 sets single-arm ×12/side** | ✅ Stable (format drift) | **12.5 kg × 3 × 12/side (single-arm, strict)** |
+| Cable Chest Fly (high pulley) | — (not in plan) | 15 lbs/arm × 2 × 12 | ⚠️ Extra | Optional only; keep **15 lbs × 2 × 12** if done |
+| DB Lateral Raise | — (not in plan) | 1.25 kg ×12; 2.5 kg ×12; 3.75 kg ×10 | ⚠️ Extra | If you keep it: **2.5 kg × 2 × 12**, then **3.75 kg × 1 × 10** |
+| Rear Delt Raise (seated, bodyweight) | — (not in plan) | 2 × 6 (no weight) | ⚠️ Too light to matter | Skip |
+| DB Overhead Tricep Extension (single-arm) | — (not in plan) | 2.5 kg × 10/arm | ⚠️ Extra | Skip on pull day |
+| DB Overhead Tricep Extension (two-hands) | — (not in plan) | 15 kg × 8; 12.5 kg × 2 × 12 | ⚠️ Extra, heavy | Skip on pull day |
+| Shoulder Press (machine) | — (not in plan) | 30/40/50 lbs × 12 each | ⚠️ Push volume | Do this only on **Upper Push** day |
+| Lat Pulldown (wide bar) | — (not in plan) | 40 lbs × 3 × 12 | ⚠️ Redundant | Skip (you already hit 60 lbs) |
+| Lat Pulldown (V-bar close grip) | — (not in plan) | 20 lbs × 3 × 12 | ⚠️ Redundant | Skip |
+| Lat Pulldown (neutral long handle) | — (not in plan) | 20 lbs × 3 × 12 | ⚠️ Redundant | Skip |
+
+**Feedback (tight):**
+- **Progression calls:** Lat Pulldown stays clean at 60 → test 65 next time if RIR2. Seated Row baseline is now **29.6 kg**. DB Row stays **12.5 kg** until 3×12/side is strict.
+- **1 safety cue:** Too many cable pulldowns + heavy overhead tricep work = shoulder/elbow irritation risk. Next time do the **planned 4–5 lifts first**, then stop.
+
+---
+### 2026-05-14 (Day 61) — Post-Gym Intake (Running Total)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cumulative protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Post-gym: sattu + lemon + salt | 2 spoons | 57 | 3.3g | **177** | **28.3g** | **1,723 kcal, 151.7g protein** |
+
+---
+### 2026-05-14 (Day 61) — Breakfast + Lunch Quantities (Planned)
+
+**Breakfast (suji upma):** **250g cooked**.
+
+**Lunch (moong dal + rice + paneer sabzi):**
+- **Cooked moong dal:** **350g**
+- **Cooked rice:** **80g**
+- **Paneer sabzi:** **200g** (paneer-heavy; keep oil minimal)
+
+**Projected running total after breakfast + lunch (estimates):**
+
+| Item | Quantity | Est. kcal | Est. protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total post-gym) | — | 177 | 28.3g | 177 | 28.3g | 1,723 kcal, 151.7g protein |
+| Breakfast: suji upma | 250g cooked | 320 | 7g | 497 | 35.3g | 1,403 kcal, 144.7g protein |
+| Lunch: cooked moong dal | 350g cooked | 293 | 20g | 790 | 55.3g | 1,110 kcal, 124.7g protein |
+| Lunch: cooked rice | 80g cooked | 104 | 2g | 894 | 57.3g | 1,006 kcal, 122.7g protein |
+| Lunch: paneer sabzi | 200g cooked (est) | 320 | 22g | **1,214** | **79.3g** | **686 kcal, 100.7g protein** |
+
+---
+### 2026-05-14 (Day 61) — Breakfast + Lunch + Snack Actuals (Running Total)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total post-gym) | — | 177 | 28.3g | 177 | 28.3g | 1,723 kcal, 151.7g protein |
+| Breakfast: suji upma | 250g cooked | 320 | 7g | 497 | 35.3g | 1,403 kcal, 144.7g protein |
+| Breakfast: coconut water | 1 (small) | 45 | 0g | 542 | 35.3g | 1,358 kcal, 144.7g protein |
+| Lunch: cooked moong dal | 250g cooked | 210 | 14g | 752 | 49.3g | 1,148 kcal, 130.7g protein |
+| Lunch: cooked rice | 80g cooked | 104 | 2g | 856 | 51.3g | 1,044 kcal, 128.7g protein |
+| Lunch: paneer (cooked) | 150g | 400 | 27g | 1,256 | 78.3g | 644 kcal, 101.7g protein |
+| Snack: besan bhujia | 5 spoons (est ~25g) | 150 | 3g | **1,406** | **81.3g** | **494 kcal, 98.7g protein** |
+
+---
+### 2026-05-14 (Day 61) — Dinner Decision + Pre-Sleep Protein (Final)
+
+**Rule check:** Do **NOT** order food now (Rule 2: no Swiggy/Zomato after 7:30 PM). If chicken is already at home, cook it; if not, use whey + existing dinner.
+
+**Dinner (aloo + cabbage sabzi + roti):**
+- **Aloo+cabbage sabzi:** **250g cooked**
+- **Roti:** **1 roti**
+
+**Protein decision tonight:**
+- ✅ **Pre-sleep OWN whey (water): 1 scoop** (lukewarm, sip slow)
+- ❌ **Skip dahi+mango+jaggery+ON shake** (calorie-expensive; adds sugar; you already have OWN)
+
+**Projected day close with this plan (estimates):**
+
+Assumptions: sabzi 250g ≈ 200 kcal / 4g protein; roti 1 ≈ 100 kcal / 3g protein; OWN 1 scoop ≈ 120 kcal / 25g protein.
+
+| Scenario | Projected kcal | Projected protein | Over/under vs 1,900 | Protein gap vs 180g |
+|---|---:|---:|---:|---:|
+| Dinner (sabzi+roti) + no pre-sleep whey | ~1,706 | ~88g | -194 kcal | -92g |
+| Dinner (sabzi+roti) + **pre-sleep OWN 1 scoop** ✅ | **~1,826** | **~113g** | **-74 kcal** | **-67g** |
