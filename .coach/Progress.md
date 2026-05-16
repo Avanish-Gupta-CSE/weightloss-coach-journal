@@ -3624,3 +3624,118 @@ Assumptions: sabzi 250g ≈ 200 kcal / 4g protein; roti 1 ≈ 100 kcal / 3g prot
 |---|---:|---:|---:|---:|
 | Dinner (sabzi+roti) + no pre-sleep whey | ~1,706 | ~88g | -194 kcal | -92g |
 | Dinner (sabzi+roti) + **pre-sleep OWN 1 scoop** ✅ | **~1,826** | **~113g** | **-74 kcal** | **-67g** |
+
+---
+### 2026-05-14 (Day 61) — Dinner Actuals + Day Close (Estimated)
+
+**Pre-sleep OWN whey:** ❌ Not taken.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 1,406 | 81.3g | 1,406 | 81.3g | 494 kcal, 98.7g protein |
+| Dinner: cabbage+aloo sabzi | 50g cooked | 40 | 0.8g | 1,446 | 82.1g | 454 kcal, 97.9g protein |
+| Dinner: chicken (bone-in, raw wt) | 300g uncooked (est) | 370 | 44g | 1,816 | 126.1g | 84 kcal, 53.9g protein |
+| Dinner: roti | 1 roti | 100 | 3g | 1,916 | 129.1g | -16 kcal, 50.9g protein |
+| Dinner: puffed rice (murmura) | 40g | 150 | 3g | **2,066** | **132.1g** | **-166 kcal, 47.9g protein** |
+| Pepsi (zero sugar) | 400ml | 0 | 0g | **2,066** | **132.1g** | **-166 kcal, 47.9g protein** |
+
+**Day 61 close (estimated):** **~2,066 kcal / ~132g protein**  
+
+---
+### 2026-05-15 (Day 62) — Session Update (Fatigue + Workout Shift)
+- **Topics discussed:** Fatigue (office + interview prep), skipped morning gym, possible afternoon gym window, meal plan quantities, weekly shift strategy.
+- **Decisions made:** If gym happens 2–5 PM → do **Friday Lower (Variation 2)** today. If not → treat as rest day and move **Lower** to Saturday, skipping full-body HIIT this week.
+- **Interview-sprint override (May 15–21):** gym becomes **maintenance only** (energize, don’t exhaust). No new lifts, no failure sets. After **May 18**, avoid heavy leg work (DOMS risk). Travel + interview window (**May 19–21**) = **walk + mobility only** (no gym required).
+- **Compliance notes:** Protect recovery (sleep). No biscuit/wafer drift today.
+- **Next actions:** Follow the Day 62 meal plan below; do walking pad if gym is skipped.
+
+---
+### 2026-05-15 (Day 62) — Meal Plan (Two Scenarios)
+
+**Breakfast (planned):** **4 eggs total** (2 omelettes × 2 eggs). Oil cap: **≤1 tsp**.
+
+**Lunch (planned):** Egg curry **2 eggs** + cooked rice (qty depends on gym).
+
+| Scenario | Gym today | Rice at lunch | Whey plan | Dinner plan |
+|---|---|---:|---|---|
+| A (preferred) | ✅ 2–5 PM | **100g cooked** | **OWN 1 scoop post-gym** + **OWN 1 scoop pre-sleep** | **250g boneless chicken** (or **350g bone-in**) + **1 roti** + veg |
+| B | ❌ skip | **80g cooked** | **OWN 1 scoop at ~5 PM** + **OWN 1 scoop pre-sleep** | **250g boneless chicken** (or **350g bone-in**) + veg (no roti) |
+
+---
+### 2026-05-15 (Day 62) — Session 35 Workout Actuals (Friday Lower Body + Core)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Leg Press | 95–100 kg × 3 × 10–12 | **100 kg × 3 × 12** | ✅ Hit top of range | **100 kg × 3 × 12** (then +5 only after clean RIR2) |
+| Leg Curl | 31–32 kg × 3 × 10–12 | **29 kg × 2 × 12; 36 kg × 1 × 12** | ⚠️ Big jump (pin gaps) | Keep **29 kg × 3 × 12** until easy; then test **36 kg × 3 × 10–12** only if clean |
+| Leg Extension | 29 kg × 3 × 10–12 | **29 kg × 3 × 12** | ✅ Stable | If it feels easy next time → **32 kg** |
+| Hip Abductor | 23 kg × 2 × 12–15 | **23 kg × 2 × 12; 29 kg × 1 × 12** | ⚠️ Heavy top set | Keep **23 kg × 3 × 12–15** (no bounce), then +1 pin |
+| Hip Adductor | 23 kg × 2 × 12–15 | **23 kg × 2 × 12; 29 kg × 1 × 12** | ⚠️ Heavy top set | Keep **23 kg × 3 × 12–15** (no bounce), then +1 pin |
+| Lying leg raise / plank leg raises | 2 × 10–12 | **2 × 12** | ✅ Done | 2 × 12 (slow lower), then add 3rd set |
+
+**Feedback (tight):**
+- **Progression calls:** Leg Press stays **100 kg**. Keep accessories controlled (don’t chase 29 kg on abductor/adductor yet). Leg Curl stays at **29 kg** as the base until full control is easy.
+- **1 safety cue:** On Leg Curl + hip machines: **no jerking, no bounce**—slow returns protect knees and groin.
+
+---
+### 2026-05-15 (Day 62) — Breakfast + Lunch + Post-Gym Intake (Running Total)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: omelettes | 4 eggs + 1 tsp oil (est) | 325 | 24g | 325 | 24g | 1,575 kcal, 156g protein |
+| Breakfast: coconut water | 1 (small) | 45 | 0g | 370 | 24g | 1,530 kcal, 156g protein |
+| Lunch: egg curry | 2 eggs + 1 tsp oil (est) | 190 | 12g | 560 | 36g | 1,340 kcal, 144g protein |
+| Lunch: cooked rice | 100g | 130 | 2.5g | 690 | 38.5g | 1,210 kcal, 141.5g protein |
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 810 | 63.5g | 1,090 kcal, 116.5g protein |
+| Post-gym: sattu (lemon+salt) | 2 spoons | 57 | 3.3g | **867** | **66.8g** | **1,033 kcal, 113.2g protein** |
+
+---
+### 2026-05-15 (Day 62) — Dinner Actuals + Day Close (Estimated)
+
+**Pre-sleep OWN whey:** ❌ Not logged.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 867 | 66.8g | 867 | 66.8g | 1,033 kcal, 113.2g protein |
+| Dinner: chicken (bone-in, raw wt) | 200g uncooked (est) | 247 | 29g | 1,114 | 95.8g | 786 kcal, 84.2g protein |
+| Dinner: roti | 1.25 roti | 125 | 4g | 1,239 | 99.8g | 661 kcal, 80.2g protein |
+| Dinner: puffed rice (murmura) | 50g | 188 | 4g | 1,427 | 103.8g | 473 kcal, 76.2g protein |
+| Dinner: grapes | 10g | 7 | 0g | **1,434** | **103.8g** | **466 kcal, 76.2g protein** |
+
+**Day 62 close (estimated):** **~1,434 kcal / ~104g protein**  
+**Note:** if chicken was cooked in oil/gravy, true calories will be higher.
+
+---
+### 2026-05-16 (Day 63) — Intake Actuals So Far + Rest-Day Plan
+
+- **Thyroxine:** taken (time not logged).
+- **Workout:** No gym so far (rest day planned).
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Sattu (water) | 2 spoons | 57 | 3.3g | 57 | 3.3g | 1,843 kcal, 176.7g protein |
+| Protein Chef high-protein bread | 3 slices | 240 | 15g | 297 | 18.3g | 1,603 kcal, 161.7g protein |
+| Paneer bhurji (est) | ~150g paneer equivalent | 400 | 27g | 697 | 45.3g | 1,203 kcal, 134.7g protein |
+| Coconut water | 1 (small) | 45 | 0g | 742 | 45.3g | 1,158 kcal, 134.7g protein |
+| Omelette | 4 eggs + 1 tsp oil (est) | 325 | 24g | 1,067 | 69.3g | 833 kcal, 110.7g protein |
+| Jaggery | 10g | 40 | 0g | 1,107 | 69.3g | 793 kcal, 110.7g protein |
+| Mango (edible est) | ~250g edible (from 430g gross) | 160 | 2g | 1,267 | 71.3g | 633 kcal, 108.7g protein |
+| Pakodi (deep-fried) | 3 small pieces (est) | 165 | 4.5g | 1,432 | 75.8g | 468 kcal, 104.2g protein |
+| Kadhi | 200g | 144 | 7.2g | 1,576 | 83.0g | 324 kcal, 97.0g protein |
+| Cooked rice | 110g | 143 | 2.8g | **1,719** | **85.8g** | **181 kcal, 94.2g protein** |
+
+**Rest-of-day decision (damage control):**
+- **No more carbs/sweets today** (mango + rice + pakodi already used the quota).
+- **Dinner (7:30–8:30 PM):** **250g cooked boneless chicken breast** (simple roast/airfry; minimal oil) + **200g veg** (lauki/beans/gobhi; 1 tsp oil max).
+- **Pre-sleep protein:** **OWN whey 0.5 scoop** in **lukewarm water** only.
+- **Walking pad (study):** **30–40 min at 4–5 kmph**.
+
+**Tomorrow (May 17) — last workout of the week:** do **Upper Push (maintenance)** (no leg volume).
+
+---
+### 2026-05-16 (Day 63) — Session Update
+- **Topics discussed:** Day 62 dinner actuals; Day 63 intake so far; rest-day damage control; tomorrow “last workout of week”; creatine question.
+- **Decisions made:** Rest day confirmed for May 16; dinner locked as **lean chicken + veg** (no carbs); pre-sleep whey capped at **0.5 scoop**; tomorrow = **Upper Push maintenance**. Creatine default = **start after May 21** (avoid new variables during interview sprint).
+- **Compliance notes:** Deep-fried pakodi is a Rule 4 violation; mango+jaggery used calorie quota early.
+- **Next actions:** Walking pad **30–40 min** today; cook/eat dinner in the locked quantities; take pre-sleep whey; tomorrow gym session only if it energizes (no failure sets).
+- **Cursor context:** Thyroxine calcium rule still applies — keep paneer/curd **4 hours away** from the pill on future mornings.
