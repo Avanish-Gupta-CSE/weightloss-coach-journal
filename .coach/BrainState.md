@@ -10,13 +10,13 @@
 
 | Field | Value |
 |---|---|
-| Current day | **Day 70 — May 23, 2026 (Saturday).** Morning: flat-ground strength (with sister) completed. Evening: **Home Gym Lower (Session 37)** completed (Seated Leg Press **99 kg ×3×12**, Leg Curl up to **41 kg**, Leg Extension **36 kg ×3×12**, Goblet Squat up to **17.5 kg**, Cable Crunch **25 kg ×3×15**). Day intake closed with **1.5 scoop OWN + dahi+mango+0.25 scoop OWN + dinner (2 rotis + lauki + paneer sabzi + kheera)**. Day 70 close (est): **~1,850 kcal / ~118g protein**. **May 19 dinner + May 20 full-day actuals still pending.** |
+| Current day | **Day 70 — May 23, 2026 (Saturday).** Morning: flat-ground strength (with sister) completed. Evening: **Home Gym Lower (Session 37)** completed (Seated Leg Press **99 kg ×3×12**, Leg Curl up to **41 kg**, Leg Extension **36 kg ×3×12**, Goblet Squat up to **17.5 kg**, Cable Crunch **25 kg ×3×15**). Day intake included **2 spoons sattu water**, **1 glass buffalo milk**, and **4 Monaco biscuits** (late add-ons). **Revised Day 70 close (est): ~2,197 kcal / ~131g protein.** **May 19 dinner + May 20 full-day actuals still pending.** |
 | Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. **Latest logged sessions:** Session 34 (Upper Pull) and Session 35 (Lower). W6–W8 focus remains consolidation and clean repeatability, not reckless jumps. |
 | Last weight | **Latest spot check: 85.85 kg naked** (May 6), but taken **after the gym** and **after post-gym OWN whey**, so it is **not** a perfectly clean fasted protocol-standard reading. It is still a strong trend marker: **-5.60 kg from Day 0**, **-0.80 kg below** the May 4 checkpoint of **86.65 kg**, and **-0.60 kg below** the Apr 29 delayed spot check of **86.45 kg**. Treat it as encouraging trend data, not as the official weekly weigh-in. |
 | Starting weight | 91.45 kg (March 14, Day 0) |
 | Next weigh-in | **Monday May 25, 2026 (W10)** — naked, post-BM, fasted, **before** food/water. **May 18 weigh-in not logged.** |
 | Diet mode | **Post-interview reset:** home-cooked is preferred. **Dry fruits cap remains 1 palm/day.** Today exceeded (6 palms) → calorie overshoot risk. Avoid coke/juice when dry fruits are already used. |
-| Protein status | **Day 70 close (est): ~118g protein** (target 180g). Prioritize a clean protein day tomorrow (lean meat/fish + minimal sugar). |
+| Protein status | **Day 70 close (est): ~131g protein** (target 180g). Prioritize a clean protein day tomorrow (lean meat/fish + minimal sugar; keep milk + biscuits controlled). |
 | Gym sessions completed | **37 complete.** Latest: Session 37 = Home Gym Lower calibration (fixed stacks differ from Bangalore). Next Bangalore baseline remains: Leg Press **100 kg**, Leg Curl **29 kg**, Leg Extension **29 kg** unless proven otherwise on that equipment. |
 | Medications active | Thyroxine 50mcg at 6 AM daily (permanent). |
 
