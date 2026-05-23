@@ -3739,3 +3739,274 @@ Assumptions: sabzi 250g ≈ 200 kcal / 4g protein; roti 1 ≈ 100 kcal / 3g prot
 - **Compliance notes:** Deep-fried pakodi is a Rule 4 violation; mango+jaggery used calorie quota early.
 - **Next actions:** Walking pad **30–40 min** today; cook/eat dinner in the locked quantities; take pre-sleep whey; tomorrow gym session only if it energizes (no failure sets).
 - **Cursor context:** Thyroxine calcium rule still applies — keep paneer/curd **4 hours away** from the pill on future mornings.
+
+---
+### 2026-05-16 (Day 63) — Dinner Actuals + Day Close (Estimated)
+
+**Workout:** ❌ none.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 1,719 | 85.8g | 1,719 | 85.8g | 181 kcal, 94.2g protein |
+| Dinner: chicken (bone-in, raw wt) | 250g uncooked (est) | 309 | 36g | 2,028 | 121.8g | -128 kcal, 58.2g protein |
+| Dinner: cooked rice | 200g | 260 | 5g | 2,288 | 126.8g | -388 kcal, 53.2g protein |
+| Dinner: raita (dahi + cucumber + onion) | 200g | 120 | 7g | **2,408** | **133.8g** | **-508 kcal, 46.2g protein** |
+
+**Day 63 close (estimated):** **~2,408 kcal / ~134g protein**
+
+---
+### 2026-05-17 (Day 64) — Intake Actuals So Far + Sleepiness Note
+
+- **Workout:** ❌ skipped (interview-prep priority).
+- **Notable:** **post-lunch sleep-wave** → slept ~2 hours; still sleepy later.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Sattu (water) | 2 spoons | 57 | 3.3g | 57 | 3.3g | 1,843 kcal, 176.7g protein |
+| Protein bread | 2 slices | 160 | 10g | 217 | 13.3g | 1,683 kcal, 166.7g protein |
+| Pintola peanut butter (unsweetened) | 20g | 120 | 5g | 337 | 18.3g | 1,563 kcal, 161.7g protein |
+| Lunch: chicken (bone-in, raw wt) | 200g uncooked (est) | 247 | 29g | 584 | 47.3g | 1,316 kcal, 132.7g protein |
+| Lunch: cooked rice | 200g | 260 | 5g | 844 | 52.3g | 1,056 kcal, 127.7g protein |
+| Lunch: raita (dahi + cucumber + onion) | 200g | 120 | 7g | 964 | 59.3g | 936 kcal, 120.7g protein |
+| Shake: dahi | 150g | 90 | 5g | 1,054 | 64.3g | 846 kcal, 115.7g protein |
+| Shake: ON whey concentrate | 1 scoop | 120 | 24g | 1,174 | 88.3g | 726 kcal, 91.7g protein |
+| Shake: mango pulp | 100g | 65 | 1g | 1,239 | 89.3g | 661 kcal, 90.7g protein |
+| Shake: jaggery | 5g | 20 | 0g | **1,259** | **89.3g** | **641 kcal, 90.7g protein** |
+
+---
+### 2026-05-17 (Day 64) — Dinner Actuals + Day Close (Estimated)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 1,259 | 89.3g | 1,259 | 89.3g | 641 kcal, 90.7g protein |
+| Dinner: puffed rice (murmura) | 50g | 188 | 4g | 1,447 | 93.3g | 453 kcal, 86.7g protein |
+| Dinner: paneer (cooked) | 200g | 533 | 36g | 1,980 | 129.3g | -80 kcal, 50.7g protein |
+| Pre-sleep: OWN whey | 0.5 scoop | 60 | 12.5g | 2,040 | 141.8g | -140 kcal, 38.2g protein |
+| Nutrichoice biscuit | 1 piece (est) | 40 | 1g | 2,080 | 142.8g | -180 kcal, 37.2g protein |
+| Mango | 100g edible | 65 | 1g | **2,145** | **143.8g** | **-245 kcal, 36.2g protein** |
+
+**Day 64 close (estimated):** **~2,145 kcal / ~144g protein**
+
+---
+### 2026-05-18 (Day 65) — Intake Actuals (Estimated)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: omelettes | 4 eggs + 1 tsp oil (est) | 325 | 24g | 325 | 24g | 1,575 kcal, 156g protein |
+| Breakfast: protein bread | 2 slices | 160 | 10g | 485 | 34g | 1,415 kcal, 146g protein |
+| Breakfast: coconut water | 1 (small) | 45 | 0g | 530 | 34g | 1,370 kcal, 146g protein |
+| Lunch: paneer (cooked) | 150g | 400 | 27g | 930 | 61g | 970 kcal, 119g protein |
+| Lunch: cooked rice | 100g | 130 | 2.5g | 1,060 | 63.5g | 840 kcal, 116.5g protein |
+| Lunch: cooked moong dal | 300g cooked (est) | 252 | 17g | 1,312 | 80.5g | 588 kcal, 99.5g protein |
+| Dinner: egg bhurji | 2 eggs + 1 tsp oil (est) | 190 | 12g | 1,502 | 92.5g | 398 kcal, 87.5g protein |
+| Dinner: roti | 2 rotis | 200 | 6g | **1,702** | **98.5g** | **198 kcal, 81.5g protein** |
+
+**Day 65 close (estimated):** **~1,702 kcal / ~99g protein**
+
+---
+### 2026-05-19 (Day 66) — Travel Day Intake (Estimated) + Stress Note
+
+**Context:** Travel + hotel change stress (Airbnb loss noted). Outside food only until May 21.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: paneer bhurji | 100g paneer equivalent (est) | 270 | 18g | 270 | 18g | 1,630 kcal, 162g protein |
+| Breakfast: roti | 2 rotis | 200 | 6g | 470 | 24g | 1,430 kcal, 156g protein |
+| Breakfast: coconut water | 1 (small) | 45 | 0g | 515 | 24g | 1,385 kcal, 156g protein |
+| Lunch: Greek yogurt | 40g (est) | 30 | 3g | 545 | 27g | 1,355 kcal, 153g protein |
+| Lunch: salad | 1 small bowl (est) | 30 | 1g | 575 | 28g | 1,325 kcal, 152g protein |
+| Lunch: chole | 1 bowl (est) | 300 | 12g | 875 | 40g | 1,025 kcal, 140g protein |
+| Lunch: parantha | 1 small | 180 | 4g | 1,055 | 44g | 845 kcal, 136g protein |
+| Lunch: watermelon | 1 slice (est) | 50 | 1g | 1,105 | 45g | 795 kcal, 135g protein |
+| Grape juice | 200ml (label: 91 kcal/100ml) | 182 | 0g | 1,287 | 45g | 613 kcal, 135g protein |
+| Aloo masala dosa | ~1 serving (ate less; est) | 350 | 8g | 1,637 | 53g | 263 kcal, 127g protein |
+| Pears | 2 | 200 | 1g | **1,837** | **54g** | **63 kcal, 126g protein** |
+
+**Day 66 so far (estimated):** **~1,837 kcal / ~54g protein** (protein collapse day unless dinner is protein-only)
+
+---
+### 2026-05-21 (Day 68) — Interview Day Intake + Dinner Plan (Home)
+
+**Note:** Day 66 dinner + Day 67 (May 20) full-day actuals are pending (user will provide later).
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Banana | 3 medium (2 pre-interview + 1 post) | 315 | 4g | 315 | 4g | 1,585 kcal, 176g protein |
+| Blueberries | 150g | 85 | 1g | 400 | 5g | 1,500 kcal, 175g protein |
+| Poha | 50g cooked (assumed) | 80 | 1.5g | 480 | 6.5g | 1,420 kcal, 173.5g protein |
+| Besan bhujia | 20g | 120 | 2.4g | 600 | 8.9g | 1,300 kcal, 171.1g protein |
+| Coke | 3 sips (est) | 15 | 0g | 615 | 8.9g | 1,285 kcal, 171.1g protein |
+| Lunch: chicken (boneless cooked, est) | 150g | 250 | 45g | 865 | 53.9g | 1,035 kcal, 126.1g protein |
+| Lunch: cooked rice | 350g | 455 | 8.8g | 1,320 | 62.7g | 580 kcal, 117.3g protein |
+| Lunch: raita | 50g | 30 | 1.8g | **1,350** | **64.5g** | **550 kcal, 115.5g protein** |
+
+**Dinner guidance (parents’ mutton + roti):**
+- **Mutton (cooked pieces, mostly meat, minimal gravy):** **150g** (aim 6–8 medium chunks; avoid oily top layer)
+- **Roti:** **1 roti**
+- **Gravy:** max **1–2 tbsp** (not a bowl)
+
+**If you do this, estimated day close:** ~1,900 kcal (protein will still be below target; that’s acceptable today post-travel + interview).
+
+**Pre-sleep protein:** default **NO whey tonight** (calories are already near target after dinner).
+
+**Optional cardio (recovery):** 20–30 min easy walk after dinner (Zone 2).
+
+---
+### 2026-05-21 (Day 68) — Session Update
+- **Topics discussed:** Interview day intake, dinner quantities at home, fatigue + light cardio, missing logs for May 19 dinner and May 20.
+- **Decisions made:** Dinner locked at **150g mutton + 1 roti**, minimal gravy. **No pre-sleep whey** by default. Cardio = **easy walk** only.
+- **Compliance notes:** High fruit + high rice day → acceptable for interview day; tighten carbs tomorrow if appetite remains high.
+- **Next actions:** When ready, provide **Day 66 dinner** and **Day 67 full-day** actuals so the dashboard stays accurate.
+- **Cursor context:** Now back home; home-cooked meals available again.
+
+---
+### 2026-05-21 (Day 68) — Dinner Actuals + Day Close (Estimated)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 1,350 | 64.5g | 1,350 | 64.5g | 550 kcal, 115.5g protein |
+| Dinner: mutton (bone-in, cooked, est) | 180g | 450 | 30g | 1,800 | 94.5g | 100 kcal, 85.5g protein |
+| Dinner: roti | 1.5 roti | 150 | 4.5g | 1,950 | 99.0g | -50 kcal, 81.0g protein |
+| Coke | 3 sips (est) | 15 | 0g | 1,965 | 99.0g | -65 kcal, 81.0g protein |
+| Mixed dry fruits | 4–5 palms (est) | 650 | 18g | **2,615** | **117.0g** | **-715 kcal, 63.0g protein** |
+
+**Day 68 close (estimated):** **~2,615 kcal / ~117g protein**  
+**Main driver:** dry fruits are extremely calorie-dense.
+
+---
+### 2026-05-22 (Day 69) — Session Update (Back Home + Training Return)
+- **Topics discussed:** Day 68 dinner actuals (mutton + roti + dry fruits), returning to training, choice between gym vs badminton.
+- **Decisions made:** Today’s default = **gym 7:00–8:30 AM** (Upper Body re-entry with logged loads). Skip badminton today to avoid a double-session fatigue hit.
+- **Next actions:** Do the workout below; keep today’s food **protein-forward** and keep carbs controlled.
+
+---
+### 2026-05-22 (Day 69) — Badminton + Breakfast + Post-Session Intake (Running Total)
+
+**Training:** Badminton **2h 03m**. Apple Watch: **1,319 active kcal**, **1,547 total kcal**, **avg HR 152 bpm**.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-badminton: OWN whey | 1 scoop | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Breakfast: roti | 1 roti | 100 | 3g | 220 | 28g | 1,680 kcal, 152g protein |
+| Breakfast: turai sabzi | 50g cooked (est) | 30 | 1g | 250 | 29g | 1,650 kcal, 151g protein |
+| Breakfast: fish (bone-in pieces) | 4 medium pieces (est ~150g edible) | 225 | 33g | 475 | 62g | 1,425 kcal, 118g protein |
+| Dry fruits (mixed) | 2 palms (est) | 300 | 8g | **775** | **70g** | **1,125 kcal, 110g protein** |
+
+**Note:** fish calories/protein depend heavily on species + how much oil was used; treat as estimate.
+
+---
+### 2026-05-22 (Day 69) — Lunch + Evening Gym (Session 36) + Post-Gym Intake (Running Total)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-lunch) | — | 775 | 70g | 775 | 70g | 1,125 kcal, 110g protein |
+| Lunch: fish (bone-in pieces) | 4 pieces (est ~150g edible) | 225 | 33g | 1,000 | 103g | 900 kcal, 77g protein |
+| Lunch: cooked rice | 100g | 130 | 2.5g | 1,130 | 105.5g | 770 kcal, 74.5g protein |
+| Dry fruits (mixed) | 4 palms (est) | 600 | 16g | 1,730 | 121.5g | 170 kcal, 58.5g protein |
+| Coke (normal) | 300ml | 126 | 0g | **1,856** | **121.5g** | **44 kcal, 58.5g protein** |
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | **1,976** | **146.5g** | **-76 kcal, 33.5g protein** |
+
+---
+### 2026-05-22 (Day 69) — Session 36 Workout Actuals (Upper Body)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Chest Press (machine) | 50 lbs × 3 × 10–12 | **55 lbs × 3 × 12** | ✅ Progressed | **60 lbs × 3 × 10–12** (only if last set still RIR2) |
+| Lat Pulldown | 55 lbs × 3 × 10–12 | **55 lbs × 3 × 12** | ✅ Hit top of range | **60 lbs × 3 × 10–12** |
+| Seated Row (low row) | 29.6 kg × 3 × 10–12 | **30 kg × 3 × 12** | ✅ Progressed | **32 kg × 3 × 10–12** |
+| DB Shoulder Press | 7.5 kg/arm × 3 × 10–12 | **7.5 kg × 1 × 12; 10 kg × 2 × 12** | ✅ Big jump but controlled | **10 kg × 3 × 10–12** (earn 3×12 before any increase) |
+| Tricep Pushdown | 15 lbs × 3 × 10–12 | **33 lbs × 3 × 12** | ⚠️ Different machine scale | Keep **33 lbs × 3 × 12** strict (slow eccentric), then +1 pin |
+| Cable Bicep Curl | 60 lbs × 3 × 10–12 | **66 lbs × 3 × 12** | ✅ Progressed | **66 lbs × 3 × 10–12** (strict) |
+| Cable Crunch | — | **25 kg × 3 × 12** | ✅ Done | **25 kg × 3 × 12–15** (then +2–3 kg) |
+| Cable Tricep Overhead Extension | — | **20 lbs × 3 × 12** | ⚠️ Extra | Optional: keep **20 lbs × 2 × 12** only |
+| Shoulder Press (machine) | — | **50 lbs × 2 × 12** | ⚠️ Extra (redundant) | Skip next time (DB press already covers it) |
+
+**Feedback (tight):**
+- **Progression calls:** Chest Press can test **60 lbs**. Lat Pulldown can test **60 lbs**. DB Shoulder Press is now a **10 kg working weight**; lock it in for 3×10–12 before pushing.
+- **1 safety cue:** With triceps + shoulder volume, protect elbows/shoulders: **no flared elbows, no lockout slam, slow lowering**.
+
+---
+### 2026-05-22 (Day 69) — Dinner Decision (Fish + Carb)
+
+**You are already over the 1,900 kcal target (est) due to dry fruits + coke.**
+
+Pick **ONE** option:
+- **Option A (best cut-control):** **Fish 4 pieces (bone-in)** + **NO roti, NO rice**
+- **Option B (if you insist on a carb):** **Fish 4 pieces** + **1 roti** (no rice)
+
+**Pre-sleep protein:** **NO** (you already took **2 scoops OWN** today).
+
+---
+### 2026-05-22 (Day 69) — Dinner Actuals + Day Close (Estimated)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 1,976 | 146.5g | 1,976 | 146.5g | -76 kcal, 33.5g protein |
+| Dinner: fish (bone-in pieces) | 5 small pieces (est ~180g edible) | 270 | 40g | 2,246 | 186.5g | -346 kcal, -6.5g protein |
+| Dinner: cooked rice | 150g | 195 | 3.8g | 2,441 | 190.3g | -541 kcal, -10.3g protein |
+| Dinner: mango pulp | 100g | 65 | 1g | **2,506** | **191.3g** | **-606 kcal, -11.3g protein** |
+
+**Day 69 close (estimated):** **~2,506 kcal / ~191g protein**  
+**Note:** you had a massive activity day (badminton + gym), so scale noise here will be mostly carbs/sodium, not fat panic.
+
+---
+### 2026-05-23 (Day 70) — Flat-Ground Strength (with Sister) + Intake (Running Total)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Bodyweight Squat | 2–3 × 10–12 | **2 × 12** | ✅ Done | **3 × 12** |
+| Reverse Lunge (alt) | 2–3 × 8–10/leg | **2 × 6/side** (12 total) | ✅ Done | **2 × 8/side** |
+| Glute Bridge | 2 × 12–15 | **1 × 12** | ⚠️ Volume low | **2 × 12–15** |
+| Push-ups | 2 × 8–12 | **2 × 10** | ✅ Done | **2 × 10–12** |
+
+**Feedback (tight):**
+- **Progression calls:** Add 1 set to squats + bridges next time. Lunges move to **8/side**.
+- **1 safety cue:** Lunges: keep the front knee tracking over toes; no inward collapse.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-workout: OWN whey | 0.5 scoop | 60 | 12.5g | 60 | 12.5g | 1,840 kcal, 167.5g protein |
+| Muskmelon | 200g | 60 | 1g | 120 | 13.5g | 1,780 kcal, 166.5g protein |
+| Anjeer | 2 pieces | 42 | 1g | 162 | 14.5g | 1,738 kcal, 165.5g protein |
+| Breakfast: sattu paratha | 2 small (est) | 360 | 14g | 522 | 28.5g | 1,378 kcal, 151.5g protein |
+| Breakfast: turai sabzi | 50g cooked (est) | 30 | 1g | 552 | 29.5g | 1,348 kcal, 150.5g protein |
+| Breakfast: mango pulp | 150g | 98 | 1.5g | 650 | 31.0g | 1,250 kcal, 149.0g protein |
+| Lunch: arhar dal (cooked) | 150g cooked (est) | 126 | 8.5g | 776 | 39.5g | 1,124 kcal, 140.5g protein |
+| Lunch: cooked rice | 100g | 130 | 2.5g | 906 | 42.0g | 994 kcal, 138.0g protein |
+| Lunch: karela sabzi | 50g cooked (est) | 35 | 1g | 941 | 43.0g | 959 kcal, 137.0g protein |
+| Papad (air-fried) | 1 | 50 | 1g | **991** | **44.0g** | **909 kcal, 136.0g protein** |
+
+**Assumption flags:** sattu-paratha and dal calories depend heavily on oil and recipe; treat as estimates.
+
+---
+### 2026-05-23 (Day 70) — Home Gym Lower (Session 37) Workout Actuals
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Seated Leg Press (fixed stack) | 99–100 kg × 3 × 10–12 | **99 kg × 3 × 12** | ✅ Matched target | **99 kg × 3 × 12** (then next plate only if last set still RIR2) |
+| Leg Curl | 29 kg × 3 × 10–12 (Bangalore baseline) | **36 kg × 1 × 12; 41 kg × 2 × 12** | ⚠️ Home stack mismatch | Lock **41 kg × 3 × 12** (slow lower, no jerk). If still “light” → next plate |
+| Leg Extension | 29 kg × 3 × 10–12 (Bangalore baseline) | **36 kg × 3 × 12** | ⚠️ Home stack mismatch | Lock **36 kg × 3 × 12** with 1s squeeze; then next plate |
+| Cable Crunch | 25 kg × 3 × 12–15 | **25 kg × 3 × 15** | ✅ Hit top of range | Next time: **+2–3 kg × 3 × 12–15** |
+| Goblet Squat (DB) | 10 kg × 2 × 10–12 | **15 kg × 1 × 12; 17.5 kg × 2 × 12** | ✅ Strong jump | Lock **17.5 kg × 3 × 10–12** before increasing |
+| Flat leg raises | 2 × 10–12 | **2 × 12** | ✅ Done | **3 × 12** |
+| Side-lying hip abduction | 3 × 15/side | **2 × 12/side** | ⚠️ Volume low | **3 × 15/side** |
+
+**Feedback (tight):**
+- **Progression calls:** treat the home-gym stacks as a **new calibration**, not “sudden muscle gain.” Keep strict tempo and only move up when last set still has **RIR2**.
+- **1 safety cue:** Leg curl + extension: **slow eccentric** and no “kick” — knee tendons stay happy.
+
+---
+### 2026-05-23 (Day 70) — Evening Intake + Dinner Actuals (Running Total)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-evening) | — | 991 | 44.0g | 991 | 44.0g | 909 kcal, 136.0g protein |
+| OWN whey | 1.5 scoop | 180 | 37.5g | 1,171 | 81.5g | 729 kcal, 98.5g protein |
+| Lychee | 6–7 pieces (est) | 50 | 0.5g | 1,221 | 82.0g | 679 kcal, 98.0g protein |
+| Dahi + brown sugar + mango + OWN | 100ml dahi + 3g sugar + 30g mango + 0.25 scoop OWN | 122 | 10g | 1,343 | 92.0g | 557 kcal, 88.0g protein |
+| Dinner: roti | 2 rotis | 200 | 6g | 1,543 | 98.0g | 357 kcal, 82.0g protein |
+| Dinner: lauki sabzi | 50g cooked (est) | 25 | 1g | 1,568 | 99.0g | 332 kcal, 81.0g protein |
+| Dinner: paneer sabzi | 100g (est) | 267 | 18g | 1,835 | 117.0g | 65 kcal, 63.0g protein |
+| Dinner: kheera | 1 bowl (est) | 15 | 0.5g | **1,850** | **117.5g** | **50 kcal, 62.5g protein** |
+
+**Day 70 close (estimated):** **~1,850 kcal / ~118g protein**
