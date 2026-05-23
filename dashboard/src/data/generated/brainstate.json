@@ -1,13 +1,13 @@
 {
   "snapshot": {
-    "Current day": "Day 63 — May 16, 2026 (Saturday). Day 62 dinner actuals: 200g bone-in chicken + 1.25 roti + 50g murmura + 10g grapes. Pre-sleep OWN not logged. Day 62 close (est): ~1,434 kcal / ~104g protein (likely under-count if gravy/oil was used). Day 63 so far: thyroxine ✅; 2 spoons sattu; Protein Chef bread (3 slices) + paneer bhurji sandwich; 1 coconut water; 4-egg omelette + 10g jaggery; mango (gross 430g; edible est ~250g); 3 pakodi + 200g kadhi + 110g cooked rice. Rest day today; tomorrow (May 17) = last workout of week: Upper Push (maintenance) (no leg volume).",
+    "Current day": "Day 70 — May 23, 2026 (Saturday). Morning: flat-ground strength (with sister) completed. Evening: Home Gym Lower (Session 37) completed (Seated Leg Press 99 kg ×3×12, Leg Curl up to 41 kg, Leg Extension 36 kg ×3×12, Goblet Squat up to 17.5 kg, Cable Crunch 25 kg ×3×15). Day intake closed with 1.5 scoop OWN + dahi+mango+0.25 scoop OWN + dinner (2 rotis + lauki + paneer sabzi + kheera). Day 70 close (est): ~1,850 kcal / ~118g protein. May 19 dinner + May 20 full-day actuals still pending.",
     "Phase": "PHASE 2 ACTIVE. 3 sets × 10–12 reps. Latest logged sessions: Session 34 (Upper Pull) and Session 35 (Lower). W6–W8 focus remains consolidation and clean repeatability, not reckless jumps.",
     "Last weight": "Latest spot check: 85.85 kg naked (May 6), but taken after the gym and after post-gym OWN whey, so it is not a perfectly clean fasted protocol-standard reading. It is still a strong trend marker: -5.60 kg from Day 0, -0.80 kg below the May 4 checkpoint of 86.65 kg, and -0.60 kg below the Apr 29 delayed spot check of 86.45 kg. Treat it as encouraging trend data, not as the official weekly weigh-in.",
     "Starting weight": "91.45 kg (March 14, Day 0)",
-    "Next weigh-in": "Monday May 18, 2026 (W9) — naked, post-BM, fasted, before food/water/gym/whey. (W8 May 11 result still not logged.)",
-    "Diet mode": "Day 63 rest day: calories front-loaded (mango + pakodi + rice). Damage control: no more carbs/sweets today; dinner must be lean protein + veg; pre-sleep whey only if needed.",
-    "Protein status": "Day 63 so far (est): ~1,719 kcal / ~86g protein. Remaining vs target: ~181 kcal, ~94g protein (will require protein-heavy dinner).",
-    "Gym sessions completed": "35 complete. Last session: Session 35 = Friday Lower (Leg Press 100 kg ×3×12; Leg Curl 29 kg×2×12 + 36 kg×1×12; Leg Extension 29 kg ×3×12; Hip Abductor/Adductor up to 29 kg; Leg raises 2×12). Next gym: Upper Push maintenance. CORRECTED Phase 2 DB day map: Mon=DB Shoulder Press \\",
+    "Next weigh-in": "Monday May 25, 2026 (W10) — naked, post-BM, fasted, before food/water. May 18 weigh-in not logged.",
+    "Diet mode": "Post-interview reset: home-cooked is preferred. Dry fruits cap remains 1 palm/day. Today exceeded (6 palms) → calorie overshoot risk. Avoid coke/juice when dry fruits are already used.",
+    "Protein status": "Day 70 close (est): ~118g protein (target 180g). Prioritize a clean protein day tomorrow (lean meat/fish + minimal sugar).",
+    "Gym sessions completed": "37 complete. Latest: Session 37 = Home Gym Lower calibration (fixed stacks differ from Bangalore). Next Bangalore baseline remains: Leg Press 100 kg, Leg Curl 29 kg, Leg Extension 29 kg unless proven otherwise on that equipment.",
     "Medications active": "Thyroxine 50mcg at 6 AM daily (permanent)."
   },
   "kitchenStock": [
@@ -362,6 +362,11 @@
       "item": "Creatine start decision",
       "details": "Decide whether to start creatine monohydrate during interview sprint. Default coach call: start after May 21 (avoid new GI variables + scale water-noise during interview week). If starting: 3g/day, no loading, with food + water.",
       "priority": "Medium"
+    },
+    {
+      "item": "May 19–20 missing logs",
+      "details": "User will provide Day 66 (May 19) dinner and Day 67 (May 20) full-day intake later. Keep dashboard estimates flagged until actuals are logged.",
+      "priority": "High"
     },
     {
       "item": "OWN reorder trigger",
