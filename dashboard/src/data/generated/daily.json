@@ -1082,10 +1082,10 @@
   {
     "date": "2026-05-23",
     "day": 70,
-    "dayType": "Evening Intake + Dinner Actuals (Running Total)",
+    "dayType": "Late Add-Ons (Logged After Close)",
     "meals": {},
-    "protein": 118,
-    "calories": 1850,
+    "protein": 131,
+    "calories": 2197,
     "workout": true,
     "workoutType": "",
     "walkingPad": false,

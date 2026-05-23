@@ -3014,5 +3014,26 @@
     "calories": 1850,
     "notes": "",
     "raw": "### 2026-05-23 (Day 70) — Evening Intake + Dinner Actuals (Running Total)\n\n| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |\n|---|---|---:|---:|---:|---:|---:|\n| (Running total pre-evening) | — | 991 | 44.0g | 991 | 44.0g | 909 kcal, 136.0g protein |\n| OWN whey | 1.5 scoop | 180 | 37.5g | 1,171 | 81.5g | 729 kcal, 98.5"
+  },
+  {
+    "date": "2026-05-23",
+    "day": 70,
+    "dayType": "Late Add-Ons (Logged After Close)",
+    "weight": null,
+    "meals": {},
+    "workout": false,
+    "workoutType": "",
+    "workoutDetails": "",
+    "walkingPad": false,
+    "walkingPadMinutes": 0,
+    "water": null,
+    "sleep": null,
+    "cravings": false,
+    "cravingsDetails": "",
+    "mood": null,
+    "protein": 131,
+    "calories": 2197,
+    "notes": "",
+    "raw": "### 2026-05-23 (Day 70) — Late Add-Ons (Logged After Close)\n\n| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |\n|---|---|---:|---:|---:|---:|---:|\n| (Running total pre-late-adds) | — | 1,850 | 117.5g | 1,850 | 117.5g | 50 kcal, 62.5g protein |\n| Sattu (water) | 2 spoons | 57 | 3.3g | 1,907 | 120.8g | -7 kcal, 59.2g prot"
   }
 ]

@@ -4010,3 +4010,16 @@ Pick **ONE** option:
 | Dinner: kheera | 1 bowl (est) | 15 | 0.5g | **1,850** | **117.5g** | **50 kcal, 62.5g protein** |
 
 **Day 70 close (estimated):** **~1,850 kcal / ~118g protein**
+
+---
+### 2026-05-23 (Day 70) — Late Add-Ons (Logged After Close)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-late-adds) | — | 1,850 | 117.5g | 1,850 | 117.5g | 50 kcal, 62.5g protein |
+| Sattu (water) | 2 spoons | 57 | 3.3g | 1,907 | 120.8g | -7 kcal, 59.2g protein |
+| Buffalo milk | 1 glass (est ~250ml) | 250 | 9g | 2,157 | 129.8g | -257 kcal, 50.2g protein |
+| Monaco biscuit (dry fruit) | 4 pieces (est) | 40 | 1g | **2,197** | **130.8g** | **-297 kcal, 49.2g protein** |
+
+**Revised Day 70 close (estimated):** **~2,197 kcal / ~131g protein**  
+**Assumption flags:** milk volume and biscuit size can change calories materially.
