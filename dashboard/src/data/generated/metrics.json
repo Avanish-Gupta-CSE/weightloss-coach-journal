@@ -217,13 +217,22 @@
       "notes": ""
     },
     {
-      "week": 10,
-      "date": "May 25, 2026",
-      "weight": null,
-      "type": "official",
+      "week": null,
+      "date": "May 27, 2026",
+      "weight": 85.75,
+      "type": "spot-check",
       "change": "",
       "cumulative": "",
-      "notes": ""
+      "notes": "After office, before dinner (not fasted) | Useful low spot check, but expect rebound after dinner/sodium"
+    },
+    {
+      "week": 10,
+      "date": "May 28, 2026",
+      "weight": 86.05,
+      "type": "official",
+      "change": "-0.60 from W7",
+      "cumulative": "-5.40",
+      "notes": "Delayed W10 substitute: Mon May 25 and Tue May 26 were not logged. Today reading is fasted, naked, post-BM — treat this as the Week 10 checkpoint."
     },
     {
       "week": 11,
