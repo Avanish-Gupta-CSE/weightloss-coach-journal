@@ -4023,3 +4023,209 @@ Pick **ONE** option:
 
 **Revised Day 70 close (estimated):** **~2,197 kcal / ~131g protein**  
 **Assumption flags:** milk volume and biscuit size can change calories materially.
+
+---
+### 2026-05-24 (Day 71) — Plateau-Break Plan (14 Days)
+
+- **Topics discussed:** Scale “stagnation” vs measurement noise, calorie drift sources, protein consistency, training consistency.
+- **Decisions made:**
+  - **Official weigh-in reset:** next reliable checkpoint = **Monday May 25 fasted** (naked, post-BM, before food/water).
+  - **14-day adherence block (May 24 → Jun 6):** keep daily calories **~1,900** with tighter guardrails (below). Goal = resume weekly downward trend while keeping strength rising.
+  - **No new supplements that confuse the scale** during the 14-day block (creatine can wait).
+- **Guardrails (non-negotiable for 14 days):**
+  - **Dry fruits:** max **1 palm/day**, and only **before 4 PM**.
+  - **No liquid calories**: no coke/juice/milk (whey allowed).
+  - **Rice cap:** **≤100g cooked per meal** (heavy training day can add +50g only if hunger is real).
+  - **Fruit cap:** **1 serving/day** (no mango pulp drinks).
+  - **Protein floor:** **≥150g/day** (goal remains **180g**).
+- **Training target:** 4 strength sessions/week (Upper/Lower split) + optional walking. Avoid stacking badminton + heavy legs same day.
+- **Next actions:** execute the template below for 14 days; log May 25 weigh-in; provide missing **May 19 dinner** + **May 20 full-day** when convenient.
+
+**Daily template (simple):**
+- **Breakfast (thyroxine-safe):** eggs + roti/protein bread (no curd/paneer/milk within 4 hours of pill).
+- **Lunch:** lean protein + dal/veg + **≤100g cooked rice**.
+- **Snack:** whey (lukewarm) + water; optional 1 fruit serving.
+- **Dinner:** lean protein (fish/chicken) + veg; roti optional (1).
+
+---
+### 2026-05-24 (Day 71) — Morning Movement + Breakfast Actuals (Running Total)
+
+**Movement:** light open-ground bodyweight work (not quantified).
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Dry fruits (mixed) | 1 palm | 150 | 4g | 150 | 4g | 1,750 kcal, 176g protein |
+| Mango pulp | 70g | 46 | 0.7g | 196 | 4.7g | 1,704 kcal, 175.3g protein |
+| Sattu paratha | 2 small (est) | 360 | 14g | 556 | 18.7g | 1,344 kcal, 161.3g protein |
+| White sugar | 5g | 20 | 0g | 576 | 18.7g | 1,324 kcal, 161.3g protein |
+| Dahi | 77g | 46 | 2.6g | **622** | **21.3g** | **1,278 kcal, 158.7g protein** |
+
+**Note:** dahi is fine only if it was **4 hours after thyroxine** (if you took it at 6 AM, dahi is allowed after 10 AM).
+
+---
+### 2026-05-24 (Day 71) — Lunch + Session 38 (Gym) + Dinner Actuals (Estimated Day Close)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-lunch) | — | 622 | 21.3g | 622 | 21.3g | 1,278 kcal, 158.7g protein |
+| Lunch: chicken leg pieces (bone-in) | 2 pieces (est ~240g total) | 264 | 42g | 886 | 63.3g | 1,014 kcal, 116.7g protein |
+| Lunch: roti | 1.5 roti | 150 | 4.5g | 1,036 | 67.8g | 864 kcal, 112.2g protein |
+| Lunch: ghee on roti | ~1 tsp (est) | 45 | 0g | 1,081 | 67.8g | 819 kcal, 112.2g protein |
+| Lunch: cooked rice | 80g | 104 | 2g | 1,185 | 69.8g | 715 kcal, 110.2g protein |
+| Lunch: OWN whey (with ice cream) | 0.25 scoop | 30 | 6.3g | 1,215 | 76.1g | 685 kcal, 103.9g protein |
+| Lunch: vanilla ice cream | 2 spoons (est) | 70 | 1g | **1,285** | **77.1g** | **615 kcal, 102.9g protein** |
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | **1,405** | **102.1g** | **495 kcal, 77.9g protein** |
+| Dinner: chicken leg pieces (bone-in) | 3 pieces (est ~360g total) | 396 | 63g | 1,801 | 165.1g | 99 kcal, 14.9g protein |
+| Dinner: roti | 1 roti | 100 | 3g | 1,901 | 168.1g | -1 kcal, 11.9g protein |
+| Dinner: cooked rice | 80g | 104 | 2g | **2,005** | **170.1g** | **-105 kcal, 9.9g protein** |
+
+**Day 71 close (estimated):** **~2,005 kcal / ~170g protein**
+
+**Assumption flags:** leg-piece size, ghee amount, and ice-cream spoon size can swing calories materially.
+
+---
+### 2026-05-24 (Day 71) — Session 38 Workout Actuals (Upper / Accessories + Bench)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| DB Shoulder Press | 10 kg/arm × 3 × 10–12 | **50 lbs × 3 × 12** (logged) | ⚠️ Likely different implement/unit | If it was a **machine**: repeat **50 lbs × 3 × 10–12** strict. If it was **DBs**: next time log in **kg/arm** and target **10 kg × 3 × 10–12** |
+| Cable Face Pull | 20 lbs × 3 × 12–15 | **25 kg × 3 × 12** | ⚠️ Different machine scale | Keep the **same station** and repeat **25 kg × 3 × 12–15** |
+| Cable Tricep Overhead Extension | 20 lbs × 2–3 × 12 | **20 kg × 3 × 12** | ✅ High effort work | Keep **20 kg × 3 × 10–12** strict (no torso lean) |
+| Cable Bicep Curl | 66 lbs × 3 × 10–12 | **30 kg × 3 × 12** | ⚠️ Different machine scale | Repeat **30 kg × 3 × 10–12** strict, then +1 pin/plate only after 3×12 |
+| Bench Press (DB) | 15 kg/hand × 3 × 8–12 | **15 kg/hand: 1 × 8; 2 × 12** | ✅ Good | Next: **15 kg/hand × 3 × 10–12** (earn 3×12 before increasing) |
+| DB Shoulder Press | 10 kg/arm × 3 × 10–12 | **12.5 kg/arm × 3 × 8** | ⚠️ Heavy for full range | Next: **10 kg/arm × 3 × 10–12** OR **12.5 kg/arm × 3 × 6–8** (pick ONE lane, don’t mix) |
+| One-arm DB Row | 15 kg/arm × 3 × 10–12 | **15 kg × 3 × 12 /arm** | ✅ Perfect | Next: **17.5 kg × 3 × 10–12** only if form stays locked |
+
+**Feedback (tight):**
+- **Progression calls:** One-arm row can try **17.5 kg** next time. Bench stays at **15 kg/hand** until 3×12. Pick **one** shoulder-press lane (either 10 kg for 10–12 reps or 12.5 kg for 6–8).
+- **1 safety cue:** Shoulder pressing: **ribs down + no back-arch**; stop 1–2 reps before form breaks.
+
+---
+### 2026-05-25 (Day 72) — Thyroxine + Breakfast Actuals (Running Total)
+
+- **Thyroxine:** ✅ Taken (time not logged)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Ghee-fried puri | 4 pieces (est) | 560 | 8g | 560 | 8g | 1,340 kcal, 172g protein |
+| Paneer sabzi | 80g | 214 | 14.4g | 774 | 22.4g | 1,126 kcal, 157.6g protein |
+| Dahi | 70g | 42 | 2.4g | 816 | 24.8g | 1,084 kcal, 155.2g protein |
+| White sugar | 5g | 20 | 0g | 836 | 24.8g | 1,064 kcal, 155.2g protein |
+| Sattu (water) | 4 spoons | **114** | **6.6g** | **950** | **31.4g** | **950 kcal, 148.6g protein** |
+
+**Note:** If dahi/paneer were eaten within **4 hours of thyroxine**, absorption risk exists (calcium timing rule).
+
+---
+### 2026-05-25 (Day 72) — Session Update
+
+- **Topics discussed:** Day 71 lunch/dinner + gym actuals, Day 72 breakfast damage-control math, today’s workout split.
+- **Decisions made:** Today = **Lower Body + Core** (weights prescribed). **W10 weigh-in** needs logging (May 25 fasted; fallback May 26 fasted if missed).
+- **Compliance notes:** Day 71 included **ghee + ice cream** (not aligned with plateau-break guardrails). Day 72 breakfast included **deep-fried puris** (Rule 4 violation).
+- **Next actions:** Complete today’s session, keep remaining meals **protein-dominant** to hit **≥150g protein**, log remaining Day 72 meals, and log W10 weigh-in value.
+- **Cursor context:** Some gym entries were logged with **unit mismatch** (DB press in lbs vs kg). Next workout: log DB loads as **kg/arm**, machine stacks as **lbs or kg** consistently.
+
+---
+### 2026-05-25 (Day 72) — Lunch Skipped + Session 39 Workout Actuals + Dinner Actuals (Estimated Day Close)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Leg Press | 100 kg × 3 × 10–12 | **99 kg × 3 sets** (reps not logged) | ✅ Close | **99 kg × 3 × 10–12** (log reps; +plate only after 3×12 clean) |
+| Goblet Squat | 12.5 kg × 3 × 10–12 | **17.5 kg × 3 sets** (reps not logged) | ⚠️ Big jump | **17.5 kg × 3 × 8–12** (only if form stays deep + stable) |
+| Leg Curl | 31 kg × 3 × 10–12 *(or 29 if not available)* | **36 kg × 3 sets** (reps not logged) | ⚠️ Machine-stack mismatch likely | Repeat **36 kg × 3 × 10–12** on the **same machine** with slow eccentric |
+| Leg Extension | 29 kg × 3 × 10–12 | **36 kg × 3 sets** (reps not logged) | ⚠️ Machine-stack mismatch likely | Repeat **36 kg × 3 × 10–12** with 1s squeeze top |
+| Hip Abductor (alt) | 23 kg × 3 × 12–15 | **Side-lying hip abduction: 3 sets/leg** | ✅ Good substitute | Next: keep **3 sets/leg × 15 reps** (bodyweight) |
+| Lat Pulldown | — | **30 kg × 3 sets** (reps not logged) | ⚠️ Extra (not in plan) | Next: pick a rep target (**10–12**) and log reps; then progress slowly |
+| Face Pull (rope) | — | **30 kg × 3 sets** (reps not logged) | ⚠️ Extra (not in plan) | Keep **30 kg** and log reps; strict, elbows high |
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Breakfast total already logged) | — | 950 | 31.4g | 950 | 31.4g | 950 kcal, 148.6g protein |
+| Lunch | Skipped | 0 | 0g | 950 | 31.4g | 950 kcal, 148.6g protein |
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 1,070 | 56.4g | 830 kcal, 123.6g protein |
+| Dinner: moong dal peetha | 4 pieces (est) | 360 | 16g | 1,430 | 72.4g | 470 kcal, 107.6g protein |
+| Dinner: parval sabzi | 50g | 35 | 1g | **1,465** | **73.4g** | **435 kcal, 106.6g protein** |
+
+**Day 72 close (estimated):** **~1,465 kcal / ~73g protein**  
+**Assumption flags:** “moong dal peetha” recipe (fried vs steamed) changes calories materially; reps weren’t logged for the workout.
+
+---
+### 2026-05-26 (Day 73) — Travel Day (No Gym) + Late Office Meal (Estimated Day Close)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: paneer paratha | 2 parathas | 650 | 28g | 650 | 28g | 1,250 kcal, 152g protein |
+| Dahi | 50g | 30 | 1.7g | 680 | 29.7g | 1,220 kcal, 150.3g protein |
+| White sugar | 5g | 20 | 0g | 700 | 29.7g | 1,200 kcal, 150.3g protein |
+| Sattu (water) | 2 spoons | 57 | 3.3g | 757 | 33.0g | 1,143 kcal, 147.0g protein |
+| Lunch: cooked rice | 80g | 104 | 2g | 861 | 35.0g | 1,039 kcal, 145.0g protein |
+| Lunch: cooked moong dal | 150g | 125 | 8g | 986 | 43.0g | 914 kcal, 137.0g protein |
+| Lunch: paneer | 50g | 134 | 9g | 1,120 | 52.0g | 780 kcal, 128.0g protein |
+| Flight snack: makhana | 30g | 110 | 3g | 1,230 | 55.0g | 670 kcal, 125.0g protein |
+| Late meal: paneer biryani | 150g (combined) | 330 | 13g | 1,560 | 68.0g | 340 kcal, 112.0g protein |
+| Potato chips | 50g | 270 | 3g | 1,830 | 71.0g | 70 kcal, 109.0g protein |
+| Coconut water | 1 | 45 | 0g | **1,875** | **71.0g** | **25 kcal, 109.0g protein** |
+
+**Day 73 close (estimated):** **~1,875 kcal / ~71g protein**  
+**Note:** travel + late office + low protein = fatigue multiplier. If paneer paratha was eaten within **4 hours of thyroxine**, absorption risk exists (calcium timing rule).
+
+---
+### 2026-05-27 (Day 74) — Bangalore Rest Day Plan (Office at 2 PM)
+
+**Gym:** Rest ✅ (fatigue + travel recovery)
+
+**Breakfast (quantity):**
+- **Omelette:** **4 whole eggs total** (2 omelettes × 2 eggs each)  
+- **High-protein bread:** **2 slices (~60g ready-to-eat)**  
+- **Oil cap:** **1 tsp total** for both omelettes (no ghee/butter)
+
+**Lunch (quantity):**
+- **Cooked rice:** **100g**
+- **Cooked moong dal:** **250g**
+- **Paneer sabzi:** **100g**
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: 4-whole-egg omelette | ~180g cooked | 280 | 24g | 280 | 24g | 1,620 kcal, 156g protein |
+| Breakfast: high-protein bread | ~60g (2 slices) | 160 | 10g | 440 | 34g | 1,460 kcal, 146g protein |
+| Lunch: cooked rice | 100g | 130 | 3g | 570 | 37g | 1,330 kcal, 143g protein |
+| Lunch: cooked moong dal | 250g | 210 | 14g | 780 | 51g | 1,120 kcal, 129g protein |
+| Lunch: paneer sabzi | 100g | 267 | 18g | **1,047** | **69g** | **853 kcal, 111g protein** |
+
+**Rest-of-day (to hit ≥150g protein):** add **1 scoop OWN whey** in lukewarm water in the evening + make dinner **lean-protein-first** (chicken/fish/eggs) with carbs capped.
+
+---
+### 2026-05-27 (Day 74) — Lunch + Dinner Actuals + Spot Check (Estimated Day Close)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast | Not logged | 0 | 0g | 0 | 0g | 1,900 kcal, 180g protein |
+| Lunch: cooked rice | 110g | 143 | 3.3g | 143 | 3.3g | 1,757 kcal, 176.7g protein |
+| Lunch: cooked moong dal | 250g | 210 | 14g | 353 | 17.3g | 1,547 kcal, 162.7g protein |
+| Lunch: paneer | 150g | 401 | 27g | 754 | 44.3g | 1,146 kcal, 135.7g protein |
+| Dinner: bone-in chicken | 250g | 275 | 44g | 1,029 | 88.3g | 871 kcal, 91.7g protein |
+| Dinner: roti | 2 rotis | 200 | 6g | 1,229 | 94.3g | 671 kcal, 85.7g protein |
+| Dry fruits (mixed) | 0.5 palm | 75 | 2g | 1,304 | 96.3g | 596 kcal, 83.7g protein |
+| Pepsi (zero sugar) | 400ml | 0 | 0g | **1,304** | **96.3g** | **596 kcal, 83.7g protein** |
+
+- **Spot check (unofficial):** **85.75 kg** (after office, **before dinner**).
+- **Whey:** none ❌
+
+**Day 74 close (confirmed items only):** **~1,304 kcal / ~96g protein**  
+**Assumption flags:** breakfast was not reported; true day total may be higher.
+
+---
+### 2026-05-28 (Day 75) — W10 Delayed Weigh-In + Plan (Gym 1–5 PM)
+
+- **Weigh-in (fasted, naked, post-BM):** **86.05 kg** ✅ (log this as **Week 10** delayed checkpoint)
+- **Yesterday spot check:** 85.75 kg pre-dinner (unofficial)
+- **Thyroxine:** ✅ taken
+
+**Breakfast decision (thyroxine-safe):** only eat paneer/dahi if it is **≥4 hours** after thyroxine.
+- **Paneer stuffed paratha:** **1 paratha** (cap at ~150g cooked)
+- **Dahi:** **150g** (no sugar)
+
+**Lunch decision (kadhi-pakodi + rice):**
+- **Kadhi (mostly liquid):** **250g**
+- **Pakodi (deep-fried):** **max 2 small pieces** (damage-control)
+- **Cooked rice:** **80g**
+
