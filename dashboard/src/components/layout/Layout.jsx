@@ -8,6 +8,7 @@ const pageTitles = {
   '/daily': 'Daily Log',
   '/workouts': 'Workouts',
   '/nutrition': 'Nutrition',
+  '/scoreboard': 'Scoreboard',
   '/brain': 'Brain State',
   '/protocol': 'Protocol',
 };
