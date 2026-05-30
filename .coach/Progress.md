@@ -4229,3 +4229,107 @@ Pick **ONE** option:
 - **Pakodi (deep-fried):** **max 2 small pieces** (damage-control)
 - **Cooked rice:** **80g**
 
+---
+### 2026-05-28 (Day 75) — Breakfast + Lunch + Session 40 Workout Actuals + Post-Gym Whey (Running Total)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: paneer paratha | 2 parathas | 650 | 28g | 650 | 28g | 1,250 kcal, 152g protein |
+| Breakfast: dahi | 150g | 90 | 5g | 740 | 33g | 1,160 kcal, 147g protein |
+| Breakfast: jaggery | 5g | 20 | 0g | 760 | 33g | 1,140 kcal, 147g protein |
+| Lunch: cooked rice | 80g | 104 | 2g | 864 | 35g | 1,036 kcal, 145g protein |
+| Lunch: kadhi | 200g | 144 | 7.2g | 1,008 | 42.2g | 892 kcal, 137.8g protein |
+| Lunch: pakodi (deep-fried) | 2 small pieces (est) | 110 | 3g | 1,118 | 45.2g | 782 kcal, 134.8g protein |
+| Coconut water | 1 | 45 | 0g | **1,163** | **45.2g** | **737 kcal, 134.8g protein** |
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | **1,283** | **70.2g** | **617 kcal, 109.8g protein** |
+
+---
+### 2026-05-28 (Day 75) — Session 40 Workout Actuals (Upper)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Chest Press (machine) | 60 lbs × 3 × 10–12 | **60 lbs × 3 × 12** | ✅ Hit top of range | **65 lbs × 3 × 10–12** |
+| Lat Pulldown | 60 lbs × 3 × 10–12 | **65 lbs × 3 × 12** (60 not available) | ✅ Progressed | **65 lbs × 3 × 10–12** (only test 70 if last set still RIR2) |
+| Seated Row | 32 kg × 3 × 10–12 | **32 kg × 3 × 12** | ✅ Hit top of range | **34 kg × 3 × 10–12** (or +2 kg if 34 not available) |
+| DB Shoulder Press | 10 kg/arm × 3 × 10–12 | **10 kg × 1 set; 12.5 kg × 2 sets** (reps not logged) | ⚠️ Mixed lanes | Pick ONE: **10 kg × 3 × 10–12** OR **12.5 kg × 3 × 6–8** |
+| Tricep Pushdown | 33 lbs × 3 × 10–12 | **25 lbs × 1 × 12; 20 lbs × 2 × 12** | ✅ Good adjustment | **20 lbs × 3 × 10–12** strict; then try **25 lbs** for 1 set |
+| Cable Bicep Curl | 66 lbs × 3 × 10–12 | ❌ **Stopped (left wrist pain)** → **Seated DB curl 5 kg × 3 × 12 /arm** | ✅ Correct safety call | Skip cable curl until pain-free. Next: **DB hammer curl 5 kg × 3 × 12** |
+| Cable Crunch | 25 lbs × 3 × 12–15 | **25 lbs × 3 × 12** | ✅ Done | **25 lbs × 3 × 15** (then +5 lbs) |
+
+**Feedback (tight):**
+- **Progression calls:** Chest Press can try **65 lbs** next time. Seated Row can try **+2 kg**. Lat Pulldown stays at **65** until reps are clean and controlled.
+- **1 safety cue:** Left wrist pain = **no forced supination** (cable curl). Use **neutral grip (hammer)** and stop if pain returns.
+
+---
+### 2026-05-28 (Day 75) — Evening Snack Actuals + Dinner Actuals (Estimated Day Close)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-evening) | — | 1,283 | 70.2g | 1,283 | 70.2g | 617 kcal, 109.8g protein |
+| Evening snack: boiled eggs | 4 whole eggs | 280 | 24g | 1,563 | 94.2g | 337 kcal, 85.8g protein |
+| Evening snack: dahi | 20g | 12 | 0.7g | 1,575 | 94.9g | 325 kcal, 85.1g protein |
+| Evening snack: roasted chana | 20g | 74 | 4.6g | 1,649 | 99.5g | 251 kcal, 80.5g protein |
+| Evening snack: tomato + onion + chutney | 1 tomato + 1 onion + chutney (est) | 40 | 1g | 1,689 | 100.5g | 211 kcal, 79.5g protein |
+| Dinner: omelette | 3 whole eggs | 210 | 18g | 1,899 | 118.5g | 1 kcal, 61.5g protein |
+| Dinner: roti | 2 rotis | 200 | 6g | **2,099** | **124.5g** | **-199 kcal, 55.5g protein** |
+
+- **Dinner note:** planned chicken was skipped because the chicken got burnt.
+- **Whey note:** No additional whey after the post-gym scoop.
+
+**Day 75 close (estimated):** **~2,099 kcal / ~125g protein**
+
+---
+### 2026-05-29 (Day 76) — Thyroxine + Breakfast + Intake Update (Running Total)
+
+- **Thyroxine:** ✅ Taken at **8:00 AM**
+- **Context:** STPI exam tomorrow (May 30) morning — sleep/recovery priority. Late-night gym is not advised today.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: roti | 1 | 100 | 3g | 100 | 3g | 1,800 kcal, 177g protein |
+| Breakfast: omelette | 4 whole eggs (2 omelettes of 2 eggs) | 280 | 24g | 380 | 27g | 1,520 kcal, 153g protein |
+| Cooked rice | 80g | 104 | 2g | 484 | 29g | 1,416 kcal, 151g protein |
+| Cooked moong dal | 250g | 210 | 14g | 694 | 43g | 1,206 kcal, 137g protein |
+| Paneer sabzi | 100g | 267 | 18g | 961 | 61g | 939 kcal, 119g protein |
+| Dahi | 150g | 90 | 5g | 1,051 | 66g | 849 kcal, 114g protein |
+| Jaggery | 5g | 20 | 0g | 1,071 | 66g | 829 kcal, 114g protein |
+| Muskmelon | 200g | 60 | 1g | **1,131** | **67g** | **769 kcal, 113g protein** |
+
+**Coach call (today):** **No gym tonight.** Do **15–20 min easy walk** + light mobility, then sleep early for the exam.
+
+---
+### 2026-05-29 (Day 76) — Dinner Actuals + Day Close (Estimated)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 1,131 | 67g | 1,131 | 67g | 769 kcal, 113g protein |
+| Dinner: chicken (bone-in) | 230g cooked | 253 | 40g | 1,384 | 107g | 516 kcal, 73g protein |
+| Dinner: biryani rice | 150g cooked | 225 | 4g | 1,609 | 111g | 291 kcal, 69g protein |
+| Dinner: raita (dahi+kheera) | 200g | 120 | 7g | **1,729** | **118g** | **171 kcal, 62g protein** |
+
+- **Whey:** none
+- **R-P note:** Chicken + curd pairing happened (raita). Logged as-is.
+
+**Day 76 close (estimated):** **~1,729 kcal / ~118g protein**
+
+---
+### 2026-05-30 (Day 77) — STPI Exam Day (Morning Intake Actuals + Lunch/Gym Plan)
+
+**Exam:** STPI MTS E-I (Scientist B) ✅ completed (morning).
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: roti | 2 | 200 | 6g | 200 | 6g | 1,700 kcal, 174g protein |
+| Bhindi sabzi | 50–60g | 30 | 1g | 230 | 7g | 1,670 kcal, 173g protein |
+| Coconut water | 1 | 45 | 0g | 275 | 7g | 1,625 kcal, 173g protein |
+| Cashews | 10 kernels | 90 | 3g | **365** | **10g** | **1,535 kcal, 170g protein** |
+
+**Lunch (quantity decision):**
+- **Cooked rice:** **80g**
+- **Cooked moong dal:** **300g**
+- **Tawa brinjal slices:** **150g** (keep oil minimal)
+
+**Gym plan (4:00 PM):** Lower Body + Core (moderate; no HIIT) + post-gym whey.
+
+**Evening snack plan:** egg salad + coconut water (quantities issued in chat).  
+**Dinner plan:** chicken-focused (quantities issued in chat) + optional pre-sleep whey if protein is still below 150g.

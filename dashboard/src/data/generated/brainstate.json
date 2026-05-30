@@ -1,13 +1,13 @@
 {
   "snapshot": {
-    "Current day": "Day 75 — May 28, 2026 (Thursday). Plateau-break block active (May 24 → Jun 6). W10 delayed weigh-in logged: 86.05 kg (fasted, naked, post-BM). Yesterday spot check: 85.75 kg (after office, pre-dinner). Today plan: breakfast = 1 paneer stuffed paratha + 150g dahi (only if ≥4h after thyroxine); lunch = 250g kadhi + max 2 pakodi + 80g cooked rice; gym planned 1–5 PM (Upper). May 19 dinner + May 20 full-day actuals still pending.",
+    "Current day": "Day 77 — May 30, 2026 (Saturday). Plateau-break block active (May 24 → Jun 6). Day 76 close (est): ~1,729 kcal / ~118g protein (dinner: chicken biryani + raita; no whey). Today: STPI exam ✅ completed (morning). Morning intake: 2 roti + 50–60g bhindi sabzi + 1 coconut water + 10 cashews (~365 kcal / ~10g protein). Today plan: lunch = 80g rice + 300g moong dal + 150g tawa brinjal; gym planned 4:00 PM (Lower, moderate; no HIIT) + post-gym OWN whey. May 19 dinner + May 20 full-day actuals still pending.",
     "Phase": "PHASE 2 ACTIVE. 3 sets × 10–12 reps. Latest logged sessions: Session 36 (Upper), Session 37 (Home Gym Lower), Session 38 (Upper accessories + bench), Session 39 (Home-town gym mixed). W6–W8 focus remains consolidation and clean repeatability, not reckless jumps.",
     "Last weight": "W10 delayed weigh-in: 86.05 kg (May 28) — fasted, naked, post-BM. Unofficial low spot check: 85.75 kg (May 27 pre-dinner).",
     "Starting weight": "91.45 kg (March 14, Day 0)",
     "Next weigh-in": "Monday Jun 01, 2026 (W11) — fasted, naked, post-BM, before food/water. May 18 weigh-in not logged.",
     "Diet mode": "14-day plateau-break guardrails (May 24 → Jun 6): dry fruits ≤1 palm/day (before 4 PM), no liquid calories (coke/juice/milk), rice ≤100g cooked per meal, fruit 1 serving/day, whey allowed.",
-    "Protein status": "Protein has been low for 3 consecutive days (est): Day 72 ~73g, Day 73 ~71g, Day 74 confirmed items ~96g (whey missed). Today goal: get back to ≥150g using dal/paneer/chicken + 1–2 scoops OWN.",
-    "Gym sessions completed": "39 complete. Latest: Session 39 = Home-town gym mixed (Day 72). Next Bangalore baseline remains: Leg Press 100 kg, Leg Curl 29 kg, Leg Extension 29 kg unless proven otherwise on that equipment.",
+    "Protein status": "Protein has been low for 5 consecutive days (est): Day 72 ~73g, Day 73 ~71g, Day 74 confirmed items ~96g, Day 75 ~125g, Day 76 ~118g. Day 77 running total so far (est): ~365 kcal / ~10g protein. Today goal: ≥150g.",
+    "Gym sessions completed": "40 complete. Latest: Session 40 = Upper (Cult.fit) completed (Day 75). Next planned: Session 41 = Lower (today). Next Bangalore baseline remains: Leg Press 100 kg, Leg Curl 29 kg, Leg Extension 29 kg unless proven otherwise on that equipment.",
     "Medications active": "Thyroxine 50mcg at 6 AM daily (permanent)."
   },
   "kitchenStock": [
@@ -25,9 +25,9 @@
     },
     {
       "item": "OWN Whey Protein Isolate (Cocoa) — RESTOCK PACK",
-      "status": "✅ In stock (sealed)",
-      "quantity": "500g unopened",
-      "notes": "Delivered later on Day 50 (May 3) via Swiggy Instamart. Open now — the current open pack is depleted."
+      "status": "⚠️ Low (opened)",
+      "quantity": "Few days left (user estimate)",
+      "notes": "Delivered later on Day 50 (May 3) via Swiggy Instamart. Pack is in use (1 scoop taken Day 75 post-gym). Reorder next pack before it runs out."
     },
     {
       "item": "ON Gold Standard Whey",
@@ -379,6 +379,11 @@
       "priority": "✅ RESOLVED"
     },
     {
+      "item": "OWN isolate reorder (next pack)",
+      "details": "Current OWN stock is estimated to last only a few days. Order the next OWN Whey Isolate 500g before it runs out (exam weekend + GD week).",
+      "priority": "High"
+    },
+    {
       "item": "OWN concentrate trial",
       "details": "User considered OWN Whey Concentrate 500g at about ₹1,300 on Zepto. Web check: both OWN isolate and concentrate Amazon listings show 24g protein per scoop, but the isolate listing copy oddly references whey protein concentrate, so label verification is required. Latest coach call: defer the concentrate experiment for now. Health-first logic wins during the active cut and exam period; revisit only later if isolate is unavailable or if a deliberate test week is chosen.",
       "priority": "Medium"
@@ -395,6 +400,11 @@
     }
   ],
   "medicalLog": [
+    {
+      "date": "May 28 (Day 75)",
+      "event": "Left wrist pain during cable bicep curl attempt at Cult.fit. Stopped the movement and substituted seated DB curls.",
+      "status": "⚠️ ACTIVE — avoid cable/supinated curls; use neutral-grip (hammer) only; consider wrist wrap. Reassess in 7 days."
+    },
     {
       "date": "May 9 (Day 56)",
       "event": "Thyroxine taken at 9:00 AM. Breakfast included paneer (calcium). Absorption risk; maintain 4-hour calcium gap post-pill.",
