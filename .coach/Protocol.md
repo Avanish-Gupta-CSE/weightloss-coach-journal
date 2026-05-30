@@ -26,12 +26,15 @@
 | Metric | Value |
 |---|---|
 | Daily calories | 1,900 kcal |
+| Scoreboard calories band | 1,800–1,900 kcal |
 | Protein | 180g (2.0 g/kg) |
+| Protein floor (scoreboard) | 150g/day |
 | Carbs | 170g |
 | Fat | 56g |
 | Water | 3.0 L/day minimum |
 | Sleep | 7–7.5 hours (bed by 11:00–11:30 PM) |
 | Weekly weight loss rate | 0.5–0.65 kg/week (hypothyroid-adjusted) |
+| Walking daily (scoreboard) | 30 min at 4–5 kmph OR 45 min at 3–4 kmph |
 
 ## Equipment Inventory
 
@@ -53,7 +56,7 @@
 4. **No deep-fried food** — no pakoras, samosas, fried aloo, fried parottas.
 5. **No sugar-loaded sweets** — Biscoff, Kunafa, Rasmalai, Ghewar, Gulab Jamun = permanently banned.
 6. **Oil discipline:** Cook uses max 1 tsp (5ml) oil per dish. Zero butter, cream, ghee.
-7. **Walking pad = study time.** Minimum 30 min/day at 4–5 kmph while reviewing notes or listening to exam audio.
+7. **Walking pad = study time.** Minimum **30 min/day at 4–5 kmph** (or **45 min at 3–4 kmph**) while reviewing notes or listening to exam audio.
 8. **Sleep by 11:30 PM, wake by 6:00 AM.** Non-negotiable for cortisol control, recovery, and thyroxine timing.
 9. **Weekly weigh-in:** Every Monday morning, fasted, after bathroom. Log in Metrics.md.
 10. **No skipping protein.** Every meal must have a protein source (chicken, eggs, paneer, dal, curd).

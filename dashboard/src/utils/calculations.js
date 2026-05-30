@@ -3,6 +3,13 @@ export const calculateBMI = (weight, height) => {
   return (weight / (heightM * heightM)).toFixed(1);
 };
 
+export const SCOREBOARD_TARGETS = {
+  proteinFloorG: 150,
+  caloriesMin: 1800,
+  caloriesMax: 1900,
+  walkingMinutesMin: 30,
+};
+
 export const calculateBMR = (weight, height, age, sex) => {
   // Mifflin-St Jeor
   let bmr = (10 * weight) + (6.25 * height) - (5 * age) + 5;
@@ -41,23 +48,19 @@ export const calculateDaysRemaining = (currentWeight, targetWeight, rate) => {
 export const calculateComplianceScore = (daily) => {
   if (!daily.length) return 0;
   const last7 = daily.slice(-7);
-  let score = 0;
-  
-  last7.forEach(day => {
-    if (day.protein >= 150) score += 25;
-    else if (day.protein >= 120) score += 15;
-    else if (day.protein >= 100) score += 10;
-    
-    if (day.workout) score += 25;
-    if (day.walkingPad) score += 15;
-    if (day.calories && day.calories <= 2000) score += 10;
-    else score += 5;
-    
-    if (day.water && day.water >= 2.5) score += 10;
-    else score += 5;
-  });
-  
-  return Math.round(score / last7.length);
+
+  const { proteinFloorG, caloriesMin, caloriesMax, walkingMinutesMin } = SCOREBOARD_TARGETS;
+  const maxPoints = last7.length * 3;
+  if (maxPoints === 0) return 0;
+
+  const points = last7.reduce((acc, day) => {
+    const proteinOk = (day.protein ?? 0) >= proteinFloorG;
+    const caloriesOk = day.calories !== null && day.calories !== undefined && day.calories >= caloriesMin && day.calories <= caloriesMax;
+    const walkingOk = (day.walkingPadMinutes ?? 0) >= walkingMinutesMin;
+    return acc + (proteinOk ? 1 : 0) + (caloriesOk ? 1 : 0) + (walkingOk ? 1 : 0);
+  }, 0);
+
+  return Math.round((points / maxPoints) * 100);
 };
 
 export const getProteinColor = (protein) => {
