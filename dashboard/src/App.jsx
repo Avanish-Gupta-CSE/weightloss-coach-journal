@@ -7,6 +7,7 @@ import WorkoutsPage from './components/pages/WorkoutsPage';
 import NutritionPage from './components/pages/NutritionPage';
 import BrainStatePage from './components/pages/BrainStatePage';
 import ProtocolPage from './components/pages/ProtocolPage';
+import ScoreboardPage from './components/pages/ScoreboardPage';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/daily" element={<DailyLogPage />} />
           <Route path="/workouts" element={<WorkoutsPage />} />
           <Route path="/nutrition" element={<NutritionPage />} />
+          <Route path="/scoreboard" element={<ScoreboardPage />} />
           <Route path="/brain" element={<BrainStatePage />} />
           <Route path="/protocol" element={<ProtocolPage />} />
         </Routes>

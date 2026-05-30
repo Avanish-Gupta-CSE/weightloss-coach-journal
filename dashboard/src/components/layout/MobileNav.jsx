@@ -1,11 +1,12 @@
 import { Link, useLocation } from 'react-router-dom';
-import { Activity, CalendarDays, Dumbbell, Beef, Brain, FileText } from 'lucide-react';
+import { Activity, CalendarDays, Dumbbell, Beef, Brain, FileText, ListChecks } from 'lucide-react';
 
 const navItems = [
   { path: '/', label: 'Dash', icon: Activity },
   { path: '/daily', label: 'Daily', icon: CalendarDays },
   { path: '/workouts', label: 'Gym', icon: Dumbbell },
   { path: '/nutrition', label: 'Nutri', icon: Beef },
+  { path: '/scoreboard', label: 'Score', icon: ListChecks },
   { path: '/brain', label: 'Brain', icon: Brain },
   { path: '/protocol', label: 'Proto', icon: FileText },
 ];

@@ -7,12 +7,15 @@
   },
   "targets": {
     "Daily calories": "1,900 kcal",
+    "Scoreboard calories band": "1,800–1,900 kcal",
     "Protein": "180g (2.0 g/kg)",
+    "Protein floor (scoreboard)": "150g/day",
     "Carbs": "170g",
     "Fat": "56g",
     "Water": "3.0 L/day minimum",
     "Sleep": "7–7.5 hours (bed by 11:00–11:30 PM)",
-    "Weekly weight loss rate": "0.5–0.65 kg/week (hypothyroid-adjusted)"
+    "Weekly weight loss rate": "0.5–0.65 kg/week (hypothyroid-adjusted)",
+    "Walking daily (scoreboard)": "30 min at 4–5 kmph OR 45 min at 3–4 kmph"
   },
   "phases": [
     {
@@ -67,7 +70,7 @@
     },
     {
       "title": "Walking pad = study time.",
-      "description": "Minimum 30 min/day at 4–5 kmph while reviewing notes or listening to exam audio."
+      "description": "Minimum **30 min/day at 4–5 kmph** (or **45 min at 3–4 kmph**) while reviewing notes or listening to exam audio."
     },
     {
       "title": "Sleep by 11:30 PM, wake by 6:00 AM.",
