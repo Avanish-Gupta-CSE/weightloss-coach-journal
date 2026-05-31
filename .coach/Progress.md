@@ -4323,13 +4323,151 @@ Pick **ONE** option:
 | Bhindi sabzi | 50–60g | 30 | 1g | 230 | 7g | 1,670 kcal, 173g protein |
 | Coconut water | 1 | 45 | 0g | 275 | 7g | 1,625 kcal, 173g protein |
 | Cashews | 10 kernels | 90 | 3g | **365** | **10g** | **1,535 kcal, 170g protein** |
+| Lunch: cooked rice | 110g | 143 | 3.3g | 508 | 13.3g | 1,392 kcal, 166.7g protein |
+| Lunch: cooked moong dal | 300g | 252 | 17g | 760 | 30.3g | 1,140 kcal, 149.7g protein |
+| Lunch: roasted brinjal slices (oil-min) | 150g | 80 (est) | 1g | **840** | **31.3g** | **1,060 kcal, 148.7g protein** |
 
-**Lunch (quantity decision):**
-- **Cooked rice:** **80g**
+**Lunch (actual):**
+- **Cooked rice:** **110g**
 - **Cooked moong dal:** **300g**
-- **Tawa brinjal slices:** **150g** (keep oil minimal)
+- **Roasted brinjal slices:** **150g** (oil minimal)
 
-**Gym plan (4:00 PM):** Lower Body + Core (moderate; no HIIT) + post-gym whey.
+**Post-lunch:** did some work + slept. Woke ~**5:30 PM**. Heavy rain started.
 
-**Evening snack plan:** egg salad + coconut water (quantities issued in chat).  
-**Dinner plan:** chicken-focused (quantities issued in chat) + optional pre-sleep whey if protein is still below 150g.
+**Update:** Rain thinned later → went to Cult.fit and completed **Session 41 (Lower + Core)**.
+
+**Post-gym intake (actual):**
+- **OWN whey:** **1 scoop** (lukewarm water)
+- **Sattu water:** **2 spoons sattu** + lemon + salt (no sugar)
+
+#### Session 41 — Lower + Core (Actuals)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Leg Press | 100 kg × 3 × 10–12 | 100 kg × 2 × 12; 110 kg × 1 × 12 | ✅ Progressed | **110 kg × 3 × 10–12** (only if full ROM + no knee cave) |
+| Goblet Squat | 10–12.5 kg × 3 × 10–12 | 17.5 kg × 3 × 12 | ✅ Big jump (good) | **17.5 kg × 3 × 12** (then 20 kg when all sets feel RIR2) |
+| Leg Curl | 29 kg × 3 × 10–12 | 29 kg × 2 × 12; 36 kg × 1 × 12 | ✅ Progressed | **36 kg × 2 × 10–12** + 29 kg × 1 × 12 (strict, no jerks) |
+| Leg Extension | 29 kg × 3 × 10–12 | 29 kg × 3 × 12 (36 kg failed) | ✅ Correct lane | **29 kg × 3 × 15** → then try 36 kg for 1 set |
+| Hip Abductor | 23 kg × 3 × 12–15 | 23 kg × 2 sets; 29 kg × 1 set | ✅ Progressed | **29 kg × 3 × 10–12** (controlled tempo) |
+| Hip Adductor | 23 kg × 3 × 12–15 | 23 kg × 1 set; 29 kg × 2 sets | ✅ Progressed | **29 kg × 3 × 10–12** (controlled tempo) |
+| Cable Crunch | 20 lbs × 3 × 12–15 | 20 lbs × 2 × 12; 25 lbs × 1 × 12 | ✅ Progressed | **25 lbs × 3 × 12** |
+| Treadmill incline walk | Optional 5–10 min | 5 min @ 3 kmph; incline 8 → 12 | ✅ Done | Keep as 5–8 min cooldown (no need to push) |
+
+**Leg press “initial resistance” note:** some machines show an **empty-sled starting resistance**; it does **not** change how we progress. Log and compare using the **same machine’s displayed kg setting** each time. (Also: **110 lb ≈ 50 kg**, so if the label showed “110 lb”, the kg conversion written nearby may be a different value or a different starting spec.)
+
+#### Day 77 running total (post-gym, pre-dinner) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-gym) | — | 840 | 31.3g | 840 | 31.3g | 1,060 kcal, 148.7g protein |
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 960 | 56.3g | 940 kcal, 123.7g protein |
+| Sattu water | 2 spoons (est ~20g) | 80 | 5g | **1,040** | **61.3g** | **860 kcal, 118.7g protein** |
+
+#### Dinner quantities (eat this)
+
+- **Chicken curry (bone-in, cooked):** **350g**
+- **Roti:** **1**
+- **Cooked rice:** **100g** *(or 50g if you also add roasted chana with whey)*
+
+#### Pre-sleep whey (drink or not?)
+
+✅ **YES — 1 scoop OWN whey**, **30–45 min before sleep**, **lukewarm water**, sip slowly.  
+Take it **with 30g roasted chana** (best) or **5 almonds** (minimum) so it’s not “empty stomach”.
+
+#### Day 77 — Dinner Actuals + Closeout (Confirmed Items)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 1,040 | 61.3g | 1,040 | 61.3g | 860 kcal, 118.7g protein |
+| Dinner: chicken curry (bone-in gravy) | 312g | 343 (est) | 54g (est) | 1,383 | 115.3g | 517 kcal, 64.7g protein |
+| Dinner: cooked rice | 100g | 130 | 3g | 1,513 | 118.3g | 387 kcal, 61.7g protein |
+| Dinner: roti | 1 | 100 | 3g | **1,613** | **121.3g** | **287 kcal, 58.7g protein** |
+
+- **Pre-sleep whey:** not reported
+- **Walking pad:** not reported
+
+**Confirmed Day 77 closeout (est, confirmed items only):** **~1,613 kcal / ~121g protein**
+
+---
+### 2026-05-31 (Day 78) — Breakfast + Exam Snack (Running Total) + Lunch/Workout Plan
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: Protein Chef high-protein bread | 2 slices | 160 | 10g | 160 | 10g | 1,740 kcal, 170g protein |
+| Peanuts | 20g | 115 | 5g | 275 | 15g | 1,625 kcal, 165g protein |
+| Banana | 1/2 | 60 | 0.7g | 335 | 15.7g | 1,565 kcal, 164.3g protein |
+| Pineapple | 192g | 96 | 1g | 431 | 16.7g | 1,469 kcal, 163.3g protein |
+| Coconut water | 1 | 45 | 0g | 476 | 16.7g | 1,424 kcal, 163.3g protein |
+| Coconut malai | from 1 coconut | 60 (est) | 1g | **536** | **17.7g** | **1,364 kcal, 162.3g protein** |
+
+**Lunch (quantity decision — rice + chicken):**
+- **Chicken curry (bone-in cooked):** **300g**
+- **Cooked rice:** **80g**
+
+**Lunch (actual):**
+- **Chicken (bone-in curry):** **170g**
+- **Eggs:** **2 whole eggs**
+- **Rice:** **75–100g uncooked (dry weight)** *(≈225–300g cooked; plateau-break rice guardrail is based on **cooked** weight)* ⚠️
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-lunch) | — | 536 | 17.7g | 536 | 17.7g | 1,364 kcal, 162.3g protein |
+| Lunch: chicken curry (bone-in gravy) | 170g | 187 (est) | 29g (est) | 723 | 46.7g | 1,177 kcal, 133.3g protein |
+| Lunch: eggs | 2 whole eggs | 140 | 12g | 863 | 58.7g | 1,037 kcal, 121.3g protein |
+| Lunch: rice (dry weight) | 85g (midpoint of 75–100g) | 306 (est) | 6g | **1,169** | **64.7g** | **731 kcal, 115.3g protein** |
+
+**Rice range note:** if it was **75g dry** → subtract ~**36 kcal** and ~**1g protein**. If it was **100g dry** → add ~**54 kcal** and ~**1g protein**.
+
+**Workout split (today):** Upper Body (moderate) — keep it energizing, not exhausting.  
+If fatigue is high: do only the first 4 exercises + leave.
+
+**Afternoon:** slept **4:00 → 5:30 PM**.
+
+**Snack:** pineapple **190g**
+
+#### Session 42 — Upper (Actuals)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Chest Press (machine) | 65 lbs × 3 × 10–12 | **65 lbs × 3 × 12** | ✅ Hit top of range | **70 lbs × 3 × 10–12** |
+| Lat Pulldown | 65 lbs × 3 × 10–12 | **65 lbs × 3 × 12** | ✅ Hit top of range | **70 lbs × 3 × 10–12** (only if form stays strict) |
+| Seated Row | 34 kg × 3 × 10–12 | **34.3 kg × 3 × 12** | ✅ Hit top of range | **36 kg × 3 × 10–12** |
+| DB Shoulder Press | 10 kg/arm × 3 × 10–12 | **10 kg × 3 × 12** | ✅ Stable | **12.5 kg × 3 × 6–8** (or keep 10 for clean tempo if form breaks) |
+| Tricep Pushdown (rope) | 20–25 lbs × 3 × 10–12 | **40 lbs × 1 × 12; 50 lbs × 2 × 12** | ✅ Big jump | **55 lbs × 3 × 10–12** (only if elbows stay pinned) |
+| DB Hammer Curl | 5 kg/arm × 3 × 12 | **7.5 kg × 3 × 12 /arm** | ✅ Strong (wrist-safe) | **7.5 kg × 3 × 12** (then 10 kg when last set still RIR2) |
+| Cable Crunch | 25 lbs × 3 × 12–15 | **20 lbs × 1 × 15; 25 lbs × 1 × 15; 25 lbs × 1 × 12** | ✅ Done | **25 lbs × 3 × 15** |
+
+**Walking pad / incline walk:** **5 min** *(not yet enough for scoreboard)*
+
+**Post-gym intake (actual):**
+- **OWN whey:** **1 scoop**
+- **Sattu water:** **2 spoons sattu** + lemon + salt (no sugar)
+
+**Dinner (actual):**
+- **Eggs:** **4 whole eggs**
+- **Tomato:** **2**
+- **Onion:** **1**
+- **Dahi:** **50g**
+- **Besan bhujia:** **10g**
+- **Roasted chana:** **30g**
+- Dhaniya (negligible)
+
+#### Day 78 running total (post-dinner) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total post-lunch) | — | 1,169 | 64.7g | 1,169 | 64.7g | 731 kcal, 115.3g protein |
+| Snack: pineapple | 190g | 95 | 1g | 1,264 | 65.7g | 636 kcal, 114.3g protein |
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 1,384 | 90.7g | 516 kcal, 89.3g protein |
+| Sattu water | 2 spoons (est ~20g) | 80 | 5g | 1,464 | 95.7g | 436 kcal, 84.3g protein |
+| Dinner: eggs | 4 whole eggs | 280 | 24g | 1,744 | 119.7g | 156 kcal, 60.3g protein |
+| Dinner: tomato + onion | 2 tomato + 1 onion | 60 (est) | 2g | 1,804 | 121.7g | 96 kcal, 58.3g protein |
+| Dinner: dahi | 50g | 30 | 2g | 1,834 | 123.7g | 66 kcal, 56.3g protein |
+| Dinner: besan bhujia | 10g | 55 (est) | 1g | 1,889 | 124.7g | 11 kcal, 55.3g protein |
+| Dinner: roasted chana | 30g | 111 | 7g | **2,000** | **131.7g** | **-100 kcal, 48.3g protein** |
+
+**Confirmed Day 78 closeout (est, with rice midpoint):** **~2,000 kcal / ~132g protein**
+
+**Damage-control for scoreboard (optional, only if you choose):**
+- To hit **protein ≥150g**: add **0.75 scoop OWN whey** pre-sleep (+~90 kcal, +~19g protein) → ~**2,090 kcal / ~151g protein**
+- To hit **walk ≥30 min**: add **25 more minutes** walking pad at 4–5 kmph tonight.

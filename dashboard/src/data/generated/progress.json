@@ -3382,7 +3382,7 @@
     "dayType": "STPI Exam Day (Morning Intake Actuals + Lunch/Gym Plan)",
     "weight": null,
     "meals": {},
-    "workout": false,
+    "workout": true,
     "workoutType": "",
     "workoutDetails": "",
     "walkingPad": false,
@@ -3392,9 +3392,32 @@
     "cravings": false,
     "cravingsDetails": "",
     "mood": null,
-    "protein": null,
-    "calories": null,
+    "protein": 121,
+    "calories": 1613,
     "notes": "",
     "raw": "### 2026-05-30 (Day 77) — STPI Exam Day (Morning Intake Actuals + Lunch/Gym Plan)\n\n**Exam:** STPI MTS E-I (Scientist B) ✅ completed (morning).\n\n| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |\n|---|---|---:|---:|---:|---:|---:|\n| Breakfast: roti | 2 | 200 | 6g | 200 | 6g | 1,700 kcal, 174g protein |\n| Bhindi sabzi | 5"
+  },
+  {
+    "date": "2026-05-31",
+    "day": 78,
+    "dayType": "Breakfast + Exam Snack (Running Total) + Lunch/Workout Plan",
+    "weight": null,
+    "meals": {
+      "snack:": "pineapple **190g**"
+    },
+    "workout": true,
+    "workoutType": "",
+    "workoutDetails": "",
+    "walkingPad": false,
+    "walkingPadMinutes": 0,
+    "water": null,
+    "sleep": null,
+    "cravings": false,
+    "cravingsDetails": "",
+    "mood": null,
+    "protein": 132,
+    "calories": 2000,
+    "notes": "",
+    "raw": "### 2026-05-31 (Day 78) — Breakfast + Exam Snack (Running Total) + Lunch/Workout Plan\n\n| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |\n|---|---|---:|---:|---:|---:|---:|\n| Breakfast: Protein Chef high-protein bread | 2 slices | 160 | 10g | 160 | 10g | 1,740 kcal, 170g protein |\n| Peanuts | 20g | 115 | 5g | 275 | 15g "
   }
 ]
