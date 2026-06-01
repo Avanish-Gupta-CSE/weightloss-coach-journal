@@ -1222,13 +1222,30 @@
   {
     "date": "2026-05-31",
     "day": 78,
-    "dayType": "Breakfast + Exam Snack (Running Total) + Lunch/Workout Plan",
+    "dayType": "Session Update",
     "meals": {
       "snack:": "pineapple **190g**"
     },
-    "protein": 132,
-    "calories": 2000,
+    "protein": 136,
+    "calories": 2090,
     "workout": true,
+    "workoutType": "",
+    "walkingPad": false,
+    "walkingPadMinutes": 0,
+    "water": null,
+    "sleep": null,
+    "cravings": false,
+    "mood": null,
+    "notes": ""
+  },
+  {
+    "date": "2026-06-01",
+    "day": 79,
+    "dayType": "UCO Bank GD Day (Intake So Far + Gym Decision)",
+    "meals": {},
+    "protein": 4,
+    "calories": 90,
+    "workout": false,
     "workoutType": "",
     "walkingPad": false,
     "walkingPadMinutes": 0,
