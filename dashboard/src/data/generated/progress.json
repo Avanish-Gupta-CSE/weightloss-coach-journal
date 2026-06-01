@@ -3447,7 +3447,7 @@
     "dayType": "UCO Bank GD Day (Intake So Far + Gym Decision)",
     "weight": null,
     "meals": {},
-    "workout": false,
+    "workout": true,
     "workoutType": "",
     "workoutDetails": "",
     "walkingPad": false,
@@ -3457,8 +3457,8 @@
     "cravings": false,
     "cravingsDetails": "",
     "mood": null,
-    "protein": 4,
-    "calories": 90,
+    "protein": 138,
+    "calories": 2058,
     "notes": "",
     "raw": "### 2026-06-01 (Day 79) — UCO Bank GD Day (Intake So Far + Gym Decision)\n\n- **Exam context:** UCO Bank GD done today (reporting time was 2:30 PM). Treat today as a **high-mental-fatigue** day.\n- **Weigh-in (W11 official):** **86.05 kg** (fasted, naked, post-BM) — same as W10 (May 28).\n\n| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g |"
   }
