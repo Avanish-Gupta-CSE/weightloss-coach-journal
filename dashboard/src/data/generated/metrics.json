@@ -237,11 +237,11 @@
     {
       "week": 11,
       "date": "Jun 01, 2026",
-      "weight": null,
+      "weight": 86.05,
       "type": "official",
-      "change": "",
-      "cumulative": "",
-      "notes": ""
+      "change": "0.00 from W10",
+      "cumulative": "-5.40",
+      "notes": "W11 official: fasted, naked, post-BM. Same as W10 (May 28). Treat as water plateau signal (only 4 days gap), not a failure."
     },
     {
       "week": 12,

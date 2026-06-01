@@ -4483,6 +4483,7 @@ If fatigue is high: do only the first 4 exercises + leave.
 ### 2026-06-01 (Day 79) — UCO Bank GD Day (Intake So Far + Gym Decision)
 
 - **Exam context:** UCO Bank GD done today (reporting time was 2:30 PM). Treat today as a **high-mental-fatigue** day.
+- **Weigh-in (W11 official):** **86.05 kg** (fasted, naked, post-BM) — same as W10 (May 28).
 
 | Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
 |---|---|---:|---:|---:|---:|---:|
