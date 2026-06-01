@@ -4465,9 +4465,38 @@ If fatigue is high: do only the first 4 exercises + leave.
 | Dinner: dahi | 50g | 30 | 2g | 1,834 | 123.7g | 66 kcal, 56.3g protein |
 | Dinner: besan bhujia | 10g | 55 (est) | 1g | 1,889 | 124.7g | 11 kcal, 55.3g protein |
 | Dinner: roasted chana | 30g | 111 | 7g | **2,000** | **131.7g** | **-100 kcal, 48.3g protein** |
+| Late snack: SUPERYOU wafer | 1 (label: ~90 kcal / ~4g protein) | 90 (est) | 4g (est) | **2,090** | **135.7g** | **-190 kcal, 44.3g protein** |
 
-**Confirmed Day 78 closeout (est, with rice midpoint):** **~2,000 kcal / ~132g protein**
+**Revised Day 78 closeout (est, with rice midpoint + wafer):** **~2,090 kcal / ~136g protein**
 
-**Damage-control for scoreboard (optional, only if you choose):**
-- To hit **protein ≥150g**: add **0.75 scoop OWN whey** pre-sleep (+~90 kcal, +~19g protein) → ~**2,090 kcal / ~151g protein**
-- To hit **walk ≥30 min**: add **25 more minutes** walking pad at 4–5 kmph tonight.
+- **Pre-sleep whey (planned 0.75 scoop):** missed ❌
+
+---
+### 2026-05-31 (Day 78) — Session Update
+- **Topics discussed:** Comprehensive progress and identity review, strength progression audit, protein-gap analysis, and Week 11 weigh-in prep.
+- **Decisions made:** Confirmed the Monday Jun 01 (W11) weigh-in protocol; reinforced the 150g protein scoreboard floor with a pre-sleep whey scoop tonight; committed to resuming the 30-min walking pad study protocol starting tomorrow to break the plateau.
+- **Compliance notes:** Upper body gym session completed with progressive overload (Chest Press **65 lbs × 12**, Lat Pulldown **65 lbs × 12**, Seated Row **34.3 kg × 12**, DB Shoulder Press **10 kg × 12**, Rope Pushdown **50 lbs × 12**, DB Hammer Curl **7.5 kg × 12**). Revised closeout (est) **~2,090 kcal / ~136g protein** after adding **1 SUPERYOU wafer**; planned **0.75 scoop** pre-sleep whey was **missed**.
+- **Next actions:** Fasted, naked, post-BM official weigh-in tomorrow morning (W11). Log result in `.coach/Metrics.md`. Wake up early for Thyroxine at 6:00 AM.
+- **Cursor context:** Next session needs to review the W11 official weigh-in and check if protein recovery is achieved.
+
+---
+### 2026-06-01 (Day 79) — UCO Bank GD Day (Intake So Far + Gym Decision)
+
+- **Exam context:** UCO Bank GD done today (reporting time was 2:30 PM). Treat today as a **high-mental-fatigue** day.
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: roti | 1 | 100 | 3g | 100 | 3g | 1,800 kcal, 177g protein |
+| Breakfast: paneer bhurji | 100g | 267 (est) | 18g (est) | 367 | 21g | 1,533 kcal, 159g protein |
+| Meal: cooked rice | 110g | 143 | 3.3g | 510 | 24.3g | 1,390 kcal, 155.7g protein |
+| Meal: cooked moong dal | 250g | 210 | 14g | 720 | 38.3g | 1,180 kcal, 141.7g protein |
+| Snack: aloo bhujia | 50g | 275 (est) | 3.5g (est) | 995 | 41.8g | 905 kcal, 138.2g protein |
+| SUPERYOU wafer | 2 (label: ~90 kcal / ~4g protein each) | 180 (est) | 8g (est) | 1,175 | 49.8g | 725 kcal, 130.2g protein |
+| Mixed dry fruits | 1 palm | 150 (est) | 4g (est) | **1,325** | **53.8g** | **575 kcal, 126.2g protein** |
+
+**Coach call (today):** default = **REST day** (because Day 77 lower + Day 78 upper + GD fatigue).  
+If you still go: keep it **45–55 min**, start **by 7:15–7:30 PM**, finish **by 8:30 PM**.
+
+**Protein patch (today):** **1 scoop OWN whey** now/after gym + **1 scoop pre-sleep** if still below **150g**.
+
+**Dinner direction:** protein-first (chicken/eggs) + **no rice** tonight.
