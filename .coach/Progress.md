@@ -4501,3 +4501,55 @@ If you still go: keep it **45–55 min**, start **by 7:15–7:30 PM**, finish **
 **Protein patch (today):** **1 scoop OWN whey** now/after gym + **1 scoop pre-sleep** if still below **150g**.
 
 **Dinner direction:** protein-first (chicken/eggs) + **no rice** tonight.
+
+#### Session 43 — Lower + Core (Actuals) — Crowded Gym Protocol Tested
+
+- **Gym condition:** “fish market” crowded + machine hogging/flirting. You handled it correctly: **moved on**, got the work done, didn’t waste the session.
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Leg Curl | 36 kg × 2 × 10–12 | **36 kg × 3 × 12** | ✅ Solid | **40 kg × 3 × 10–12** (or next pin) |
+| Leg Press | 110 kg × 2 × 10–12 | **120 kg × 3 × 12** | ✅ Big progression | **120 kg × 3 × 10–12** (then 130 when last set still RIR2) |
+| Hip Abductor | 29 kg × 2 × 10–12 | **29 kg × 3 × 15** | ✅ Volume win | **34 kg × 3 × 10–12** (or 29 × 3 × 15 if no 34) |
+| Hip Adductor | 29 kg × 2 × 10–12 | **29 kg × 3 × 15** | ✅ Volume win | **34 kg × 3 × 10–12** (or 29 × 3 × 15 if no 34) |
+| Leg Extension | 29 kg × 2 × 12–15 | **29 kg × 2 × 12; 36 kg × 1 × 12** | ✅ First clean 36-set | **36 kg × 2 × 8–12** + 29 kg × 1 × 12 (strict) |
+| Cable Crunch | 25 lbs × 2 × 12–15 | **20 lbs × 1 × 15; 25 lbs × 2 × 15** | ✅ Done | **25 lbs × 3 × 15** |
+| Treadmill incline walk | Optional 5–8 min | 5 min @ 3 kmph; incline 8→12 | ✅ Done | Keep 5 min cooldown |
+
+**Post-gym intake (actual):**
+- **OWN whey:** **1 scoop**
+- **Sattu water:** **1 spoon sattu** + lemon + salt (no sugar)
+
+#### Day 79 running total (post-gym, pre-dinner) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total earlier in the day) | — | 1,325 | 53.8g | 1,325 | 53.8g | 575 kcal, 126.2g protein |
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 1,445 | 78.8g | 455 kcal, 101.2g protein |
+| Sattu water | 1 spoon (est ~10g) | 40 | 2.5g | **1,485** | **81.3g** | **415 kcal, 98.7g protein** |
+
+#### Dinner (do this)
+
+**Scoreboard-first option (best):**
+- **Chicken curry (bone-in cooked): 300g**
+- **Roti: 0**
+- **Pre-sleep whey:** **0.75 scoop OWN** (lukewarm) **30–45 min before sleep**  
+
+**Comfort option (acceptable, but calories likely exceed band):**
+- **Chicken curry (bone-in cooked): 350g**
+- **Roti: 1**
+- **Pre-sleep whey:** skip unless you’re still <150g protein
+
+**Walking (scoreboard):** treadmill 5 min ≠ target. Do **25–30 min walking pad** at home tonight (easy).
+
+#### Day 79 — Dinner Actuals + Full Day Table (Estimated)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total post-gym, pre-dinner) | — | 1,485 | 81.3g | 1,485 | 81.3g | 415 kcal, 98.7g protein |
+| Dinner: chicken curry (bone-in gravy) | 280g | 308 (est) | 48g (est) | 1,793 | 129.3g | 107 kcal, 50.7g protein |
+| Dinner: egg | 1/2 egg | 35 | 3g | 1,828 | 132.3g | 72 kcal, 47.7g protein |
+| Dinner: cooked rice | 100g | 130 | 3g | 1,958 | 135.3g | -58 kcal, 44.7g protein |
+| Dinner: roti | 1 | 100 | 3g | **2,058** | **138.3g** | **-158 kcal, 41.7g protein** |
+
+**Confirmed Day 79 closeout (estimated):** **~2,058 kcal / ~138g protein**
