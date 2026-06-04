@@ -1,207 +1,21 @@
 {
   "snapshot": {
-    "Current day": "Day 79 — Jun 1, 2026 (Monday). W11 weigh-in (official): 86.05 kg ✅ (fasted, naked, post-BM). Same as W10 (May 28) → scale is flat short-term. Today context: returned from UCO Bank GD (reporting 2:30 PM). Completed Session 43 (Lower + Core) in a very crowded gym. Post-gym: 1 scoop OWN whey + 1 spoon sattu. Dinner actual: 280g chicken bone-in curry + 1/2 egg + 100g cooked rice + 1 roti. Day 79 closeout (est): ~2,058 kcal / ~138g protein (protein floor missed; calories above band). May 19 dinner + May 20 full-day actuals still pending.",
+    "Current day": "Day 82 — Jun 4, 2026 (Thursday). Yesterday Day 81 dinner actual: 330g chicken bone-in + 100g cooked rice + 1 SUPERYOU wafer → estimated closeout ~1,593 kcal / ~139g protein (1500 cap slightly exceeded; protein floor still missed). Hydration issue: bloating + burps after drinking less water. Today actuals: suji upma 230g cooked; lunch: cooked rice 80g + paneer bhurji 150g + moong dal (watery) 250g; snacks: 4 golgappe (2 masala + 2 meetha) + aloo tikki chaat (~3/4 tikki; dahi + meetha chutney; fried) + SUPERYOU wafer ~0.5; Session 45 Lower completed; OWN whey 1.5 scoop post-gym; dinner pending (aloo gobi + roti available).",
     "Phase": "PHASE 2 ACTIVE. 3 sets × 10–12 reps. Latest logged sessions: Session 36 (Upper), Session 37 (Home Gym Lower), Session 38 (Upper accessories + bench), Session 39 (Home-town gym mixed). W6–W8 focus remains consolidation and clean repeatability, not reckless jumps.",
     "Last weight": "W11 official: 86.05 kg (Jun 01) — fasted, naked, post-BM. W10 delayed checkpoint: 86.05 kg (May 28). Unofficial low spot check: 85.75 kg (May 27 pre-dinner).",
     "Starting weight": "91.45 kg (March 14, Day 0)",
     "Next weigh-in": "Monday Jun 08, 2026 (W12) — fasted, naked, post-BM, before food/water. May 18 weigh-in not logged.",
     "Diet mode": "14-day plateau-break guardrails (May 24 → Jun 6): dry fruits ≤1 palm/day (before 4 PM), no liquid calories (coke/juice/milk), rice ≤100g cooked per meal, fruit 1 serving/day, whey allowed.",
-    "Protein status": "Protein has been low for 8 consecutive days (est/confirmed mix): Day 72 ~73g, Day 73 ~71g, Day 74 confirmed items ~96g, Day 75 ~125g, Day 76 ~118g, Day 77 confirmed closeout ~121g, Day 78 revised closeout ~136g, Day 79 est closeout ~138g (still below scoreboard floor). Today goal remains: ≥150g (scoreboard floor) / 180g (protocol target).",
-    "Gym sessions completed": "43 complete. Latest: Session 43 = Lower (Cult.fit) completed (Day 79). Latest bests: Leg Press 120 kg × 12, Leg Curl 36 kg × 12, Leg Extension 36 kg × 12. Next Bangalore baseline remains: Leg Press 100 kg, Leg Curl 29 kg, Leg Extension 29 kg unless proven otherwise on that equipment.",
+    "Protein status": "Protein has been low for 10 consecutive days (est/confirmed mix): Day 72 ~73g, Day 73 ~71g, Day 74 confirmed items ~96g, Day 75 ~125g, Day 76 ~118g, Day 77 confirmed closeout ~121g, Day 78 revised closeout ~136g, Day 79 est closeout ~138g, Day 80 est closeout ~83–89g, Day 81 est closeout ~139g. Goal: ≥150g (floor) / 180g (target).",
+    "Gym sessions completed": "45 complete. Latest: Session 45 = Lower (Cult.fit) completed (Day 82): Leg Press 130 kg × 12, Leg Curl 43 kg × 12, Hip Abductor 36 kg × 12, Hip Adductor 36 kg × 12, Leg Extension 36 kg × 12. Next planned: Session 46 = Upper.",
     "Medications active": "Thyroxine 50mcg at 6 AM daily (permanent)."
   },
   "kitchenStock": [
     {
-      "item": "OWN Whey Protein Isolate (Cocoa) — PREVIOUS PACK",
-      "status": "❌ Depleted",
-      "quantity": "0",
-      "notes": "0.75 scoop taken post-gym Day 40. Pack ended immediately after that serving."
-    },
-    {
-      "item": "OWN Whey Protein Isolate (Cocoa) — CURRENT PACK",
-      "status": "❌ Depleted",
-      "quantity": "0",
-      "notes": "Arrived Day 42 (Apr 25). Depleted as of Day 55 after the post-gym scoop. ~16.5 scoops total were loaded from this pack, but approximately ~16 scoops were actually consumed (Day 54 lost ~0.5 scoop to a foul-smell dump). Open the sealed 500g restock pack for the next whey serving."
-    },
-    {
-      "item": "OWN Whey Protein Isolate (Cocoa) — RESTOCK PACK",
-      "status": "⚠️ Low (opened)",
-      "quantity": "Few days left (user estimate)",
-      "notes": "Delivered later on Day 50 (May 3) via Swiggy Instamart. Pack is in use (1 scoop taken Day 75 post-gym). Reorder next pack before it runs out."
-    },
-    {
-      "item": "ON Gold Standard Whey",
-      "status": "✅ In stock — BACKUP ONLY",
-      "quantity": "Around ~1/5 tub or slightly less",
-      "notes": "Gap-filler period is over once OWN resumes. 0.5 scoop used in Day 43 night mango-milk shake, 0.75 scoop used in Day 44 breakfast shake, 0.5 scoop actually used in Day 45 lunch drink after correction, 1 scoop used in Day 46 lunch dahi shake, 1 scoop used in the Day 47 evening dahi-mango shake, 1 scoop used in the Day 48 night dahi-mango shake, and 0.75 scoop used in the Day 50 afternoon shake. Keep only as backup with the same R-A protocol: lukewarm, ≥5 almonds, sip slowly."
-    },
-    {
-      "item": "ON Gold Standard Whey",
-      "status": "✅ In stock — BACKUP ONLY",
-      "quantity": "Around ~1/5 tub or slightly less",
-      "notes": "Gap-filler period is over once OWN resumes. 0.5 scoop used in Day 43 night mango-milk shake, 0.75 scoop used in Day 44 breakfast shake, 0.5 scoop actually used in Day 45 lunch drink after correction, 1 scoop used in Day 46 lunch dahi shake, 1 scoop used in the Day 47 evening dahi-mango shake, 1 scoop used in the Day 48 night dahi-mango shake, 0.75 scoop used in the Day 50 afternoon shake, and 1 scoop used late on Day 53 in a 200ml dahi + small Malika mango + 4g jaggery shake. Keep only as backup with the same R-A protocol: lukewarm, ≥5 almonds, sip slowly."
-    },
-    {
-      "item": "ORS sachets",
-      "status": "⚠️ In use",
-      "quantity": "Unknown remaining",
-      "notes": "Used heavily after Apr 23 loose-motion episode (reported ORS x3 night of Apr 23 + 1 ORS morning Apr 24). Keep available through W6 weigh-in."
-    },
-    {
-      "item": "Paneer",
-      "status": "⚠️ Low / reorder likely needed",
-      "quantity": "Unknown",
-      "notes": "Used in 2 paneer sandwiches at Day 45 breakfast, 150g paneer sabzi at Day 45 lunch, and 150g paneer-shimla mirch sabzi at Day 48 dinner. Recheck immediately and reorder if raw stock is below 200g."
-    },
-    {
-      "item": "Soya granules (dry)",
-      "status": "✅ In stock",
-      "quantity": "~300g",
-      "notes": "50g dry → soak 15 min → squeeze hard → sauté 1 tsp oil"
-    },
-    {
-      "item": "Besan",
-      "status": "✅ In stock",
-      "quantity": "~400g",
-      "notes": "Chilla, kadhi, pakodi, khandvi"
-    },
-    {
-      "item": "Moong dal (dry)",
-      "status": "✅ In stock",
-      "quantity": "~400g",
-      "notes": "Khichdi, dal, lunch protein base"
-    },
-    {
-      "item": "Chana dal (dry)",
-      "status": "✅ In stock",
-      "quantity": "~300g",
-      "notes": "Dinner protein base"
-    },
-    {
-      "item": "Roasted chana (bhuna chana)",
-      "status": "✅ In stock",
-      "quantity": "~450g",
-      "notes": "Ordered Zepto Day 10. 30g = 7g protein. Pack in office bag daily."
-    },
-    {
-      "item": "Sattu powder",
-      "status": "✅ In stock",
-      "quantity": "~480g",
-      "notes": "Ordered Zepto Day 10. 30g in water = 7g protein. Gut-friendly."
-    },
-    {
-      "item": "Makhana",
-      "status": "✅ In stock",
-      "quantity": "~100g",
-      "notes": "Air-fried night snack. 40g ≈ 150 kcal, 4g protein. Approved."
-    },
-    {
-      "item": "Dosa batter",
-      "status": "✅ In stock",
-      "quantity": "~300g",
-      "notes": "2 uttapam used today (~200g). Fermented = gut-friendly."
-    },
-    {
-      "item": "Curd",
-      "status": "⚠️ Low / recheck",
-      "quantity": "Unknown",
-      "notes": "225ml used on Day 44 evening, 225ml used on Day 48 night, 200ml used on Day 50 afternoon shake, and 200ml used late on Day 53 in the ON shake. Lunch/dinner only. NOT at breakfast (thyroxine 4hr calcium rule)."
-    },
-    {
-      "item": "Dahi pack (office)",
-      "status": "⚠️ Conditional use",
-      "quantity": "200g",
-      "notes": "Bought for office on Day 40. Use ONLY if factory seal/lid is intact after spill. If outer spill only: wipe and keep. If seal compromised: discard."
-    },
-    {
-      "item": "Watermelon (office carry)",
-      "status": "❌ Discard",
-      "quantity": "0",
-      "notes": "Day 40 carry container spilled into an unwashed bag. Cut fruit contaminated by dirty bag = DO NOT wash and eat. Discard."
-    },
-    {
-      "item": "Rice (cooked or raw)",
-      "status": "✅ In stock",
-      "quantity": "—",
-      "notes": "Cook staple"
-    },
-    {
-      "item": "Multigrain atta",
-      "status": "✅ In stock",
-      "quantity": "—",
-      "notes": "Cook uses for rotis and parathas"
-    },
-    {
-      "item": "Hajmola Maha Candy",
-      "status": "✅ In stock",
-      "quantity": "~12 pieces",
-      "notes": "Digestive herb candy (ajwain, jeera, hing, amla, ginger). APPROVED."
-    },
-    {
-      "item": "Basa fish (fresh)",
-      "status": "❌ Depleted",
-      "quantity": "0",
-      "notes": "Used Day 15 breakfast."
-    },
-    {
-      "item": "Protein Chef multigrain high-protein bread",
-      "status": "⚠️ Recheck (new pack likely)",
-      "quantity": "Unknown (≥3 slices used Day 63)",
-      "notes": "~46g protein per pack. Eaten 3 slices on Day 63 breakfast. Recheck remaining and reorder if <2 slices left (use as a thyroxine-safe breakfast carb)."
-    },
-    {
-      "item": "Pintola unsweetened peanut butter",
-      "status": "✅ In stock",
-      "quantity": "Unknown",
-      "notes": "Used at ~20g on Day 50 breakfast. Acceptable as an exam-morning backup spread only. Treat as fat-heavy support food, not a primary protein source. Keep serving to ~20g."
-    },
-    {
-      "item": "Go Zero ice cream",
-      "status": "⚠️ Not approved tonight",
-      "quantity": "0",
-      "notes": "“Guilt-free” marketing does not override the day’s calorie overshoot. Avoid tonight, especially before the HPCL exam morning."
-    },
-    {
-      "item": "Chicken lollipops (chilli garlic, pre-marinated)",
-      "status": "❌ Depleted",
-      "quantity": "0",
-      "notes": "All used Day 14 dinner + Day 15 snack."
-    },
-    {
-      "item": "Amul High Protein Dahi",
-      "status": "❌ Depleted",
-      "quantity": "0",
-      "notes": "Used Day 15 snack."
-    },
-    {
-      "item": "Eggs",
-      "status": "✅ In stock",
-      "quantity": "Confirmed",
-      "notes": "Used 2 Day 15 breakfast. Cook available Mon-Sat."
-    },
-    {
-      "item": "Rolled oats",
-      "status": "✅ CONFIRMED in stock",
-      "quantity": "Some",
-      "notes": "Used 5 AM Day 16 for Calpol buffer."
-    },
-    {
-      "item": "Nutrichoice millet biscuits",
-      "status": "⚠️ Check label",
-      "quantity": "~5 remaining in pack",
-      "notes": "5 eaten Day 15 night. CHECK: if refined wheat flour/maida in top 3 ingredients → borderline Rule 3. Flag for next order."
-    },
-    {
-      "item": "Oats",
-      "status": "⚠️ Unconfirmed",
-      "quantity": "Unknown",
-      "notes": "Was in stock early protocol; not used since veg mode. Verify."
-    },
-    {
-      "item": "Coconut water",
-      "status": "⚠️ Unconfirmed",
-      "quantity": "Unknown",
-      "notes": "Used sporadically. Check stock."
+      "item": "Whey protein (any)",
+      "status": "❌ Out of stock",
+      "quantity": "",
+      "notes": "User reports last OWN Whey Isolate pack is emptied; no whey available. Reorder immediately."
     }
   ],
   "rules": [
@@ -380,7 +194,7 @@
     },
     {
       "item": "OWN isolate reorder (next pack)",
-      "details": "Current OWN stock is estimated to last only a few days. Order the next OWN Whey Isolate 500g before it runs out (exam weekend + GD week).",
+      "details": "OUT OF STOCK as of Day 82. Order OWN Whey Isolate 500g immediately (buy 2 packs if possible to avoid gaps).",
       "priority": "High"
     },
     {
@@ -400,6 +214,11 @@
     }
   ],
   "medicalLog": [
+    {
+      "date": "Jun 4 (Day 82)",
+      "event": "Bloating + burps after drinking less water (dehydration + stress-food stack).",
+      "status": "⚠️ ACTIVE — warm water + 2.5–3.0 L today; avoid garlic/chilli; 10-min walk after meals."
+    },
     {
       "date": "May 28 (Day 75)",
       "event": "Left wrist pain during cable bicep curl attempt at Cult.fit. Stopped the movement and substituted seated DB curls.",

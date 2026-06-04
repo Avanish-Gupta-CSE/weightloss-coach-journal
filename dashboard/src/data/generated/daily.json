@@ -1254,5 +1254,58 @@
     "cravings": false,
     "mood": null,
     "notes": ""
+  },
+  {
+    "date": "2026-06-02",
+    "day": 80,
+    "dayType": "WFH Overwork Day (Intake So Far + Dinner Damage Control)",
+    "meals": {},
+    "protein": null,
+    "calories": null,
+    "workout": false,
+    "workoutType": "",
+    "walkingPad": false,
+    "walkingPadMinutes": 0,
+    "water": null,
+    "sleep": null,
+    "cravings": false,
+    "mood": null,
+    "notes": ""
+  },
+  {
+    "date": "2026-06-03",
+    "day": 81,
+    "dayType": "Upper Workout Actuals + Breakfast (Running Total) + Lunch Quantity Decision",
+    "meals": {},
+    "protein": 139,
+    "calories": 1593,
+    "workout": true,
+    "workoutType": "",
+    "walkingPad": false,
+    "walkingPadMinutes": 0,
+    "water": null,
+    "sleep": null,
+    "cravings": false,
+    "mood": null,
+    "notes": ""
+  },
+  {
+    "date": "2026-06-04",
+    "day": 82,
+    "dayType": "Session Update",
+    "meals": {
+      "breakfast:": "suji upma **230g cooked**"
+    },
+    "protein": null,
+    "calories": null,
+    "workout": true,
+    "workoutType": "",
+    "walkingPad": false,
+    "walkingPadMinutes": 0,
+    "water": null,
+    "sleep": null,
+    "cravings": false,
+    "mood": null,
+    "notes": ""
   }
 ]
