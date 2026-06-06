@@ -4807,3 +4807,17 @@ If you still go: keep it **45–55 min**, start **by 7:15–7:30 PM**, finish **
 - **Raita: 150g**
 
 **If protein still looks short tonight:** add **OWN whey 1 scoop** (lukewarm) pre-sleep with **5 almonds**.
+
+**Dinner (actual):**
+- **Raita:** **200g** (thick dahi + tomato + onion + kheera)
+- **Biryani rice (cooked):** **214g**
+- **Chicken (bone-in):** **200g**
+
+#### Day 84 closeout — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total post-gym, pre-dinner) | — | 1,499 | 79g | 1,499 | 79g | 401 kcal, 101g protein |
+| Dinner: raita | 200g | 120 (est) | 7g (est) | 1,619 | 86g | 281 kcal, 94g protein |
+| Dinner: biryani rice (cooked) | 214g | 400 (est) | 6g (est) | 2,019 | 92g | -119 kcal, 88g protein |
+| Dinner: chicken (bone-in) | 200g | 220 (est) | 34g (est) | **2,239** | **126g** | **-339 kcal, 54g protein** |
