@@ -1296,8 +1296,44 @@
     "meals": {
       "breakfast:": "suji upma **230g cooked**"
     },
-    "protein": null,
-    "calories": null,
+    "protein": 153,
+    "calories": 2259,
+    "workout": true,
+    "workoutType": "",
+    "walkingPad": false,
+    "walkingPadMinutes": 0,
+    "water": null,
+    "sleep": null,
+    "cravings": false,
+    "mood": null,
+    "notes": ""
+  },
+  {
+    "date": "2026-06-05",
+    "day": 83,
+    "dayType": "Session Update",
+    "meals": {
+      "dinner:": "**SUPERYOU wafer ×2** + **chicken bone-in 300g** + **roti 1.5** + **murmura 50g**"
+    },
+    "protein": 127,
+    "calories": 2130,
+    "workout": false,
+    "workoutType": "",
+    "walkingPad": false,
+    "walkingPadMinutes": 0,
+    "water": null,
+    "sleep": null,
+    "cravings": false,
+    "mood": null,
+    "notes": ""
+  },
+  {
+    "date": "2026-06-06",
+    "day": 84,
+    "dayType": "Session Update",
+    "meals": {},
+    "protein": 126,
+    "calories": 2239,
     "workout": true,
     "workoutType": "",
     "walkingPad": false,
