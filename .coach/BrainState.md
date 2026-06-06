@@ -10,7 +10,7 @@
 
 | Field | Value |
 |---|---|
-| Current day | **Day 84 — Jun 6, 2026 (Saturday).** **Yesterday Day 83 closeout (est): ~2,130 kcal / ~127g protein** (protein floor missed). **Today actuals so far:** lunch: cooked rice **100g** + kadhi **200g** + pakodi **4 small** + **SUPERYOU wafer ×3** + jamun **200g**; post-gym: **OWN whey 1 scoop** + **sattu 2 spoons**. **Gym:** ✅ **Session 46 Upper** completed late night (Chest Press **80 lbs**, Lat Pulldown up to **80 lbs**, Seated Row **39 kg**). **Dinner pending:** chicken biryani + raita (quantities issued). |
+| Current day | **Day 84 — Jun 6, 2026 (Saturday).** **Yesterday Day 83 closeout (est): ~2,130 kcal / ~127g protein** (protein floor missed). **Today actuals so far:** breakfast: high-protein bread sandwich (**3 slices** + aloo filling) + **1 coconut water**; lunch: cooked rice **100g** + kadhi **200g** + pakodi **4 small** + **SUPERYOU wafer ×3** + jamun **200g**; post-gym: **OWN whey 1 scoop** + **sattu 2 spoons**. **Gym:** ✅ **Session 46 Upper** completed late night (Chest Press **80 lbs**, Lat Pulldown up to **80 lbs**, Seated Row **39 kg**). **Dinner pending:** chicken biryani + raita (quantities issued). |
 | Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. **Latest logged sessions:** Session 36 (Upper), Session 37 (Home Gym Lower), Session 38 (Upper accessories + bench), **Session 39 (Home-town gym mixed)**. W6–W8 focus remains consolidation and clean repeatability, not reckless jumps. |
 | Last weight | **W11 official: 86.05 kg** (Jun 01) — fasted, naked, post-BM. **W10 delayed checkpoint:** 86.05 kg (May 28). Unofficial low spot check: **85.75 kg** (May 27 pre-dinner). |
 | Starting weight | 91.45 kg (March 14, Day 0) |

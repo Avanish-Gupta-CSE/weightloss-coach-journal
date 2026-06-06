@@ -4764,6 +4764,7 @@ If you still go: keep it **45–55 min**, start **by 7:15–7:30 PM**, finish **
 - **Topics discussed:** Dopamine crash day (PS5 3–4h + financial guilt) + 2x PMO relapse + crash sleep (3 PM–7 PM) + resisted Swiggy order; completed late-night upper session to stabilize; lunch actuals and dinner biryani quantity decision.
 - **Decisions made:** Treat today as **recovery + control day**: no outside orders, protein-first dinner, and **avoid long afternoon sleeps** going forward (cap naps ≤45 min).
 - **Compliance notes (actuals so far):**
+  - **Breakfast (actual):** high-protein bread sandwich: **3 slices** + aloo filling (est) + **1 coconut water**
   - **Lunch (actual):** cooked rice **100g** + kadhi **200g** + pakodi **4 small** + **SUPERYOU wafer ×3** + jamun **200g** (with seed)
   - **Gym:** ✅ late-night upper session completed (details below)
   - **Post-gym:** **OWN whey 1 scoop** + **sattu water 2 spoons** (lemon + salt)
@@ -4774,13 +4775,16 @@ If you still go: keep it **45–55 min**, start **by 7:15–7:30 PM**, finish **
 
 | Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
 |---|---|---:|---:|---:|---:|---:|
-| Lunch: cooked rice | 100g | 130 | 3g | 130 | 3g | 1,770 kcal, 177g protein |
-| Lunch: kadhi | 200g | 144 | 7g | 274 | 10g | 1,626 kcal, 170g protein |
-| Lunch: pakodi | 4 small | 220 (est) | 6g (est) | 494 | 16g | 1,406 kcal, 164g protein |
-| SUPERYOU wafer | 3 | 270 (est) | 15g (est) | 764 | 31g | 1,136 kcal, 149g protein |
-| Jamun | 200g | 120 (est) | 1g (est) | 884 | 32g | 1,016 kcal, 148g protein |
-| Post-gym: OWN whey | 1 scoop | 120 | 25g | 1,004 | 57g | 896 kcal, 123g protein |
-| Sattu water | 2 spoons (est ~20g) | 80 (est) | 5g (est) | **1,084** | **62g** | **816 kcal, 118g protein** |
+| Breakfast: high-protein bread | 3 slices | 240 (est) | 15g (est) | 240 | 15g | 1,660 kcal, 165g protein |
+| Breakfast: aloo filling | ~100g (est) | 130 (est) | 2g (est) | 370 | 17g | 1,530 kcal, 163g protein |
+| Coconut water | 1 | 45 | 0g | 415 | 17g | 1,485 kcal, 163g protein |
+| Lunch: cooked rice | 100g | 130 | 3g | 545 | 20g | 1,355 kcal, 160g protein |
+| Lunch: kadhi | 200g | 144 | 7g | 689 | 27g | 1,211 kcal, 153g protein |
+| Lunch: pakodi | 4 small | 220 (est) | 6g (est) | 909 | 33g | 991 kcal, 147g protein |
+| SUPERYOU wafer | 3 | 270 (est) | 15g (est) | 1,179 | 48g | 721 kcal, 132g protein |
+| Jamun | 200g | 120 (est) | 1g (est) | 1,299 | 49g | 601 kcal, 131g protein |
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 1,419 | 74g | 481 kcal, 106g protein |
+| Sattu water | 2 spoons (est ~20g) | 80 (est) | 5g (est) | **1,499** | **79g** | **401 kcal, 101g protein** |
 
 #### Session 46 — Upper (Actuals) — Late Night (8:30 PM+)
 
