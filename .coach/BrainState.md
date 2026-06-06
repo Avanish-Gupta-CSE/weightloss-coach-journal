@@ -10,25 +10,25 @@
 
 | Field | Value |
 |---|---|
-| Current day | **Day 82 — Jun 4, 2026 (Thursday).** **Yesterday Day 81 dinner actual:** **330g chicken bone-in + 100g cooked rice + 1 SUPERYOU wafer** → estimated closeout **~1,593 kcal / ~139g protein** (1500 cap slightly exceeded; protein floor still missed). **Hydration issue:** bloating + burps after drinking less water. **Today actuals:** suji upma **230g cooked**; lunch: cooked rice **80g** + paneer bhurji **150g** + moong dal (watery) **250g**; snacks: **4 golgappe (2 masala + 2 meetha)** + **aloo tikki chaat (~3/4 tikki; dahi + meetha chutney; fried)** + **SUPERYOU wafer ~0.5**; **Session 45 Lower completed**; **OWN whey 1.5 scoop post-gym**; dinner pending (aloo gobi + roti available). |
+| Current day | **Day 84 — Jun 6, 2026 (Saturday).** **Yesterday Day 83 closeout (est): ~2,130 kcal / ~127g protein** (protein floor missed). **Today actuals so far:** lunch: cooked rice **100g** + kadhi **200g** + pakodi **4 small** + **SUPERYOU wafer ×3** + jamun **200g**; post-gym: **OWN whey 1 scoop** + **sattu 2 spoons**. **Gym:** ✅ **Session 46 Upper** completed late night (Chest Press **80 lbs**, Lat Pulldown up to **80 lbs**, Seated Row **39 kg**). **Dinner pending:** chicken biryani + raita (quantities issued). |
 | Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. **Latest logged sessions:** Session 36 (Upper), Session 37 (Home Gym Lower), Session 38 (Upper accessories + bench), **Session 39 (Home-town gym mixed)**. W6–W8 focus remains consolidation and clean repeatability, not reckless jumps. |
 | Last weight | **W11 official: 86.05 kg** (Jun 01) — fasted, naked, post-BM. **W10 delayed checkpoint:** 86.05 kg (May 28). Unofficial low spot check: **85.75 kg** (May 27 pre-dinner). |
 | Starting weight | 91.45 kg (March 14, Day 0) |
 | Next weigh-in | **Monday Jun 08, 2026 (W12)** — fasted, naked, post-BM, before food/water. **May 18 weigh-in not logged.** |
 | Diet mode | **14-day plateau-break guardrails (May 24 → Jun 6):** dry fruits **≤1 palm/day** (before 4 PM), **no liquid calories** (coke/juice/milk), rice **≤100g cooked per meal**, fruit **1 serving/day**, whey allowed. |
-| Protein status | **Protein has been low for 10 consecutive days (est/confirmed mix):** Day 72 ~**73g**, Day 73 ~**71g**, Day 74 confirmed items ~**96g**, Day 75 ~**125g**, Day 76 ~**118g**, Day 77 confirmed closeout **~121g**, Day 78 revised closeout **~136g**, Day 79 est closeout **~138g**, Day 80 est closeout **~83–89g**, **Day 81 est closeout ~139g**. Goal: **≥150g** (floor) / **180g** (target). |
-| Gym sessions completed | **45 complete.** Latest: **Session 45 = Lower (Cult.fit)** completed (Day 82): Leg Press **130 kg × 12**, Leg Curl **43 kg × 12**, Hip Abductor **36 kg × 12**, Hip Adductor **36 kg × 12**, Leg Extension **36 kg × 12**. Next planned: **Session 46 = Upper**. |
+| Protein status | Day 82 hit floor (~153g). **Day 83 missed floor (est ~127g).** Goal remains: **≥150g** (floor) / **180g** (target). |
+| Gym sessions completed | **46 complete.** Latest: **Session 46 = Upper (Cult.fit)** completed (Day 84): Chest Press **80 lbs × 12**, Lat Pulldown **80 lbs × 12**, Seated Row **39 kg × 12**, DB Shoulder Press **12.5 kg** (unstable). Next planned: **Session 47 = Lower**. |
 | Medications active | Thyroxine 50mcg at 6 AM daily (permanent). |
 
 ---
 
 ## Kitchen Stock
 
-_Last updated: Day 82, Jun 4, 2026_
+_Last updated: Day 83, Jun 5, 2026_
 
 | Item | Status | Notes |
 |---|---|---|
-| Whey protein (any) | ❌ Out of stock | User reports last **OWN Whey Isolate** pack is emptied; no whey available. Reorder immediately. |
+| Whey protein (OWN isolate) | ✅ In stock | New OWN packet obtained Day 83. Keep 1 scoop/day baseline; reorder backup when <10 scoops remain. |
 
 ---
 
@@ -76,7 +76,7 @@ _Permanent additions or modifications to Protocol.md base rules. Apply always un
 | Creatine start decision             | Decide whether to start **creatine monohydrate** during interview sprint. Default coach call: **start after May 21** (avoid new GI variables + scale water-noise during interview week). If starting: **3g/day**, no loading, with food + water.                                                                             | Medium                        |
 | May 19–20 missing logs              | User will provide **Day 66 (May 19) dinner** and **Day 67 (May 20) full-day** intake later. Keep dashboard estimates flagged until actuals are logged.                                                                                                                                                                                        | High                          |
 | OWN reorder trigger                 | Current pack is at **11.5 scoops used** with only about **~5 scoops remaining**. **Action completed:** one more **500g OWN Whey Isolate (Cocoa)** was ordered and then **delivered later on Day 50** via **Swiggy Instamart**. Restock is now reflected in Kitchen Stock.                                                                                                                                                                            | ✅ RESOLVED                    |
-| OWN isolate reorder (next pack)     | **OUT OF STOCK as of Day 82.** Order **OWN Whey Isolate 500g** immediately (buy **2 packs** if possible to avoid gaps).                                                                                                                                                                                                                      | High                          |
+| OWN isolate reorder (next pack)     | ✅ Restocked Day 83 (new OWN packet obtained). Order a **backup** pack before this one drops below ~10 scoops to avoid gaps.                                                                                                                                                                                                                 | High                          |
 | OWN concentrate trial               | User considered **OWN Whey Concentrate 500g** at about **₹1,300 on Zepto**. Web check: both OWN isolate and concentrate Amazon listings show **24g protein per scoop**, but the isolate listing copy oddly references **whey protein concentrate**, so label verification is required. **Latest coach call: defer the concentrate experiment for now.** Health-first logic wins during the active cut and exam period; revisit only later if isolate is unavailable or if a deliberate test week is chosen. | Medium                        |
 | Cult.fit renewal decision           | ✅ DONE: ELITE PLUS at 16,940 INR. Start: May 1, 2026. 13 months, 60 pause days. Amazon voucher: spend on OWN Whey 2kg.                                                                                                                                                                                                                       | ✅ RESOLVED                    |
 | All Phase 1 baselines confirmed     | ✅ ALL FOUND (Sessions 9–11). Chest Press **50 lbs**, Seated Row **28 kg**, Shoulder Press **40 lbs** found Sess 11. **Session 12+ baseline targets:** Leg Press 95 kg, Hip Adductor/Abductor 28 kg, consolidate all upper at current weights first. Leg Press: 80 kg → 90 kg (back-to-back days) — let legs recover before pushing to 95 kg. | ✅ RESOLVED                    |

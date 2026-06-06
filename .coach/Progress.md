@@ -4711,3 +4711,95 @@ If you still go: keep it **45–55 min**, start **by 7:15–7:30 PM**, finish **
 - **Apple Watch (Series 9) workout:** **0:52:43** | **Active kcal: 523** | **Total kcal: 617** | **Avg HR: 140 bpm** | **Effort: 6 (Moderate)**  
   Use **Active kcal (523)** as the best available burn estimate (still not exact, but consistent).
 - **Dinner situation (pending):** Cook made **aloo gobi sabzi + roti**. Preferred rescue = **protein-first** dinner, keep aloo/roti minimal.
+
+**Dinner (actual):**
+- **Chicken (bone-in): 300g raw weight** (cooked and eaten)
+- **Puffed rice (murmura): 50g**
+
+#### Day 82 closeout — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 1,739 | 99g | 1,739 | 99g | 161 kcal, 81g protein |
+| Dinner: chicken (bone-in, from 300g raw) | 300g raw | 330 (est) | 50g (est) | 2,069 | 149g | -169 kcal, 31g protein |
+| Dinner: puffed rice (murmura) | 50g | 190 (est) | 4g (est) | **2,259** | **153g** | **-359 kcal, 27g protein** |
+
+**Workout burn anchor (Apple Watch):** Active kcal **523**  
+**Net check (intake - active kcal):** ~**1,736 kcal** (estimate; use as context, not as “free food”)
+
+---
+### 2026-06-05 (Day 83) — Session Update
+- **Topics discussed:** Could not go to gym in the morning; deciding rest day vs after-office session; whey restock; breakfast/lunch quantity plan for office day.
+- **Decisions made:** Took **rest day** (no gym). Completed **30 min walk (~5,000 steps)**. Whey was **not taken** despite restock.
+- **Compliance notes (actuals):**
+  - **Thyroxine:** ✅ taken
+  - **Breakfast (actual):** **4 whole eggs** (2 omelettes of 2 eggs each) + **1 coconut water**
+  - **Lunch (actual):** **egg curry (2 whole eggs)** + **egg fried rice 180g**
+  - **Evening fruit:** **jamun 200g**
+  - **Fruit:** **lichi 250g**
+  - **Dinner:** **SUPERYOU wafer ×2** + **chicken bone-in 300g** + **roti 1.5** + **murmura 50g**
+  - **Whey:** ❌ none
+  - **Walking:** ✅ 30 min (≈5,000 steps)
+
+#### Day 83 closeout — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| SUPERYOU wafer | 1 | 90 (est) | 5g (est) | 90 | 5g | 1,810 kcal, 175g protein |
+| Breakfast: omelettes | 4 whole eggs | 280 | 24g | 370 | 29g | 1,530 kcal, 151g protein |
+| Coconut water | 1 | 45 | 0g | 415 | 29g | 1,485 kcal, 151g protein |
+| Lunch: egg curry | 2 whole eggs | 200 (est) | 12g (est) | 615 | 41g | 1,285 kcal, 139g protein |
+| Lunch: egg fried rice | 180g | 380 (est) | 14g (est) | 995 | 55g | 905 kcal, 125g protein |
+| Jamun | 200g | 120 (est) | 1g (est) | 1,115 | 56g | 785 kcal, 124g protein |
+| Lichi | 250g | 165 (est) | 2g (est) | 1,280 | 58g | 620 kcal, 122g protein |
+| Dinner: SUPERYOU wafer | 2 | 180 (est) | 10g (est) | 1,460 | 68g | 440 kcal, 112g protein |
+| Dinner: chicken bone-in | 300g | 330 (est) | 50g (est) | 1,790 | 118g | 110 kcal, 62g protein |
+| Dinner: roti | 1.5 | 150 (est) | 4.5g (est) | 1,940 | 122.5g | -40 kcal, 57.5g protein |
+| Dinner: murmura | 50g | 190 (est) | 4g (est) | **2,130** | **126.5g** | **-230 kcal, 53.5g protein** |
+
+**Walk (actual):** 30 min / ~5,000 steps (burn estimate ~150–250 kcal; don’t treat as “free food”).
+
+---
+### 2026-06-06 (Day 84) — Session Update
+- **Topics discussed:** Dopamine crash day (PS5 3–4h + financial guilt) + 2x PMO relapse + crash sleep (3 PM–7 PM) + resisted Swiggy order; completed late-night upper session to stabilize; lunch actuals and dinner biryani quantity decision.
+- **Decisions made:** Treat today as **recovery + control day**: no outside orders, protein-first dinner, and **avoid long afternoon sleeps** going forward (cap naps ≤45 min).
+- **Compliance notes (actuals so far):**
+  - **Lunch (actual):** cooked rice **100g** + kadhi **200g** + pakodi **4 small** + **SUPERYOU wafer ×3** + jamun **200g** (with seed)
+  - **Gym:** ✅ late-night upper session completed (details below)
+  - **Post-gym:** **OWN whey 1 scoop** + **sattu water 2 spoons** (lemon + salt)
+  - **Swiggy:** opened cart but **did not order** ✅
+  - **No-fap:** relapse reported (tracked in `no-fap/.coach`)
+
+#### Day 84 running total (post-gym, pre-dinner) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Lunch: cooked rice | 100g | 130 | 3g | 130 | 3g | 1,770 kcal, 177g protein |
+| Lunch: kadhi | 200g | 144 | 7g | 274 | 10g | 1,626 kcal, 170g protein |
+| Lunch: pakodi | 4 small | 220 (est) | 6g (est) | 494 | 16g | 1,406 kcal, 164g protein |
+| SUPERYOU wafer | 3 | 270 (est) | 15g (est) | 764 | 31g | 1,136 kcal, 149g protein |
+| Jamun | 200g | 120 (est) | 1g (est) | 884 | 32g | 1,016 kcal, 148g protein |
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 1,004 | 57g | 896 kcal, 123g protein |
+| Sattu water | 2 spoons (est ~20g) | 80 (est) | 5g (est) | **1,084** | **62g** | **816 kcal, 118g protein** |
+
+#### Session 46 — Upper (Actuals) — Late Night (8:30 PM+)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Warm-up | 5 min incline walk | **5 min stretching** | ✅ Done | 5 min incline walk if possible |
+| Chest Press | 75 lbs × 3 × 8–12 | **80 lbs × 12, 12, 10 (failure)** | ✅ Strong | **80 lbs × 3 × 8–12** (then 85) |
+| Lat Pulldown | 75 lbs × 3 × 8–12 | **70 lbs × 12, 10; 80 lbs × 12, 8 (failure)** | ✅ Progressed | Pick one stack next time: **80 lbs × 3 × 8–10** (or 75 if available) |
+| Seated Row | 38–40 kg × 3 × 8–12 | **39 kg × 3 × 12** | ✅ Hit top of range | Next pin **~41–43 kg × 3 × 8–12** |
+| Tricep Pushdown (rope) | 25 lbs × 3 × 10–12 (heavy station) | **40 lbs × 12; 50 lbs × 12, 12** (easy station) | ✅ Logged station | Same station: **55 lbs × 3 × 8–12** |
+| DB Shoulder Press | 12.5 kg × 3 × 8–12 | **12.5 kg × 12, 8, 10** (unstable) | ⚠️ Control issue | **12.5 kg × 3 × 8–10** (if wobble → **10 kg × 3 × 12**) |
+| Bicep Curl (machine) | 10 kg × 3 × 8–12 | **10 kg × 3 × 12** | ✅ Top of range | Next pin **+1–2 steps × 3 × 8–12** |
+| Cable Crunch | 25 lbs × 3 × 15 | **25 lbs × 12 (sets not logged)** | ⚠️ Incomplete log | **25 lbs × 3 × 12–15** (log sets) |
+
+#### Dinner quantity decision — Chicken Biryani (for tonight + leftovers)
+
+**Tonight plate (protein-first):**
+- **Chicken pieces (cooked, mostly pieces): 250–300g**
+- **Biryani rice (cooked): 100g**
+- **Raita: 150g**
+
+**If protein still looks short tonight:** add **OWN whey 1 scoop** (lukewarm) pre-sleep with **5 almonds**.
