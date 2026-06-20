@@ -148,3 +148,11 @@ You MUST respond with:
 9. Weekly weigh-in every Monday morning (fasted). Log in Metrics.md.
 10. Every meal must have a protein source.
 11. Exam prep is sacred — workouts energize, never exhaust.
+
+---
+
+## Git / Deployment Safety (User-controlled — manual push only)
+
+- **NEVER run `git push` (including `git push origin main`).** The user will push manually.
+- **NEVER sync/deploy `gh-pages`** (these flows require pushing).
+- If the user asks to push/sync/deploy, **do not execute it** — only provide the exact commands for the user to run manually.
