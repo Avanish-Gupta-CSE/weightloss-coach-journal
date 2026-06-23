@@ -4821,3 +4821,543 @@ If you still go: keep it **45–55 min**, start **by 7:15–7:30 PM**, finish **
 | Dinner: raita | 200g | 120 (est) | 7g (est) | 1,619 | 86g | 281 kcal, 94g protein |
 | Dinner: biryani rice (cooked) | 214g | 400 (est) | 6g (est) | 2,019 | 92g | -119 kcal, 88g protein |
 | Dinner: chicken (bone-in) | 200g | 220 (est) | 34g (est) | **2,239** | **126g** | **-339 kcal, 54g protein** |
+| Late snack: SUPERYOU wafer | 1 | 90 (est) | 5g (est) | **2,329** | **131g** | **-429 kcal, 49g protein** |
+
+---
+### 2026-06-07 (Day 85) — Session Update
+- **Topics discussed:** Added missing Day 84 late wafer; logged Day 85 breakfast + wafer drift; gym vs rest decision.
+- **Compliance notes (actuals so far):**
+  - **Breakfast:** high-protein bread **2 slices** + omelette **4 whole eggs** + **1 onion + 1 tomato** + **peanut butter 10g**
+  - **SUPERYOU wafer:** **3**
+  - **Lunch:** chicken bone-in **150g** + cooked rice **300g** + raita **150g**
+  - **Dinner (actual):** chicken bone-in **60g** + biryani rice (cooked) **225g** + raita **150g** + **SUPERYOU wafer ×1**
+
+#### Day 85 running total (so far) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| High-protein bread | 2 slices | 160 (est) | 10g (est) | 160 | 10g | 1,740 kcal, 170g protein |
+| Omelette (whole eggs) | 4 whole eggs | 280 | 24g | 440 | 34g | 1,460 kcal, 146g protein |
+| Onion + tomato | 1 + 1 | 50 (est) | 2g (est) | 490 | 36g | 1,410 kcal, 144g protein |
+| Peanut butter | 10g | 60 (est) | 2.5g (est) | 550 | 38.5g | 1,350 kcal, 141.5g protein |
+| SUPERYOU wafer | 3 | 270 (est) | 15g (est) | **820** | **53.5g** | **1,080 kcal, 126.5g protein** |
+| Lunch: chicken bone-in | 150g | 165 (est) | 26g (est) | 985 | 79.5g | 915 kcal, 100.5g protein |
+| Lunch: cooked rice | 300g | 390 | 9g | 1,375 | 88.5g | 525 kcal, 91.5g protein |
+| Lunch: raita | 150g | 90 (est) | 5g (est) | **1,465** | **93.5g** | **435 kcal, 86.5g protein** |
+| Dinner: chicken bone-in | 60g | 66 (est) | 10g (est) | 1,531 | 103.5g | 369 kcal, 76.5g protein |
+| Dinner: biryani rice (cooked) | 225g | 420 (est) | 6.5g (est) | 1,951 | 110g | -51 kcal, 70g protein |
+| Dinner: raita | 150g | 90 (est) | 5g (est) | 2,041 | 115g | -141 kcal, 65g protein |
+| Dinner: SUPERYOU wafer | 1 | 90 (est) | 5g (est) | **2,131** | **120g** | **-231 kcal, 60g protein** |
+
+#### Day 85 closeout — estimated
+
+**Estimated closeout:** **~2,131 kcal / ~120g protein** (protein floor missed)
+
+---
+### 2026-06-08 (Day 86) — Session Update
+- **Topics discussed:** Day 86 lower workout actuals (Session 47) + post-gym whey; lunch + fruit; dinner quantity decision (kala chana + roti); wrist-safe training continuation.
+- **Compliance notes (actuals so far):**
+  - **Gym:** ✅ Session 47 (Lower) completed
+  - **Post-gym:** **OWN whey 1 scoop**
+  - **Breakfast:** omelettes **4 whole eggs** (2 omelettes of 2 eggs each)
+  - **Sattu water:** **2 spoons** (lemon + salt)
+  - **Lunch (actual):** cooked rice **100g** + egg curry (**2 whole eggs**)
+  - **Evening fruit:** muskmelon **200g**
+  - **Dinner pending:** kala chana + roti (quantities issued)
+
+#### Session 47 — Lower + Core (Actuals)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Leg Press | 140 kg × 3 × 8–10 | **120 kg × 1 × 15; 130 kg × 1 × 12; 140 kg × 1 × 12** | ✅ Hit top set | **140 kg × 3 × 8–10** (keep ROM strict) |
+| Leg Curl | 47 kg × 3 × 8–12 | **43 kg × 3 × 12** (felt hard) | ✅ Done (limit reached) | **43 kg × 3 × 10–12 (smooth)** → then try **47 kg** |
+| Leg Extension | 36 kg × 3 × 10–12 | **29 kg × 1 × 12; 36 kg × 2 × 12** | ✅ Progressed | **36 kg × 3 × 10–12** |
+| Hip Abductor | 36 kg × 3 × 10–12 | **36 kg × 3 × 12** | ✅ Locked | Next pin **(≈41–43) × 3 × 10–12** (only if form stays clean) |
+| Hip Adductor | 36 kg × 3 × 10–12 | **36 kg × 3 × 12** | ✅ Locked | Next pin **(≈41–43) × 3 × 10–12** (only if form stays clean) |
+| Cable Crunch | 25 lbs × 3 × 12–15 | **25 lbs × 3 × 15** | ✅ Top of range | **30 lbs × 3 × 12–15** |
+| Incline walk cooldown | 5 min | 5 min @ 3 kmph; incline 8→12 | ✅ Done | Keep 5 min cooldown |
+
+**Progression calls:**
+- Leg Press: move to **140 kg for all 3 sets** next time (8–10 reps).
+- Leg Curl: stay **43 kg** until it feels smooth; then test **47 kg** for 8–10.
+- Crunch: **30 lbs** next time.
+
+**1 safety cue:** On leg press, do not chase load if **depth shortens**—full ROM first.
+
+#### Day 86 running total (so far) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: eggs | 4 whole eggs | 280 | 24g | 280 | 24g | 1,620 kcal, 156g protein |
+| Sattu water | 2 spoons (est ~20g) | 80 (est) | 5g (est) | 360 | 29g | 1,540 kcal, 151g protein |
+| Lunch: cooked rice | 100g | 130 | 3g | 490 | 32g | 1,410 kcal, 148g protein |
+| Lunch: egg curry | 2 whole eggs | 200 (est) | 12g (est) | 690 | 44g | 1,210 kcal, 136g protein |
+| Evening: muskmelon | 200g | 60 (est) | 1g (est) | 750 | 45g | 1,150 kcal, 135g protein |
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | **870** | **70g** | **1,030 kcal, 110g protein** |
+
+#### Dinner quantity decision — Kala chana + roti (protein rescue)
+
+**Plate (do this):**
+- **Kala chana (cooked): 350g**
+- **Roti: 1**
+
+**Protein patch (because earlier protein is low today):**
+- **OWN whey:** **1 scoop now** (lukewarm) + **1 scoop pre-sleep** (lukewarm) — both with **5 almonds** (R-A).
+
+#### Optional craving (approved) — Mango whey lassi (controlled)
+
+If you want the **dahi + mango pulp + ON whey** lassi tonight, do it like this (gut-safe + calorie-controlled):
+- **Dahi:** **150g** (NOT cold; keep it out ~20–30 min)
+- **Mango pulp:** **50g**
+- **ON whey:** **1 scoop**
+- **Water:** **200–250 ml** (room temp; **no ice**)
+
+If you take the lassi, adjust the dinner protein patch to:
+- Keep dinner as **kala chana 300g cooked + 1 roti**
+- **Pre-sleep whey:** **OWN 1 scoop** (lukewarm) with **5 almonds** (skip the “2 scoops” plan).
+
+**Dinner (actual):**
+- **Kala chana (cooked): 150g**
+- **Roti: 2**
+- **Lassi:** **ON whey 1 scoop + mango pulp 70g + jaggery 5g + dahi 150g + water**
+- **Extra mango pulp:** 70g
+- **Pre-sleep OWN whey:** missed ❌ (slept unintentionally)
+
+#### Day 86 closeout — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 870 | 70g | 870 | 70g | 1,030 kcal, 110g protein |
+| Dinner: kala chana (cooked) | 150g | 250 (est) | 13.5g (est) | 1,120 | 83.5g | 780 kcal, 96.5g protein |
+| Dinner: roti | 2 | 200 (est) | 6g (est) | 1,320 | 89.5g | 580 kcal, 90.5g protein |
+| Lassi: ON whey + dahi + mango + jaggery | 1 serving | 272 (est) | 29.5g (est) | 1,592 | 119g | 308 kcal, 61g protein |
+| Extra mango pulp | 70g | 42 (est) | 0.5g (est) | **1,634** | **119.5g** | **266 kcal, 60.5g protein** |
+
+**Estimated Day 86 closeout:** **~1,634 kcal / ~120g protein** (protein floor missed)
+
+---
+### 2026-06-09 (Day 87) — Session Update
+- **Topics discussed:** Day 86 dinner logged; today’s (Day 87) workout split (wrist-safe upper).
+- **Compliance notes (actuals so far):**
+  - **Thyroxine:** ✅ taken
+  - **Gym:** ✅ Session 48 (Upper, wrist-safe) completed
+  - **Post-gym:** **OWN whey 1 scoop** (note: if within 4 hours of thyroxine, absorption risk; adjust timing next time)
+  - **Office day:** breakfast + lunch quantities issued; carry items issued
+
+#### Session 48 — Upper (Actuals, wrist-safe)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Chest Press | 80 lbs × 3 × 8–12 | **80 lbs × 3 × 12** | ✅ Top of range | **85 lbs × 3 × 8–12** |
+| Lat Pulldown | 80 lbs × 3 × 8–10 (or 70 if busy) | **70 × 12; 75 × 12, 12** (no 80 pin; next = 85) | ✅ Good workaround | Next: **75 × 3 × 10–12**, then test **85 × 1 × 6–8** |
+| DB Shoulder Press | 10 kg × 3 × 8–12 | **10 × 12; 12.5 × 12; 12.5 × 8–9** | ✅ Progressed | **12.5 × 3 × 8–10** (if wobble → 10 × 3 × 12) |
+| Tricep Rope Pushdown (heavy station) | 50 lbs × 3 × 10–12 (easy station) | **15 lbs × 3 × 12** (heavy station) | ✅ Station logged | Same station: **15 lbs × 3 × 12** → then **17.5–20** |
+| Seated Row | 36.6 kg × 2–3 × 10–12 (straps) | **36.6 kg × 3 × 12** (clicking, no pain) | ⚠️ Wrist symptom | Keep **36.6 × 3 × 10–12**; if clicking worsens → skip row |
+| Rear Delt Fly | light × 3 × 12–15 | **25 lbs × 3 × 12** | ✅ Done | **25 lbs × 3 × 12–15** |
+| Cable Crunch | 30 lbs × 3 × 12–15 | **25 lbs × 3 × 15** | ✅ Top of range | **30 lbs × 3 × 12–15** |
+| Incline walk cooldown | 5 min | 5 min @ 3 kmph; incline 8→12 | ✅ Done | Keep 5 min cooldown |
+
+**Progression calls:**
+- Chest press: **85 lbs** next time.
+- Lat pulldown: lock **75** for 3 sets; don’t chase 85 until 75 feels easy.
+- Row: keep **36.6** and use straps; row is optional if clicking increases.
+
+**1 safety cue:** wrists stay **neutral** on all pulls; no supinated curls.
+
+#### Food quantities (office day)
+
+**Breakfast (do this):**
+- **High-protein bread:** **2 slices**
+- **Aloo filling:** **80g**
+- **Coconut water:** **1**
+
+**Lunch (rice + moong dal + paneer sabzi):**
+- **Cooked rice:** **80g**
+- **Moong dal (watery/medium):** **300g**
+- **Paneer sabzi:** **150g**
+
+**Office carry:**
+- **OWN whey:** **1 scoop** (dry in shaker) → drink **4:30–5:30 PM**
+- **Muskmelon:** **200g**
+
+#### Day 87 intake (actuals so far) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: high-protein bread | 2 slices | 160 (est) | 10g (est) | 160 | 10g | 1,740 kcal, 170g protein |
+| Breakfast: aloo filling | 80g | 104 (est) | 1.6g (est) | 264 | 11.6g | 1,636 kcal, 168.4g protein |
+| Coconut water | 1 | 45 | 0g | 309 | 11.6g | 1,591 kcal, 168.4g protein |
+| Lunch: cooked rice | 80g | 104 | 2g | 413 | 13.6g | 1,487 kcal, 166.4g protein |
+| Lunch: paneer sabzi | 150g | 400 (est) | 27g (est) | 813 | 40.6g | 1,087 kcal, 139.4g protein |
+| Lunch: moong dal (watery/medium) | 300g | 240 (est) | 16g (est) | 1,053 | 56.6g | 847 kcal, 123.4g protein |
+| Evening: muskmelon | 200g | 60 (est) | 1g (est) | 1,113 | 57.6g | 787 kcal, 122.4g protein |
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 1,233 | 82.6g | 667 kcal, 97.4g protein |
+| Office whey (partial) | 0.25 scoop | 30 (est) | 6.25g (est) | **1,263** | **88.85g** | **637 kcal, 91.15g protein** |
+
+#### Dinner quantity decision — aloo paratha + mango lassi (craving-safe)
+
+**Dinner (do this):**
+- **Aloo paratha:** **1/2 paratha** *(if it’s small, you may do 3/4; do NOT do 2)*
+- **Dahi with paratha:** **100g** *(skip tomato chutney unless you keep mango pulp raw ≤50g)*
+
+**Protein mango lassi (as planned):**
+- **Mango pulp:** **75g**
+- **ON whey concentrate:** **1 scoop**
+- **Dahi:** **120g**
+- **Jaggery:** **4g**
+- **Water:** add to desired thickness (**no ice**)
+
+**Mango pulp (raw with dinner):** **75g**
+
+**Pre-sleep (protein floor rescue):**
+- Finish remaining office whey **0.75 scoop**, and **top-up +0.25 scoop** from home to make it **1 full scoop OWN** (lukewarm) + **5 almonds** (R-A).
+
+#### Projected Day 87 closeout (if you follow the plan) — estimated
+
+| Metric | Target | Projected | Bank |
+|---|---:|---:|---:|
+| Calories | 1,900 | ~1,905 | **-5 kcal** |
+| Protein (floor) | 150g | ~150g | **0g** |
+| Protein (target) | 180g | ~150g | **-30g** |
+
+**Dinner (actual):**
+- **Aloo paratha:** **1**
+- **Dahi:** **100g**
+- **Protein mango lassi:** mango pulp **75g** + **ON whey concentrate 1 scoop** + dahi **120g** + jaggery **4g** + water
+- **Mango pulp (raw):** **75g**
+- **Pre-sleep whey:** missed ❌
+
+#### Day 87 closeout — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 1,263 | 88.85g | 1,263 | 88.85g | 637 kcal, 91.15g protein |
+| Dinner: aloo paratha | 1 | 330 (est) | 7g (est) | 1,593 | 95.85g | 307 kcal, 84.15g protein |
+| Dinner: dahi | 100g | 60 (est) | 4g (est) | 1,653 | 99.85g | 247 kcal, 80.15g protein |
+| Lassi: ON whey + dahi + mango + jaggery | 1 serving | 253 (est) | 28.5g (est) | 1,906 | 128.35g | -6 kcal, 51.65g protein |
+| Mango pulp (raw) | 75g | 45 (est) | 0.5g (est) | **1,951** | **128.85g** | **-51 kcal, 51.15g protein** |
+
+**Estimated Day 87 closeout:** **~1,951 kcal / ~129g protein** (protein floor missed)
+
+---
+### 2026-06-10 (Day 88) — Session Update
+- **Topics discussed:** Day 88 lower workout actuals (Session 49) + post-gym whey; meal quantity decisions (upma, kala chana + rice + dahi); office carry and whether to take whey.
+- **Decisions made:** Day 88 dinner actuals logged. **Pre-sleep whey missed** → protein floor missed again.
+- **Compliance notes (actuals so far):**
+  - **Gym:** ✅ Session 49 (Lower) completed (back stiffness management; chose conservative loads)
+  - **Post-gym:** **OWN whey 1 scoop**
+  - **Breakfast (actual):** upma **230g** + **sattu water (2 spoons)**
+  - **Lunch (actual):** cooked rice **80g** + kala chana **280g** + dahi **100g** + jaggery **5g**
+  - **Evening snack (actual):** **2 potato pieces** + **1 bread-bite cake** ⚠️ *(maida/sweet)*
+  - **Fruit (actual):** litchi **150g** *(included seeds)*
+- **Dinner (actual):** protein mango lassi (**78g mango pulp + 5g jaggery + 180g dahi + 1 scoop ON whey + water**), **1 roti**, **egg curry (2 eggs)**, **raw mango pulp 75g**. **No pre-sleep whey.**
+- **Next actions:** Eat dinner now per quantities; drink whey **lukewarm**, sip slowly (R-A); sleep by **11:30 PM**.
+- **Cursor context:** Protein floor has been missed multiple days; tonight prioritize **≥150g** even if calories run high.
+
+#### Session 49 — Lower + Core (Actuals)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Leg Extension | 36 kg × 3 × 10–12 | **36 kg × 3 × 12** | ✅ Top of range | Next pin **(≈40) × 3 × 8–12** |
+| Leg Curl | 43 kg × 3 × 10–12 | **36 kg × 3 × 12** (chose lighter) | ✅ Conservative | **43 kg × 3 × 10–12** (when back feels fine) |
+| Hip Abductor | 36 kg × 3 × 10–12 | **36 × 1 × 12; 43 × 2 × 12** | ✅ Progressed | **43 kg × 3 × 10–12** |
+| Hip Adductor | 36 kg × 3 × 10–12 | **36 × 1 × 12; 43 × 2 × 12** *(assumed; logged as abductor twice)* | ✅ Progressed | **43 kg × 3 × 10–12** |
+| Leg Press | 140 kg × 3 × 8–10 | **110 × 12; 130 × 12, 12** (back stiffness) | ✅ Smart deload | Next: **140 × 3 × 8–10** if back is fine; else repeat today |
+| Cable Crunch | 30 lbs × 3 × 12–15 | **25 lbs × 3 × 15** | ✅ Top of range | **30 lbs × 3 × 12–15** |
+| Incline walk cooldown | 5 min | 5 min @ 3 kmph; incline 8→12 | ✅ Done | Keep 5 min cooldown |
+
+**Progression calls:**
+- Abductor/Adductor: lock **43 × 3 × 10–12** next time.
+- Leg press: only return to **140** when back stiffness is 0–2/10.
+
+**1 safety cue:** if back stiffness shows up, stop chasing leg-press load; keep spine neutral and shorten ROM slightly rather than rounding.
+
+#### Day 88 running total (actuals so far) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Breakfast: upma | 230g cooked | 294 (est) | 6.5g (est) | 414 | 31.5g | 1,486 kcal, 148.5g protein |
+| Breakfast: sattu water | 2 spoons *(assume ~20g sattu)* | 80 (est) | 4g (est) | 494 | 35.5g | 1,406 kcal, 144.5g protein |
+| Lunch: cooked rice | 80g | 104 | 2g | 598 | 37.5g | 1,302 kcal, 142.5g protein |
+| Lunch: kala chana (cooked) | 280g | 460 (est) | 25g (est) | 1,058 | 62.5g | 842 kcal, 117.5g protein |
+| Lunch: dahi | 100g | 60 (est) | 4g (est) | 1,118 | 66.5g | 782 kcal, 113.5g protein |
+| Lunch: jaggery | 5g | 20 (est) | 0g | 1,138 | 66.5g | 762 kcal, 113.5g protein |
+| Evening snack (unplanned) | potato pieces ×2 + bread-bite cake ×1 | 200 (est) | 3g (est) | 1,338 | 69.5g | 562 kcal, 110.5g protein |
+| Litchi (incl seeds) | 150g | 80 (est) | 1g (est) | **1,418** | **70.5g** | **482 kcal, 109.5g protein** |
+
+#### Day 88 closeout (actual) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 1,418 | 70.5g | 1,418 | 70.5g | 482 kcal, 109.5g protein |
+| Dinner: protein mango lassi | mango **78g** + dahi **180g** + jaggery **5g** + **ON whey 1 scoop** | 295 (est) | 32g (est) | 1,713 | 102.5g | 187 kcal, 77.5g protein |
+| Dinner: roti | 1 | 100 (est) | 3g (est) | 1,813 | 105.5g | 87 kcal, 74.5g protein |
+| Dinner: egg curry | 2 eggs | 180 (est) | 12g (est) | 1,993 | 117.5g | -93 kcal, 62.5g protein |
+| Raw mango pulp | 75g | 45 (est) | 0.5g (est) | **2,038** | **118.0g** | **-138 kcal, 62.0g protein** |
+
+**Estimated Day 88 closeout:** **~2,038 kcal / ~118g protein** (**protein floor missed**)
+
+---
+### 2026-06-11 (Day 89) — Session Update
+- **Topics discussed:** Session 50 (Upper) actuals + progression calls; post-gym nutrition; office meal quantities; discipline win (Domino’s pizza + sprite refused) and social feedback; new steps commitment.
+- **Decisions made:**
+  - **Wrist-safe rule stays:** no supinated/heavy curls; neutral/rope only, wrists fixed.
+  - **10k steps/day commitment** begins today (Day 89).
+  - Office whey is **YES** today to prevent another protein-floor miss.
+- **Compliance wins (non-food):**
+  - Office freebie: **Domino’s pizza + sprite** offered → **sprite donated to cab driver** and **pizza discarded** ✅ (discipline win)
+  - Social: colleagues noticed visible fat loss (“patla ho gaya”, “acha lag raha”) and asked your method → user stayed calm, smiling, confident.
+
+#### Session 50 — Upper (Actuals)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Warm-up | 5 min | Rod + upper-body + hand mobility | ✅ Correct | Same |
+| Pec Deck / Machine Fly | 70 lbs × 3 × 10–12 | **70 × 12; 85 × 12, 12** *(assumed 12 — message said “2 reps”)* | ✅ Big jump, controlled | **85 lbs × 3 × 10–12** |
+| Lat Pulldown (close/neutral) | 75 lbs × 3 × 10–12 | **75 × 12, 12; 80 × 12** | ✅ Progressed | **80 lbs × 3 × 10–12** |
+| Cable Face Pull | 30–40 lbs × 3 × 12–15 | **40 × 12; 50 × 12, 12** | ✅ Strong but form-gated | If strict: **50 × 3 × 12**; else **40 × 3 × 12–15** |
+| DB Lateral Raise | 2.5 kg/hand × 3 × 10–12 | **2.5 kg/hand × 3 × 12** | ✅ Perfect | Stay **2.5 kg** until all sets feel “easy”, then try **3.75 kg** on Set 1 only |
+| Cable Tricep Overhead Ext | 20 lbs × 3 × 10–12 | **30 lbs × 3 × 12** | ✅ Progressed | **30 lbs × 3 × 10–12** |
+| Rope Hammer Curl (wrist-safe) | 15–20 lbs × 2 × 12 | **40 lbs × 3 × 12** | ✅ If wrist stayed quiet | Keep **40 lbs** only if zero wrist pain and no body-swing |
+| Incline walk cooldown | 5 min | 5 min @ 3 kmph, incline 8→12 | ✅ Done | Same |
+
+**Progression calls (keep it simple):**
+- Next session: lock **85 pec deck** and **80 pulldown** as your working sets.
+- Face pull: do **not** chase load; chase rear-delt squeeze. If traps/low-back take over, drop to **40** immediately.
+
+**1 safety cue (today):** wrists stay **fixed** on curls + pulls; use straps on pulldown/rows if clicking starts.
+
+#### Day 89 intake (actuals so far) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Sattu water | 2 spoons *(assume ~20g sattu)* | 80 (est) | 4g (est) | **200** | **29g** | **1,700 kcal, 151g protein** |
+
+#### Food quantities (office day) — do this
+
+**Breakfast (thyroxine-safe):**
+- If thyroxine was at ~6 AM: **NO paneer before 10 AM** (R-J).
+- **Bread slices:** **3 slices**
+- **Paneer filling:** **100g paneer** *(eat this part after 10 AM; if you must eat now, eat bread only and keep paneer for later)*
+
+**Lunch tiffin (rice + kadhi pakodi):**
+- **Cooked rice:** **80g**
+- **Kadhi:** **250g**
+- **Pakodi pieces:** **2 pieces** *(damage-control; pakodi = deep-fried)*
+
+**Office carry:**
+- **Muskmelon:** **250g**
+- **OWN whey:** **1 scoop** (dry in shaker) → drink **5:00 PM**
+
+
+---
+### 2026-06-15 (Day 93) — Session Update
+- **Topics discussed:** Viral-fever + throat-infection recovery; antibiotics course; weigh-in interpretation (sick-weight rebound); interview week strategy (UCO interview Jun 17, 9:30 AM); breakfast/lunch quantities.
+- **Compliance notes:** Gym skipped since illness onset; calories kept controlled; throat-friendly intake.
+- **Medical note:** Fever started Thu (office). Paracetamol 500 used Thu/Fri. Azithromycin 500 started Fri and completed Sun.
+- **Weigh-ins (naked):** Sun **83.40 kg** (sick window), Mon **84.20 kg** (W13).
+
+#### Interview week (Jun 15–17) — plan
+- **Priority:** Sleep + hydration + low-stress routine (performance > fat loss for 48h)
+- **Gym rule:** Only train if **24h fever-free** and energy ≥7/10. If not, do **30–45 min easy walk** only.
+- **PS5 rule (temp):** No PS5 after **8:30 PM** until interview is done.
+
+#### Food quantities (today)
+
+**Breakfast (vermicelli):**
+- **Vermicelli (savory):** **200g cooked**
+- **Protein add-on (mandatory today):** **OWN whey 1 scoop** (lukewarm, after food)
+
+**Lunch (rice + moong dal + paneer sabzi):**
+- **Cooked rice:** **80g**
+- **Moong dal (watery/medium):** **300g**
+- **Paneer sabzi:** **150g** *(prioritize paneer pieces; keep gravy/oil minimal)*
+
+
+---
+### 2026-06-18 (Day 96) — Session Update
+- **Topics discussed:** Gym re-entry after illness/interview gap; Session 51 (Lower) actuals; post-gym whey; breakfast/lunch quantities.
+- **Compliance notes:** ✅ Gym done. ✅ Post-gym whey done. Food quantities prescribed.
+
+#### Session 51 — Lower + Core (Actuals)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Warm-up | 5 min | 5 min | ✅ Done | Same |
+| Leg Press | 110 kg × 2–3 × 10–12 | **110 × 12; 130 × 12, 12** | ✅ Strong re-entry | Hold **130 × 3 × 10–12** next time (140 only if back feels perfect) |
+| Leg Extension | 36 kg × 2–3 × 10–12 | **36 × 12, 12, 8** | ⚠️ Fatigue on set 3 | Stay **36** until **3 × 12** is clean |
+| Leg Curl | 36 kg × 2–3 × 10–12 | **36 × 12, 12, 12** | ✅ Stable | If smooth again next time → try **43 × 3 × 10–12** |
+| Hip Abductor | 43 kg × 2–3 × 12 | **36 × 12, 12, 12** | ✅ Re-entry conservative | Next time: **36 × 12; 43 × 12, 12** |
+| Hip Adductor | 43 kg × 2–3 × 12 | **36 × 12, 12, 12** | ✅ Re-entry conservative | Next time: **36 × 12; 43 × 12, 12** |
+| Cable Crunch | 25 lbs × 2–3 × 15 | **25 × 12, 12, 12** | ✅ Done | Aim **15 reps** first, then go **30 lbs** |
+| Incline walk cooldown | 5 min | 5 min @ 3 kmph, incline 8→12 | ✅ Done | Same |
+
+**Progression calls:**
+- Leg press is back. Keep it **controlled**—don’t chase 140 immediately after illness.
+- Leg extension: earn **3×12** before moving up.
+
+**1 safety cue:** neutral spine on leg press; stop 1–2 reps before form breaks.
+
+#### Day 96 intake (actuals so far) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | **120** | **25g** | **1,780 kcal, 155g protein** |
+
+#### Day 96 intake (additional actuals) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: Protein Chef bread | 2 slices | 160 (est) | 10g (est) | 280 | 35g | 1,620 kcal, 145g protein |
+| Breakfast: omelette | 4 eggs | 360 (est) | 24g (est) | 640 | 59g | 1,260 kcal, 121g protein |
+| Lunch: cooked rice | 90g | 117 (est) | 2g (est) | 757 | 61g | 1,143 kcal, 119g protein |
+| Lunch: kadhi | 200g | 160 (est) | 6g (est) | 917 | 67g | 983 kcal, 113g protein |
+| Lunch: pakodi | 2 pieces | 180 (est) | 4g (est) | 1,097 | 71g | 803 kcal, 109g protein |
+| SUPERYOU wafer | 0.5 wafer | 110 (est) | 5g (est) | 1,207 | 76g | 693 kcal, 104g protein |
+| Chai (normal) | 2 sips | 10 (est) | 0g | 1,217 | 76g | 683 kcal, 104g protein |
+| Jamun (fruit) | 250g | 150 (est) | 2g (est) | **1,367** | **78g** | **533 kcal, 102g protein** |
+
+#### Dinner quantities (do this now)
+
+- **Dinner (actual):** **2 roti** + **bone-in chicken 130g** + **cooked rice 100g** + **SUPERYOU wafer 1**.
+- **Pre-sleep whey:** not taken (not reported).
+
+#### Day 96 closeout (actual) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-dinner) | — | 1,367 | 78g | 1,367 | 78g | 533 kcal, 102g protein |
+| Dinner: roti | 2 | 200 (est) | 6g (est) | 1,567 | 84g | 333 kcal, 96g protein |
+| Dinner: cooked rice | 100g | 130 (est) | 2.5g (est) | 1,697 | 86.5g | 203 kcal, 93.5g protein |
+| Dinner: bone-in chicken | 130g | 250 (est) | 25g (est) | 1,947 | 111.5g | -47 kcal, 68.5g protein |
+| SUPERYOU wafer | 1 | 220 (est) | 10g (est) | **2,167** | **121.5g** | **-267 kcal, 58.5g protein** |
+
+**Estimated Day 96 closeout:** **~2,167 kcal / ~122g protein** (**protein floor missed**)
+
+#### Food quantities (today) — do this
+
+**Breakfast (eggs + Protein Chef bread):**
+- **Eggs:** **4 whole eggs total** *(2 omelettes of 2 eggs — eat both)*
+- **Protein Chef bread:** **2 slices**
+
+**Lunch (kadhi pakodi + rice):**
+- **Cooked rice:** **80g**
+- **Kadhi:** **250g**
+- **Pakodi pieces:** **2 pieces max** *(damage-control; deep-fried)*
+
+
+---
+### 2026-06-19 (Day 97) — Session Update
+- **Topics discussed:** Session 52 (Upper) actuals; lat-pulldown regression post-illness; post-gym whey; office meal quantities.
+- **Decisions made:** Lat pulldown temporarily downshifted to **70 lbs** until strength returns; lateral raise load treated as **trial**, keep form strict.
+- **Compliance notes:** ✅ Gym done. ✅ Post-gym whey done.
+  - **Outside meal (actual):** **Rumali-roti shawarma (charcoal chicken)** + **6 pani puri** (3 spicy water + 3 sweet water). ❌ Rule 3 (maida) + ❌ Rule 4 (deep-fried puri).
+
+#### Session 52 — Upper (Actuals)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Lat Pulldown (close/neutral) | 80 lbs × 3 × 10–12 | **70 lbs × 3 × 10–12** | ⚠️ Regression (normal after illness) | Stay **70** until **3 × 12** is easy, then **75** |
+| DB Lateral Raise | 2.5 kg/hand × 3 × 10–12 | **5 kg/hand × 12, 10, 10** | ✅ Hard but completed | Keep **5 kg** if form strict; if reps drop <10 → **3.75 kg** |
+
+#### Day 97 intake (actuals so far) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | **120** | **25g** | **1,780 kcal, 155g protein** |
+
+#### Day 97 intake (updated actuals) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Breakfast: high-protein bread | 2 slices | 160 (est) | 10g (est) | 280 | 35g | 1,620 kcal, 145g protein |
+| Breakfast: aloo filling | 60g | 80 (est) | 1g (est) | 360 | 36g | 1,540 kcal, 144g protein |
+| Coconut water | 1 | 45 | 0g | 405 | 36g | 1,495 kcal, 144g protein |
+| Lunch: cooked rice | 80g | 104 | 2g | 509 | 38g | 1,391 kcal, 142g protein |
+| Lunch: moong dal | 250g | 200 (est) | 13g (est) | 709 | 51g | 1,191 kcal, 129g protein |
+| Lunch: paneer sabzi | 130g | 350 (est) | 23g (est) | 1,059 | 74g | 841 kcal, 106g protein |
+| Makhana | 40g | 150 (est) | 3g (est) | 1,209 | 77g | 691 kcal, 103g protein |
+| Dates bite | 1 (≈90 kcal) | 90 (est) | 1g (est) | 1,299 | 78g | 601 kcal, 102g protein |
+| Dinner: rumali-roti shawarma (charcoal chicken) | 1 | 550 (est) | 28g (est) | 1,849 | 106g | 51 kcal, 74g protein |
+| Pani puri | 6 | 240 (est) | 3g (est) | **2,089** | **109g** | **-189 kcal, 71g protein** |
+
+#### Tonight (do this now)
+- **No more dinner** (you already ate outside).
+- **Pre-sleep protein:** **YES — OWN whey 1 scoop** (lukewarm, sip slowly) + **5 almonds** (R-A).
+- **Cook instruction:** nothing tonight. For tomorrow: ask for **chicken/paneer-heavy dinner** (no fried rice, max 1 roti).
+
+#### Late-night (post-midnight) snack — actual
+- Woke around **12:10 AM** after nightmares and ate **Marie Gold biscuits 8–10 pieces**.
+- **Pre-sleep whey:** missed ❌
+
+#### Day 97 closeout (revised, includes late-night biscuits) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| (Running total pre-biscuits) | — | 2,089 | 109g | 2,089 | 109g | -189 kcal, 71g protein |
+| Marie Gold biscuits | 8–10 pieces | 200 (est) | 2g (est) | **2,289** | **111g** | **-389 kcal, 69g protein** |
+
+**Estimated Day 97 closeout:** **~2,289 kcal / ~111g protein** (**protein floor missed**)
+
+---
+### 2026-06-20 (Day 98) — Session Update
+- **Topics discussed:** Day 97 late-night biscuits after nightmares; Day 98 pre-gym meal; today’s lower workout split (Session 53); cardio time math at 3–4 kmph.
+- **Decisions made:** No “punishment cardio”. Use cardio as a routine: 30–45 min LISS.
+- **Next actions:** Gym now (Session 53) + post-gym whey; lunch protein-first.
+
+#### Day 98 intake (actuals so far) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Paneer paratha | 2 (paneer used ~100g total) | 800 (est) | 26g (est) | 800 | 26g | 1,100 kcal, 154g protein |
+| Sattu water | 2 spoons *(~20g)* | 80 (est) | 4g (est) | **880** | **30g** | **1,020 kcal, 150g protein** |
+
+#### Session 53 — Lower + Core (Today’s split)
+
+| Exercise | Sets × reps | **Target weight** | Rest | Form cue (1-liner) | Next-session rule |
+|---|---:|---:|---:|---|---|
+| Warm-up | 5 min | Treadmill easy | — | Smooth hips/knees, no rush | Don’t skip |
+| Leg Press | 3 × 10–12 | **130 kg** | 90s | Controlled depth, neutral spine | If 12/12/12 clean → 140 next lower day |
+| Leg Extension | 3 × 10–12 | **36 kg** | 75–90s | Squeeze at top, slow down | Goal = **3×12** today |
+| Leg Curl | 3 × 10–12 | **36 kg** | 75–90s | No jerking | If 12/12/12 smooth → try 43 next time |
+| Hip Abductor | 3 × 12 | **36 × 1 set; 43 × 2 sets** | 60–75s | Pause at wide | Keep 43 for 2 sets |
+| Hip Adductor | 3 × 12 | **36 × 1 set; 43 × 2 sets** | 60–75s | Squeeze in | Keep 43 for 2 sets |
+| Cable Crunch | 3 × 12–15 | **25 lbs** | 60s | Round spine, breathe out | Aim 15s; then 30 lbs later |
+| Cooldown walk | 5 min | 3 kmph, incline 8→12 | — | Easy | Same |
+
+#### Cardio time math (3–4 kmph)
+- **Marie Gold biscuits estimate yesterday:** ~**200 kcal** extra.
+- Walking 3–4 kmph at ~84 kg burns ~**3.7–4.4 kcal/min**.
+  - To offset **200 kcal**: **~45–55 min**
+  - To offset the full Day 97 overshoot (~**390 kcal**): **~90–105 min** (not recommended after lifting)
+
+**Coach call today:** Do **30–45 min** LISS (treadmill 3–4 kmph) after workout, and the rest comes from clean dinner + steps.
+
+#### Lunch quantities (planned)
+- **Bone-in chicken:** **eat all** (~200g raw)
+- **Roti:** **1 roti**
+- **No rice** at lunch (parathas already covered carbs)
+
+#### Food quantities (office day) — do this
+
+**Breakfast (high-protein bread sandwich + aloo filling):**
+- **High-protein bread:** **2 slices**
+- **Aloo filling:** **60g**
+- **Coconut water:** **1**
+
+**Lunch (rice + moong dal + paneer sabzi):**
+- **Cooked rice:** **80g**
+- **Moong dal (watery/medium):** **300g**
+- **Paneer sabzi:** **150g**
+
+#### Decision — “something else with chicken?”
+
+If you’re adding something **with chicken**, yes — add **one low-calorie volume side**, not another carb:
+- **Best add-on:** **cucumber + onion salad 250–300g** (no mayo, no sweet chutney)
+- **If you need a carb:** **1 roti OR 100g cooked rice** (pick ONE, not both)
+- **Avoid:** naan/rumali/rolls (maida), fried rice, pakodi/anything fried
+
+

@@ -245,21 +245,39 @@
     },
     {
       "week": 12,
-      "date": "Jun 08, 2026",
-      "weight": null,
-      "type": "official",
+      "date": "Jun 06, 2026",
+      "weight": 85.4,
+      "type": "skipped",
+      "change": "-0.65 from W11",
+      "cumulative": "-6.05",
+      "notes": "W12 substitute: user-reported fasted, naked weigh-in taken on Saturday (Mon Jun 08 official missed). Use as the closest protocol-like checkpoint for Week 12."
+    },
+    {
+      "week": null,
+      "date": "Jun 09, 2026",
+      "weight": 85.7,
+      "type": "spot-check",
       "change": "",
       "cumulative": "",
-      "notes": ""
+      "notes": "Naked weigh-in after gym + after 1 scoop OWN whey + water | Post-workout/water reading; not protocol-standard. Expect +0.3–0.8 kg vs fasted."
+    },
+    {
+      "week": null,
+      "date": "Jun 14, 2026",
+      "weight": 83.4,
+      "type": "spot-check",
+      "change": "",
+      "cumulative": "",
+      "notes": "Naked reading during viral-fever recovery window (Sunday) | Likely dehydration/glycogen low; do not anchor to this as “real” weight"
     },
     {
       "week": 13,
       "date": "Jun 15, 2026",
-      "weight": null,
+      "weight": 84.2,
       "type": "official",
-      "change": "",
-      "cumulative": "",
-      "notes": ""
+      "change": "-1.20 from W12",
+      "cumulative": "-7.25",
+      "notes": "W13 official (flagged): naked reading taken during/just after a viral-fever + throat-infection window (paracetamol used; azithromycin 500 completed Fri–Sun). Expect rebound once hydration + appetite normalize. Treat as trend marker, not “true” fat loss."
     },
     {
       "week": 14,
