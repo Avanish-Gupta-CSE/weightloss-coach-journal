@@ -5504,43 +5504,125 @@ If you take the lassi, adjust the dinner protein patch to:
 
 **Office whey:** **YES — OWN whey 1 scoop** (dry shaker) → drink **5:00 PM**.
 
-#### If cook is making it (message to cook)
-- “Make **boneless chicken** ~**200g cooked** (minimal oil), plus **200g sabzi**, and **1 roti** only. No fried rice.”
+#### Day 101 intake (actual closeout) — estimated
 
-#### Workout split (today)
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: upma | 250g | 320 (est) | 7g (est) | 320 | 7g | 1,580 kcal, 173g protein |
+| Coconut water | 1 | 45 | 0g | 365 | 7g | 1,535 kcal, 173g protein |
+| Lunch: cooked rice | 100g | 130 (est) | 3g (est) | 495 | 10g | 1,405 kcal, 170g protein |
+| Lunch: kadhi | 200g | 160 (est) | 6g (est) | 655 | 16g | 1,245 kcal, 164g protein |
+| Lunch: pakodi | 2 pieces | 180 (est) | 4g (est) | 835 | 20g | 1,065 kcal, 160g protein |
+| Lunch: dahi | 150g | 90 (est) | 6g (est) | 925 | 26g | 975 kcal, 154g protein |
+| Jaggery | 5g | 20 (est) | 0g | 945 | 26g | 955 kcal, 154g protein |
+| Evening: jamun | 250g | 150 (est) | 2g (est) | 1,095 | 28g | 805 kcal, 152g protein |
+| Nice biscuit | 1 | 35 (est) | 0.5g (est) | 1,130 | 28.5g | 770 kcal, 151.5g protein |
+| Goodday biscuit | 1 | 55 (est) | 1g (est) | 1,185 | 29.5g | 715 kcal, 150.5g protein |
+| Dinner: paneer | 150g | 400 (est) | 27g (est) | 1,585 | 56.5g | 315 kcal, 123.5g protein |
+| Dinner: roti | 2 | 200 (est) | 6g (est) | 1,785 | 62.5g | 115 kcal, 117.5g protein |
+| Dinner: litchi (incl seeds) | 120g | 65 (est) | 1g (est) | 1,850 | 63.5g | 50 kcal, 116.5g protein |
+| Panchmeva dry fruits | 4 small servings *(assume ~40g total)* | 240 (est) | 6g (est) | **2,090** | **69.5g** | **-190 kcal, 110.5g protein** |
 
-**Option A (recommended — low mood):** Walking pad **45–60 min** at **4–5 kmph** + 10 min stretching.
+**Estimated Day 101 closeout:** **~2,090 kcal / ~70g protein** (**protein floor missed**)
 
-**Option B (if you still go gym): Session 54 — Upper (wrist-safe, low fatigue)**
+---
+### 2026-06-24 (Day 102) — Session Update
+- **Topics discussed:** Session 55 (Lower) actuals; leg extension machine under maintenance; post-gym whey + dry fruits; restarting calves + goblet squat since wrist feels good.
+- **Decisions made:** If leg extension stays unavailable, substitute quads with **goblet squat** (10 kg) next lower day; start seated calf raises.
+- **Compliance notes:** ✅ Gym done. ✅ Post-gym whey done.
+- **Next actions:** If dry fruits are eaten, log the **grams**; keep dry fruits **≤1 palm/day**. Make the rest of today **protein-first** to hit **≥180g**.
+- **Cursor context:** Leg extension machine unavailable today; wrist status improving; calf machine available; goblet squat reintroduction approved (neutral grip).
+
+#### Session 55 — Lower + Core (Actuals)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Warm-up | 5 min | 5 min leg stretching + mobility | ✅ Done | Same |
+| Leg Press | 130 kg × 3 × 10–12 | **130 × 12, 12, 12** (felt heavy, clean) | ✅ Strong | **130 × 3 × 10–12** (140 only when it feels stable) |
+| Leg Curl | 43 kg × 3 × 10–12 | **43 × 12, 12, 12** (felt heavy) | ✅ Earned | **43 × 3 × 10–12** (no jump) |
+| Leg Extension (machine) | 40 kg × 3 × 8–12 | **Skipped (machine under maintenance)** | ⚠️ Missed quad isolation | Substitute below if still down |
+| Seated curls (substitute) | — | **15 kg/leg (30 total) × 3 × 12** | ✅ Substitute logged | Next time: replace with **goblet squat 10 kg × 2–3 × 10–12** |
+| Hip Abductor | 36 × 1; 43 × 2 | **36 × 12; 43 × 12, 12** (needs stability) | ✅ Progressed | Keep **43**, but slow tempo + 75s rest |
+| Hip Adductor | 36 × 1; 43 × 2 | **36 × 12; 43 × 12, 12** (needs stability) | ✅ Progressed | Keep **43**, slow tempo + 75s rest |
+| Cable Crunch | 25 lbs × 3 × 12–15 | **25 × 15, 15, 15** | ✅ Top of range | Try **30 lbs × 3 × 12–15** next time |
+| Incline walk cooldown | 5 min | 5 min @ 4 kmph; incline 8→12 | ✅ Done | Same |
+
+**Progression calls:**
+- Cable crunch is ready for **30 lbs**.
+- Leg press + leg curl: hold weights; don’t chase jumps while they still feel heavy.
+
+**1 safety cue:** on leg press, keep **neutral spine** and stop before butt-lift.
+
+#### Day 102 intake (actual closeout) — estimated (CORRECTED: no office/pre-sleep OWN whey)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Breakfast: Protein Chef bread | 2 slices | 160 | 10g | 280 | 35g | 1,620 kcal, 145g protein |
+| Breakfast: aloo filling | ~60g | 120 (est) | 3g (est) | 400 | 38g | 1,500 kcal, 142g protein |
+| Coconut water | 1 | 45 | 0g | 445 | 38g | 1,455 kcal, 142g protein |
+| Lunch: soyabean sabzi | 120g | 220 (est) | 22g (est) | 665 | 60g | 1,235 kcal, 120g protein |
+| Lunch: cooked rice | 80g | 100 (est) | 2g (est) | 765 | 62g | 1,135 kcal, 118g protein |
+| Lunch: moong dal | 250g | 210 | 14g | 975 | 76g | 925 kcal, 104g protein |
+| Lunch: dahi | ~30g *(2–3 bites only)* | 18 (est) | 1g (est) | 993 | 77g | 907 kcal, 103g protein |
+| Jaggery | 5g | 20 (est) | 0g | 1,085 | 82g | 815 kcal, 98g protein |
+| Evening: jamun (incl seeds) | 250g | 150 (est) | 2g (est) | 1,235 | 84g | 665 kcal, 96g protein |
+| Dates bite | 1 | 90 | 1g (est) | 1,325 | 85g | 575 kcal, 95g protein |
+| Smoky Docky: veg falafel shawarma | ~2/3 portion | 450 (est) | 14g (est) | 1,775 | 99g | 125 kcal, 81g protein |
+| Dinner: bone-in chicken curry | 190g | 210 (est) | 33g (est) | 1,985 | 132g | -85 kcal, 48g protein |
+| Dinner: roti | 1 | 100 (est) | 3g (est) | 2,085 | 135g | -185 kcal, 45g protein |
+| Dinner: puffed rice (murmura) | 30g | 115 (est) | 2g (est) | 2,200 | 137g | -300 kcal, 43g protein |
+| Mango (Dasari, small) | 1 | 100 (est) | 1g (est) | **2,300** | **138g** | **-400 kcal, 42g protein** |
+| Post-dinner sweet: panchmeva / dry fruits | 4 small servings *(assume ~40g total)* | 240 (est) | 6g (est) | **2,468** | **139g** | **-568 kcal, 41g protein** |
+
+**Note:** The **shawarma** and **soyabean sabzi** are the biggest uncertainty drivers; treat calories as a **range**, not a precise number.
+
+**Estimated Day 102 closeout (corrected):** **~2,468 kcal / ~139g protein** → **protein floor missed**, calories above band.
+
+#### Add-ons (start next lower day)
+- **Seated calf raise machine:** **2 × 20** *(calibration: pick a weight you can do 20 reps with full range; log it)*
+- **Goblet squat (DB):** **10 kg × 2–3 × 10–12** *(only if wrist stays pain-free and leg extension remains unavailable)*
+
+---
+### 2026-06-25 (Day 103) — Session Update
+- **Topics discussed:** Day 102 dinner + whey correction; today’s workout split (Session 56 Upper).
+- **Decisions made:** Upper day uses Session 54 baselines; pulldown progression trial to 75 lbs; chest press stays at 65 lbs.
+- **Next actions:** Post-gym OWN whey **1 scoop** today (non-negotiable). Keep fruit to **1 serving** (yesterday already had jamun + mango).
+- **Compliance notes:** Gym completed (despite low mood). Lateral raise skipped; extra cable arm/chest volume added.
+- **Cursor context:** If you feel “not in mood”, stick to the first 5 movements + 1 arms finisher. Don’t add 4 similar cable variations.
+
+#### Session 56 — Upper (Today’s split)
 
 | Exercise | Sets × reps | **Target weight** | Rest | Form cue (1-liner) | Next-session rule |
 |---|---:|---:|---:|---|---|
-| Warm-up | 5 min | Treadmill easy | — | Shoulders loose | Don’t skip |
-| Pec Deck / Machine Fly | 2 × 10–12 | **85 lbs** | 90s | Slow stretch | Stop 2 reps before failure |
-| Lat Pulldown (close/neutral) | 2 × 10–12 | **70 lbs** | 90s | No swing | Keep wrists fixed |
-| Cable Face Pull | 2 × 12–15 | **40 lbs** | 75s | Rear delts | If traps take over → drop 1 pin |
-| DB Lateral Raise | 2 × 10–12 | **3.75 kg/hand** | 75s | Strict | No body swing |
-| Rope Hammer Curl | 1–2 × 12 | **30 lbs** | 60s | Wrist fixed | Stop if wrist pain |
-| Cooldown walk | 5 min | 3 kmph | — | Easy | Same |
+| Warm-up | 5 min | Treadmill easy | — | Shoulders + upper-back loose | Don’t skip |
+| Pec Deck / Machine Fly | 3 × 10–12 | **85 lbs** | 90s | Slow stretch, squeeze hard | If 12/12/12 clean → try **90** next upper day |
+| Chest Press (machine) | 3 × 10–12 | **65 lbs** | 90s | Elbows ~45°, no bounce | Earn **70** only after 65 is locked |
+| Lat Pulldown (close/neutral) | 3 × 10–12 | **75 lbs** | 90s | No swing, pull to upper chest | If 12/12/12 → 80 next time |
+| Cable Face Pull | 3 × 12–15 | **50 lbs** | 75s | Rear delts, elbows high | If traps take over → drop to 40 |
+| Lateral Raise (DB) | 3 × 10–12 | **3.75 kg/hand** | 75s | Strict, no swing | If effortless → try **5** on Set 1 only |
+| Cable Tricep Overhead Ext | 3 × 10–12 | **30 lbs** | 75s | Ribs down, full extension | If easy → 35 next time |
+| Rope Hammer Curl (wrist-safe) | 2–3 × 12 | **40 lbs** | 60–75s | Wrist fixed, squeeze | Stop immediately if wrist pain |
+| Incline walk cooldown | 5 min | 4 kmph incline 8→12 | — | Easy | Same |
 
+#### Session 56 — Upper (Actuals)
 
-#### Food quantities (office day) — do this
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Warm-up | 5 min | 5 min | Done | Same |
+| Pec Deck / Machine Fly | 85 lbs × 3 × 10–12 | **85 × 12, 12, 12** | Locked | Try **90 × 3 × 8–12** |
+| Lat Pulldown (close/neutral) | 75 lbs × 3 × 10–12 | **75 × 12, 12, 12** | Locked | Try **80 × 3 × 8–12** |
+| Chest Press (machine) | 65 lbs × 3 × 10–12 | **65 × 12, 12, 12** | Locked | Trial: **70** on Set 1 only; then **65** |
+| Cable Face Pull | 50 lbs × 3 × 12–15 | **50 × 12, 12, 12** | OK | Keep **50**, chase **15s** before increasing |
+| Lateral Raise (DB) | 3.75 kg × 3 × 10–12 | **Skipped** | Missed | Do it earlier next time (before triceps) |
+| Triceps (cable rod variants) | 30 lbs × 3 × 10–12 | **30 × 3 × 12** (2 variations) | Extra volume | Next time pick **ONE** triceps move only |
+| Triceps pushdown / high→low (cable rod) | — | **50 × 3 × 12** | Added | Optional; keep only if time remains |
+| Biceps curl (cable rod) | — | **30 × 3 × 12** | Added | Prefer **rope hammer curl 40** (wrist-safe) |
+| Cable chest pull (high→low) | — | **30 × 2 × 12** | Added | Skip unless it’s replacing lateral raise (rare) |
+| Incline walk cooldown | 5 min | 5 min @ 4 kmph incline 8→12 | Done | Same |
 
-**Breakfast (high-protein bread sandwich + aloo filling):**
-- **High-protein bread:** **2 slices**
-- **Aloo filling:** **60g**
-- **Coconut water:** **1**
+**Progression calls:**
+- You earned progress on **pec deck + pulldown** next time (90 / 80 trials).
+- Keep chest press progression **conservative** (70 set 1 only).
 
-**Lunch (rice + moong dal + paneer sabzi):**
-- **Cooked rice:** **80g**
-- **Moong dal (watery/medium):** **300g**
-- **Paneer sabzi:** **150g**
-
-#### Decision — “something else with chicken?”
-
-If you’re adding something **with chicken**, yes — add **one low-calorie volume side**, not another carb:
-- **Best add-on:** **cucumber + onion salad 250–300g** (no mayo, no sweet chutney)
-- **If you need a carb:** **1 roti OR 100g cooked rice** (pick ONE, not both)
-- **Avoid:** naan/rumali/rolls (maida), fried rice, pakodi/anything fried
-
-
+**1 safety cue:** don’t “replace” a skipped exercise with 3–4 extra cable movements — it increases fatigue without adding better results.
