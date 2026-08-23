@@ -5626,3 +5626,29 @@ If you take the lassi, adjust the dinner protein patch to:
 - Keep chest press progression **conservative** (70 set 1 only).
 
 **1 safety cue:** don’t “replace” a skipped exercise with 3–4 extra cable movements — it increases fatigue without adding better results.
+---
+### 2026-08-24 (Day 163) — Migration + Exam Week Update [migration-mac-workspace]
+
+- **Branch:** Created `migration-mac-workspace` from `main@9a8abc4` (Day 103). Will be **active on personal MacBook** going forward. Org laptop to be phased out before **UCO Bank joining Sep 28, 2026**.
+- **Weight:** Latest naked **81.85 kg** (Aug 2026, user report) — **new low, -9.60 kg from 91.45 kg Day 0** (~0.41 kg/wk over 23.3 wks). Prior official W14 84.50 kg (Jun 22). **Validation needed Mon Aug 25 fasted, naked, post-BM.**
+- **Gym:** Frequency dropped to **<3/week** over last 2 months; **only 1 session this week (Aug 18–24)** due to **exams**. Last fully logged = Session 56 (Day 103, Upper). Exam week substitute counts as **Session 57*** (pending details). No injury reported.
+- **Diet:** Last week described as **very undedicated toward eating habits** — likely untracked meals, outside food, missed protein floor most days. Yet weight still trended down (deficit held or stress-driven). No crash compensation — resume base **1,900 kcal / 180g protein (150g floor)** from Aug 25.
+- **Career:** Leaving current org, joining **UCO Bank Sep 28**. Transition stress + exams explain adherence dip. Plan to re-anchor routine after migration.
+- **Decisions made:**
+  - Use `migration-mac-workspace` as active branch on personal Mac; keep `main` stable until migration verified.
+  - Next official weigh-in **Mon Aug 25** to confirm 81.85 kg.
+  - Resume **3×/week gym** (Phase 2, 3×10–12) + daily walking pad + thyroxine 6 AM + protein-first meals from Aug 25.
+  - Verify repo clone + `.coach/` sync on personal MacBook before wiping org laptop. Stash `temp stash before pull` (Day 99 R-S/R-T review) retained for later merge decision.
+- **Compliance notes (exam week):** Gym 1/3, diet untracked — flagged as transition dip, not protocol failure. No binge flagged, just undedicated.
+- **Next actions:**
+  1. On personal MacBook: `git clone` + `git checkout migration-mac-workspace` + verify `git pull` + `.coach/` files intact.
+  2. Mon Aug 25: fasted weigh-in before food/water → log in Metrics.md W24.
+  3. Resume food logging (kcal + protein per meal vs 1,900/180) + gym log.
+  4. Book 3 gym slots for Aug 25–31 to rebuild frequency.
+  5. Decide on stash merge: apply Day 99 review R-S/R-T or discard after discussion.
+- **Cursor context for next session (on personal Mac):**
+  - **Current state:** Day 163 (Aug 24), 81.85 kg naked (unofficial), Session 56+1 completed, exam week, org → UCO transition.
+  - **Critical:** Validate weight Aug 25, restore 150g protein floor, restore 3×/week gym. Branch = `migration-mac-workspace`.
+  - **Migration:** Primary device = personal MacBook. Org laptop = fallback until Sep 28. Confirm sync before handover.
+
+---
