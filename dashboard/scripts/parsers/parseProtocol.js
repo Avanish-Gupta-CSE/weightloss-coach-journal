@@ -1,78 +1,78 @@
-import fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
-import { parseTable, parseKeyValueTable } from './utils.js';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-export function parseProtocol(filePath) {
-  const text = fs.readFileSync(filePath, 'utf-8');
-  
-  // Parse identity info from bullet points
-  const identity = {};
-  const nameMatch = text.match(/\*\*Name:\*\*\s*(.+)/);
-  const missionMatch = text.match(/\*\*Mission:\*\*\s*(.+)/);
-  const startDateMatch = text.match(/\*\*Start Date:\*\*\s*(.+)/);
-  const targetDateMatch = text.match(/\*\*Target Date:\*\*\s*(.+)/);
-  
-  if (nameMatch) identity.name = nameMatch[1].trim();
-  if (missionMatch) identity.mission = missionMatch[1].trim();
-  if (startDateMatch) identity.startDate = startDateMatch[1].trim();
-  if (targetDateMatch) identity.targetDate = targetDateMatch[1].trim();
-  
-  // Parse Targets table
-  const targetRows = parseTable(text, 'Targets');
-  const targets = {};
-  targetRows.forEach(row => {
-    const metric = row.Metric || '';
-    const value = row.Value || '';
-    if (metric && value) {
-      targets[metric] = value;
-    }
-  });
-  
-  // Parse Phase Plan table
-  const phaseRows = parseTable(text, 'Phase Plan');
-  const phases = phaseRows.map(row => ({
-    phase: row.Phase || '',
-    weeks: row.Weeks || '',
-    focus: row.Focus || '',
-    calorieTarget: row['Calorie Target'] || '',
-  }));
-  
-  // Parse Non-Negotiable Rules (numbered list)
-  const rules = [];
-  const rulesMatch = text.match(/## Non-Negotiable Rules([\s\S]+?)(?=##|$)/);
-  if (rulesMatch) {
-    const rulesText = rulesMatch[1];
-    const ruleLines = rulesText.split('\n');
-    ruleLines.forEach(line => {
-      const match = line.match(/^\d+\.\s+\*\*(.+?)\*\*\s*\.?\s*(.*)/);
-      if (match) {
-        rules.push({
-          title: match[1].trim(),
-          description: match[2].trim(),
-        });
-      }
-    });
-  }
-  
-  return {
-    identity,
-    targets,
-    phases,
-    rules,
-  };
+;
+    justify-content: center;
+    line-height: 1.25rem;
+    text-align: center;
+    width: 100%;
 }
-
-// Test
-if (import.meta.url === `file://${process.argv[1]}`) {
-  const result = parseProtocol(path.join(__dirname, '../../../.coach/Protocol.md'));
-  console.log('Parsed Protocol:');
-  console.log('Identity:', result.identity);
-  console.log('Targets:', Object.keys(result.targets));
-  console.log('Phases:', result.phases.length);
-  console.log('Rules:', result.rules.length);
-  console.log('First rule:', result.rules[0]);
+.mobile
+    .collapsible-panel__group--collapsed
+    .collapsible-panel__group__expand-button,
+.preview
+    .collapsible-panel__group--collapsed
+    .collapsible-panel__group__expand-button {
+    display: inline-flex;
 }
+.mobile .collapsible-panel__group--collapsed .collapsible-panel__group__content,
+.preview
+    .collapsible-panel__group--collapsed
+    .collapsible-panel__group__content {
+    display: none;
+}
+.mobile
+    .collapsible-panel__group--collapse-top
+    .collapsible-panel__group__expand-button,
+.preview
+    .collapsible-panel__group--collapse-top
+    .collapsible-panel__group__expand-button {
+    margin-bottom: 0.625rem;
+    margin-top: 0.125rem;
+}
+.mobile
+    .collapsible-panel__group--collapse-bottom
+    .collapsible-panel__group__expand-button,
+.preview
+    .collapsible-panel__group--collapse-bottom
+    .collapsible-panel__group__expand-button {
+    margin-bottom: 0.125rem;
+    margin-top: 0.625rem;
+}
+.mobile .theme-page .theme-preset-picker.dropdown,
+.preview .theme-page .theme-preset-picker.dropdown {
+    height: 1.75rem;
+}
+.mobile .theme-page .theme-preset-picker .dropdown__selected,
+.preview .theme-page .theme-preset-picker .dropdown__selected {
+    height: 1.75rem;
+}
+.mobile .theme-page .theme-preset-picker .dropdown__list,
+.preview .theme-page .theme-preset-picker .dropdown__list {
+    border: 0.125rem solid #316e7d;
+    border-top: none;
+    box-shadow: 0 0 0.25rem 0.0625rem black;
+    box-sizing: border-box;
+}
+.mobile .theme-page .theme-preset-picker .dropdown__list__item,
+.preview .theme-page .theme-preset-picker .dropdown__list__item {
+    min-height: 1.75rem;
+}
+.mobile .theme-page .theme-control:not(:first-child),
+.preview .theme-page .theme-control:not(:first-child) {
+    margin-top: 0.5rem;
+}
+.mobile .theme-page .font-picker,
+.preview .theme-page .font-picker {
+    box-sizing: border-box;
+    height: 1.5rem;
+    padding-top: 0.125rem;
+    position: relative;
+    width: 100%;
+}
+.mobile .theme-page .font-picker--disabled,
+.preview .theme-page .font-picker--disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}
+.mobile .theme-page .font-picker .select__textbox,
+.preview .theme-page .font-picker .select__textbox,
+.mobile .theme-page .font-picker .select__expand,
+.preview .theme-page .font-picker .select__expand,

@@ -10,14 +10,14 @@
 
 | Field | Value |
 |---|---|
-| Current day | **Day 103 — Jun 25, 2026 (Thursday).** **Yesterday Day 102 closeout (est, corrected): ~2,468 kcal / ~139g protein** (protein floor missed). **Today done:** **Session 56 = Upper**. |
-| Phase | **PHASE 2 ACTIVE.** 3 sets × 10–12 reps. **Latest logged sessions:** **Session 56 (Upper)**, **Session 55 (Lower)**. Focus remains consolidation and clean repeatability, not reckless jumps. |
-| Last weight | **W14 official: 84.50 kg** (Jun 22) — naked (user report). **W13 flagged: 84.20 kg** (Jun 15, illness window). |
+| Current day | **Day 168 — Aug 29, 2026 (Saturday).** **Yesterday Day 167 closeout (est): ~2,035 kcal / ~60g protein** (protein floor missed; Rule 4 violation: puri). **Today so far (est): ~890 kcal / ~90g protein.** Gym missed today (rain + anxiety). |
+| Phase | **PHASE 3 ACTIVE.** 3 sets × 10–12 reps. **Latest captured session:** **2026-08-27 = Lower**. Priority: re-entry consistency (minimum viable workouts), protein floor, walking pad. |
+| Last weight | **81.85 kg** (Aug 29) — naked morning spot check (user report). **Last official logged in file:** W14 = 84.50 kg (Jun 22). |
 | Starting weight | 91.45 kg (March 14, Day 0) |
-| Next weigh-in | **Monday Jun 29, 2026 (W15)** — fasted, naked, post-BM, before food/water. |
-| Diet mode | **14-day plateau-break guardrails (May 24 → Jun 6):** dry fruits **≤1 palm/day** (before 4 PM), **no liquid calories** (coke/juice/milk), rice **≤100g cooked per meal**, fruit **1 serving/day**, whey allowed. |
-| Protein status | Day 82 hit floor (~153g). **Day 83 missed floor (est ~127g). Day 84 missed floor (est ~131g). Day 85 missed floor (est ~120g). Day 86 missed floor (est ~120g). Day 87 missed floor (est ~129g). Day 88 missed floor (est ~118g). Day 96 missed floor (est ~114g). Day 97 missed floor (est ~111g). Day 98 hit floor (est ~161g). Day 99 hit floor (est ~203g). Day 100 hit floor (est ~154g). Day 101 missed floor (est ~70g). Day 102 missed floor (est ~138g).** Goal remains: **≥150g** (floor) / **180g** (target). |
-| Gym sessions completed | **56 complete.** Latest: **Session 56 = Upper (Cult.fit)** completed (Day 103). Next planned: **Session 57 = Lower**. |
+| Next weigh-in | **Monday Aug 31, 2026 (W24)** — fasted, naked, post-BM, before food/water. |
+| Diet mode | **Re-entry autopilot (Aug 29 → Sep 6):** scoreboard band **1,800–1,900 kcal**, protein **≥150g floor / 180g target**, walking **30 min/day**, no deep-fried/maida, whey allowed. |
+| Protein status | **Logging gap Jun 26 → Aug 26 (untracked).** Day 167 missed floor (~60g est). Day 168 so far ~90g; plan: **1 scoop OWN now** + **1 more protein serving** to reach floor. |
+| Gym sessions completed | **56 complete** (logged; count stale due to logging gap Jun 26 → Aug 26). Latest captured: **2026-08-27 = Lower**. Missed: **Aug 28, Aug 29**. Next planned: **Upper** (home fallback if rain). |
 | Medications active | Thyroxine 50mcg at 6 AM daily (permanent). |
 
 ---

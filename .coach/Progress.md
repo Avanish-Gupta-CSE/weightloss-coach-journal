@@ -5626,3 +5626,69 @@ If you take the lassi, adjust the dinner protein patch to:
 - Keep chest press progression **conservative** (70 set 1 only).
 
 **1 safety cue:** don’t “replace” a skipped exercise with 3–4 extra cable movements — it increases fatigue without adding better results.
+
+---
+### 2026-08-27 (Day 166) — Session Update
+- **Topics discussed:** Return-to-gym after inconsistent month; Lower-day performance snapshot.
+- **Decisions made:** Keep Lower day simple (machines + crunches + incline walk). Progress only what is stable.
+- **Compliance notes:** ✅ Gym done (Lower). Whey not reported for this day.
+- **Next actions:** Next training day = **Upper**. If rain/anxiety blocks gym → do the home fallback (see Day 168 entry).
+- **Cursor context:** Logged weights below are the new reference for “Lower” while you’re in a re-entry phase.
+
+#### Lower + Core (Actuals) — Aug 27
+
+| Exercise | Planned target (last known reference) | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Leg Press | 140 kg (Set 1), then 130 kg | **140 kg × 3 × 12** | ✅ Strong | **140 × 3 × 10–12** (only increase after 2 clean repeats) |
+| Leg Curl | 43 kg (goal) | **36 kg × 3 × 12** | ✅ Re-entry OK | **36 × 3 × 10–12** → then **41** only when clean |
+| Leg Extension | 36 kg | **36 kg × 3 × 12** | ✅ Locked | **36 × 3 × 12** (40 trial only after 12/12/12 feels easy) |
+| Hip Abductor | 43 kg | **41/43 kg × 3 × 12** | ✅ Good | Keep **43 × 3 × 12** with slow return |
+| Hip Adductor | 43 kg | **41/43 kg × 3 × 12** | ✅ Good | Keep **43 × 3 × 12** with slow return |
+| Seated calf raise *(user said “seated curls”)* | 40 kg total | **40 kg × 3 × 12** | ✅ Logged | Next: **40 × 2 × 20** (full stretch + squeeze) |
+| Cable Crunch | 30 lbs | **30 × 12; 35 × 12; 35 × 12** | ✅ Progressed | Next: **35 × 3 × 10–12** |
+| Treadmill walk | 8 incline | **10 min @ 4 kmph, incline 8.0** | ✅ Done | Same |
+
+**Progression calls:**
+- Leg press is holding at **140** despite inconsistency — keep it there and earn stability.
+- Cable crunch is ready to live at **35 lbs** for 3 sets.
+
+**1 safety cue:** Leg press: keep lower back glued; stop before butt-lift.
+
+---
+### 2026-08-28 (Day 167) — Session Update
+- **Topics discussed:** Travel/inconsistency month; untracked eating; gut + cravings risk foods (puri/chole/paneer parantha).
+- **Decisions made:** Treat this as a “damage contained” day; no compensation binge today.
+- **Compliance notes:** ❌ Deep-fried (puri). ⚠️ Protein floor missed (est). ❌ Gym skipped.
+- **Next actions:** Day 168 = protein-first reset + walking pad.
+- **Cursor context:** Estimates below use prior logged references for puri/chole/parantha; treat as range.
+
+#### Day 167 intake (reported) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Breakfast: puri | 4 | 560 (est) | 8g (est) | 560 | 8g | 1,340 kcal, 172g protein |
+| Breakfast: chole | 1 bowl | 300 (est) | 12g (est) | 860 | 20g | 1,040 kcal, 160g protein |
+| Lunch: chole | 1 bowl | 300 (est) | 12g (est) | 1,160 | 32g | 740 kcal, 148g protein |
+| Lunch: pulao / cooked rice | 150g cooked | 195 (est) | 4.5g (est) | 1,355 | 36.5g | 545 kcal, 143.5g protein |
+| Dinner: paneer parantha | 2 | 620 (est) | 22g (est) | 1,975 | 58.5g | -75 kcal, 121.5g protein |
+| Guava | 1 | 60 (est) | 1g (est) | **2,035** | **59.5g** | **-135 kcal, 120.5g protein** |
+
+**Estimated Day 167 closeout:** **~2,035 kcal / ~60g protein** → protein floor missed; calories above band.
+
+---
+### 2026-08-29 (Day 168) — Session Update
+- **Topics discussed:** Anxiety + rain blocking gym; separation/transition stress; “tummy” perception despite stable weight; immediate reset without perfectionism.
+- **Decisions made:** Minimum-viable win today = **1 scoop OWN** + **indoor workout (walking pad + 12-min circuit)**. No crash dieting. No guilt compensation.
+- **Compliance notes:** ✅ Chicken meal logged. ❌ Gym skipped (rain/anxiety). Whey not taken yet at time of report.
+- **Next actions:** If you do nothing else: **drink the whey** + **walk indoors 30 min**. Then sleep on time.
+- **Cursor context:** You are in Phase 3 by calendar, but execution right now is “re-entry mode” until consistency returns.
+
+#### Day 168 intake (reported so far) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Cooked rice (breakfast+lunch total) | 150g cooked | 195 (est) | 4.5g (est) | 195 | 4.5g | 1,705 kcal, 175.5g protein |
+| Bone-in chicken (home, low-oil) | 450g total | 495 (est) | 79g (est) | 690 | 83.5g | 1,210 kcal, 96.5g protein |
+| Roti | 2 | 200 (est) | 6g (est) | **890** | **89.5g** | **1,010 kcal, 90.5g protein** |
+
+**Current read (Day 168):** Calories are low so far, but **protein is still far below target**.
