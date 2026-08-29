@@ -1,12 +1,38 @@
-1) Exception(7848) tid(2770) 80070005 Access is denied.
-] 
-2026-08-21T08:09:16.107207+05:30 0x00002770 <ERR>  WIL: D:\a\_work\1\s\src\base\psutils_win.cpp(125)\ms-teams.exe!00007FF7B1A42ACF: (caller: 00007FF7B1A43051) Exception(7849) tid(2770) 80070005 Access is denied.
-2026-08-21T08:09:16.107207+05:30 0x00002770 <ERR>  WIL: D:\a\_work\1\s\src\base\psutils_win.cpp(133)\ms-teams.exe!00007FF7B2979A85: (caller: 00007FF7B1A43051) LogHr(7845) tid(2770) 80070005 Access is denied.
-    Msg:[D:\a\_work\1\s\src\base\psutils_win.cpp(125)\ms-teams.exe!00007FF7B1A42ACF: (caller: 00007FF7B1A43051) Exception(7849) tid(2770) 80070005 Access is denied.
-] 
-2026-08-21T08:09:16.107207+05:30 0x00002770 <ERR>  WIL: D:\a\_work\1\s\src\base\psutils_win.cpp(125)\ms-teams.exe!00007FF7B1A42ACF: (caller: 00007FF7B1A43051) Exception(7850) tid(2770) 80070005 Access is denied.
-2026-08-21T08:09:16.108218+05:30 0x00002770 <ERR>  WIL: D:\a\_work\1\s\src\base\psutils_win.cpp(133)\ms-teams.exe!00007FF7B2979A85: (caller: 00007FF7B1A43051) LogHr(7846) tid(2770) 80070005 Access is denied.
-    Msg:[D:\a\_work\1\s\src\base\psutils_win.cpp(125)\ms-teams.exe!00007FF7B1A42ACF: (caller: 00007FF7B1A43051) Exception(7850) tid(2770) 80070005 Access is denied.
-] 
-2026-08-21T08:09:16.108218+05:30 0x00002770 <ERR>  WIL: D:\a\_work\1\s\src\base\psutils_win.cpp(125)\ms-teams.exe!00007FF7B1A42ACF: (caller: 00007FF7B1A43051) Exception(7851) tid(2770) 80070005 Access is denied.
-2026-08-21T08:09:16.108218+05:30
+import { Link, useLocation } from 'react-router-dom';
+import { Activity, CalendarDays, Dumbbell, Beef, Brain, FileText, ListChecks } from 'lucide-react';
+
+const navItems = [
+  { path: '/', label: 'Dash', icon: Activity },
+  { path: '/daily', label: 'Daily', icon: CalendarDays },
+  { path: '/workouts', label: 'Gym', icon: Dumbbell },
+  { path: '/nutrition', label: 'Nutri', icon: Beef },
+  { path: '/scoreboard', label: 'Score', icon: ListChecks },
+  { path: '/brain', label: 'Brain', icon: Brain },
+  { path: '/protocol', label: 'Proto', icon: FileText },
+];
+
+export default function MobileNav() {
+  const location = useLocation();
+
+  return (
+    <nav className="md:hidden fixed bottom-0 left-0 right-0 bg-bg-secondary/95 backdrop-blur-md border-t border-bg-tertiary/50 z-50 safe-area-pb">
+      <div className="flex justify-around items-center h-16">
+        {navItems.map((item) => {
+          const isActive = location.pathname === item.path;
+          return (
+            <Link
+              key={item.path}
+              to={item.path}
+              className={`flex flex-col items-center justify-center gap-0.5 px-2 py-1 rounded-lg transition-all ${
+                isActive ? 'text-accent-blue' : 'text-text-muted'
+              }`}
+            >
+              <item.icon className={`w-5 h-5 ${isActive ? 'text-accent-blue' : ''}`} />
+              <span className="text-[10px] font-medium">{item.label}</span>
+            </Link>
+          );
+        })}
+      </div>
+    </nav>
+  );
+}

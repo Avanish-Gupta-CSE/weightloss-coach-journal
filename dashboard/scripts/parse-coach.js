@@ -1,2 +1,172 @@
-s.props.command.payload.directionalHint,target:this.props.target,setInitialFocus:!1,onDismiss:this._onDismiss,layerProps:c,preventDismissOnScroll:this.props.command.payload.preventDismissOnScroll,preventDismissOnLostFocus:this.props.command.payload.preventDismissOnLostFocus,preventDismissOnResize:this.props.command.payload.preventDismissOnResize},b)}constructor(a){super(a),this._onDismiss=()=>{this.props.command.isOpen(!1)},this._scope=new e.a;const b=this.props.command.resources;this._observables=this._scope.attach(new(b.consume(g.observablesFactoryTypeResourceKey))({owner:this})),this.state={payload:void 0}}}}
-,4616(a,b,c){c.d(b,{a:()=>B,b:()=>H});var d=c(508),e=c(61),f=c(3037),g=c("react-lib"),h=c(330),i=c(136),j=c(1316),k=c(127),l=c(680);let m=(0,c(15).a)();class n extends g.Component{render(){let a=this.props.item;return this.props.command.parentCommand&&!this.props.command.parentCommand.isCollapsed.peek()||a.renderedInOverflow?this._getMenuItem():this._getCommandButton()}componentDidMount(){this._input&&this.props.command.inputType.peek()===f.a.folderUpload&&(this._input.webkitdirectory=!0)}_getCommandButton(){let a=this.props.item,b=this.props.command.inputType.peek()===f.a.folderUpload;return g.createElement(j.a,{className:a.className,text:a.name,role:a.role,ariaLabel:a.ariaLabel,checked:a.isChecked,title:a.title,iconProps:a.iconProps,menuIconProps:a.menuIconProps,styles:a.buttonStyles,onClick:()=>this._input.click()},g.createElement("input",{type:"file",className:b?"commandFolderInput":"commandFileInput",multiple:!0,onChange:this._onChange,ref:a=>this._input=a,"data-is-focusable":!1}))}_getMenuItem(){let a=this.props.item,b=m(l.b,{theme:this.props.theme,disabled:a.disabled,expanded:!1,checked:a.isChecked,isAnchorLink:!!a.href,knownIcon:"None"!==a.iconProps.iconName,itemClassName:a.className,dividerClassName:a.itemType===k.a.Divider?a.className:void 0,iconClassName:a.iconProps.className,subMenuClassName:a.submenuIconProps?a.submenuIconProps.className:""});return g.createElement("button",{role:a.role,title:a.title,className:b.root,"aria-label":a.ariaLabel,"aria-checked":a.isChecked,onClick:()=>this._input.click(),"aria-posinset":a["aria-posinset"],"aria-setsize":a["aria-setsize"]},g.createElement("div",{className:b.linkContent},g.createElement(e.a,{className:b.icon,iconName:a.iconProps.iconName}),g.createElement("span",{className:"ms-ContextualMenu-itemText"},a.name)),g.createElement("input",{type:"file",className:"commandFileInput",multiple:!0,onChange:this._onChange,ref:a=>this._input=a,"data-is-focusable":!1}))}constructor(a){super(a),this._onChange=a=>{this.props.command.onInputChange(a),this.props.dismissMenu()},this.state={isCalloutVisible:!1,payload:void 0,badge:void 0}}}n=(0,h.b)([(0,i.a)("UploadCommand",["theme"])],n);var o=c(8256),p=c(189),q=c("fui.util_662");(0,q.hd)([{rawString:".ms-ReactCommandManager-iconContainer{position:relative;font-size:16px;margin:0 4px;height:16px;width:16px}.ms-ReactCommandManager-FileTypeIcon-icon{width:16px;height:16px;overflow:visible}.ms-ReactCommandManager-logoFillIcon,.ms-ReactCommandManager-logoIcon{position:absolute;left:0;right:0}.ms-ReactCommandManager-logoFillIcon[data-icon-name=TeamsLogo16],.ms-ReactCommandManager-logoIcon[data-icon-name=TeamsLogo16]{color:#6264a7}.ms-ReactCommandManager-logoFillIcon{color:#fff}.ms-Button-icon[data-ic
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { parseMetrics } from './parsers/parseMetrics.js';
+import { parseBrainState } from './parsers/parseBrainState.js';
+import { parseProtocol } from './parsers/parseProtocol.js';
+import { parseProgress } from './parsers/parseProgress.js';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const DEFAULT_COACH_DIR = path.resolve(__dirname, '../../.coach');
+const COACH_DIR = process.env.COACH_DIR ? path.resolve(process.env.COACH_DIR) : DEFAULT_COACH_DIR;
+const OUTPUT_DIR = path.join(__dirname, '../src/data/generated');
+
+function ensureDir(dir) {
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+}
+
+function writeJSON(filename, data) {
+  const filepath = path.join(OUTPUT_DIR, filename);
+  fs.writeFileSync(filepath, JSON.stringify(data, null, 2));
+  console.log(`✓ Generated: ${filename} (${Array.isArray(data) ? data.length + ' items' : Object.keys(data).length + ' keys'})`);
+}
+
+function hasCoachFiles(dir) {
+  return ['Metrics.md', 'BrainState.md', 'Protocol.md', 'Progress.md'].every(file =>
+    fs.existsSync(path.join(dir, file))
+  );
+}
+
+function mergeMeals(previousMeals, nextMeals) {
+  const merged = {
+    ...previousMeals,
+    ...nextMeals,
+  };
+
+  return Object.keys(merged).length > 0 ? merged : {};
+}
+
+function getSessionType(workoutDetails = '') {
+  if (workoutDetails.includes('Upper')) return 'Upper Body';
+  if (workoutDetails.includes('Lower')) return 'Lower Body';
+  if (workoutDetails.includes('Full')) return 'Full Body';
+  return 'Workout';
+}
+
+function mergeDailyEntries(entries) {
+  const byDay = new Map();
+
+  entries.forEach(entry => {
+    if (entry.day === null || entry.day === undefined) return;
+
+    const previous = byDay.get(entry.day) || {};
+    byDay.set(entry.day, {
+      ...previous,
+      date: entry.date || previous.date || null,
+      day: entry.day,
+      dayType: entry.dayType || previous.dayType || '',
+      meals: mergeMeals(previous.meals, entry.meals),
+      protein: entry.protein ?? previous.protein ?? null,
+      calories: entry.calories ?? previous.calories ?? null,
+      workout: Boolean(previous.workout || entry.workout),
+      workoutType: entry.workoutType || entry.workoutDetails || previous.workoutType || previous.workoutDetails || '',
+      workoutDetails: entry.workoutDetails || previous.workoutDetails || '',
+      walkingPad: Boolean(previous.walkingPad || entry.walkingPad),
+      walkingPadMinutes: Math.max(previous.walkingPadMinutes || 0, entry.walkingPadMinutes || 0),
+      water: entry.water ?? previous.water ?? null,
+      sleep: entry.sleep || previous.sleep || null,
+      cravings: Boolean(previous.cravings || entry.cravings),
+      mood: entry.mood ?? previous.mood ?? null,
+      notes: entry.notes || previous.notes || '',
+    });
+  });
+
+  return Array.from(byDay.values()).sort((left, right) => left.day - right.day);
+}
+
+function main() {
+  console.log(`Parsing .coach files from ${COACH_DIR}...\n`);
+  ensureDir(OUTPUT_DIR);
+
+  if (!hasCoachFiles(COACH_DIR)) {
+    console.warn(`! No .coach brain found at ${COACH_DIR}. Keeping the existing generated JSON.`);
+    return;
+  }
+  
+  // Parse Metrics
+  try {
+    const metrics = parseMetrics(path.join(COACH_DIR, 'Metrics.md'));
+    writeJSON('metrics.json', metrics);
+  } catch (err) {
+    console.error('✗ Failed to parse Metrics.md:', err.message);
+  }
+  
+  // Parse BrainState
+  try {
+    const brainstate = parseBrainState(path.join(COACH_DIR, 'BrainState.md'));
+    writeJSON('brainstate.json', brainstate);
+  } catch (err) {
+    console.error('✗ Failed to parse BrainState.md:', err.message);
+  }
+  
+  // Parse Protocol
+  try {
+    const protocol = parseProtocol(path.join(COACH_DIR, 'Protocol.md'));
+    writeJSON('protocol.json', protocol);
+  } catch (err) {
+    console.error('✗ Failed to parse Protocol.md:', err.message);
+  }
+  
+  // Parse Progress
+  try {
+    const progress = parseProgress(path.join(COACH_DIR, 'Progress.md'));
+    writeJSON('progress.json', progress);
+    
+    // Also generate sessions from progress
+    const sessions = extractSessions(progress);
+    writeJSON('sessions.json', sessions);
+    
+    // Generate daily summary from progress
+    const daily = mergeDailyEntries(progress).map(p => ({
+      date: p.date,
+      day: p.day,
+      dayType: p.dayType,
+      meals: p.meals || {},
+      protein: p.protein,
+      calories: p.calories,
+      workout: p.workout,
+      workoutType: p.workoutType || p.workoutDetails || '',
+      walkingPad: p.walkingPad,
+      walkingPadMinutes: p.walkingPadMinutes,
+      water: p.water,
+      sleep: p.sleep,
+      cravings: p.cravings,
+      mood: p.mood,
+      notes: p.notes,
+    }));
+    writeJSON('daily.json', daily);
+    
+  } catch (err) {
+    console.error('✗ Failed to parse Progress.md:', err.message);
+  }
+  
+  console.log('\nDone! Output written to src/data/generated/');
+}
+
+function extractSessions(progress) {
+  const sessions = [];
+  let sessionNum = 0;
+  
+  progress.forEach(day => {
+    if (day.workout && day.workoutDetails) {
+      sessionNum++;
+      sessions.push({
+        sessionNumber: sessionNum,
+        date: day.date,
+        day: day.day,
+        type: getSessionType(day.workoutDetails),
+        details: day.workoutDetails,
+        exercises: [],
+        notes: day.notes,
+      });
+    }
+  });
+  
+  return sessions;
+}
+
+main();

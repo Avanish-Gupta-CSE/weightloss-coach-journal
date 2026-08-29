@@ -1,1 +1,17 @@
-.value) : adopt(result.value).then(fulfilled, rejected); }\r\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\r\n    });\r\n}\r\n\r\nexport function __generator(thisArg, body) {\r\n    var _ = { label: 0, sent: function() { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;\r\n    return g = { next: verb(0), \"throw\": verb(1), \"return\": verb(2) }, typeof Symbol === \"function\" && (g[Symbol.iterator] = function() { return this; }), g;\r\n    function verb(n) { return function (v) { return step([n, v]); }; }\r\n    function step(op) {\r\n        if (f) throw new TypeError(\"Generator is already executing.\");\r\n        while (_) try {\r\n            if (f = 1, y && (t = op[0] & 2 ? y[\"return\"] : op[0] ? y[\"throw\"] || ((t = y[\
+const variantStyles = {
+  blue: 'bg-accent-blue/10 text-accent-blue border-accent-blue/20',
+  green: 'bg-accent-green/10 text-accent-green border-accent-green/20',
+  yellow: 'bg-accent-yellow/10 text-accent-yellow border-accent-yellow/20',
+  red: 'bg-accent-red/10 text-accent-red border-accent-red/20',
+  purple: 'bg-accent-purple/10 text-accent-purple border-accent-purple/20',
+  orange: 'bg-accent-orange/10 text-accent-orange border-accent-orange/20',
+  gray: 'bg-bg-tertiary/50 text-text-secondary border-bg-tertiary',
+};
+
+export default function Badge({ children, variant = 'blue', className = '' }) {
+  return (
+    <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium border ${variantStyles[variant]} ${className}`}>
+      {children}
+    </span>
+  );
+}

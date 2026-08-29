@@ -103,7 +103,7 @@
       "week": 1,
       "date": "Mar 23, 2026",
       "weight": 90,
-      "type": "official",
+      "type": "skipped",
       "change": "-1.45",
       "cumulative": "-1.45",
       "notes": "Logged Mar 25 (Mon missed — office day). TRUE reading: naked + post-BM + post-bath dried = 90.00 kg. Clothed reading was 90.45 (~0.45 kg clothes). Pre-BM clothed = 90.80. ~0.65–0.80 kg of total loss = water/glycogen flush (normal Wk1). Actual fat loss ~0.55–0.65 kg. Rate ~0.92 kg/wk this week — faster than target due to water weight; will normalize by Wk3–4. Standard: all future weigh-ins = naked + post-BM + dry."
@@ -145,6 +145,15 @@
       "notes": "W5 scale higher due to Sunday retention (mango shake + 250ml milk + 200g biryani rice + jaggery + rest day). True fat trend still downward. Cumulative = -3.30 kg in 37 days including fever week. Phase 2 begins today."
     },
     {
+      "week": null,
+      "date": "Apr 25, 2026",
+      "weight": 86.7,
+      "type": "spot-check",
+      "change": "",
+      "cumulative": "",
+      "notes": "Naked spot check during GI-recovery re-entry phase | Useful recovery marker, not an official week reading"
+    },
+    {
       "week": 6,
       "date": "Apr 27, 2026",
       "weight": null,
@@ -154,13 +163,40 @@
       "notes": "Official Monday weigh-in was missed. Delayed spot check Apr 29: 86.45 kg naked / 87.00 kg clothed after BM. Useful trend signal and first -5.00 kg from Day 0, but do not count it as the official W6 reading."
     },
     {
-      "week": 7,
-      "date": "May 04, 2026",
-      "weight": null,
-      "type": "official",
+      "week": null,
+      "date": "Apr 29, 2026",
+      "weight": 86.45,
+      "type": "spot-check",
       "change": "",
       "cumulative": "",
-      "notes": ""
+      "notes": "Naked delayed spot check after BM | First clean-looking -5 kg trend signal, still unofficial"
+    },
+    {
+      "week": 7,
+      "date": "May 04, 2026",
+      "weight": 86.65,
+      "type": "spot-check",
+      "change": "-1.50 from W5 official",
+      "cumulative": "-4.80",
+      "notes": "Naked reading, but taken after gym and after 1 scoop OWN whey, with only partial morning BM before training. So this is the closest Monday checkpoint, not a perfectly clean fasted protocol-standard weigh-in. Still a strong trend marker: only +0.20 kg above the Apr 29 delayed spot check despite the Day 50 calorie overshoot."
+    },
+    {
+      "week": null,
+      "date": "May 04, 2026",
+      "weight": 86.65,
+      "type": "spot-check",
+      "change": "",
+      "cumulative": "",
+      "notes": "Naked, but taken after gym and after 1 scoop OWN whey | Closest Monday checkpoint, not protocol-standard"
+    },
+    {
+      "week": null,
+      "date": "May 06, 2026",
+      "weight": 85.85,
+      "type": "spot-check",
+      "change": "",
+      "cumulative": "",
+      "notes": "Naked, but taken after gym and after post-gym OWN whey on Day 53 | Strong trend marker and first sub-86 reading, but still unofficial"
     },
     {
       "week": 8,
@@ -181,49 +217,76 @@
       "notes": ""
     },
     {
-      "week": 10,
-      "date": "May 25, 2026",
-      "weight": null,
-      "type": "official",
+      "week": null,
+      "date": "May 27, 2026",
+      "weight": 85.75,
+      "type": "spot-check",
       "change": "",
       "cumulative": "",
-      "notes": ""
+      "notes": "After office, before dinner (not fasted) | Useful low spot check, but expect rebound after dinner/sodium"
+    },
+    {
+      "week": 10,
+      "date": "May 28, 2026",
+      "weight": 86.05,
+      "type": "official",
+      "change": "-0.60 from W7",
+      "cumulative": "-5.40",
+      "notes": "Delayed W10 substitute: Mon May 25 and Tue May 26 were not logged. Today reading is fasted, naked, post-BM — treat this as the Week 10 checkpoint."
     },
     {
       "week": 11,
       "date": "Jun 01, 2026",
-      "weight": null,
+      "weight": 86.05,
       "type": "official",
-      "change": "",
-      "cumulative": "",
-      "notes": ""
+      "change": "0.00 from W10",
+      "cumulative": "-5.40",
+      "notes": "W11 official: fasted, naked, post-BM. Same as W10 (May 28). Treat as water plateau signal (only 4 days gap), not a failure."
     },
     {
       "week": 12,
-      "date": "Jun 08, 2026",
-      "weight": null,
-      "type": "official",
+      "date": "Jun 06, 2026",
+      "weight": 85.4,
+      "type": "skipped",
+      "change": "-0.65 from W11",
+      "cumulative": "-6.05",
+      "notes": "W12 substitute: user-reported fasted, naked weigh-in taken on Saturday (Mon Jun 08 official missed). Use as the closest protocol-like checkpoint for Week 12."
+    },
+    {
+      "week": null,
+      "date": "Jun 09, 2026",
+      "weight": 85.7,
+      "type": "spot-check",
       "change": "",
       "cumulative": "",
-      "notes": ""
+      "notes": "Naked weigh-in after gym + after 1 scoop OWN whey + water | Post-workout/water reading; not protocol-standard. Expect +0.3–0.8 kg vs fasted."
+    },
+    {
+      "week": null,
+      "date": "Jun 14, 2026",
+      "weight": 83.4,
+      "type": "spot-check",
+      "change": "",
+      "cumulative": "",
+      "notes": "Naked reading during viral-fever recovery window (Sunday) | Likely dehydration/glycogen low; do not anchor to this as “real” weight"
     },
     {
       "week": 13,
       "date": "Jun 15, 2026",
-      "weight": null,
+      "weight": 84.2,
       "type": "official",
-      "change": "",
-      "cumulative": "",
-      "notes": ""
+      "change": "-1.20 from W12",
+      "cumulative": "-7.25",
+      "notes": "W13 official (flagged): naked reading taken during/just after a viral-fever + throat-infection window (paracetamol used; azithromycin 500 completed Fri–Sun). Expect rebound once hydration + appetite normalize. Treat as trend marker, not “true” fat loss."
     },
     {
       "week": 14,
       "date": "Jun 22, 2026",
-      "weight": null,
+      "weight": 84.5,
       "type": "official",
-      "change": "",
-      "cumulative": "",
-      "notes": ""
+      "change": "+0.30 from W13",
+      "cumulative": "-6.95",
+      "notes": "W14 official: naked Monday weigh-in (user report). Small rebound is expected after high-carb/wafer weekend + sleep disruption. Stay in scoreboard band; do not crash diet."
     },
     {
       "week": 15,
@@ -305,6 +368,15 @@
       "change": "",
       "cumulative": "",
       "notes": ""
+    },
+    {
+      "week": null,
+      "date": "Aug 29, 2026",
+      "weight": 81.85,
+      "type": "spot-check",
+      "change": "",
+      "cumulative": "",
+      "notes": "Naked morning spot check | Useful trend marker during travel/inconsistency month; do Monday fasted weigh-in for official checkpoint"
     },
     {
       "week": 24,
