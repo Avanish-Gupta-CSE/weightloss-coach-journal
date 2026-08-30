@@ -5678,17 +5678,65 @@ If you take the lassi, adjust the dinner protein patch to:
 ---
 ### 2026-08-29 (Day 168) — Session Update
 - **Topics discussed:** Anxiety + rain blocking gym; separation/transition stress; “tummy” perception despite stable weight; immediate reset without perfectionism.
-- **Decisions made:** Minimum-viable win today = **1 scoop OWN** + **indoor workout (walking pad + 12-min circuit)**. No crash dieting. No guilt compensation.
-- **Compliance notes:** ✅ Chicken meal logged. ❌ Gym skipped (rain/anxiety). Whey not taken yet at time of report.
-- **Next actions:** If you do nothing else: **drink the whey** + **walk indoors 30 min**. Then sleep on time.
+- **Decisions made:** Minimum-viable win today = **1 scoop OWN** + **protein-first biryani portion** + **indoor walking**. No crash dieting. No guilt compensation.
+- **Compliance notes:** ✅ Chicken meal logged. ✅ **OWN whey 1 scoop taken**. ❌ Gym skipped (rain/anxiety).
+- **Next actions:** If not done yet: **walk indoors 10–20 min** (digestion + anxiety). Optional: **protein patch** only if stomach feels good.
 - **Cursor context:** You are in Phase 3 by calendar, but execution right now is “re-entry mode” until consistency returns.
 
-#### Day 168 intake (reported so far) — estimated
+#### Day 168 intake (reported, incl dinner actual) — estimated
 
 | Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
 |---|---|---:|---:|---:|---:|---:|
 | Cooked rice (breakfast+lunch total) | 150g cooked | 195 (est) | 4.5g (est) | 195 | 4.5g | 1,705 kcal, 175.5g protein |
 | Bone-in chicken (home, low-oil) | 450g total | 495 (est) | 79g (est) | 690 | 83.5g | 1,210 kcal, 96.5g protein |
 | Roti | 2 | 200 (est) | 6g (est) | **890** | **89.5g** | **1,010 kcal, 90.5g protein** |
+| OWN whey | 1 scoop | 120 | 25g | 1,010 | 114.5g | 890 kcal, 65.5g protein |
+| Dinner: biryani rice | 200g cooked | 300 (est) | 5g (est) | 1,310 | 119.5g | 590 kcal, 60.5g protein |
+| Dinner: bone-in chicken (biryani) | 150g total | 165 (est) | 26g (est) | 1,475 | 145.5g | 425 kcal, 34.5g protein |
+| Dinner: raita | 150g | 90 (est) | 6g (est) | **1,565** | **151.5g** | **335 kcal, 28.5g protein** |
 
-**Current read (Day 168):** Calories are low so far, but **protein is still far below target**.
+**Estimated Day 168 closeout (current, incl dinner actual):** **~1,565 kcal / ~152g protein** → ✅ protein floor hit, calories in band; still ~28g short of 180g target.
+
+---
+### 2026-08-30 (Day 169) — Session Update
+- **Weight:** 81.35 kg (naked, user report)
+- **Workout:** Y — Upper (gym) + incline walk
+- **Topics discussed:** Upper session actuals; re-entry consistency; idli/vada breakfast portion.
+- **Decisions made:** Breakfast = **idli + sambar**, **skip vada** (deep-fried). Keep today protein-first.
+- **Compliance notes:** ✅ Gym done. ✅ OWN whey 1 scoop. Breakfast pending.
+- **Next actions:** Eat breakfast as prescribed, then plan lunch/dinner to lock **≥150g protein** again.
+- **Cursor context:** **Vada = deep-fried (Rule 4).** If you choose to eat it anyway, cap to **1 max** and remove all other fried items today.
+
+#### Upper + Core (Actuals)
+
+| Exercise | Planned target (last known) | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Warm-up | 5 min | 5 min | ✅ Done | Same |
+| Tricep overhead (cable) | 30 lbs × 3 × 10–12 | **45 lbs × 3 × 12** | ⚠️ Big jump | Keep **45 × 3 × 10–12** only if strict; else **40** |
+| Face pull (cable) | 50 lbs × 3 × 12–15 | **75 × 12; 80 × 12; 85 × 12** | ⚠️ Heavy | Next: **75 × 3 × 12–15** strict (no lean-back) |
+| Bicep curl (rod/cable) | 40 lbs (rope hammer) × 2–3 × 12 | **75 lbs × 3 × 12** | ⚠️ Check form | Keep **75** only if strict; else **65–70 × 3 × 10–12** |
+| Lat pulldown | 75 lbs × 3 × 10–12 | **75 × 12; 80 × 12; 85 × 12** | ✅ Progressed | Next: **80 × 3 × 10–12** (no swing) |
+| Lat pulldown (close grip) | 75 lbs × 3 × 10–12 | **75 × 8; 80 × 8** | ⚠️ Too heavy for range | Next: **75 × 3 × 8–12** (add reps before weight) |
+| Pec deck / fly | 85 lbs × 3 × 10–12 | **100 lbs × 3 × 12** | ✅ Big progress | Keep **100 × 3 × 10–12** with slow stretch |
+| Chest press | 65 lbs × 3 × 10–12 | **65 lbs × 3 × 12** | ✅ Locked | Optional: **70** Set 1 only; otherwise keep **65** |
+| Lateral raise (DB) | 3.75 kg × 3 × 10–12 | **3.75 kg × 2 × 12** | ✅ Done (missed set) | Next: **3.75 kg × 3 × 10–12** |
+| Cable crunch | 30 lbs × 3 × 12 | **30 lbs × 3 × 12** | ✅ Done | Next: **35 lbs × 3 × 10–12** |
+| Treadmill incline walk | 10 min | **20 min @ 4 kmph, incline 8.0** | ✅ Strong | Same |
+
+**Progression calls:**
+- Pulldown: you earned **80** as the baseline if you keep it strict.
+- Pec deck: hold **100** and earn control (don’t chase jumps while re-entering).
+- Face pull: prioritize strict rear-delt/back work over load.
+
+**1 safety cue:** On pulldowns + face pulls: no torso swing—ribs down, shoulders down, squeeze upper-back.
+
+#### Day 169 intake (so far + breakfast prescription) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Post-gym: OWN whey | 1 scoop | 120 | 25g | 120 | 25g | 1,780 kcal, 155g protein |
+| Breakfast (recommended): idli | 3 medium | 180 (est) | 6g (est) | 300 | 31g | 1,600 kcal, 149g protein |
+| Breakfast: sambar | 250g | 160 (est) | 6g (est) | 460 | 37g | 1,440 kcal, 143g protein |
+| Breakfast: coconut chutney | 20g | 60 (est) | 1g (est) | **520** | **38g** | **1,380 kcal, 142g protein** |
+
+**Current read after recommended breakfast (Day 169):** **~520 kcal / ~38g protein** → calories fine, but protein still needs a protein-first lunch/dinner.

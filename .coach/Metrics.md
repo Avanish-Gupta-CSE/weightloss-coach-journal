@@ -148,3 +148,4 @@ These are **useful trend markers**, but they do **not** replace the Monday faste
 | Jun 09, 2026 | 85.70 | Naked weigh-in **after gym** + **after 1 scoop OWN whey** + water | Post-workout/water reading; not protocol-standard. Expect +0.3–0.8 kg vs fasted. |
 | Jun 14, 2026 | 83.40 | Naked reading during viral-fever recovery window (Sunday) | Likely dehydration/glycogen low; do not anchor to this as “real” weight |
 | Aug 29, 2026 | 81.85 | Naked morning spot check | Useful trend marker during travel/inconsistency month; do Monday fasted weigh-in for official checkpoint |
+| Aug 30, 2026 | 81.35 | Naked morning spot check | Trend marker; aim for Monday fasted weigh-in consistency |

@@ -1,13 +1,13 @@
 {
   "snapshot": {
-    "Current day": "Day 168 — Aug 29, 2026 (Saturday). Yesterday Day 167 closeout (est): ~2,035 kcal / ~60g protein (protein floor missed; Rule 4 violation: puri). Today so far (est): ~890 kcal / ~90g protein. Gym missed today (rain + anxiety).",
-    "Phase": "PHASE 3 ACTIVE. 3 sets × 10–12 reps. Latest captured session: 2026-08-27 = Lower. Priority: re-entry consistency (minimum viable workouts), protein floor, walking pad.",
-    "Last weight": "81.85 kg (Aug 29) — naked morning spot check (user report). Last official logged in file: W14 = 84.50 kg (Jun 22).",
+    "Current day": "Day 169 — Aug 30, 2026 (Sunday). Yesterday Day 168 closeout (est): ~1,565 kcal / ~152g protein (protein floor hit; calories in band). Today done: Gym = Upper. Today so far: OWN whey 1 scoop.",
+    "Phase": "PHASE 3 ACTIVE. 3 sets × 10–12 reps. Latest captured sessions: 2026-08-30 = Upper, 2026-08-27 = Lower. Priority: re-entry consistency (minimum viable workouts), protein floor, walking pad.",
+    "Last weight": "81.35 kg (Aug 30) — naked morning spot check (user report). Prior: 81.85 kg (Aug 29).",
     "Starting weight": "91.45 kg (March 14, Day 0)",
     "Next weigh-in": "Monday Aug 31, 2026 (W24) — fasted, naked, post-BM, before food/water.",
     "Diet mode": "Re-entry autopilot (Aug 29 → Sep 6): scoreboard band 1,800–1,900 kcal, protein ≥150g floor / 180g target, walking 30 min/day, no deep-fried/maida, whey allowed.",
-    "Protein status": "Logging gap Jun 26 → Aug 26 (untracked). Day 167 missed floor (~60g est). Day 168 so far ~90g; plan: 1 scoop OWN now + 1 more protein serving to reach floor.",
-    "Gym sessions completed": "56 complete (logged; count stale due to logging gap Jun 26 → Aug 26). Latest captured: 2026-08-27 = Lower. Missed: Aug 28, Aug 29. Next planned: Upper (home fallback if rain).",
+    "Protein status": "Logging gap Jun 26 → Aug 26 (untracked). Day 167 missed floor (~60g est). Day 168 hit floor (~152g est). Day 169 so far: OWN whey 1 scoop; plan: lock ≥150g again.",
+    "Gym sessions completed": "56 complete (logged; count stale due to logging gap Jun 26 → Aug 26). Latest captured: 2026-08-30 = Upper (and 2026-08-27 = Lower). Next planned: Lower.",
     "Medications active": "Thyroxine 50mcg at 6 AM daily (permanent)."
   },
   "kitchenStock": [
