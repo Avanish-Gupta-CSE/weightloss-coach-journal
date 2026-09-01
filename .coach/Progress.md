@@ -5740,3 +5740,25 @@ If you take the lassi, adjust the dinner protein patch to:
 | Breakfast: coconut chutney | 20g | 60 (est) | 1g (est) | **520** | **38g** | **1,380 kcal, 142g protein** |
 
 **Current read after recommended breakfast (Day 169):** **~520 kcal / ~38g protein** → calories fine, but protein still needs a protein-first lunch/dinner.
+
+---
+### 2026-09-01 (Day 171) — Program Audit (no intake reported)
+- **Topics discussed:** Full 171-day program audit; workspace/infrastructure review; relocation to UCO Bank (leaving Bangalore by Sep 6); what has actually worked vs failed.
+- **Decisions made:** Added **R-R (relocation transition protocol, Sep 1–15)** and **R-S (anxiety/rain gym-block downgrade instead of skip)**. Confirmed **no day-by-day backfill** of the Jun 26 – Aug 26 gap. Kitchen stock whey moved to **⚠️ count unknown** pending a physical count before the move.
+- **Compliance notes:** **Days 170–171 (Aug 31 – Sep 1) not reported.** **W24 official weigh-in (Aug 31) missed** — 10th consecutive missed official weigh-in. Sep 1 is a **Tuesday → veg-only (R-L)**.
+- **Next actions:** (1) Report Aug 31 + Sep 1 intake/training if recoverable. (2) Resolve the four **URGENT** pre-move items: Cult.fit pause/transfer, carry-kit (both scales + whey + walking pad + air fryer), cook replacement, W25 weigh-in plan. (3) Take **W25 official weigh-in Monday Sep 7** in the new city.
+- **Cursor context:** Do not read the missing W15–W24 blanks as a stall — the trend from spot checks is **84.50 → 81.35 kg**. The genuine failure mode is the **protein floor (hit on only ~5 of 20 logged closeouts)**, not calories.
+
+#### Audit — 171-day scorecard
+
+| Dimension | Result | Verdict |
+|---|---|---|
+| Weight | **91.45 → 81.35 kg** = **-10.10 kg** in 169 days (~0.42 kg/week) | ✅ Real, durable loss; slightly under the 0.5–0.65 band |
+| BMI | **32.4 → 28.8** | ✅ Exited **Obese Class I** |
+| Milestones | -5 kg on schedule; **-10 kg ~4 weeks late** | ⚠️ Slippage came entirely from the Jun 26 – Aug 26 gap |
+| Protein floor (≥150g) | Hit on **~5 of 20** logged closeouts (**~25%**) | ❌ Primary structural failure |
+| Calorie band (1,800–1,900) | Frequently 2,000–2,650 on logged days | ⚠️ Yet weight still fell → TDEE ~2,635 estimate is sound |
+| Training | **56 sessions logged**; strength up across the board (Leg Press 80 → **140 kg**, Pec Deck 85 → **100 lbs**, Pulldown 60 → **85 lbs**, Cable Crunch 15 → **35 lbs**) | ✅ Strongest dimension — progressive overload held even through the gap |
+| Consistency | ~8 gym visits in **all of August**; 61-day logging gap | ❌ Adherence variance is the bottleneck, not program design |
+| Medical | No new incidents since Jun 14 (viral fever); wrist improving; thyroxine continuous | ✅ Stable |
+| System/infra | `.coach` brain-complex + live dashboard + 4 agent-runtime configs + repo recovered after C:-drive loss | ✅ Fully operational |

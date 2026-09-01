@@ -391,10 +391,10 @@
       "week": 24,
       "date": "Aug 31, 2026",
       "weight": null,
-      "type": "official",
-      "change": "",
-      "cumulative": "",
-      "notes": ""
+      "type": "skipped",
+      "change": "—",
+      "cumulative": "-10.10 (unofficial)",
+      "notes": "W15–W24 (Jun 29 → Aug 31) = 10 consecutive missed official weigh-ins (Jun 26 – Aug 26 logging gap: travel, resignation, relocation prep). Best available trend markers are the naked spot checks Aug 29 = 81.85 kg and Aug 30 = 81.35 kg. Using Aug 30: -10.10 kg from Day 0 over 169 days ≈ 0.42 kg/week average — below the 0.5–0.65 target band but achieved despite a 2-month untracked stretch. BMI 28.8 (from 32.4) → exited Obese Class I into Overweight. Restart the Monday fasted protocol at W25 (Sep 7) in the new city."
     },
     {
       "week": 25,
