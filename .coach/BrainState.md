@@ -1,4 +1,4 @@
-﻿# BrainState.md — Protocol 200 Working Memory
+# BrainState.md — Protocol 200 Working Memory
 
 > **This is the brain's working memory. Read this FIRST before any other file.**
 > `Progress.md` = episodic log (the journal). `Protocol.md` = rules (the rulebook). `THIS FILE` = what is true RIGHT NOW (the brain).
@@ -10,14 +10,14 @@
 
 | Field | Value |
 |---|---|
-| Current day | **Day 171 — Sep 1, 2026 (Tuesday).** **Veg-only day (R-L).** Last fully logged day = **Day 169 (Aug 30)**. **Days 170–171 (Aug 31 – Sep 1) intake/training = NOT YET REPORTED.** |
+| Current day | **Day 171 — Sep 1, 2026 (Tuesday).** **Veg-only day (R-L).** **Day 171 intake logged 20:10 IST (packing day, gym skipped).** Day 170 (Aug 31) still not reported. |
 | Phase | **PHASE 3 ACTIVE.** 3 sets × 10–12 reps. **Latest captured sessions:** **2026-08-30 = Upper**, **2026-08-27 = Lower**. Priority: re-entry consistency (minimum viable workouts), protein floor, walking pad. |
 | Last weight | **81.35 kg** (Aug 30) — naked morning spot check (user report). Prior: **81.85 kg** (Aug 29). **Cumulative: -10.10 kg from Day 0** (~0.42 kg/week avg). **BMI 28.8** (down from 32.4 — no longer Obese Class I). |
 | Starting weight | 91.45 kg (March 14, Day 0) |
 | Next weigh-in | **⚠️ W24 (Monday Aug 31) was MISSED / not reported.** Next official = **Monday Sep 07, 2026 (W25)** — fasted, naked, post-BM, before food/water. Take it in the new city. |
 | Diet mode | **Relocation transition protocol (Sep 1 → Sep 15, rule R-R):** scoreboard band **1,800–1,900 kcal**, protein **≥150g floor / 180g target**, walking **30 min/day**, **minimum 3 training sessions/week** (home fallback counts), no deep-fried/maida, whey allowed. |
-| Protein status | **Logging gap Jun 26 → Aug 26 (untracked).** Day 167 missed floor (~60g est). Day 168 hit floor (~152g est). Day 169 partial (post-gym OWN + idli/sambar prescription; closeout never reported). **Floor hit rate across all logged closeouts ≈ 5/20 (25%) — this is the #1 structural failure of the program.** |
-| Gym sessions completed | **56 logged in journal** (counter stale — the Jun 26 → Aug 26 gap was untracked; user reports **only ~8 gym visits in August**). Latest captured: **2026-08-30 = Upper** (and **2026-08-27 = Lower**). Next planned: **Lower**. |
+| Protein status | **Day 171: ~91g est (with 1 scoop OWN) — floor MISSED by ~59g.** Day 168 hit floor (~152g). Day 169 partial. **Floor hit rate ≈ 5/21 (24%) — still the #1 structural failure.** Carb-heavy packing day (vermicelli + 4 bananas + rice) left no room for protein without 300g+ paneer. |
+| Gym sessions completed | **56 logged in journal** (counter stale — the Jun 26 → Aug 26 gap was untracked; user reports **only ~8 gym visits in August**). Latest captured: **2026-08-30 = Upper** (and **2026-08-27 = Lower**). **Sep 1: skipped (packing, no R-S downgrade).** Next planned: **Lower**. |
 | Life context | **Leaving Bangalore by Sep 6, 2026** to join **UCO Bank**. Berkadia last physical working day was emotionally heavy; August had heavy travel + anxiety-driven missed sessions. Treat Sep 1–15 as a **logistics-constrained transition**, not a performance block. |
 | Medications active | Thyroxine 50mcg at 6 AM daily (permanent). |
 
