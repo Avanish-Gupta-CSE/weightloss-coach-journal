@@ -1,21 +1,22 @@
 {
   "snapshot": {
-    "Current day": "Day 168 — Aug 29, 2026 (Saturday). Yesterday Day 167 closeout (est): ~2,035 kcal / ~60g protein (protein floor missed; Rule 4 violation: puri). Today so far (est): ~890 kcal / ~90g protein. Gym missed today (rain + anxiety).",
-    "Phase": "PHASE 3 ACTIVE. 3 sets × 10–12 reps. Latest captured session: 2026-08-27 = Lower. Priority: re-entry consistency (minimum viable workouts), protein floor, walking pad.",
-    "Last weight": "81.85 kg (Aug 29) — naked morning spot check (user report). Last official logged in file: W14 = 84.50 kg (Jun 22).",
+    "Current day": "Day 172 — Sep 2, 2026. Day 171 actuals corrected Sep 2: 1.5 gobhi parantha (180g) + 75g yoghurt, 0 whey — no paneer bhurji. Day 171 was veg-only (R-L, Tuesday, packing day, gym skipped). Day 170 (Aug 31) still not reported.",
+    "Phase": "PHASE 3 ACTIVE. 3 sets × 10–12 reps. Latest captured sessions: 2026-08-30 = Upper, 2026-08-27 = Lower. Priority: re-entry consistency (minimum viable workouts), protein floor, walking pad.",
+    "Last weight": "81.35 kg (Aug 30) — naked morning spot check (user report). Prior: 81.85 kg (Aug 29). Cumulative: -10.10 kg from Day 0 (~0.42 kg/week avg). BMI 28.8 (down from 32.4 — no longer Obese Class I).",
     "Starting weight": "91.45 kg (March 14, Day 0)",
-    "Next weigh-in": "Monday Aug 31, 2026 (W24) — fasted, naked, post-BM, before food/water.",
-    "Diet mode": "Re-entry autopilot (Aug 29 → Sep 6): scoreboard band 1,800–1,900 kcal, protein ≥150g floor / 180g target, walking 30 min/day, no deep-fried/maida, whey allowed.",
-    "Protein status": "Logging gap Jun 26 → Aug 26 (untracked). Day 167 missed floor (~60g est). Day 168 so far ~90g; plan: 1 scoop OWN now + 1 more protein serving to reach floor.",
-    "Gym sessions completed": "56 complete (logged; count stale due to logging gap Jun 26 → Aug 26). Latest captured: 2026-08-27 = Lower. Missed: Aug 28, Aug 29. Next planned: Upper (home fallback if rain).",
+    "Next weigh-in": "⚠️ W24 (Monday Aug 31) was MISSED / not reported. Next official = Monday Sep 07, 2026 (W25) — fasted, naked, post-BM, before food/water. Take it in the new city.",
+    "Diet mode": "Relocation transition protocol (Sep 1 → Sep 15, rule R-R): scoreboard band 1,800–1,900 kcal, protein ≥150g floor / 180g target, walking 30 min/day, minimum 3 training sessions/week (home fallback counts), no deep-fried/maida, whey allowed.",
+    "Protein status": "Day 171 actual (Sep 2 correction): ~32.8g — floor MISSED by ~117g / target by ~147g. Prescribed was ~91g (with 1 scoop OWN); actual had 0 whey + no paneer bhurji — only 1.5 gobhi parantha (180g) + 75g yoghurt. Day 168 hit floor (~152g). Day 169 partial. Floor hit rate ≈ 5/21 (24%) — still the #1 structural failure. Carb-heavy packing day (vermicelli + 4 bananas + rice) left no room for protein without 300g+ paneer.",
+    "Gym sessions completed": "56 logged in journal (counter stale — the Jun 26 → Aug 26 gap was untracked; user reports only ~8 gym visits in August). Latest captured: 2026-08-30 = Upper (and 2026-08-27 = Lower). Sep 1: skipped (packing, no R-S downgrade). Next planned: Lower.",
+    "Life context": "Leaving Bangalore by Sep 6, 2026 to join UCO Bank. Berkadia last physical working day was emotionally heavy; August had heavy travel + anxiety-driven missed sessions. Treat Sep 1–15 as a logistics-constrained transition, not a performance block.",
     "Medications active": "Thyroxine 50mcg at 6 AM daily (permanent)."
   },
   "kitchenStock": [
     {
       "item": "Whey protein (OWN isolate)",
-      "status": "✅ In stock",
+      "status": "⚠️ Count unknown",
       "quantity": "",
-      "notes": "New OWN packet obtained Day 83. Keep 1 scoop/day baseline; reorder backup when <10 scoops remain."
+      "notes": "Last confirmed restock Day 83 (Jun 5). Two months untracked since. Physically count remaining scoops before the Sep 6 move — do not carry a near-empty tub to a new city with unknown local availability."
     }
   ],
   "rules": [
@@ -120,9 +121,46 @@
       "rule": "Steps floor = 10k/day (temp)",
       "details": "New commitment from Day 89. Treat as the daily minimum. If time-crunched: split into 3 blocks (morning + lunch + post-dinner).",
       "added": "Day 89, Jun 11"
+    },
+    {
+      "code": "R-R",
+      "rule": "Relocation transition protocol (temp: Sep 1–15)",
+      "details": "During the Bangalore → UCO Bank move, the scoreboard collapses to 3 non-negotiables only: (1) protein ≥150g/day, (2) ≥3 training sessions/week — gym OR the home fallback (incline push-ups, backpack rows, bodyweight squats, plank) both count, (3) 30 min walking/day. Calories are a guardrail, not a target: stay under 1,900 but do not crash-diet during travel. Missing a gym day is only a failure if the home fallback was also skipped.",
+      "added": "Day 171, Sep 1"
+    },
+    {
+      "code": "R-S",
+      "rule": "Anxiety/rain gym-block override",
+      "details": "If anxiety or weather blocks the gym (repeated in late Aug), the session is not cancelled — it is downgraded, never skipped: 30 min indoor walk + 12-min bodyweight circuit. Logged as a completed session. Removes the all-or-nothing loop that produced the 8-session August.",
+      "added": "Day 171, Sep 1"
     }
   ],
   "pending": [
+    {
+      "item": "Cult.fit membership vs relocation",
+      "details": "ELITE PLUS bought May 1, 2026 (₹16,940, 13 months → valid to ~Jun 2027, 60 pause days). User leaves Bangalore by Sep 6. Decide before the move: (a) is the membership valid at a Cult.fit centre in the new city, (b) if not, apply pause days immediately so months are not burned while unused, (c) if no Cult.fit exists there, budget a local gym + confirm machine availability (leg press / pulldown / pec deck are the program's core).",
+      "priority": "URGENT — before Sep 6"
+    },
+    {
+      "item": "W24 official weigh-in missed",
+      "details": "Monday Aug 31 (W24) was not reported. Metrics table has had no official weigh-in since W14 (Jun 22, 84.50 kg) — 10 consecutive blanks. Only spot checks exist (Aug 29 = 81.85, Aug 30 = 81.35). Restart the Monday fasted protocol on Sep 7 (W25) in the new city and log it.",
+      "priority": "URGENT"
+    },
+    {
+      "item": "Carry-kit for the move",
+      "details": "Confirm these travel with you and are not packed into unreachable luggage: food weighing scale, body weight scale, OWN whey tub, walking pad, air fryer. Without the two scales the whole logging system degrades back to guesswork.",
+      "priority": "URGENT — before Sep 6"
+    },
+    {
+      "item": "Cook availability in new city",
+      "details": "Bangalore setup relied on a personal cook Mon–Sat with 1 tsp oil discipline. That disappears on relocation. Decide the replacement: new cook, mess/tiffin service, or self-cook. Until it is decided, default to air-fryer + paneer/eggs/whey (highest protein per unit of effort).",
+      "priority": "URGENT — before Sep 6"
+    },
+    {
+      "item": "Jun 26 → Aug 26 logging gap",
+      "details": "~61 days untracked (travel + resignation + exam prep). Decision: do NOT backfill day-by-day. Keep it as a documented gap; weight trend (84.50 → 81.35) is the only reliable signal from that window. Gym-session counter (56) stays flagged as stale rather than being guessed upward.",
+      "priority": "✅ RESOLVED (leave as gap)"
+    },
     {
       "item": "May 25 weigh-in value (W10)",
       "details": "✅ RESOLVED: Logged delayed W10 substitute on May 28 = 86.05 kg (fasted, naked, post-BM).",
@@ -454,6 +492,16 @@
       "date": "May 8 (Day 55)",
       "event": "Session 30 Lower Body completed. Thyroxine timing violation — taken after gym/whey instead of 6AM fasted. Dinner = 153g bone-in chicken curry + 1 roti + 100g egg bhurji after agreeing to skip roti and egg bhurji (discipline slip). Projected close with mandatory OWN whey: ~2,227 kcal / ~183g protein. Carbs +73g over, fat +39.5g over, but still in ~275-375 kcal deficit vs TDEE on gym day.",
       "status": "⚠️ DISCIPLINE SLIP ON DINNER; OWN WHEY MANDATORY BEFORE SLEEP."
+    },
+    {
+      "date": "Aug 2026 (Days ~141–170)",
+      "event": "Stress/transition window. Heavy travel, resignation from Berkadia, emotionally hard final working day, exam prep, and Bangalore bike-taxi ban + rain. Result: ~8 gym visits in the whole month, untracked eating, and repeated anxiety-driven morning/evening gym cancellations. No illness reported — this was a logistics + mood problem, not a medical one.",
+      "status": "⚠️ ACTIVE — managed by rules R-R and R-S through Sep 15"
+    },
+    {
+      "date": "Aug 29 (Day 168)",
+      "event": "User reported \"tummy\" / relaxed abdominal appearance despite weight being stable-to-down all month, plus acute anxiety spiral. Coach read: not fat regain — loss of training pump + stress water + posture + digestion after weeks of low training frequency.",
+      "status": "✅ EXPLAINED — fix is training frequency + protein floor, not a calorie cut"
     },
     {
       "date": "Ongoing",
