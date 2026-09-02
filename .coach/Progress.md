@@ -5766,13 +5766,13 @@ If you take the lassi, adjust the dinner protein patch to:
 ---
 
 ### 2026-09-01 (Day 171) — Session Update
-- **Topics discussed:** Day 171 intake logging (Bangalore-exit packing day); gym skipped; vermicelli breakfast, rice+dal+bhindi lunch, 4 bananas evening, gobhi parantha + paneer bhurji + flavoured yoghurt dinner prescription; pre-sleep whey decision.
-- **Decisions made:** Dinner = **1 gobhi parantha (120g cooked) + 200g paneer bhurji (cooked, 1 tsp oil) + 75g flavoured yoghurt**; **1 scoop OWN pre-sleep mandatory** (lukewarm + 5 almonds, R-A), optional 2nd scoop earlier if gut allows; accept protein floor miss today, reset tomorrow with protein-first breakfast.
-- **Compliance notes:** ❌ Gym skipped (packing — no downgraded circuit per R-S). ✅ Veg-only (R-L) compliant. ⚠️ Protein-starved day — 4 bananas + vermicelli = carb-heavy, low protein. Calories in band only if dinner portion controlled.
-- **Next actions:** (1) Eat dinner as prescribed (200g paneer, not 150g). (2) Take 1 scoop OWN pre-sleep with 5 almonds, lukewarm, sip 5 min. (3) 30 min walking pad tonight while packing (R-R). (4) Tomorrow: protein-first breakfast (besan chilla or paneer bhurji, no vermicelli/banana repeat). (5) W25 weigh-in Mon Sep 7 fasted.
-- **Copilot context:** Day 171 logged late (20:10 IST). Packing day, no training. Intake heavily carb-skewed; even optimal dinner + 1 scoop OWN only reaches ~91g protein — floor miss is structural today, not fixable without 300g+ paneer. Log as-is, do not compensate by crash-dieting tomorrow (R-R).
+- **Topics discussed:** Day 171 intake logging (Bangalore-exit packing day); gym skipped; vermicelli breakfast, rice+dal+bhindi lunch, 4 bananas evening, gobhi parantha + flavoured yoghurt dinner — **actuals correction Sep 2**.
+- **Decisions made:** Dinner **actual = 1.5 gobhi parantha (180g cooked) + 75g flavoured yoghurt**; **paneer bhurji (200g) NOT eaten, 0 scoop OWN — no protein taken**; accept protein floor miss today, reset tomorrow with protein-first breakfast (R-R — no crash-diet compensation).
+- **Compliance notes:** ❌ Gym skipped (packing — no downgraded circuit per R-S). ✅ Veg-only (R-L) compliant. ⚠️ Protein-starved day — 4 bananas + vermicelli = carb-heavy, low protein. **Actual closeout ~1,380 kcal / ~32.8g protein — 520 kcal under target, floor missed by ~117g.** No whey taken.
+- **Next actions:** (1) Tomorrow: protein-first breakfast (besan chilla or paneer bhurji, no vermicelli/banana repeat). (2) 30 min walking pad while packing (R-R). (3) W25 weigh-in Mon Sep 7 fasted, naked, post-BM. (4) Count OWN scoops before Sep 6 move.
+- **Copilot context:** Day 171 prescribed dinner was 1×120g parantha + 200g paneer bhurji + 75g yoghurt + 1 scoop OWN (~1,935 kcal / ~91g). **Actual Sep 2 correction: 1.5× parantha + yoghurt only, no paneer, no whey.** Intake heavily carb-skewed; floor miss is structural today, not fixable without 300g+ paneer. Log as-is, do not compensate by crash-dieting tomorrow (R-R).
 
-#### Day 171 intake — estimated (cooked weights)
+#### Day 171 intake — estimated (cooked weights) — CORRECTED Sep 2 actuals
 
 | Intake item | Quantity (cooked) | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180g | Remaining gap |
 |---|---:|---:|---:|---:|---:|---:|
@@ -5781,11 +5781,18 @@ If you take the lassi, adjust the dinner protein patch to:
 | Mix dal (cooked, thick) | 150g | 165 (est) | 9.0g (est) | 605 | 17.8g | 1,295 kcal, 162.2g protein |
 | Bhindi sabzi (cooked, 1 tsp oil shared) | 50g | 35 (est) | 1.0g (est) | 640 | 18.8g | 1,260 kcal, 161.2g protein |
 | Bananas | 4 medium (~360g edible) | 360 (est) | 4.0g (est) | **1,000** | **22.8g** | **900 kcal, 157.2g protein** |
-| **Dinner prescribed:** Gobhi parantha | 1 × 120g | 210 (est) | 5.0g (est) | 1,210 | 27.8g | 690 kcal, 152.2g protein |
-| Paneer bhurji (paneer only) | **200g** | 540 (est) | 36.0g (est) | 1,750 | 63.8g | 150 kcal, 116.2g protein |
-| Flavoured yoghurt | 75g | 65 (est) | 2.5g (est) | **1,815** | **66.3g** | **85 kcal, 113.7g protein** |
-| OWN whey isolate (pre-sleep) | **1 scoop** | 120 | 25.0g | **1,935** | **91.3g** | **-35 kcal, 88.7g protein** |
+| **Dinner actual:** Gobhi parantha | **1.5 × 120g = 180g** | 315 (est) | 7.5g (est) | 1,315 | 30.3g | 585 kcal, 149.7g protein |
+| Flavoured yoghurt | 75g | 65 (est) | 2.5g (est) | **1,380** | **32.8g** | **520 kcal, 147.2g protein** |
+| OWN whey isolate (pre-sleep) | **0 scoop — not taken** | 0 | 0.0g | **1,380** | **32.8g** | **520 kcal, 147.2g protein** |
 
-**Estimated Day 171 closeout (prescribed dinner + 1 scoop OWN):** **~1,935 kcal / ~91g protein** → ⚠️ **35 kcal over band, ~59g short of 150g floor / ~89g short of 180g target.** Even with 2 scoops OWN: ~2,055 kcal / ~116g protein — still short, but best rescue without force-feeding 300g paneer.
+**Actual Day 171 closeout (Sep 2 correction):** **~1,380 kcal / ~32.8g protein** → ⚠️ **520 kcal under 1,900 target, ~117g short of 150g floor / ~147g short of 180g target.** Paneer bhurji (200g) + 1 scoop OWN not taken — structural protein miss. Do not compensate by crash-dieting tomorrow (R-R); reset with protein-first breakfast.
 
-> **Note:** All quantities are **cooked/ready-to-eat weights** as you eat them. Paneer weight is **cooked paneer** in the bhurji (not raw block). Estimates use standard Indian food composition + 1 tsp oil discipline; your cook's actual oil will shift kcal ±30–50.
+> **Note:** All quantities are **cooked/ready-to-eat weights** as you eat them. Estimates use standard Indian food composition + 1 tsp oil discipline; your cook's actual oil will shift kcal ±30–50. **Prescribed dinner was 1×120g parantha + 200g paneer bhurji + 75g yoghurt + 1 scoop OWN (~1,935 kcal / ~91g) — actual was 1.5× parantha + yoghurt only.**
+
+---
+### 2026-09-02 (Day 172) — Session Update
+- **Topics discussed:** Sep 2 correction for Day 171 actuals; gh-pages dashboard sync.
+- **Decisions made:** Logged Day 171 actuals as **1.5 gobhi parantha (180g) + 75g yoghurt, 0 whey**; updated BrainState snapshot + Progress closeout; rebuilt dashboard via `npm run parse` + `npm run build` and synced `gh-pages`.
+- **Compliance notes:** Day 171 floor miss acknowledged without judgment; no compensation diet prescribed.
+- **Next actions:** Day 172 intake to be logged protein-first; continue R-R transition protocol.
+- **Copilot context:** User reported actuals on Sep 2; correction applied and pushed to `main` + `gh-pages`.
