@@ -3991,10 +3991,10 @@
     "cravings": false,
     "cravingsDetails": "",
     "mood": null,
-    "protein": 33,
-    "calories": 1380,
+    "protein": 51,
+    "calories": 1650,
     "notes": "",
-    "raw": "### 2026-09-01 (Day 171) — Session Update\n- **Topics discussed:** Day 171 intake logging (Bangalore-exit packing day); gym skipped; vermicelli breakfast, rice+dal+bhindi lunch, 4 bananas evening, gobhi parantha + flavoured yoghurt dinner — **actuals correction Sep 2**.\n- **Decisions made:** Dinner **actual = 1.5 gobhi parantha (180g cooked) + 75g flavoured yoghurt**; **paneer bhurji (200g) NOT eat"
+    "raw": "### 2026-09-01 (Day 171) — Session Update\n- **Topics discussed:** Day 171 intake logging (Bangalore-exit packing day); gym skipped; vermicelli breakfast, rice+dal+bhindi lunch, 4 bananas evening, gobhi parantha + paneer bhurji + yoghurt dinner — **actuals correction Sep 2 (v2: +100g paneer)**.\n- **Decisions made:** Dinner **actual = 1.5 gobhi parantha (180g cooked) + 100g paneer bhurji + 75g flavo"
   },
   {
     "date": "2026-09-02",
@@ -4015,6 +4015,6 @@
     "protein": null,
     "calories": null,
     "notes": "",
-    "raw": "### 2026-09-02 (Day 172) — Session Update\n- **Topics discussed:** Sep 2 correction for Day 171 actuals; gh-pages dashboard sync.\n- **Decisions made:** Logged Day 171 actuals as **1.5 gobhi parantha (180g) + 75g yoghurt, 0 whey**; updated BrainState snapshot + Progress closeout; rebuilt dashboard via `npm run parse` + `npm run build` and synced `gh-pages`.\n- **Compliance notes:** Day 171 floor miss"
+    "raw": "### 2026-09-02 (Day 172) — Session Update\n- **Topics discussed:** Sep 2 correction for Day 171 actuals (v2: +100g paneer bhurji); gh-pages dashboard sync.\n- **Decisions made:** Logged Day 171 actuals as **1.5 gobhi parantha (180g) + 100g paneer bhurji + 75g yoghurt, 0 whey**; updated BrainState snapshot + Progress closeout; rebuilt dashboard via `npm run parse` + `npm run build` and synced `gh-pag"
   }
 ]
