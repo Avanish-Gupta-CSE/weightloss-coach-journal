@@ -5797,3 +5797,84 @@ If you take the lassi, adjust the dinner protein patch to:
 - **Compliance notes:** Day 171 floor miss acknowledged without judgment; no compensation diet prescribed.
 - **Next actions:** Day 172 intake to be logged protein-first; continue R-R transition protocol.
 - **Copilot context:** User reported actuals on Sep 2 (v2 adds 100g paneer); correction applied and pushed to `main` + `gh-pages`.
+
+---
+### 2026-09-16 (Day 172) — Full Day Actuals
+
+**Context:** Day 172 (Sep 16). Home return day after Bangalore relocation. Gym skipped.
+
+**Meals (actual):**
+
+| Meal | Items | Est. kcal | Est. protein | Compliance |
+|---|---|---:|---:|---|
+| Breakfast | 2 paneer paranthas + 1 katori dahi (1 spoon sugar) + 1 cream roll (30g) | ~813 | ~35.5g | ⚠️ (cream roll = processed, sugar in dahi) |
+| Lunch | 3 chicken leg pieces (~180g meat) + 2 roti | ~740 | ~51g | ✅ |
+| Snack | 50g Jabsons soya sticks | ~200 | ~20g | ⚠️ (processed, likely maida coating) |
+| Dinner | 2 roti + 50g puffed rice + 3 chicken leg pieces (~180g meat) + 2 whole eggs | ~930 | ~64g | ⚠️ (puffed rice = empty carbs) |
+| **Day 172 total** | | **~2,683** | **~170.5g** | — |
+
+**Day 172 closeout:** **~2,683 kcal / ~170.5g protein** → ⚠️ **+783 kcal over 1,900 target, ~9.5g short of 180g target.** Protein floor HIT (150g+) but calorie overshoot significant. Gym SKIPPED. Puffed rice and soya sticks are processed carb/protein sources — not optimal for aggressive cut.
+
+**Violations:**
+1. Cream roll = processed food (Rule 3/5 risk)
+2. Soya sticks = likely maida coating (Rule 3)
+3. Puffed rice = empty carbs, zero nutritional value
+4. Gym skipped = no muscle stimulus, no calorie burn
+
+**Damage assessment:** +783 kcal = ~0.1 kg fat equivalent. Not catastrophic alone, but compounds if repeated. The +2.35 kg scale weight (83.70 vs 81.35) is mostly water/glycogen from travel, not all fat.
+
+**Next actions:**
+1. Sep 17: Strict 1,400 kcal day with 180g protein
+2. Gym TODAY — Upper body (shoulders + lats for V-taper)
+3. Walking pad 45 min minimum
+4. No carbs after 3 PM
+5. Water 3.5–4 L to flush sodium
+
+**OpenCode context:** Day 172 was a transition day — home return, no gym, calorie overshoot. Day 173 starts aggressive cut protocol: 1,400 kcal, 180g protein, 45 min walking, 4 gym sessions/week. Target: 78 kg by Sep 27. ❌ **Reframed on Day 173 — see the Sep 17 entry below: that target was unachievable and Sep 27 is now a checkpoint.**
+
+---
+### 2026-09-17 (Day 173) — Session Update
+
+**Context:** Day 173 (Sep 17, Wednesday). Post-relocation. Weigh-in: **83.70 kg** (naked, post-BM, AM) — first data point in the new city, +2.35 kg vs the Aug 30 spot check (81.35 kg). All-time low remains 81.15 kg. BMI back to ~29.6 (Overweight band).
+
+**Topics discussed:**
+1. Ingested the latest `AgentChats/` context (newest archive `18b5989e…`, last written Sep 17 09:46) plus the opencode session export `creating-agent-opencode-from-cursor.json` (Sep 16 10:31 → Sep 17 09:47).
+2. Reconciled the **Day 172 calorie/protein discrepancy** between the two sources.
+3. Audited the cut protocol against the 78 kg-by-Sep-27 goal — and found that goal unachievable from 83.70 kg.
+4. Re-audited the brain for relocation-stale state.
+
+**Decisions made:**
+1. **Day 172 canonical figure = ~2,683 kcal / ~170.5 g protein.** The opencode agent's intermediate "~1,870 kcal / ~135 g" answer excluded breakfast; after the user's correction, breakfast (813 kcal / 35.5 g) was folded back in. `BrainState.md` and `Progress.md` both already hold the correct 2,683 / 170.5 figure — no change needed, only the discrepancy documented.
+2. **Aggressive cut window Sep 17 → Sep 27** adopted as the operating diet mode: 1,400–1,500 kcal band, protein ≥180 g, 45 min walking/day, ≥4 training sessions/week, no carbs after 3 PM, sodium <1,500 mg/day, no sugar, water 3.5–4 L. Originally aimed at 78 kg by Sep 27 — but 83.70 → 78.00 in 11 days is 3.6 kg/week (≈2.5–3× a sustainable rate). See decision 4.
+3. **Cut variant RESOLVED (Sep 17): the opencode 4-week taper (1,400 → 1,300 → 1,200 → 1,200 kcal) is REJECTED; flat 1,400–1,500 kcal is the ruling band.** Rejected because 1,200 kcal is unsafe against the gastritis/reflux history, the 50 mcg levothyroxine dose, the ≥180 g protein + 3.5–4 L water load, and the BARC/MSTC/HPCL exam-prep priority. The only argument for going lower was the Sep 27 deadline, and that deadline was never achievable (see next decision).
+4. **The "78 kg by Sep 27" target is REFRAMED as mathematically impossible.** 5.70 kg in 11 days = 0.52 kg/day, which implies a ~4,000 kcal/day deficit. At 1,400–1,500 kcal against a TDEE of ~2,150 the deficit is ~700 kcal/day = ~0.8–1.0 kg/week. **Sep 27 becomes a checkpoint with a realistic landing of 80.0-81.0 kg; 78 kg lands ~Oct 20 and 77.0–77.5 kg ~Oct 27.** Forecast curve recorded in BrainState.md: Sep 20 = 82.2–82.6 kg (glycogen/sodium flush), Sep 27 = 80.0–81.0 kg, Oct 20 = ~78 kg.
+5. **R-R (relocation transition latitude) formally EXPIRED** — marked so in the Standing Rule Overrides table. Normal targets apply again from Sep 17.
+
+**Compliance notes:**
+- Day 173 intake **not yet reported** — no meals logged today. Only the Day-172 closeout plan exists (strict 1,400 kcal / 180 g protein / gym / 45 min walk).
+- Day 172: gym **skipped**; calories **+783 over target**; protein 170.5 g (floor hit, target missed by ~9.5 g).
+- Cream roll, soya sticks, and puffed rice logged as Day-172 violations (processed food / maida risk / empty carbs).
+
+**Brain repairs applied this session:**
+1. Fixed **text corruption** in `BrainState.md` line 15 — the phrase had leaked Chinese characters (CJK) spliced into the sentence after "travel". Replaced the whole fragment with `travel-related dietary shifts`.
+2. `Next weigh-in` corrected from the stale Sep 07 (W25) to **Monday Sep 21 (W26)**, with the 12-consecutive-missed-weeks note.
+3. `Life context` moved to past tense: **RELOCATED** — left Bangalore, joined UCO Bank, returned home Sep 16.
+4. Kitchen Stock re-stamped to **Day 173, Sep 17** and split into three rows (whey ⚠️ count unknown, paneer/eggs/chicken ⚠️ unverified, roasted chana + sattu ⚠️ unknown after move).
+5. Four Pending Decisions rows re-stamped from `URGENT — before Sep 6` to overdue (Cult.fit status, W24/W25 weigh-in restart, carry-kit verification, new-city cook availability).
+6. `Metrics.md`: W25 (Sep 07) and W26 (Sep 14) marked **MISSED**; Sep 17 = 83.70 kg added to the spot-check table.
+7. New Pending Decision: **Aggressive cut variant not confirmed** (MEDIUM — before Sep 21).
+
+**Next actions:**
+1. ~~Answer the pending cut-variant question~~ ✅ Done — flat 1,400–1,500 kcal confirmed; Sep 27 reframed as a checkpoint (78 kg ~Oct 20). **Tell the user the deadline is unachievable** and hold the 1,400 kcal floor against any urge to crash lower.
+2. **Resolve the new-city cook/mess replacement** — still blocking the meal engine for the aggressive cut.
+3. **Weigh in Monday Sep 21 (W26), fasted, naked, post-BM** — log in `Metrics.md`. This ends the 12-week blank run.
+4. Confirm whether the Cult.fit ELITE PLUS membership is usable in the new city; if not, apply pause days before it lapses unused.
+5. Log Day 173 intake (has not been reported yet).
+6. Optional: convert `creating-agent-opencode-from-cursor.json` into proper `AgentChats/` JSONL so the Sep 16–17 opencode turns exist as a verbatim transcript — the current 6-line tail append is lossy/paraphrased.
+
+**Copilot context:**
+- The `AgentChats/18b5989e…jsonl` tail append (6 uncommitted lines, Sep 17) is a **lossy merge** of two separate opencode turns, not a verbatim archive. The authoritative source for the Sep 16–17 conversation is `creating-agent-opencode-from-cursor.json`.
+- `Protocol.md` is **stale** in two places: the Equipment Inventory says Cult.fit is "valid until April 30, 2026", and the cook is described as Bangalore PG-based. Per the custom instructions, `BrainState.md` is the source of truth for current state, so `Protocol.md` was deliberately left unedited — but the Phase 3/4 calorie bands now conflict with the aggressive cut and need a reconciliation pass.
+- Day 173 meal engine is blocked on the cook/mess decision; until resolved, default to air-fryer + paneer/eggs/whey.
+- **Target correction is the headline of this session:** the user's stated goal "78 kg by 27th Sept" (confirmed verbatim in the opencode export msg 18) is not achievable from 83.70 kg. Do not let a later session quietly re-adopt it, and do not let the failure to hit it be read as non-compliance. **Holding 1,400-1,500 kcal is the correct call**; dropping to 1,200 was explicitly rejected for gut/thyroid/exam reasons.
+- **Open question for the user:** they may have meant **Oct 27** rather than Sep 27 — at 0.97 kg/week that target is fully achievable and would need no plan change beyond the date. Confirm before treating the deadline as settled either way.
