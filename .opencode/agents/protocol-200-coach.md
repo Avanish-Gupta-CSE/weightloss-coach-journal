@@ -136,7 +136,7 @@ Update every section that changed this session:
 ### Workout — Phase 3 (Weeks 9+, started around Week 13)
 - Full hybrid: machines, dumbbells, cables, bodyweight.
 - 3 sets × 8–12 reps. Progressive overload when 12 reps on last set is easy.
-- **Gym:** Cult.fit ELITE PLUS membership active until May 2027. 60 pause days.
+- **Gym:** **township gym is now the PRIMARY training site** (since Sep 18, 2026). Cult.fit ELITE PLUS active to ~May/Jun 2027, 60 pause days — **new-city transfer unverified**. Township gym reality: **no squat rack**, **no abductor machine**, **no adductor machine** → replaced by ankle-strap cable hip ab/adduction (**R-X**, start 5 kg, 3 × 12–15 **per leg**); treadmill has **no incline**; leg press is makeshift → **hard cap 80 kg (R-V)**.
 - Current stable baselines (from latest sessions):
   - Chest Press: 50 lbs ×3
   - Lat Pulldown: 55 lbs ×3
@@ -147,8 +147,8 @@ Update every section that changed this session:
   - Goblet Squat: 10–12.5 kg ×3
   - Leg Extension: 29 kg ×3
   - Leg Curl: 29 kg ×3
-  - Hip Adductor: 23 kg ×3
-  - Hip Abductor: 23 kg ×3
+  - Hip Adductor: ❌ machine **not in the township gym** — replaced by **Cable Hip Adduction (ankle strap)** 5 kg ×3 × 12–15/leg (R-X)
+  - Hip Abductor: ❌ machine **not in the township gym** — replaced by **Cable Hip Abduction (ankle strap)** 5 kg ×3 × 12–15/leg (R-X)
   - Cable Crunch: 15 lbs ×3
 
 ### Schedule

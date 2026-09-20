@@ -5983,7 +5983,7 @@ If you take the lassi, adjust the dinner protein patch to:
 
 **Gym equipment (new township gym) — recorded verbatim for `BrainState.md`:**
 - **Upper:** cable crunches, rod bicep curls, rod tricep overhead, rod bicep negatives, lat pulldowns, low row, chest press, pec deck, adjustable multi-press machine, treadmill with **no incline**.
-- **Legs:** leg extension, lying leg curls, leg press (100 kg machine but **makeshift — previously broke under load at 100 kg**), abductor + adductor machines, ankle **leg straps for the cable/rope machine** (abductors/adductors), dumbbell crunches. **No squat rack / goblet-squat station.**
+- **Legs:** leg extension, lying leg curls, leg press (100 kg machine but **makeshift — previously broke under load at 100 kg**), **❌ NO abductor machine and NO adductor machine** (confirmed Day 190) — substituted by ankle **leg straps on the cable/rope machine**, which are now the **primary** hip ab/adduction work (**R-X**), dumbbell crunches. **No squat rack / goblet-squat station.**
 - **Cardio:** township cycling — 20–25 min per round, 4.5 km per round (mountain bike); community stadium running at 4–5 AM.
 
 **Corrected baseline reference (last logged weights, old Bangalore gym — Session 30, May 8):** Chest Press 50 lbs ×3 · Lat Pulldown 55 lbs ×3 · Seated Row 29 kg ×3 · DB Shoulder Press 7.5 kg/arm ×3 · DB Bent-Over Row 10 kg/arm ×3 · Leg Press 90 kg ×3 · Goblet Squat 10 kg ×3 · Leg Extension 29 kg ×3 · Leg Curl 29 kg ×3 · Hip Adductor/Abductor 23 kg ×3 · Cable Crunch 15 lbs ×3. **These are re-validation references only** — the new gym's stacks, pulleys and machine geometry differ, so today's session used calibration sets.
@@ -6044,9 +6044,8 @@ Anchors: last upper session **Sep 18 (#57)**; **Sep 19 taken as a gap day** → 
 | Leg Press | 3 × 10–12 | **60 kg calibration → 75 kg working. HARD CAP 80 kg (R-V)** | 90 s | Feet shoulder-width, knees track over toes, **never lock out** | +5 kg only when 12 reps is RIR-2 — but never past 80 kg on this makeshift machine |
 | Leg Extension | 3 × 12 | **27 kg** | 60 s | 1-second pause at the top, control the return | +2 kg when 12 reps are clean |
 | Lying Leg Curl | 3 × 12 | **27 kg** | 60 s | Hips glued to the pad — no lower-back arch | +2 kg when 12 reps are clean |
-| Hip Abductor | 3 × 12–15 | **25 kg** | 45 s | 1-second hold at full range | +2.5 kg at 15 reps |
-| Hip Adductor | 3 × 12–15 | **25 kg** | 45 s | Same as abductor | +2.5 kg at 15 reps |
-| Cable Abduction / Adduction (ankle strap) | 3 × 12 / leg | **5 kg** | 45 s | **Only if the dedicated abductor/adductor machines don't exist** — otherwise skip, they're redundant | +1.25 kg at 12 reps |
+| **Cable Hip Abduction (ankle strap)** | 3 × 12–15 **per leg** | **5 kg** (calibration) | 45–60 s | Stand side-on to the cable, strap on the **working-side ankle**, lowest pulley; leg drives **outward from the midline**; torso still — no leaning to fake range | +2.5 kg when 12–15 clean/leg |
+| **Cable Hip Adduction (ankle strap)** | 3 × 12–15 **per leg** | **5 kg** (calibration) | 45–60 s | Strap on the **far ankle**, standing leg nearest the machine; pull the working leg **inward across the midline**, in front of the standing leg; torso still | +2.5 kg when 12–15 clean/leg |
 | Treadmill cooldown | 1 × 10 min | **Flat, 4.5–5.0 km/h — no incline** | — | Recovery pace only; this is not cardio | — |
 
 Session-level rules: **RIR 3 today, not RIR 2** — first session on unfamiliar machines · **R-V: leg-press hard cap 80 kg** (this gym's press is makeshift and previously broke at 100 kg) · **no squat rack and no goblet-squat option exists in this gym**, so leg press is the only compound for legs · cardio already banked earlier in the day (township cycling, 9.06 km ≈ 2 rounds).
@@ -6103,7 +6102,7 @@ Swap available: **200 g paneer** in place of the chicken if non-veg is not avail
 4. Place the 3 grocery orders still marked "PLACE TODAY" in `BrainState.md`.
 5. Count remaining OWN whey scoops and record it.
 6. Settle the **new-city cook/mess decision** before Sep 27.
-7. Push the 6 unpushed local commits manually: `git push origin main`.
+7. Push the **8** unpushed local commits manually: `git push origin main`.
 
 **Copilot context (next session MUST know):**
 
@@ -6113,3 +6112,50 @@ Swap available: **200 g paneer** in place of the chicken if non-veg is not avail
 4. Corrected TDEE reference used for all projections: **working TDEE ~2,550–2,700, ~2,635 baseline** (`Metrics.md` line 50). The earlier `~2,400–2,500` figure in this day's entry header has been corrected to match.
 5. Day counter is re-anchored: **Sep 20 = Day 190**. Older entries keep their original numbers, producing a 173→190 jump on the dashboard Day axis.
 6. **Do not compensate tomorrow** for today landing at ~1,744–1,804 kcal. Resume the band normally.
+
+**Part 3 — same day, ~1:25 PM (equipment correction: no ab/adductor machine → ankle-strap cable substitution)**
+
+The user reported that the **hip abductor machine and the hip adductor machine do not exist** in the township gym, and that the **ankle leg straps** are the intended substitute. The Part-2 Lower + Core table carried the cable version as a *contingency* — that framing was wrong. It is now the **primary** hip work, and the two machine rows are deleted.
+
+**What changed:**
+
+| Artifact | Before | After |
+|---|---|---|
+| `BrainState.md` | No rule covered the missing machines | **R-X** added — `Hip ab/adduction = ankle-strap cable work`, with full technique, per-leg sets, 5 kg start, progression |
+| `BrainState.md` Snapshot + resolved Pending row | `hip ab/adductor + cable leg straps` | `ankle-strap cable hip ab/adduction (**❌ no ab/adductor machine — R-X**)` |
+| `Progress.md` township-gym equipment list | `abductor + adductor machines, ankle leg straps … (abductors/adductors)` | Machines marked **❌ NOT present**; the straps **promoted to primary** (R-X) |
+| `Progress.md` Day-190 prescription | Hip Abductor 25 kg ❌ · Hip Adductor 25 kg ❌ · cable row as contingency | Two **primary** rows: Cable Hip Abduction (ankle strap) · Cable Hip Adduction (ankle strap) |
+| `WorkoutSplit.md` Friday table (rows 122–123) | `Hip Adductor Machine 2 x 15` · `Hip Abductor Machine 2 x 15` | Both annotated ❌ **Not present in the township gym (Sep 2026+)** |
+| `WorkoutSplit.md` new section | — | `## Phase 4 — Township Gym (Sep 2026 →): Equipment Reality + Substitutions` |
+| 4 rulebook files | Cult.fit as the current gym; baseline `Hip Adductor/Abductor 23 kg ×3` | Township gym marked **primary**; machine baselines declared **void**, replaced by R-X strap work |
+
+**Corrected hip work (replaces the two machine rows):**
+
+| Movement | Sets × reps | Target weight | Rest | Form cue | Next-session rule |
+|---|---:|---:|---:|---|---|
+| **Cable Hip Abduction (ankle strap)** | 3 × 12–15 **per leg** | **5 kg** (calibration) | 45–60 s | Strap on the **working-side ankle**, lowest pulley; leg drives **outward from the midline**; torso still — no leaning to fake range | +2.5 kg when 12–15 are clean per leg |
+| **Cable Hip Adduction (ankle strap)** | 3 × 12–15 **per leg** | **5 kg** (calibration) | 45–60 s | Strap on the **far ankle**, standing leg nearest the machine; pull the working leg **inward across the midline**, in front of the standing leg | +2.5 kg when 12–15 are clean per leg |
+
+**Execution notes:**
+
+1. **Single-leg movement** → reps are **per leg**, and total working sets per exercise = **3, not 6**. Do not double the volume.
+2. **Set 1 is a learning set at RIR 3** — the standing-leg stabilisers take real load the first time out.
+3. **Torso stays still.** Leaning to cheat the range is the number-one error on cable hip work.
+4. **Abduction travels out and away** from the midline; **adduction travels in and across** the midline, in front of the standing leg.
+5. **Fallback if the cable is occupied:** side-lying leg raises (abduction) / side-lying cross-body raises (adduction), or a looped resistance band. Never skip the movement.
+6. **Rest cap 45–60 s** — this is accessory work and must not extend the session.
+7. **Everything else in the Part-2 table stands unchanged**, including **R-V: leg-press hard cap 80 kg** and **no squat rack / no goblet-squat station**.
+
+**Next actions (Part 3 additions):**
+
+1. **Confirm the ankle straps have actually arrived** — both movements depend on them. If not, use a looped resistance band or the side-lying fallback this week.
+2. **Confirm the cable machine has a usable low pulley plus a carabiner** the strap clips into. If the lowest pulley is still chest-height, rig a second anchor or use the band.
+3. **Re-verify the rest of the township-gym equipment list on site.** Two listed items (abductor, adductor) turned out not to exist — treat the remainder as unverified until walked through.
+
+**Copilot context (Part 3 additions):**
+
+1. **R-X is live** — `Hip ab/adduction = ankle-strap cable work`. **Next free rule code: R-Y.**
+2. **No abductor and no adductor machine exist in the township gym.** No future plan may prescribe them unless a specific gym is verified to have one. Historical logs from the old Cult.fit gym (23 kg ×3) remain in this file as **history only**.
+3. `WorkoutSplit.md` now carries a **Phase 4 section** for the township gym; the Phase-1 Friday table's ab/adductor rows are annotated as absent.
+4. **Total unpushed local commits: 8** — the six listed in Part 2 plus `0e3bd93` and the Part-3 commit.
+5. **Flagged, not edited:** `WorkoutSplit.md` `## Progressive Overload Schedule` still lists **Phase 3 = 3 × 8–12**, which contradicts the live **Phase 3 = 3 × 10–12** in `BrainState.md`. Pre-existing, out of scope for this fix.

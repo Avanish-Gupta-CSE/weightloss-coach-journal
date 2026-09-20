@@ -119,8 +119,8 @@ No gym. Heavy PSU study day.
 | 1 | Leg Press (feet higher on platform) | 2 x 12–15 | Glutes, hamstrings | Higher foot placement shifts work to glutes and hamstrings. |
 | 2 | Leg Extension | 2 x 12–15 | Quads | Same as Tuesday. Try to go one notch heavier if Tuesday felt easy. |
 | 3 | Leg Curl | 2 x 12–15 | Hamstrings | Same as Tuesday. |
-| 4 | Hip Adductor Machine | 2 x 15 | Inner thighs | Squeeze in, slow release. |
-| 5 | Hip Abductor Machine | 2 x 15 | Outer thighs/glutes | Push out, hold 1 sec, slow return. |
+| 4 | Hip Adductor Machine | 2 x 15 | Inner thighs | Squeeze in, slow release. ❌ **Not present in the township gym (Sep 2026+) — replace with ankle-strap cable adduction, see Phase 4 below.** |
+| 5 | Hip Abductor Machine | 2 x 15 | Outer thighs/glutes | Push out, hold 1 sec, slow return. ❌ **Not present in the township gym (Sep 2026+) — replace with ankle-strap cable abduction, see Phase 4 below.** |
 | 6 | Hanging Leg Raise (or lying on bench) | 2 x 10–12 | Lower abs | If hanging is too hard, do lying leg raises on a bench. |
 | — | Cool-down: stretch | — | — | 3 min |
 | | | | **Total:** | **~38 min** |
@@ -199,6 +199,44 @@ Graduate to a full Upper/Lower split mixing machines and free weights. By now yo
 ### Progressive overload: +2.5 kg when 12 reps on last set is easy. Back to 8 reps at new weight.
 
 ---
+
+## Phase 4 — Township Gym (Sep 2026 →): Equipment Reality + Substitutions
+
+The township gym has a **different machine list**. The program stays the same in intent — not in hardware.
+
+**Verified available (Day 190, Sep 20, 2026):**
+
+| Area | Equipment |
+|---|---|
+| Upper | Cable station (rope + rod), rod bicep curl, rod tricep overhead, rod bicep negatives, lat pulldown, low row, chest press, pec deck, adjustable multi-press |
+| Legs | Leg extension, lying leg curl, **leg press** (makeshift — see cap in rules below) |
+| Core | Cable crunch, dumbbell crunch |
+| Cardio | Treadmill (**no incline control**), township cycling (4.5 km / 20–25 min per round, mountain bike), community stadium running |
+
+**Absent → substitutions:**
+
+| Old equipment | Status | Substitution | Starting prescription |
+|---|---|---|---|
+| Hip Abductor Machine | ❌ Absent | **Cable Hip Abduction — ankle strap** | 3 × 12–15 **per leg**, start **5 kg** |
+| Hip Adductor Machine | ❌ Absent | **Cable Hip Adduction — ankle strap** | 3 × 12–15 **per leg**, start **5 kg** |
+| Squat rack / goblet-squat station | ❌ Absent | Leg press + leg extension | **R-V: leg-press HARD CAP 80 kg** |
+| Incline treadmill | ❌ No incline | Flat treadmill + township cycling | Never program incline work here |
+
+**Ankle-strap technique (R-X):**
+
+| Movement | Strap on | Pulley | Direction of travel | Form cue |
+|---|---|---|---|---|
+| Abduction | **Working-side** ankle | Lowest | Leg drives **outward from the midline** | Stand side-on holding the frame; **torso still** — never lean to fake range |
+| Adduction | **Far** ankle (standing leg nearest the machine) | Lowest | Working leg pulls **inward across the midline**, in front of the standing leg | Same torso rule; control the return — no slingshot |
+
+Rules that apply to both movements:
+
+1. **Single-leg** — reps are **per leg**, so total working sets per exercise = **3, not 6**. Never double the volume.
+2. **Set 1 is a learning set at RIR 3** — the standing-leg stabilizers take real load the first time out.
+3. **Progress +2.5 kg** when 12–15 reps are clean per leg; cap rest at **45–60 s** to protect session length.
+4. **If the cable is occupied:** side-lying leg raises (abduction), side-lying cross-body raises (adduction), or a looped resistance band. Never skip the movement.
+5. **No ab/adductor machine appears in any plan from Sep 2026 onward** unless a specific gym is verified to have one.
+
 
 ## Walking Pad Daily Protocol (Separate from Gym)
 

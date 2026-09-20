@@ -124,13 +124,16 @@ The `.coach/` directory contains the persistent memory system:
 
 ## Equipment Inventory
 
+> ⚠️ **FLAGGED Sep 20, 2026 (Day 190) — this table still describes the Bangalore / PG-room setup.** The **township gym** (primary since Sep 18, 2026) has **no squat rack, no abductor machine, and no adductor machine**; the treadmill has **no incline** and the leg press is makeshift (**cap 80 kg**, R-V). The ab/adductor machines are replaced by **ankle-strap cable hip ab/adduction — 5 kg, 3 × 12–15 per leg (R-X)**. The `Location` column below is stale, not the intent.
+
 | Item | Location | Details |
 |---|---|---|
-| Cult.fit gym membership | 10 min by Rapido bike taxi | Valid until May 2027 (ELITE PLUS, ₹16,940). 60 pause days. |
+| Cult.fit gym membership | 10 min by Rapido bike taxi (Bangalore-era) | Valid until ~May/Jun 2027 (ELITE PLUS, ₹16,940). 60 pause days. **New-city transfer unverified — township gym is now primary (since Sep 18, 2026).** |
 | Walking pad | Home (PG room) | 0–8 kmph, flat (no incline). Primary use: LISS cardio while studying. |
 | Adjustable dumbbells | Home (PG room) | Kore PVC 20 kg set (2 x 10 kg) |
 | Food weighing scale | Home (PG room) | Use to weigh all portions. Eliminates guesswork. |
 | Body weight scale | Home (PG room) | Weekly weigh-in every Monday morning, fasted, after bathroom. |
+| Township gym (current, primary) | ~10 min from residence | **No squat rack · no abductor machine · no adductor machine** (→ ankle-strap cable hip ab/adduction, 5 kg, R-X) · treadmill **no incline** · makeshift leg press, **hard cap 80 kg** (R-V) |
 | Personal cook | Comes to PG room | Mon–Sat. Can prepare meals with exact instructions. |
 | Air fryer | Home (PG room) | Key equipment for Sunday self-managed days. |
 
