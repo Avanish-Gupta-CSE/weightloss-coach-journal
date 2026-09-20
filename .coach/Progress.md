@@ -6199,7 +6199,7 @@ The newly reported lunch (2.5 fish pieces + 80–100 g cooked rice) is **numeric
 | **SuperYou wafer (NEW)** | 1 wafer (user-specified) | 90 | 5 g | 1,334 / 1,900 | 71 / 180 | 566 kcal · 109 g |
 | **Cashew kernels (NEW)** | 15 kernels ≈ 25 g | 138 | 4.6 g | **1,472 / 1,900** | **75.6 / 180** | **428 kcal · 104.4 g** |
 
-**Revised Day-190 running total: ~1,472 kcal / ~75.6 g protein** — **Day 190 updated estimate: ~1,472 kcal / ~76g protein.** — 428 kcal of headroom left, but still **74.4 g short of the 150 g hard floor**.
+**Revised Day-190 running total (pre-dinner): ~1,472 kcal / ~75.6 g protein** — **Day 190 updated estimate: ~2,035 kcal / ~101g protein.** — dinner actuals added **563 kcal / 25.6 g** (Part 5.B), so the day closed **135 kcal over the 1,800–1,900 band** and **49 g short of the 150 g hard floor**. Pre-dinner headroom was 428 kcal / 74.4 g.
 
 #### Decision 3 — the live deficit check (pre-dinner)
 
@@ -6279,3 +6279,161 @@ From **1,472 kcal** with only **428 kcal** left, the remaining protein gap is **
 5. **Day 190 is a fruit-overrun case study** — 6 servings (~620 kcal / ~7 g protein / ~111 g sugar) consumed a third of the calorie band for 4% of the protein target. **R-T (max 2 fruit servings/day) is the rule this day broke hardest.**
 6. Use the dinner Option-A composition as the template for future lauki/roti/daal dinners: **trim the roti, keep the daal, always add eggs.**
 
+
+#### Part 5 — post-dinner closeout: the leg workout actually performed, dinner actuals, the Day-190 report card, and the Day-191 plan
+
+**Trigger (filed ~10:15 PM, Sep 20):** user reported the full Lower + Core session *with loads*, an Apple Watch capture (**537 KCal / 82:54 / "Traditional Strength Training"**), and the dinner he **actually** ate — **1 pear, 2 roti, 3-egg omelette, 50 g lauki sabzi** — which is **not** the Option-A dinner prescribed in Part 4.
+
+##### Part 5.A — the workout actually performed (Sun Sep 20, 2026 — Lower + Core, session #58)
+
+| Exercise | Planned target | Actual | Verdict | Next time (weight × reps) |
+|---|---|---|---|---|
+| Warm-up | 5 min easy cardio | 5 min done | ✅ | Keep 5 min |
+| Cable hip abduction (per leg) | Calibration **5 kg/leg**, 3×12–15 (R-X) | **33 lbs (≈15 kg) × 3 × 12 per leg** | 🟠 Overshoot ×3 — **adopt as the new R-X baseline** if the torso stayed still | **33 lbs × 3 × 12–15** (hold, validate form) |
+| Cable hip adduction (per leg) | Calibration **5 kg/leg**, 3×12–15 (R-X) | **33 lbs (≈15 kg) × 3 × 12 per leg** | 🟠 Overshoot ×3 — same | **33 lbs × 3 × 12–15** |
+| Cable leg curl (sub for the lying leg-curl machine) | Lying leg curl **29 kg** × 3 × 10–12 | **33 lbs (≈15 kg) × 3 × 12 per leg** | 🟡 Valid substitution, but the load is low | **44 lbs (≈20 kg) × 3 × 12** — or return to the lying machine at 29 kg → 32 kg |
+| Leg press | **75 kg × 3 × 10–12** (R-V hard cap **80 kg**) | **84 kg × 3 × 12** | 🔴 **R-V VIOLATION — 4 kg over the hard cap, on the makeshift rig that already broke under him at 100 kg** | **75 kg × 3 × 12** — never above 80 kg again |
+| Leg extension | 27 kg × 3 × 10–12 | **>40 lbs (≈18.1 kg) × 3 × 12** | 🟠 **~27% under target** — real load headroom | **27 kg × 3 × 12** |
+| Cable crunch | 15 lbs × 3 × 12–15 | **>100 lbs × 3 × 12** | ⚠️ **Anomaly — needs clarification** (≈6.7× the prescribed figure; either a different stack ratio or a misread) | Verify the stack numbering **before** it becomes a baseline |
+| Treadmill | 5 min walk, 0% incline | 6 km/h × 5 min, 0 incline | ✅ | Keep |
+| DB goblet squat | 10 kg × 3 × 10–12 | **SKIPPED** ("SORRY") | ❌ The only true squat-pattern movement available in this gym | **10 kg × 3 × 12** on the next lower day (Thu Sep 24) |
+
+**Apple Watch credit:** **537 kcal active / 82:54**. Credited conservatively at **+250 kcal** (see Part 5.C).
+
+**Progression calls:**
+
+1. **Hip ab/adduction → 33 lbs (≈15 kg) per leg is the new working baseline.** Progress to **38 lbs** only when **3 × 15 per leg** is clean with zero torso sway.
+2. **Leg press → frozen.** Working weight **75 kg**, hard cap **80 kg**, no progression until the machine is inspected and stable.
+3. **Leg extension → 27 kg** is the immediate next load on this machine's stack.
+4. **Cable leg curl → 44 lbs**, or back to the lying leg-curl machine at 29 → 32 kg.
+5. **Cable crunch → hold.** No progression until the >100 lbs reading is verified against a known reference.
+
+**Safety cue (the one most likely to break form):** on the **leg press rig** — if the frame shifts, the cable goes slack, or the sled tracks unevenly **even once**, rack it and substitute **3 × 12 goblet squat (10 kg) + 3 × 12 leg extension (27 kg)**. This machine has a documented failure history at 100 kg and is now being loaded at 84 kg.
+
+**Session-efficiency note:** **82:54 for 8 movements (~24–27 working sets)** means roughly 3 min/set including rest. Superset cable crunches with leg extensions and cap rest at **60 s** on the ab/adduction/crunch work → the same volume fits in **~60 min**, which matters while exam prep is running in parallel.
+
+##### Part 5.B — dinner actuals and the true Day-190 total
+
+| Intake (disclosed post-hoc) | Est. kcal | Est. protein |
+|---|---:|---:|
+| Pear ×1 (≈180 g) | 101 | 1.2 g |
+| Roti ×2 | 200 | 6.0 g |
+| 3-egg omelette + ~1 tsp oil | 250 | 18.0 g |
+| Lauki sabzi, 50 g cooked | 12 | 0.4 g |
+| **Dinner subtotal** | **563** | **25.6 g** |
+
+| Line | kcal | Protein |
+|---|---:|---:|
+| Pre-dinner logged total (Part 4) | 1,472 | 75.6 g |
+| + Dinner actuals | 563 | 25.6 g |
+| **Day 190 — true final** | **2,035** | **101 g** |
+
+| Metric | Target | Day 190 final | Gap |
+|---|---:|---:|---:|
+| Calories | 1,900 (band **1,800–1,900**) | **2,035** | **+135 over the band** |
+| Protein | 180 g (floor **150 g**) | **101 g** | **−79 vs target · −49 vs floor** |
+| Fruit servings | ≤ 2 (R-T) | **7** (pomegranate ×2, pear ×2, apple ×2, pear ×1) | **R-T VIOLATED — 3.5×** |
+| Carbs after 3 PM | none | 2 roti + 1 pear at dinner | **Violated** |
+
+**What was dropped from the Option-A prescription:** the **daal (1.5 katori ≈ 225 g cooked = ~180 kcal / ~13.5 g protein)** — the most protein-dense item on the plate — and the **2 boiled eggs**. The 2 roti + pear took their place. Net versus Option A: **≈ +90 kcal for ≈ −13.5 g protein** — i.e. the swap moved the day in both wrong directions at once.
+
+##### Part 5.C — the Day-190 deficit (with the standing credit policy)
+
+| Line | Value | Note |
+|---|---:|---|
+| TDEE baseline (×1.55, per `Metrics.md`) | 2,635 kcal | **Already includes ambient daily activity** |
+| Intake (Day 190 final) | 2,035 kcal | |
+| **Intake-only deficit** | **~600 kcal** | The honest floor number |
+| + Cycling credit | **+150 kcal** | App reported 124; true ≈230–290; 150 is the no-double-count figure |
+| + Strength-session credit | **+250 kcal** | ≈47% of the 537 Watch kcal |
+| **Day 190 total deficit** | **~1,000 kcal** | ≈ **0.91 kg/week** equivalent |
+
+**Credit policy (standing, to prevent double-counting forever):** because the ×1.55 TDEE already embeds activity, **cycling is credited flat at +150 kcal/session** regardless of the app figure, and a **strength session is credited at +250 kcal** (≈half the Watch active-calorie number). **Never credit the full Watch figure on top of the ×1.55 TDEE.**
+
+**Band check:** the rescue target is **1,100–1,185 kcal/day** of deficit. Day 190 lands **~100–185 kcal short** — caused by the **intake**, not by insufficient movement (movement was the strongest part of the day).
+
+##### Part 5.D — Day 190 report card
+
+| Dimension | Grade | Reason |
+|---|---|---|
+| **Workout** | **B+** | 8 movements / ~24–27 working sets / real loads, and the session was done, not skipped (R-S never needed). Marked down for the **R-V breach at 84 kg**, the **skipped goblet squats**, and 82:54 for that volume |
+| **Protein** | **D+** | **101 g vs 180 g target and 150 g floor — 49 g under the floor.** Quality was fine (fish + eggs); **quantity** was the failure |
+| **Health / gut** | **B−** | Zero deep-fried, zero maida, zero banned sweets; fish/eggs/omelette are all gut-safe and anti-inflammatory. Marked down for the **7-serving fruit load (~720 kcal of the day)** — a sugar/insulin load working directly against a cut |
+| **Decisions taken** | **C** | **Good:** went to the gym, logged loads honestly, engineered ab/adduction from straps (R-X). **Poor:** 84 kg on a rig with a failure history; declined whey for a rule that does not exist; traded daal + eggs for roti + pear |
+| **Movement / steps** | **A−** | Leg session + treadmill + a **9.06 km / 124 kcal** ride captured by the app. Comfortably over the 30-min floor |
+| **Overall** | **C+ — 6.5/10** | Training and movement were genuinely good. Nutrition discipline — precisely what produced **81.15 → 83.75** — is still the weak link |
+
+**Where he can improve (ranked by impact on the Sep 27 checkpoint):**
+
+1. **Hit the protein floor first, every day.** 7 consecutive days under 150 g is the structural problem, not any single meal.
+2. **Stop the fruit load** — **max 2 servings/day (R-T)**, never more than 1 in a sitting, never without ≥20 g protein already in.
+3. **Leg press stays at 75 kg working / 80 kg cap.**
+4. **Don't delete protein-dense items to protect carbs** — daal and eggs are cheaper per gram of protein than roti (roti ≈ 33 kcal/g protein vs egg ≈ 11.7 and daal ≈ 14).
+5. **Whey is not banned on a fish day** — there is no such rule (see the Pending Decision opened in Part 4).
+6. **Bring the session to ~60 min** via supersets so it stops competing with exam prep.
+
+##### Part 5.E — Day 191 plan (Mon Sep 21, 2026) — Upper Push (calibration) + W27 weigh-in
+
+**Morning order of operations (non-negotiable):** on waking → bathroom → **W27 fasted weigh-in** (before water, before food, before thyroxine) → log in `Metrics.md` → **6:00 AM thyroxine + plain water** → 30-min gap.
+
+**Workout — Upper Push. This is a CALIBRATION session**: no loads have ever been logged for this gym's upper machines (the Sep 18 Upper session recorded no weights), so every working weight below must be **re-established today and written down**.
+
+| Exercise | Sets × reps | Target weight | Rest | Form cue | Next-session rule |
+|---|---:|---:|---:|---|---|
+| Warm-up | 5 min | Treadmill 5 km/h, 0% incline | — | Easy pace, no incline | Keep |
+| Chest press | 1 × 12 calib. + 3 × 10–12 | **Set 1: 40 lbs · Sets 2–3: 50 lbs** (last logged baseline = 50 lbs) | 75 s | Elbows ~45°, don't lock out hard | Log the RIR-2 weight → new baseline |
+| Pec deck | 3 × 12–15 | **Calibrate: 30 lbs** | 60 s | Lead with the elbows, squeeze 1 s | Progress when 3×15 is clean |
+| Adjustable multi-press | 3 × 10–12 | **Calibrate: lightest pin + 1 plate** | 75 s | Confirm it is a press (not a squat) station first | Establish whether this replaces the squat rack slot |
+| Rod tricep overhead | 3 × 12–15 | **Calibrate: 20 lbs** | 60 s | Upper arms vertical, elbows in | Progress when 3×15 is clean |
+| Cable crunch | 3 × 12–15 | **Verify the stack scale FIRST** — prescribed reference is **15 lbs**; yesterday's ">100 lbs" reading is unresolved | 60 s | Crunch from the abs, not the hip flexors | Only progress after the stack is verified |
+| Treadmill | 10 min | 5.5–6.0 km/h, 0% incline | — | Nasal breathing | Keep |
+
+**Diet — target ~1,875 kcal / ~177 g protein (protein-first sequencing):**
+
+| Time | Intake | Est. kcal | Est. protein |
+|---|---|---:|---:|
+| 6:00 AM | Thyroxine 50 mcg + 500 ml plain water | 0 | 0 |
+| 7:15 AM | **1 scoop OWN whey** + 5 almonds (in lukewarm/room-temp water — R-A) | 155 | 26 g |
+| 10:00 AM | **3-egg omelette** + 1 tsp oil + **1 roti** | 350 | 21 g |
+| 1:00 PM | **Fish 250 g** + **150 g cooked basmati** + salad | 445 | 46 g |
+| 4:30 PM | **Paneer 200 g** pan-tossed (≤1 tsp oil) + **30 g roasted chana** | 450 | 41 g |
+| 7:30 PM | **1 scoop OWN whey** + 5 almonds (post-gym) | 155 | 26 g |
+| 9:15 PM | **Daal 1.5 katori (≈225 g)** + **lauki 200 g** + **1 roti** | 360 | 16 g |
+| **Total** | | **~1,915** | **~176 g** |
+
+**Sequencing rules that make this work:** no fruit at all before 10 AM or until ≥20 g protein is in (R-T); **max 2 fruit servings for the whole day**, placed after the 4:30 PM paneer; nothing after 9:30 PM.
+
+**Non-workout targets for Day 191:**
+
+| Target | Prescription | Rule |
+|---|---|---|
+| Steps | **≥ 10,000** — split into 3 blocks (morning 2k / afternoon 4k / evening 4k) | R-Q |
+| Walking pad | **45 min at 4.5–5.0 km/h** while studying | R-Q / R-W |
+| Cycling | **1 round (20–25 min, 4.5 km)** — optional, and only **after** ≥25 g protein is in (R-U) | R-U |
+| Stadium run | **Skip today** — it is an upper day but the 2×/week cap and the W27 weigh-in morning both argue for a walk instead | run cap 2×/week |
+| Water | **3.0 L** (room temperature — R-M) | Protocol |
+| Sleep | Lights out **11:30 PM**, wake **6:00 AM** | Protocol |
+| Weigh-in | **W27 fasted**, first thing, before thyroxine → log in `Metrics.md` | Protocol rule 9 |
+
+**Day-191 must NOT be used to compensate for Day 190.** 1,915 kcal is a normal band day, not a punishment day.
+
+**Next actions (Part 5):**
+
+1. **Log the W27 weigh-in in `Metrics.md` on waking Monday** — before water, food, or thyroxine.
+2. **Run the Upper Push calibration session** and **write down every working weight** — they become the new-gym baselines.
+3. **Verify two load readings at the gym:** the **cable-crunch stack scale** (>100 lbs is unresolved) and the **leg-extension stack** (">40 lbs" vs 27 kg reference).
+4. **Keep the leg press at 75 kg** on Thu Sep 24, and **add back the 10 kg goblet squats** that were missed.
+5. **Follow the Day-191 intake table** — ~1,915 kcal / ~176 g protein, protein-first, ≤2 fruit servings, nothing after 9:30 PM.
+6. **Confirm the ankle straps and the low cable pulley/carabiner** are available so R-X stays executable.
+7. **Do not credit the full 537 Watch kcal** against the ×1.55 TDEE — use the standing credit policy (Part 5.C).
+
+**Copilot context (Part 5):**
+
+1. **Day 190 true final = ~2,035 kcal / ~101 g protein** — **+135 over the 1,800–1,900 band** and **−49 g under the 150 g floor**. The parser-facing line in Part 4 was corrected to match. This is a **threat to the Sep 27 80.9–81.9 kg projection** and must be referenced in the next weigh-in analysis.
+2. **Day 190 deficit = ~1,000 kcal** (600 intake-only + 150 cycling + 250 conservative gym credit). Standing credit policy recorded: cycling is always **+150**, strength is always **+250**; never credit the raw Watch figure on top of the ×1.55 TDEE.
+3. **R-V was violated: 84 kg leg press against an 80 kg hard cap**, on a makeshift rig with a documented failure at 100 kg. Enforcement is now worded as a hard ceiling, not a guideline.
+4. **Dinner did not match the Option-A prescription.** Daal and the 2 boiled eggs were dropped in favour of 2 roti + a pear. **Daal is ~14 kcal/g protein; roti is ~33 kcal/g protein** — the swap traded protein away to add calories.
+5. **R-T was violated at 7 fruit servings (~720 kcal)**. Day 190 is the clearest fruit-overrun case study in the journal.
+6. **Cable hip ab/adduction adopted at 33 lbs per leg** as the R-X working baseline — a 3× overshoot of the prescribed 5 kg calibration, and it held.
+7. **Unresolved load readings to chase:** cable crunch ">100 lbs" and leg extension ">40 lbs". Neither is safe to log as a baseline until verified.
+8. **Day 191 = Upper Push calibration + W27 weigh-in.** No new-gym upper loads exist yet, so tomorrow's numbers *become* the baseline.
