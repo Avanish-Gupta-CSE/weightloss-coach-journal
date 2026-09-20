@@ -6437,3 +6437,67 @@ From **1,472 kcal** with only **428 kcal** left, the remaining protein gap is **
 6. **Cable hip ab/adduction adopted at 33 lbs per leg** as the R-X working baseline — a 3× overshoot of the prescribed 5 kg calibration, and it held.
 7. **Unresolved load readings to chase:** cable crunch ">100 lbs" and leg extension ">40 lbs". Neither is safe to log as a baseline until verified.
 8. **Day 191 = Upper Push calibration + W27 weigh-in.** No new-gym upper loads exist yet, so tomorrow's numbers *become* the baseline.
+
+#### Part 6 — Tooling audit: are the `documents-*` PDF tools native GitHub Copilot? (Sep 20, ~10:30 PM)
+
+**Question asked:** *"these tools are present in GHCP natively right?"* (screenshot of the Part-5 §5 PDF-processing table)
+
+**Answer: NO — and the audit found three of the four are currently broken on this machine.**
+
+**Where they actually come from.** They are supplied by a **user-installed MCP server named `documents`**, declared in the **global** VS Code user config `~/Library/Application Support/Code/User/mcp.json`:
+
+```json
+"documents": { "type": "stdio", "command": "node",
+               "args": ["/Users/avanish/.config/copilot-mcp/servers/documents.mjs"] }
+```
+
+It is a **local Node script started as a VS Code subprocess** — not a GitHub Copilot product feature. Supporting evidence:
+
+| Evidence | Finding |
+|---|---|
+| Workspace MCP config | **None exists** — no `.vscode/mcp.json`, no `.mcp.json`, no `mcp.json`, no `.github/mcp.json` |
+| Gallery metadata | `upstash/context7` and `elastic/mcp-server-elasticsearch` carry `gallery` + `version`. `documents`, `notion`, `diagrams` **carry none** → hand-written local servers |
+| Server files | `~/.config/copilot-mcp/servers/{documents,notion,diagrams}.mjs`, all written **2026-04-20 08:50** |
+| Repo footprint | Nothing in `.github/` or `.coach/` defines or references these tools |
+
+**Live capability audit (each tool actually invoked, not assumed):**
+
+| Tool | Verdict | Evidence |
+|---|---|---|
+| `documents-ocr_image` | ✅ **WORKS** | Returned `"hello pdf test"` from a 200-dpi PNG. Backed by `tesseract 5.5.3` at `/opt/homebrew/bin/tesseract` |
+| `documents-extract_pdf_text` | ❌ **BROKEN** | `Unable to locate a command for PDFTOTEXT_BIN. Tried: pdftotext` — **poppler not installed** |
+| `documents-ocr_pdf` | ❌ **BROKEN** | `Unable to locate a command for OCRMYPDF_BIN. Tried: ocrmypdf` — **ocrmypdf not installed** |
+| `documents-convert_office_to_pdf` | ❌ **BROKEN** | `spawn /Applications/LibreOffice.app/Contents/MacOS/soffice ENOENT` — **LibreOffice not installed** |
+
+**Sandbox finding (second, independent defect):** the server **cannot read paths outside the workspace**. Identical PNG: `/tmp/...` → `Leptonica Error … image file not found`; same file copied into the repo → **worked**. `tesseract` itself read the `/tmp` file fine from bash, so this is an MCP-process restriction, not a tesseract problem. **Rule: always stage files inside the repo root before calling `documents-*`.**
+
+**Corrected guidance.** The Part-5 §5 answer described the intended design of these tools. The **actual working paths on this machine** are:
+
+| Need | Working method now |
+|---|---|
+| PDF → text (digital) | `python3 -c "from pypdf import PdfReader; ..."` — **pypdf 6.16.2 present** |
+| PDF → text (layout) | `python3 -c "import fitz; ..."` — **PyMuPDF present** |
+| Scanned PDF → text | `fitz` render each page to PNG **inside the repo**, then `documents-ocr_image`, or `tesseract page.png stdout` |
+| Image → text | `documents-ocr_image` (works) or `tesseract` directly |
+| Office → PDF | **no working path** (no LibreOffice); use `textutil` for doc/rtf/html → txt |
+
+**Takeaway for image-vs-PDF asymmetry (unchanged):** images (PNG/JPG) reach me **natively as vision input** — no MCP server needed. **PDFs do not** — they require either this MCP server or a shell fallback.
+
+**Repair commands (handed to the user, NOT executed):** `brew install poppler ocrmypdf` and `brew install --cask libreoffice`.
+
+**Next actions (Part 6):**
+
+1. Optionally run `brew install poppler ocrmypdf` to restore two of the four tools (small, fast).
+2. Optionally run `brew install --cask libreoffice` to restore Office→PDF (large download, ~1 GB).
+3. From now on, stage any file destined for `documents-*` **inside the repo root**, never `/tmp`.
+4. For PDFs, prefer the `python3` + `pypdf` / `fitz` path — it is already working and needs no install.
+
+**Copilot context (Part 6):**
+
+1. The `documents-*` tools are **not native GHCP**. They come from a hand-written local MCP server at `~/.config/copilot-mcp/servers/documents.mjs`, declared in the **global** VS Code `mcp.json`. They are host-local and session-dependent.
+2. **Only `documents-ocr_image` works.** The other three fail on missing system binaries. Any earlier answer that assumed `documents-extract_pdf_text` works should be treated as untested-and-wrong.
+3. Nine MCP servers are configured: `upstash/context7`, `elastic/mcp-server-elasticsearch`, `github`, `memory`, `sequentialThinking`, `playwright`, `notion`, `diagrams`, `documents`.
+4. **Native GHCP** = the agent harness, `.github/copilot-instructions.md`, `.github/agents/*.agent.md`, image attachments as vision input, and built-in VS Code tools.
+5. The server is **workspace-sandboxed** — it cannot read `/tmp`. Stage files in the repo.
+6. Fallbacks already present and verified: **pypdf 6.16.2**, **PyMuPDF**, **tesseract 5.5.3**, `textutil`.
+
