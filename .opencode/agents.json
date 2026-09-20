@@ -1,0 +1,34 @@
+{
+  "agents": [
+    {
+      "name": "protocol-200-coach",
+      "description": "Elite fitness, nutrition & lifestyle coach for Protocol 200 body recomposition (91.45 kg → 70 kg). Always reads .coach/ brain files before responding.",
+      "model": "opencode/mimo-v2.5-free",
+      "file": "agents/protocol-200-coach.md",
+      "triggers": [
+        "coach",
+        "workout",
+        "meal",
+        "diet",
+        "gym",
+        "protein",
+        "calories",
+        "macros",
+        "weight",
+        "thyroxine",
+        "walking pad",
+        "cravings",
+        "body recomposition",
+        "protocol 200"
+      ],
+      "permissions": {
+        "edit": "allow",
+        "bash": "allow",
+        "read": "allow",
+        "glob": "allow",
+        "grep": "allow",
+        "task": "allow"
+      }
+    }
+  ]
+}
