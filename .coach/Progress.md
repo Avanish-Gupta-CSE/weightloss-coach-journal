@@ -6561,3 +6561,89 @@ It is a **local Node script started as a VS Code subprocess** — not a GitHub C
 3. `markitdown` requires the `[all]` extra for PDF support.
 4. `@modelcontextprotocol/server-pdf` is HTTP-mode and binds `0.0.0.0` — noted as a fallback only.
 5. macOS has **no `timeout` binary** — confirmed a second time.
+
+#### Part 8 — Document processing made functional (Day 190, Sep 20, 2026)
+
+**Ask:** *"execute it and make it functional that any pdf, docx or excel input can be processed."*
+
+**Verdict: DONE.** PDF, DOCX and XLSX all convert end-to-end. Every one of the four `documents-*` MCP tools is now functional, and `markitdown-mcp` is registered as a second, independent document path. No VS Code setting was broken; the previous failure was purely **missing host binaries**.
+
+**1. What was changed**
+
+| # | Change | Location | Status |
+|---|---|---|---|
+| 1 | Backed up the global MCP config before editing | `~/Library/Application Support/Code/User/mcp.json.bak-20260920-230552` (2,234 B) | ✅ |
+| 2 | Registered a new `markitdown` stdio server | `~/Library/Application Support/Code/User/mcp.json` (2,234 → 2,363 B, JSON re-parsed before write) | ✅ |
+| 3 | Installed the missing binaries `documents.mjs` shells out to | Homebrew (`poppler`, `ocrmypdf`) | ✅ |
+| 4 | Installed the Office-conversion engine | Homebrew cask `libreoffice` 26.8.0 → `/opt/homebrew/bin/soffice` | ✅ |
+| 5 | No code change to `documents.mjs` | — | ✅ not needed |
+
+**2. Binaries installed**
+
+| Binary | Version / path | Unlocks |
+|---|---|---|
+| `pdftotext` | 26.09.0 (`/opt/homebrew/bin`) | `documents-extract_pdf_text` |
+| `pdfinfo`, `pdftoppm` | poppler 26.09.0 | PDF metadata, page rasterising |
+| `ocrmypdf` | 17.12.1 | `documents-ocr_pdf` |
+| `gs` (ghostscript) | via `ocrmypdf` | PDF/A output for OCR'd scans |
+| `tesseract` | 5.5.3 (already present) | `documents-ocr_image`, OCR engine |
+| `soffice` | LibreOffice 26.8.0 | `documents-convert_office_to_pdf` |
+
+**3. Live verification evidence (every row executed, not inferred)**
+
+| # | Test | Input | Result |
+|---|---|---|---|
+| 1 | `documents-extract_pdf_text` | text PDF | ✅ correct text returned |
+| 2 | `documents-ocr_pdf` (`forceOcr:false`) | text PDF | ✅ binary found; aborts by design (`PriorOcrFoundError`) — proves the tool is repaired |
+| 3 | `documents-ocr_pdf` (`forceOcr:true`) | text PDF | ✅ PDF/A written, 29.3% size saving |
+| 4 | `documents-ocr_pdf` (`forceOcr:false`) | **image-only scan** | ✅ **real OCR run** (`HocrParser` → `PDF/A-2b`); extracted text matches the source |
+| 5 | `markitdown` `convert_to_markdown` | PDF | ✅ exact text |
+| 6 | `markitdown` `convert_to_markdown` | DOCX | ✅ text **with markdown bold preserved** |
+| 7 | `markitdown` `convert_to_markdown` | XLSX | ✅ **converted to a real markdown table** (headers + rows) |
+| 8 | `markitdown` `convert_to_markdown` | image-only scan | ⚠️ EMPTY — markitdown has **no OCR** (by design) |
+| 9 | `documents-convert_office_to_pdf` | XLSX | ✅ LibreOffice Calc → PDF with a working text layer |
+| 10 | `markitdown` handshake under a **stripped PATH** (`/usr/bin:/bin:/usr/sbin:/sbin`) | — | ✅ succeeds — the absolute `uvx` path is sufficient, so no `env` block is required |
+
+**4. Capability matrix after this session**
+
+| Input | Best tool | Fallback |
+|---|---|---|
+| Text-native PDF | `documents-extract_pdf_text` or `markitdown` | `python3` + `pypdf` |
+| Scanned / image-only PDF | `documents-ocr_pdf` (`forceOcr:false`), then extract | rasterise → `documents-ocr_image` |
+| DOCX | `markitdown` | `documents-convert_office_to_pdf` → extract text |
+| XLSX | `markitdown` (best output — becomes a table) | LibreOffice → PDF → extract |
+| PPTX / HTML / CSV / JSON / XML / audio / images | `markitdown` | — |
+| Screenshot / photo | attach directly as vision input | `documents-ocr_image` |
+
+**5. One manual step the user must take**
+
+The `markitdown` server was written into `mcp.json` while VS Code was already running, so it will **not** appear in the tool list until VS Code is reloaded:
+
+1. `Cmd+Shift+P` → **Developer: Reload Window**.
+2. Then `markitdown` should appear as an MCP tool named `convert_to_markdown`.
+
+The four `documents-*` tools needed **no reload** — `documents.mjs` re-resolves its binaries with `which` **on every call**, so the Homebrew installs activated immediately. This corrects a wrong assumption recorded in Part 7.
+
+**6. Known limits (unchanged)**
+
+1. `documents.mjs` is **sandboxed to the workspace** — files in `/tmp` fail. Stage inputs inside the repo, or use `markitdown` (which *can* read `/tmp`).
+2. `markitdown` does **no OCR** — a scanned PDF yields empty output. Route scans through `documents-ocr_pdf` first.
+3. `ocrmypdf` **refuses** PDFs that already carry a text layer unless `forceOcr: true` is passed.
+4. macOS still has **no `timeout` binary** — MCP probes must use a Python harness.
+5. LibreOffice emits harmless `Fontconfig` warnings on stderr; they are not errors.
+
+**Next actions (Part 8):**
+
+1. **Reload VS Code** so the `markitdown` server registers.
+2. Keep `mcp.json.bak-20260920-230552` until one full session is confirmed working, then delete it.
+3. Remember the routing rule: **scans → `ocr_pdf` first; Office files → `markitdown` directly.**
+4. `.docprobe/` and all `/tmp` harnesses were deleted; `git status` is clean.
+
+**Copilot context (Part 8):**
+
+1. **Any PDF, DOCX or XLSX can now be processed on this machine.** This capability is durable — it lives in Homebrew + `mcp.json`, not in a session.
+2. `markitdown` was added as a 10th MCP server in the global config; it is independent of the local `documents.mjs` server and fails safe (if `uvx` is ever removed, only this one server breaks).
+3. **`markitdown` output for spreadsheets becomes a markdown table** — ideal for pasting nutrition sheets or workout logs straight into the brain-complex.
+4. LibreOffice 26.8.0 is now installed system-wide, which also enables casual `soffice --headless --convert-to` use.
+5. The `mcp.json` edit is **outside the git repo**, so it does not appear in any commit and is unaffected by the push restrictions.
+6. Rule **R-W** applies to the tooling report as much as to coaching advice — hence the tabular format here.
