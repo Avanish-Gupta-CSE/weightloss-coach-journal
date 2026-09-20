@@ -6501,3 +6501,63 @@ It is a **local Node script started as a VS Code subprocess** — not a GitHub C
 5. The server is **workspace-sandboxed** — it cannot read `/tmp`. Stage files in the repo.
 6. Fallbacks already present and verified: **pypdf 6.16.2**, **PyMuPDF**, **tesseract 5.5.3**, `textutil`.
 
+
+
+#### Part 7 — Working document/PDF MCP servers (Day 190, Sep 20, 2026)
+
+**Question:** *"is there any mcp which will give this ability?"* — i.e. a document/PDF/OCR MCP server that actually works, instead of the broken local `documents.mjs`.
+
+**Short answer:** Yes. Three viable candidates exist, and one was **proven working end-to-end on this machine**.
+
+**Probe results — local tooling inventory**
+
+| Tool | Result | Notes |
+|---|---|---|
+| `uv` / `uvx` | ✅ present | `/Users/avanish/.local/bin/uvx` — provisions its own Python |
+| `npx` / `node` | ✅ present | `/Users/avanish/.local/bin/` |
+| `pipx` | ❌ missing | not needed — `uvx` covers it |
+| `python3` | ⚠️ **3.9.6** | too old for `markitdown` (`requires_python >=3.10`) |
+| `timeout` | ❌ **not on macOS** | broke the first handshake test; use background + sleep + `kill <PID>` |
+
+**Candidate comparison (all verified against the real registries)**
+
+| Candidate | Registry | Install / launch | PDF text | OCR | Office | Host deps | Verdict |
+|---|---|---|---|---|---|---|---|
+| **`markitdown-mcp`** | PyPI `0.0.1a7` | `uvx markitdown-mcp` | ✅ | ❌ | ✅ PDF/DOCX/PPTX/XLSX/HTML/CSV/audio/images | **none** | ⭐ **RECOMMENDED — proven** |
+| `@modelcontextprotocol/server-pdf` | npm `2.0.0` | `npx -y @modelcontextprotocol/server-pdf <dir>` | ✅ | ❌ | ❌ | none | ⚠️ HTTP-only on `:3001`, binds `0.0.0.0`, ignores client roots |
+| `office-mcp` | npm `1.9.0` | `npx -y office-mcp` | — | ❌ | ✅ | LibreOffice (**unverified**) | ❌ do not recommend |
+| existing `documents.mjs` | local | already configured | ❌ | ❌ | ❌ | `pdftotext`, `ocrmypdf`, LibreOffice | ❌ 3 of 4 tools broken |
+
+**Empirical proof — run live, not theoretical**
+
+1. **Handshake:** `uvx markitdown-mcp` answered `initialize` with
+   `serverInfo {"name":"markitdown"}` and advertised exactly **1 tool**: `convert_to_markdown(uri)`.
+2. **End-to-end call:** `tools/call convert_to_markdown {uri: "file:///tmp/mcptest/t.pdf"}` returned
+   `"Protocol 200 v2 test document.\nProtein target: 180g. Calories: 1900 kcal."` — **exact, `isError: false`, zero host binaries.**
+3. **Python-version trap avoided:** `uvx` silently provisioned **Python 3.11** under `~/.cache/uv/`, so the `>=3.10` requirement is a non-issue.
+4. **`[all]` extra gotcha:** bare `markitdown` fails with `MissingDependencyException: PdfConverter`. The CLI form must be
+   `uvx --from 'markitdown[all]' markitdown <file>`.
+5. `@modelcontextprotocol/server-pdf` was verified serving MCP over HTTP (`initialize` + `tools/list` returned
+   `PDF Server v2.0.0` with `list_pdfs`, `read_pdf_bytes`, …) but it is **not stdio** — VS Code cannot launch it, it must already be running.
+
+**Banked decision**
+
+- **Preferred new tool:** register `markitdown-mcp` (stdio, `uvx`) in the global `mcp.json`. Handed over as a paste-in stanza; **not executed and not committed** (config lives outside the repo).
+- **Cheapest fix for the existing setup remains 2 brew commands:** `brew install poppler ocrmypdf` — this restores `extract_pdf_text` + `ocr_pdf` in the already-working `documents.mjs`, and additionally gives **OCR**, which MarkItDown alone does not provide.
+- **Unchanged fallback:** `python3` + `pypdf 6.16.2` / `PyMuPDF` for PDFs; `tesseract` for images.
+- **Unchanged sandbox rule:** the `documents` MCP server cannot read `/tmp`; stage files inside the repo root.
+
+**Next actions (Part 7):**
+
+1. Paste the `markitdown-mcp` stanza into `~/Library/Application Support/Code/User/mcp.json` and reload VS Code.
+2. Optionally `brew install poppler ocrmypdf` to restore the existing `documents-*` tools and gain OCR.
+3. Keep the `python3` + `pypdf` / `PyMuPDF` fallback for one-off PDF reads.
+4. Never use `timeout` in shell probes on this machine — it does not exist.
+
+**Copilot context (Part 7):**
+
+1. **`uvx markitdown-mcp` is a verified-working document MCP server on this machine.** Stdio, one tool, `file:` URIs, no host binaries.
+2. `uvx` auto-provisions Python 3.11 — the host's 3.9.6 is **not** a blocker for any `>=3.10` PyPI package.
+3. `markitdown` requires the `[all]` extra for PDF support.
+4. `@modelcontextprotocol/server-pdf` is HTTP-mode and binds `0.0.0.0` — noted as a fallback only.
+5. macOS has **no `timeout` binary** — confirmed a second time.
