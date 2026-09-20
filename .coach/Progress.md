@@ -5970,7 +5970,7 @@ If you take the lassi, adjust the dinner protein patch to:
 
 **Net true fat regained ≈ 0.6–1.0 kg.** The user is still **−7.70 kg from Day 0**. Nothing "washed down" — most of the 2.6 kg is water that leaves in 72 hours at <1,500 mg sodium and 3.5–4 L water.
 
-**Projected curve (TDEE ~2,400–2,500; intake 1,450; deficit ~950–1,050 kcal/day ≈ 0.9–1.0 kg/week of fat; plus a 1.0–2.0 kg first-week flush):**
+**Projected curve (working TDEE ~2,550–2,700, ~2,635 baseline per `Metrics.md`; intake 1,450; deficit ~1,100–1,185 kcal/day ≈ 1.0–1.1 kg/week of fat; plus a 1.0–2.0 kg first-week flush):**
 
 | Date | Projected weight | Note |
 |---|---:|---|
@@ -5987,3 +5987,129 @@ If you take the lassi, adjust the dinner protein patch to:
 - **Cardio:** township cycling — 20–25 min per round, 4.5 km per round (mountain bike); community stadium running at 4–5 AM.
 
 **Corrected baseline reference (last logged weights, old Bangalore gym — Session 30, May 8):** Chest Press 50 lbs ×3 · Lat Pulldown 55 lbs ×3 · Seated Row 29 kg ×3 · DB Shoulder Press 7.5 kg/arm ×3 · DB Bent-Over Row 10 kg/arm ×3 · Leg Press 90 kg ×3 · Goblet Squat 10 kg ×3 · Leg Extension 29 kg ×3 · Leg Curl 29 kg ×3 · Hip Adductor/Abductor 23 kg ×3 · Cable Crunch 15 lbs ×3. **These are re-validation references only** — the new gym's stacks, pulleys and machine geometry differ, so today's session used calibration sets.
+
+**Part 2 — same day, ~2:00 PM (agent rulebooks, opencode artifact preservation, Lower + Core prescription)**
+
+**Topics discussed (this segment):**
+
+| # | Topic | Outcome |
+|---|---|---|
+| 1 | VS Code / GHCP change-badge mismatch — `3 files changed +144 −14` shown above `4 Files +5019 −18` | ✅ Diagnosed — two different scopes, **no data lost** |
+| 2 | "in GHCP i m not seeing any option to keep" the 4 uncommitted files | ✅ **Preserved** in commit `a9bf003` |
+| 3 | Add "always respond in structured + tabular format and in exhaustive manner" to the agent rules | ✅ Added to **all 4 rulebooks**, commit `ea13b01` |
+| 4 | Today's workout plan (last upper = Sep 18, gap taken Sep 19) | ✅ **Lower + Core** prescribed — table below |
+| 5 | "Should I skip one meal like lunch or dinner?" | ✅ **Neither.** Trim the dinner carb instead — see below |
+
+#### Decision 1 — the change-badge mismatch (resolved, no data loss)
+
+The two numbers were measuring **different scopes**:
+
+| Display | Value | What it actually measured |
+|---|---|---|
+| Copilot card | `3 files changed +144 −14` | **Commit `870d802`** — the `.coach` update (Progress / BrainState / Metrics) |
+| Grey badge below it | `4 Files +5019 −18` | The **uncommitted working tree** at that moment |
+
+Arithmetic proof for `+5019 −18`:
+
+| File | Git state | Lines |
+|---|---|---:|
+| `.opencode/agents.json` | new (untracked) | 34 |
+| `.opencode/agents/instructions.md` | new (untracked) | 154 |
+| `creating-agent-opencode-from-cursor.json` | new (untracked) | 4,712 |
+| **Untracked subtotal** | | **4,900** |
+| `.opencode/agents/protocol-200-coach.md` | modified (tracked) | +119 / −18 |
+| **Reported total** | | **+5,019 / −18** — exact match ✅ |
+
+**Nothing was lost.** `git status` confirmed all four files were intact on disk. The 4,712-line Cursor→opencode export was **secret-scanned before committing**: the only "secret" matches were exported chat text quoting the rule *"NEVER commit secrets or keys"*, and every "token" match was an opencode usage statistic. **No credentials.** All four files are preserved in **commit `a9bf003`**.
+
+#### Decision 2 — the mandatory Response Style Rule (now live in all 4 rulebooks)
+
+| Rulebook | What was added | Verified |
+|---|---|---|
+| `.github/copilot-instructions.md` | `**Response Style Rule (mandatory — added Sep 20, 2026)**` block (5 bullets) + new Quick-Reference item `12.` | ✅ |
+| `.github/agents/protocol-200-coach.agent.md` | Same 3 edits, verbatim | ✅ body byte-identical to the file above (only the H1 differs) |
+| `.opencode/agents/protocol-200-coach.md` | `Response style` bullet with 5 nested sub-bullets + Quick-Reference item `12.` | ✅ |
+| `.opencode/agents/instructions.md` | Full `## Response Style (mandatory — added Sep 20, 2026)` section | ✅ |
+
+Rule content: **always structured + tabular** (tables mandatory for intake, prescriptions, logs, projections and any multi-number answer) · **always exhaustive** (every sub-question answered, in the order asked, with all numbers and explicit assumptions) · **never truncate for brevity** · **always close with a numbered action list** · **if something cannot be done, say so in one line and give the alternative**. Recorded in `BrainState.md` as **R-W**. Committed as **`ea13b01`**. Heading retitled `## Quick Reference — Non-Negotiable Rules (from Protocol.md + agent rules)`.
+
+#### Decision 3 — Day 190 workout: LOWER + CORE (new township gym, session #58)
+
+Anchors: last upper session **Sep 18 (#57)**; **Sep 19 taken as a gap day** → today is lower + core, preserving upper-to-upper spacing.
+
+| Exercise | Sets × reps | **Target weight** | Rest | Form cue | Next-session rule |
+|---|---:|---:|---:|---|---|
+| Cable Crunch | 3 × 15 | **15 lbs / 7 kg** | 45 s | Crunch rib-to-hip with the abs, not the arms; exhale hard at the bottom | +2.5 lbs only when 15 reps are clean |
+| Dumbbell Crunch | 3 × 12–15 | **7.5 kg** | 45 s | Chin off the chest; 3-second lower | +2.5 kg at 15 reps |
+| Leg Press | 3 × 10–12 | **60 kg calibration → 75 kg working. HARD CAP 80 kg (R-V)** | 90 s | Feet shoulder-width, knees track over toes, **never lock out** | +5 kg only when 12 reps is RIR-2 — but never past 80 kg on this makeshift machine |
+| Leg Extension | 3 × 12 | **27 kg** | 60 s | 1-second pause at the top, control the return | +2 kg when 12 reps are clean |
+| Lying Leg Curl | 3 × 12 | **27 kg** | 60 s | Hips glued to the pad — no lower-back arch | +2 kg when 12 reps are clean |
+| Hip Abductor | 3 × 12–15 | **25 kg** | 45 s | 1-second hold at full range | +2.5 kg at 15 reps |
+| Hip Adductor | 3 × 12–15 | **25 kg** | 45 s | Same as abductor | +2.5 kg at 15 reps |
+| Cable Abduction / Adduction (ankle strap) | 3 × 12 / leg | **5 kg** | 45 s | **Only if the dedicated abductor/adductor machines don't exist** — otherwise skip, they're redundant | +1.25 kg at 12 reps |
+| Treadmill cooldown | 1 × 10 min | **Flat, 4.5–5.0 km/h — no incline** | — | Recovery pace only; this is not cardio | — |
+
+Session-level rules: **RIR 3 today, not RIR 2** — first session on unfamiliar machines · **R-V: leg-press hard cap 80 kg** (this gym's press is makeshift and previously broke at 100 kg) · **no squat rack and no goblet-squat option exists in this gym**, so leg press is the only compound for legs · cardio already banked earlier in the day (township cycling, 9.06 km ≈ 2 rounds).
+
+**Weekly split for the week to Sep 27:**
+
+| Day | Session |
+|---|---|
+| **Sun Sep 20** | **Lower + Core (#58)** — table above |
+| Mon Sep 21 | Upper Push |
+| Tue Sep 22 | Rest — **veg-only (R-L)**, 45 min walking pad |
+| Wed Sep 23 | Upper Pull |
+| Thu Sep 24 | Lower + Core |
+| Fri Sep 25 | Upper Mix (optional 5th) |
+| Sat Sep 26 | Lower / Full (optional) |
+
+**Stadium running cap (community stadium, 4–5 AM window):** max **2×/week**, **25 min**, `1 min walk / 1 min jog × 12`, **never on a leg day**, **never if sleep < 6 h**, and prefer **5:30–6:00 AM** so the 6:00 AM thyroxine dose and its 30-minute gap are not displaced.
+
+#### Decision 4 — "Should I skip one meal like lunch or dinner?" → **No. Skip nothing.**
+
+| Option | Calories saved | Protein cost | Verdict |
+|---|---:|---:|---|
+| Skip lunch | ~350–450 | ~35–45 g | ❌ No — he is already ~114 g short of the protein floor |
+| Skip dinner | ~400–500 | ~50–57 g | ❌ **Never** — dinner is the last protein window and the single biggest lever left |
+
+Skipping either would land the day near **1,300–1,400 kcal with only ~70 g protein** — that is muscle loss, a slower metabolism, and the classic 9:30 PM craving crash that starts the next binge. **The correct move is to trim the *dinner carb*, not the meal.** No rice or roti at dinner — the 100 g of basmati was already eaten at breakfast. Keep the protein and the vegetables.
+
+**Day 190 intake vs target (traced to the closeout):**
+
+| Stage | Intake | kcal | Protein | Cum. kcal vs 1,900 | Cum. protein vs 180 g | Remaining gap |
+|---|---|---:|---:|---:|---:|---|
+| Logged at midday | 6 fruits + 2.5 medium fish + 100 g cooked basmati + 0.5 roti + ~2.5 tsp cooking oil | 1,244 | 66 g | 1,244 / 1,900 | 66 / 180 | 656 kcal · 114 g |
+| + protein-first snack ~4 PM | 1 scoop OWN + 5 almonds | 160 | 27 g | 1,404 / 1,900 | 93 / 180 | 496 kcal · 87 g |
+| + dinner ~7:30 PM | 180 g cooked chicken breast (tawa/air-fryer, 1 tsp oil) + 200 g sautéed lauki/beans (0.5 tsp oil) | 340 | 57 g | **1,744 / 1,900** | **150 / 180** | 156 kcal · 30 g |
+| + optional 9:30 PM | 0.5 scoop OWN | 60 | 12.5 g | **1,804 / 1,900** | **162.5 / 180** | 96 kcal · 17.5 g |
+
+Swap available: **200 g paneer** in place of the chicken if non-veg is not available (R-L allows non-veg on Sunday).
+
+**Compliance notes (this segment):**
+
+| Item | Status |
+|---|---|
+| Cycling round banked (9.06 km outdoor cycle, app reported 124 kcal — real value ≈ 230–290 kcal) | ✅ Done |
+| Thyroxine 6:00 AM, plain water, 30-min gap respected | ✅ Assumed — no violation reported |
+| Lunch / dinner | ✅ **Neither skipped** — recommended |
+| Gym session #57 (Upper) on Sep 18 | ✅ Logged previously |
+| Sep 19 | Gap day (as reported) |
+
+**Next actions (before the next session):**
+
+1. **Mon Sep 21, on waking — W27 fasted weigh-in** before thyroxine, after the bathroom. Log it in `Metrics.md` (this is the first official weigh-in since W14, Jun 22 — **13 consecutive blanks**).
+2. **Place the food scale on the counter tonight.** It is the single highest-leverage fix; every entry since the relocation is an estimate.
+3. Protein-first snack at ~4 PM (1 scoop OWN + 5 almonds); dinner at ~7:30 PM with **no rice/roti**.
+4. Place the 3 grocery orders still marked "PLACE TODAY" in `BrainState.md`.
+5. Count remaining OWN whey scoops and record it.
+6. Settle the **new-city cook/mess decision** before Sep 27.
+7. Push the 6 unpushed local commits manually: `git push origin main`.
+
+**Copilot context (next session MUST know):**
+
+1. **R-W is live** — "Response style — structured + tabular + exhaustive" — and is mirrored in all four rulebooks (`.github/copilot-instructions.md`, `.github/agents/protocol-200-coach.agent.md`, `.opencode/agents/protocol-200-coach.md`, `.opencode/agents/instructions.md`). **Keep all four in sync when editing any one of them.**
+2. The opencode agent config (`.opencode/agents.json`, `.opencode/agents/instructions.md`) and the Cursor session export `creating-agent-opencode-from-cursor.json` are **tracked in git since `a9bf003`** — they are no longer untracked working-tree noise.
+3. Commits this session, all local, **none pushed**: `ea13b01`, `a9bf003`, `870d802`, `106f832`, `f966c60`, `e57109e`. Working tree is **clean**. The user pushes manually — **never run `git push`**.
+4. Corrected TDEE reference used for all projections: **working TDEE ~2,550–2,700, ~2,635 baseline** (`Metrics.md` line 50). The earlier `~2,400–2,500` figure in this day's entry header has been corrected to match.
+5. Day counter is re-anchored: **Sep 20 = Day 190**. Older entries keep their original numbers, producing a 173→190 jump on the dashboard Day axis.
+6. **Do not compensate tomorrow** for today landing at ~1,744–1,804 kcal. Resume the band normally.
