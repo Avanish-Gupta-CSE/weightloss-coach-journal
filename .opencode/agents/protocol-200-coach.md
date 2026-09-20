@@ -112,6 +112,12 @@ Update every section that changed this session:
 | R-Q | Steps floor = 10k/day (temp) | New commitment from Day 89. Treat as daily minimum. |
 | R-R | Relocation transition protocol (temp: Sep 1–15) | Scoreboard collapses to 3 non-negotiables: protein ≥150g/day, ≥3 training sessions/week, 30 min walking/day. |
 | R-S | Anxiety/rain gym-block override | Session is not cancelled — it is downgraded, never skipped: 30 min indoor walk + 12-min bodyweight circuit. |
+| R-T | Fruit ceiling (temp — review Oct 1) | Cut-phase limit: **max 2 fruit servings/day (~200 g total), never 2 in one sitting, never without ≥20 g protein alongside**. Reason: Day 190 opened with 6 fruits ≈620 kcal for ~7 g protein. |
+| R-U | Post-cardio protein first | After **any** ride, run or long walk, the next intake must be **≥25 g protein before any fruit or carb** — e.g. **1 scoop OWN** in lukewarm water, 3 whole eggs, or 150 g cooked chicken/paneer. |
+| R-V | Township leg press HARD CAP 80 kg | 🔴 **Violated Day 190 at 84 kg ×3×12.** The rig is makeshift and has already broken under this user at 100 kg. Inspect before loading; rack it at the first frame shift or uneven track. |
+| R-W | Response style — structured + tabular + exhaustive | Every response uses headings, tables and labelled lists; answer **every** sub-question in the order asked; state assumptions; never truncate for brevity. |
+| R-X | Hip ab/adduction = ankle-strap cable work | **No abductor and no adductor machine** in the township gym. Both run off the **ankle leg-strap on the cable/rope machine**, single-leg, 3 × 12–15 per leg. Baseline reached Day 190: **33 lbs (≈15 kg)/leg**. |
+| R-Y | No loaf / sliced bread in the house | Do **not** buy or keep sliced or loaf **white/maida** bread at home — the loaf is the problem, not the slice. If bread is genuinely wanted: single-serve only, before 6 PM, paired with ≥25 g protein, **atta/multigrain only**. Environmental fix beats willpower. |
 
 ---
 

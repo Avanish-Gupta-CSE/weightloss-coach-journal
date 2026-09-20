@@ -82,6 +82,12 @@ The `.coach/` directory contains the persistent memory system:
 | R-Q | Steps floor = 10k/day (temp) | New commitment from Day 89. |
 | R-R | Relocation transition protocol (temp: Sep 1–15) | Scoreboard collapses to 3 non-negotiables: protein ≥150g/day, ≥3 training sessions/week, 30 min walking/day. |
 | R-S | Anxiety/rain gym-block override | Session is downgraded, never skipped: 30 min indoor walk + 12-min bodyweight circuit. |
+| R-T | Fruit ceiling (temp — review Oct 1) | Max **2 fruit servings/day (~200 g total)**, never 2 in one sitting, never without ≥20 g protein alongside. |
+| R-U | Post-cardio protein first | After any ride/run/long walk: **≥25 g protein before any fruit or carb**. |
+| R-V | Township leg press HARD CAP 80 kg | 🔴 Violated Day 190 at 84 kg ×3×12 on the makeshift rig. Inspect before loading; never above 80 kg. |
+| R-W | Response style — structured + tabular + exhaustive | Headings, tables and labelled lists always; answer **every** sub-question in order; never truncate for brevity. |
+| R-X | Hip ab/adduction = ankle-strap cable work | No ab/adductor machines in the township gym — ankle leg-strap on the cable machine, single-leg, 3 × 12–15/leg. Baseline: 33 lbs (≈15 kg)/leg. |
+| R-Y | No loaf / sliced bread in the house | Do not keep loaf/sliced white **maida** bread at home. If wanted: single-serve, before 6 PM, with ≥25 g protein, atta/multigrain only. |
 
 ---
 
