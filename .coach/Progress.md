@@ -6199,7 +6199,7 @@ The newly reported lunch (2.5 fish pieces + 80–100 g cooked rice) is **numeric
 | **SuperYou wafer (NEW)** | 1 wafer (user-specified) | 90 | 5 g | 1,334 / 1,900 | 71 / 180 | 566 kcal · 109 g |
 | **Cashew kernels (NEW)** | 15 kernels ≈ 25 g | 138 | 4.6 g | **1,472 / 1,900** | **75.6 / 180** | **428 kcal · 104.4 g** |
 
-**Revised Day-190 running total: ~1,472 kcal / ~75.6 g protein** — 428 kcal of headroom left, but still **74.4 g short of the 150 g hard floor**.
+**Revised Day-190 running total: ~1,472 kcal / ~75.6 g protein** — **Day 190 updated estimate: ~1,472 kcal / ~76g protein.** — 428 kcal of headroom left, but still **74.4 g short of the 150 g hard floor**.
 
 #### Decision 3 — the live deficit check (pre-dinner)
 
