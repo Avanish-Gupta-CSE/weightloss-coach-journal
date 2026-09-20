@@ -5878,3 +5878,112 @@ If you take the lassi, adjust the dinner protein patch to:
 - Day 173 meal engine is blocked on the cook/mess decision; until resolved, default to air-fryer + paneer/eggs/whey.
 - **Target correction is the headline of this session:** the user's stated goal "78 kg by 27th Sept" (confirmed verbatim in the opencode export msg 18) is not achievable from 83.70 kg. Do not let a later session quietly re-adopt it, and do not let the failure to hit it be read as non-compliance. **Holding 1,400-1,500 kcal is the correct call**; dropping to 1,200 was explicitly rejected for gut/thyroid/exam reasons.
 - **Open question for the user:** they may have meant **Oct 27** rather than Sep 27 — at 0.97 kg/week that target is fully achievable and would need no plan change beyond the date. Confirm before treating the deadline as settled either way.
+
+---
+### 2026-09-20 (Day 190) — Session Update
+
+> **Day-counter correction applied this entry.** The day counter had frozen during the Sep 1–15 relocation gap (it advanced 1 day for 15 calendar days: Sep 1 = Day 171 → Sep 16 = Day 172). Re-anchored against Day 0 = Mar 14, 2026 and verified against four historical anchors (May 4 = Day 51, May 8 = Day 55, Jun 11 = Day 89, Jun 22 = Day 100). Correct value: **Sep 17 = Day 187, Sep 20 = Day 190.** Prior entries labelled Sep 17 as "Day 173" are off by 14 and are left as-authored (visible erratum, not a silent rewrite).
+
+**Context:** Day 190 (Sep 20, Sunday). New city, new gym. Weight has rebounded to **~83.75 kg** (self-reported, not fasted-weighed) from the all-time low of **81.15 kg** (late Aug). User reports the cause honestly: office commute stopped, food eaten **without weighing**, no portion boundaries. User is discouraged — "all my efforts till 81.15 kgs has washed down." **They have not.** See the arithmetic block below.
+
+**Topics discussed:**
+1. Workspace context re-ingestion (`.coach/` brain-complex, `.github/` agent rules, `AgentChats/`, `WorkoutSplit.md`, `MealPlan.md`, `Metrics.md`).
+2. Weight-rebound triage — separating water/glycogen/gut content from true fat regain.
+3. New-gym equipment inventory and a rebuilt Phase 3 program around it.
+4. Today's breakfast log (post-cycling, 6 fruits + fish + rice + roti) and the day's rescue prescription.
+5. Cut timeline: "back to 81 kg this week" and "80 kg by Sep 27."
+6. Two new standing rules (R-T fruit ceiling, R-U post-cardio protein first) plus R-V (leg-press hard cap).
+
+**Decisions made:**
+1. **Targets restated:** Sep 27 is a **checkpoint**, not a hard deadline. Honest landing = **80.9–81.9 kg** (midpoint ~81.4). Getting to 80.0 kg needs maximal water flush **and** perfect adherence — call it a 25–30 % shot; **80.0 kg most likely lands Sep 29–Oct 2.**
+2. **"Back to 81 kg this week" is realistic.** Accept it as the primary goal; treat 80.0 as a stretch.
+3. **Do not drop below 1,400 kcal.** Reconfirmed. 1,200 was rejected in the prior session for gut/thyroid/exam reasons and stays rejected.
+4. **New primary gym = the local township gym.** Cult.fit ELITE PLUS is now secondary; the pause-day decision for the Bangalore membership is still open but no longer blocks training.
+5. **Leg press on the makeshift machine is HARD-CAPPED at 80 kg** (new rule R-V). This machine previously broke under the user at 100 kg.
+6. **Stadium running capped** at 2×/week, 25 min, walk-jog intervals only, never on a leg day, never on <6 h sleep, preferred slot 5:30–6:00 AM so the 6:00 AM thyroxine is not displaced.
+7. **Primary cardio stays township cycling** — 2 rounds/day (≈9 km, ≈45 min). Today's round already banked (9.06 km).
+8. Today's session = **Lower + Core** (Upper was Sep 18, gap Sep 19). First session in 3 weeks in a new gym → **RIR 3, not RIR 2**.
+9. New rules **R-T** (fruit ceiling, temporary — review Oct 1), **R-U** (post-cardio protein first), **R-V** (leg press cap) added to `BrainState.md`.
+10. Weekly split for the new gym drafted: Sun Lower+Core · Mon Upper Push · Tue rest (veg-only per R-L) · Wed Upper Pull · Thu Lower+Core · Fri Upper Mix (optional) · Sat Lower/Full (optional) — **4 sessions minimum**.
+
+**Compliance notes:**
+- **Thyroxine:** taken at 6:00 AM, plain water. ✅
+- **Cardio:** cycling 9.06 km done in the morning. ✅
+- **Strength:** Sep 18 Upper done (new gym). Sep 19 rest. Today's Lower+Core was prescribed.
+- **Diet:** Breakfast/lunch as logged below — **heavy carb + sugar skew (6 fruits, ~111 g sugar), only ~66 g protein at midday.**
+- **Red flags logged:** (a) **no food scale in use** — "eating food without weighing" is the single biggest cause of the rebound and is the #1 item to fix this week; (b) commute removal cut daily NEAT substantially (previously large passive step volume); (c) no portion boundaries at home.
+- **Violations:** none against the 11 non-negotiables. The issue today is macro distribution, not banned foods.
+
+**Next actions:**
+1. **Tomorrow (Mon Sep 21) = official weigh-in W27** — fasted, post-bathroom, naked, same scale, before thyroxine. Log in `Metrics.md`.
+2. **Unpack/place the food scale today.** No weighing = no control. Weigh cooked food only, per protocol.
+3. **Fix the protein gap today:** 1 scoop OWN in lukewarm water + 5 almonds at ~4 PM; 180 g cooked chicken breast + 200 g sautéed lauki/beans at ~7:30 PM.
+4. **Walking:** 30 min minimum. Do not stack a second cardio block — cycling is already banked.
+5. **Sodium flush:** water 3.5–4 L, sodium <1,500 mg, zero sugar, zero refined carbs for the next 3 days.
+6. **Gym Lower + Core today** using the calibration table in this session's response.
+7. Confirm whether the **new-city cook/mess** situation is resolved — it still blocks the meal engine.
+
+**Copilot context:**
+- **Day counter re-anchored: Sep 20 = Day 190** (was tracking Sep 17 = Day 173, off by 14 because the counter froze during the Sep 1–15 relocation gap). Future entries must use the corrected counter.
+- **Weight: ~83.75 kg (Sep 20, self-reported).** All-time low remains 81.15 kg. Total loss from Day 0 (91.45 kg) = **−7.70 kg**.
+- **Do NOT re-adopt "78 kg by Sep 27"** (from the opencode export). It is impossible. Also flag that the user may have meant **Oct 27** — still unconfirmed.
+- **Sep 27 = checkpoint at ~81 kg**, not a pass/fail deadline. Do not let a later session treat a miss as non-compliance.
+- **Food scale not in use** is the active #1 problem to chase until resolved.
+- **Gym context changed completely:** new township gym, equipment list in `BrainState.md`. Cult.fit is secondary. Leg press on the makeshift machine is capped at 80 kg.
+- **R-T, R-U, R-V are new** — apply them immediately.
+
+#### Day 190 intake (actuals so far, ~1:00 PM) — estimated
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,450 | Cum. protein vs 180g | Remaining gap |
+|---|---|---:|---:|---:|---:|---:|
+| Thyroxine 50 mcg (6:00 AM, plain water) | 1 tab | 0 | 0 | 0 | 0g | — |
+| Outdoor cycling | 9.06 km / ~45 min | 124 (app; real ≈230–290) | 0 | 0 | 0g | — |
+| Pomegranate (whole, arils) | 2 whole (~280g arils) | 230 (est) | 4.5g (est) | 230 | 4.5g | 1,220 kcal, 175.5g protein |
+| Pear | 2 medium (~180g each) | 200 (est) | 1.2g (est) | 430 | 5.7g | 1,020 kcal, 174.3g protein |
+| Apple | 2 medium (~180g each) | 190 (est) | 1.0g (est) | 620 | 6.7g | 830 kcal, 173.3g protein |
+| Fish (1.5 roasted + 1 in curry) | 2.5 medium (~340g edible) | 340 (est) | 55g (est) | 960 | 61.7g | 490 kcal, 118.3g protein |
+| Cooking oil (roast + curry) | ~2.5 tsp total | 100 (est) | 0 | 1,060 | 61.7g | 390 kcal, 118.3g protein |
+| Basmati rice (assumed **cooked**) | 100g | 130 (est) | 2.7g (est) | 1,190 | 64.4g | 260 kcal, 115.6g protein |
+| Roti | 0.5 | 50 (est) | 1.5g (est) | **1,240** | **65.9g** | **210 kcal, 114.1g protein** |
+
+**Day 190 running total: ~1,244 kcal / ~66g protein** (approximately 50% of the day's calorie band consumed for ~37% of the protein floor).
+
+**Breakdown of the problem:** the six fruits alone = **~620 kcal / ~7 g protein / ~111 g sugar** — roughly **43% of the 1,450 kcal band for almost no protein.** Fish was the only real protein source at midday.
+
+**Rescue prescription (rest of Day 190):**
+
+| Slot | Food | Quantity | Est. kcal | Est. protein | Running kcal | Running protein |
+|---|---|---:|---:|---:|---:|---:|
+| ~4:00 PM | OWN whey isolate in lukewarm water + almonds | 1 scoop + 5 almonds | 160 | 27g | 1,404 | 93g |
+| ~7:30 PM | Chicken breast, tawa/air-fryer, 1 tsp oil + sautéed lauki/beans, 0.5 tsp oil | 180g cooked + 200g veg | 340 | 57g | 1,744 | 150g |
+| ~9:30 PM (only if hungry) | OWN whey isolate | 0.5 scoop | 60 | 12.5g | 1,804 | 162.5g |
+
+**Honest Day 190 landing: ~1,744–1,804 kcal / ~150–163g protein.** Protein floor (150g) hit; protein target (180g) missed by ~17–30g; calories over the 1,450 band by ~294–354. **Do not starve tomorrow to compensate** — that is the binge-cycle entry point. Absorb it, weigh in normally Monday, resume the band.
+
+**The rebound is not what it looks like.** From 81.15 kg (Aug 30) to 83.75 kg (Sep 20) = **+2.60 kg over 21 days**. Gaining 2.60 kg of *fat* requires a sustained surplus of 2.60 × 7,700 ÷ 21 = **+953 kcal/day above TDEE, every single day.** The worst logged day in that window (Day 172, Sep 16) was ~2,683 kcal vs a ~2,450 TDEE — a surplus of only ~233 kcal. **Physiologically impossible to have gained 2.6 kg of fat.** Decomposition:
+
+| Component | Estimated share |
+|---|---|
+| Water + glycogen + gut content (unweighed, high-sodium, high-carb eating) | ~1.2–2.0 kg |
+| True fat regain | ~0.6–1.0 kg |
+| Detraining / scale noise / reduced NEAT restoration | ~0.2–0.5 kg |
+
+**Net true fat regained ≈ 0.6–1.0 kg.** The user is still **−7.70 kg from Day 0**. Nothing "washed down" — most of the 2.6 kg is water that leaves in 72 hours at <1,500 mg sodium and 3.5–4 L water.
+
+**Projected curve (TDEE ~2,400–2,500; intake 1,450; deficit ~950–1,050 kcal/day ≈ 0.9–1.0 kg/week of fat; plus a 1.0–2.0 kg first-week flush):**
+
+| Date | Projected weight | Note |
+|---|---:|---|
+| Sep 20 | 83.75 kg | Start (self-reported) |
+| Sep 22 | 82.6–83.0 kg | Flush phase, sodium <1,500 mg |
+| Sep 24 | 82.0–82.4 kg | Grind phase, 4th session |
+| **Sep 27** | **80.9–81.9 kg** | **Checkpoint** — "back to 81" hit at the optimistic end |
+| Oct 2 | 80.0–80.8 kg | **80.0 kg lands ~Sep 30–Oct 2** |
+| Oct 20 | ~78.0 kg | Long-horizon target |
+
+**Gym equipment (new township gym) — recorded verbatim for `BrainState.md`:**
+- **Upper:** cable crunches, rod bicep curls, rod tricep overhead, rod bicep negatives, lat pulldowns, low row, chest press, pec deck, adjustable multi-press machine, treadmill with **no incline**.
+- **Legs:** leg extension, lying leg curls, leg press (100 kg machine but **makeshift — previously broke under load at 100 kg**), abductor + adductor machines, ankle **leg straps for the cable/rope machine** (abductors/adductors), dumbbell crunches. **No squat rack / goblet-squat station.**
+- **Cardio:** township cycling — 20–25 min per round, 4.5 km per round (mountain bike); community stadium running at 4–5 AM.
+
+**Corrected baseline reference (last logged weights, old Bangalore gym — Session 30, May 8):** Chest Press 50 lbs ×3 · Lat Pulldown 55 lbs ×3 · Seated Row 29 kg ×3 · DB Shoulder Press 7.5 kg/arm ×3 · DB Bent-Over Row 10 kg/arm ×3 · Leg Press 90 kg ×3 · Goblet Squat 10 kg ×3 · Leg Extension 29 kg ×3 · Leg Curl 29 kg ×3 · Hip Adductor/Abductor 23 kg ×3 · Cable Crunch 15 lbs ×3. **These are re-validation references only** — the new gym's stacks, pulleys and machine geometry differ, so today's session used calibration sets.
