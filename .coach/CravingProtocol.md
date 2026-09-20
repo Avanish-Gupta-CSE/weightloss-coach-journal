@@ -158,3 +158,4 @@ Track your craving-free streak here. Every night you resist is a win.
 | Date | Craving? | Action Taken | Streak |
 |---|---|---|---|
 | Mar 14, 2026 | TBD | TBD | Day 0 |
+| Sep 20, 2026 (Day 190) | **Yes** — 9:30 PM–midnight window | 🔴 **FAILED — 2 white-bread slices, one with sugar crystals, at ~11:55 PM (166 kcal / 4.4 g).** Steps 1–4 not attempted; the loaf was already in the kitchen. Trigger unconfirmed (availability + post-gym late-night habit most likely). | **0 — reset** |

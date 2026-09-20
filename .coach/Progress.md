@@ -6199,7 +6199,7 @@ The newly reported lunch (2.5 fish pieces + 80–100 g cooked rice) is **numeric
 | **SuperYou wafer (NEW)** | 1 wafer (user-specified) | 90 | 5 g | 1,334 / 1,900 | 71 / 180 | 566 kcal · 109 g |
 | **Cashew kernels (NEW)** | 15 kernels ≈ 25 g | 138 | 4.6 g | **1,472 / 1,900** | **75.6 / 180** | **428 kcal · 104.4 g** |
 
-**Revised Day-190 running total (pre-dinner): ~1,472 kcal / ~75.6 g protein** — **Day 190 updated estimate: ~2,035 kcal / ~101g protein.** — dinner actuals added **563 kcal / 25.6 g** (Part 5.B), so the day closed **135 kcal over the 1,800–1,900 band** and **49 g short of the 150 g hard floor**. Pre-dinner headroom was 428 kcal / 74.4 g.
+**Revised Day-190 running total (pre-dinner): ~1,472 kcal / ~75.6 g protein** — **Day 190 final estimate: ~2,200 kcal / ~105g protein.** — dinner actuals added **563 kcal / 25.6 g** (Part 5.B) and a late-night bread disclosure added **166 kcal / 4.4 g** (Part 9), so the day closed **300 kcal over the 1,800–1,900 band** and **45 g short of the 150 g hard floor**. Pre-dinner headroom was 428 kcal / 74.4 g.
 
 #### Decision 3 — the live deficit check (pre-dinner)
 
@@ -6647,3 +6647,99 @@ The four `documents-*` tools needed **no reload** — `documents.mjs` re-resolve
 4. LibreOffice 26.8.0 is now installed system-wide, which also enables casual `soffice --headless --convert-to` use.
 5. The `mcp.json` edit is **outside the git repo**, so it does not appear in any commit and is unaffected by the push restrictions.
 6. Rule **R-W** applies to the tooling report as much as to coaching advice — hence the tabular format here.
+
+#### Part 9 — Late-night bread disclosure (Day 190, Sep 20, 2026, ~11:55 PM)
+
+**Trigger:** user reported — *"i ate one normal bread white slice + one bread slice with sprinkle of sugar crystal"* — at **~11:55 PM**, i.e. **after Day 190 had already been closed, totalled and graded in Part 5**, and **25 minutes past the 11:30 PM sleep rule**.
+
+##### Part 9.A — intake log
+
+| Intake | Quantity | Est. kcal | Est. protein | Protocol status |
+|---|---|---:|---:|---|
+| White bread, plain slice | 1 slice (~28 g) | 75 | 2.2 g | 🔴 **Violates rule 3 (no maida)** |
+| White bread slice + sugar-crystal sprinkle | 1 slice (~28 g) + ~4 g sugar | 91 | 2.2 g | 🔴 **Rule 3 (maida) + rule 5 spirit (refined sugar)** |
+| **Late-night subtotal** | **2 slices** | **166** | **4.4 g** | **Three rule breaches in one event** |
+
+##### Part 9.B — revised Day-190 totals
+
+| Line | kcal | Protein |
+|---|---:|---:|
+| Day 190 through dinner (Part 5.B) | 2,035 | 101 g |
+| + Late-night bread (Part 9.A) | 166 | 4.4 g |
+| **Day 190 — revised final** | **~2,200** | **~105 g** |
+
+| Metric | Target | Day 190 revised final | Gap |
+|---|---:|---:|---:|
+| Calories | 1,900 (band **1,800–1,900**) | **~2,200** | **+300 over the band top · +400 over the band floor** |
+| Calories vs the aggressive band | 1,400–1,500 | ~2,200 | **+700 to +800** |
+| Protein | 180 g (floor **150 g**) | **~105 g** | **−75 vs target · −45 vs floor** |
+| Fruit servings | ≤ 2 (R-T) | 7 | **R-T VIOLATED** |
+| Carbs after 3 PM | none | 2 roti + 1 pear (dinner) **+ 2 bread slices (11:55 PM)** | **Breached twice** |
+| Sleep | 11:30 PM | **~11:55 PM intake → ~6 h** before the 6:00 AM thyroxine | **Breached** |
+
+##### Part 9.C — the deficit after the bread
+
+| Line | Value | Note |
+|---|---:|---|
+| TDEE baseline (×1.55, per `Metrics.md`) | 2,635 kcal | Already includes ambient daily activity |
+| Intake (Day 190 revised final) | ~2,200 kcal | |
+| **Intake-only deficit** | **~435 kcal** | Down from ~600 kcal pre-bread |
+| + Cycling credit | **+150 kcal** | Standing credit policy (Part 5.C) |
+| + Strength-session credit | **+250 kcal** | Standing credit policy (Part 5.C) |
+| **Day 190 total deficit** | **~835 kcal** | ≈ **0.76 kg/week** equivalent |
+
+**Band check:** the rescue target is **1,100–1,185 kcal/day** of deficit. Day 190 finished **~265–350 kcal short** — the bread alone accounts for **~166 kcal** of that gap, and the 7-serving fruit load for most of the rest.
+
+**Protein-efficiency comparison (the real cost):** 166 kcal bought **4.4 g** of protein = **37.7 kcal per gram of protein**. Against the same 166 kcal:
+
+| Alternative for ~166 kcal | Protein delivered | kcal per g protein |
+|---|---:|---:|
+| **2 white bread slices (what happened)** | **4.4 g** | **37.7** |
+| 1 scoop OWN whey isolate (155 kcal) | 26 g | **6.0** |
+| 3 boiled egg whites (50 kcal) + 100 g cooked fish (105 kcal) | ~11 g + ~24 g = **35 g** | **~4.7** |
+| 200 g paneer, pan-tossed, ≤1 tsp oil | ~41 g | ~4.9 |
+
+The same calories could have delivered **6–8× the protein**. This is the third consecutive day where the day's failure mode was *carb-and-sugar calories displacing protein calories*, not total volume.
+
+##### Part 9.D — Day 190 report card, revised
+
+Only two grades move; the rest of Part 5.D stands.
+
+| Dimension | Before (Part 5.D) | Revised | Reason for the change |
+|---|---|---|---|
+| **Health / gut** | B− | **C+** | Zero-deep-fried / zero-maida claim no longer holds — **maida + refined sugar at 11:55 PM**, the worst possible timing for insulin and for sleep quality |
+| **Decisions taken** | C | **C−** | The gym discipline (B+) is intact, but a closed-and-graded day was reopened by an avoidable kitchen-availability slip |
+| **Overall** | C+ — 6.5/10 | **C — 6.0/10** | Training and movement remain the strong axis; nutrition discipline remains the structural failure at ~4 consecutive weeks |
+
+##### Part 9.E — the three failures, ranked by leverage
+
+1. **Availability (the root cause).** The loaf was *in the kitchen* at midnight. No amount of resolve beats a 28 g slice that is 20 seconds away. **Fix the environment, not the willpower.**
+2. **Timing.** 11:55 PM is inside the exact **9:30 PM → midnight** window that `.coach/CravingProtocol.md` exists to defend — and it is 25 min past the 11:30 PM sleep rule, cutting the night to ~6 h before a 6:00 AM thyroxine dose.
+3. **Choice.** Sugar crystals on white maida is the *same mechanism* as a banned sweet, just smaller. Rule 5 is about mechanism, not about size.
+
+##### Part 9.F — countermeasure: new standing rule R-Y
+
+| # | Rule | Details | Added |
+|---|---|---|---|
+| **R-Y** | **No loaf / sliced bread in the house** | Do **not** buy or keep sliced or loaf **white/maida** bread at home — the whole loaf is the problem, not the slice. If bread is genuinely wanted: (a) buy **single-serve only**, (b) eat it **before 6 PM**, (c) pair it with **≥25 g protein**, (d) **atta or multigrain only, never white maida**. Root cause: a loaf sitting in the kitchen at 11:55 PM on Day 190 became a 166 kcal maida + refined-sugar slip. **Environmental fix beats willpower.** | **Day 190, Sep 20 2026** |
+
+`.coach/BrainState.md` → Standing Rule Overrides, and `.coach/CravingProtocol.md` → Streak Tracker updated in the same commit.
+
+##### Next actions
+
+1. 🔴 **Day 191 (Mon Sep 21) — W27 fasted weigh-in FIRST:** naked, post-BM, **before** water, food or thyroxine → log the number in `Metrics.md` → Weekly Weigh-In Log. **Do not pre-write the value.**
+2. **Clear every maida loaf out of the kitchen before Day 191 ends** (R-Y). This is the highest-leverage single action available.
+3. **Day 191 protein target is ≥150 g minimum, ≥176 g preferred** — 3 heavy anchors (whey AM, fish/eggs midday, paneer + whey PM).
+4. **Put the food scale on the counter and use it for one meal tomorrow** — the structural fix behind four consecutive weeks of "eating without weighing".
+5. **No intake after 9:30 PM, no carbs after 3 PM.** If the 9:30–midnight urge returns, run `.coach/CravingProtocol.md` Steps 1–4 — specifically the **3 boiled egg whites** substitute, not bread.
+6. **Sleep by 11:30 PM.** A ~6 h night before a 6 AM thyroxine dose degrades both recovery and appetite regulation.
+7. **Verify the township cable-crunch and leg-extension stack scales** before logging them again (Part 5.E open item).
+
+##### Copilot context
+
+1. **Day 190 is now CLOSED at ~2,200 kcal / ~105 g protein.** This is the number to quote — not the 2,035 figure in Part 5.B, which was pre-bread.
+2. **The `Progress.md:6202` parser-facing closeout line was rewritten in place** so the gh-pages dashboard reads the revised total. Never add a second closeout line — first match wins.
+3. **New rule R-Y (no loaf bread in the house)** added to `BrainState.md` and all four rulebook surfaces.
+4. **Day 190 was a 3-violation day: R-T (7 fruits), carbs-after-3-PM ×2, and maida + refined sugar at midnight.** The nutrition axis — not training — is what is holding 83.75 kg in place.
+5. **Craving Protocol Streak Tracker reset to 0** on Sep 20 — logged in `.coach/CravingProtocol.md`.
+6. The bread disclosure arrived **after** the Part 5 closeout and the Part 6–8 tooling sessions; sequence matters when reading this block.
