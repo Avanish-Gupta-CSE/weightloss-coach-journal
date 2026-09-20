@@ -6159,3 +6159,123 @@ The user reported that the **hip abductor machine and the hip adductor machine d
 3. `WorkoutSplit.md` now carries a **Phase 4 section** for the township gym; the Phase-1 Friday table's ab/adductor rows are annotated as absent.
 4. **Total unpushed local commits: 8** — the six listed in Part 2 plus `0e3bd93` and the Part-3 commit.
 5. **Flagged, not edited:** `WorkoutSplit.md` `## Progressive Overload Schedule` still lists **Phase 3 = 3 × 8–12**, which contradicts the live **Phase 3 = 3 × 10–12** in `BrainState.md`. Pre-existing, out of scope for this fix.
+
+
+**Part 4 — same day, ~7:00 PM (lunch disclosure, dinner quantities, live deficit check)**
+
+**Topics discussed (this segment):**
+
+| # | User ask | Outcome |
+|---|---|---|
+| 1 | Log lunch — 2.5 fish pieces + 80–100 g cooked rice + 1 SuperYou wafer + 15 cashew kernels | ✅ Logged, with the **double-count assumption stated openly** |
+| 2 | "Tell me my current deficit" | ✅ Quantified — **~1,163 kcal pre-dinner** (intake-only), **~1,313 kcal** with cycling credit |
+| 3 | Dinner = lauki sabzi + roti + daal — "tell their quantity in which I have to eat" | ✅ Exact cooked-gram quantities prescribed |
+| 4 | "Since I ate fish today I won't have protein powder" | ⚠️ Noted and respected — but see the honesty flag: **there is no rule that bars whey on a fish day** (R-A governs water temperature, not fish) |
+| 5 | "Tell my current deficit" + structured/tabular format (R-W) | ✅ Delivered in full R-W format |
+
+#### Decision 1 — the lunch double-count assumption (STATED, not silently resolved)
+
+The newly reported lunch (2.5 fish pieces + 80–100 g cooked rice) is **numerically identical** to the meal already logged at midday as "breakfast" (2.5 medium fish + 100 g cooked basmati). **Assumption taken: it is the SAME meal, re-described.** Only the genuinely new items were added.
+
+| Possibility | Effect on the day |
+|---|---|
+| **Same meal, re-described (assumed)** | Add only the wafer + cashews → **+228 kcal / +9.6 g** |
+| Two separate 2.5-fish meals | Add a further **~340 kcal / ~55 g** → day would open at ~1,812 kcal / ~130.6 g before dinner |
+
+**If the fish was a second, separate meal, add ~340 kcal / ~55 g to every number in this Part.**
+
+#### Decision 2 — revised Day-190 intake (the disclosed additions)
+
+| Intake item | Quantity | Estimated kcal | Estimated protein | Cumulative kcal vs 1,900 | Cum. protein vs 180 g | Remaining gap |
+|---|---|---:|---:|---:|---:|---|
+| 2 pomegranates (arils) | 2 whole | 230 | 4.5 g | 230 / 1,900 | 4.5 / 180 | 1,670 kcal · 175.5 g |
+| 2 pears | 2 whole (bitter gourd-sized) | 200 | 1.2 g | 430 / 1,900 | 5.7 / 180 | 1,470 kcal · 174.3 g |
+| 2 apples | 2 whole | 190 | 1.0 g | 620 / 1,900 | 6.7 / 180 | 1,280 kcal · 173.3 g |
+| Fish (roasted ×1.5 + curry ×1) | 2.5 medium pieces ≈ 340 g | 340 | 55 g | 960 / 1,900 | 61.7 / 180 | 940 kcal · 118.3 g |
+| Cooking oil (fish roast + curry) | ~2.5 tsp | 100 | 0 g | 1,060 / 1,900 | 61.7 / 180 | 840 kcal · 118.3 g |
+| Basmati rice | 100 g **cooked** | 130 | 2.7 g | 1,190 / 1,900 | 64.4 / 180 | 710 kcal · 115.6 g |
+| Roti | 0.5 roti | 50 | 1.5 g | **1,244 / 1,900** | **66 / 180** | **656 kcal · 114 g** |
+| — already-logged subtotal — | — | **1,244** | **66 g** | — | — | — |
+| **SuperYou wafer (NEW)** | 1 wafer (user-specified) | 90 | 5 g | 1,334 / 1,900 | 71 / 180 | 566 kcal · 109 g |
+| **Cashew kernels (NEW)** | 15 kernels ≈ 25 g | 138 | 4.6 g | **1,472 / 1,900** | **75.6 / 180** | **428 kcal · 104.4 g** |
+
+**Revised Day-190 running total: ~1,472 kcal / ~75.6 g protein** — 428 kcal of headroom left, but still **74.4 g short of the 150 g hard floor**.
+
+#### Decision 3 — the live deficit check (pre-dinner)
+
+| Line | Value | Note |
+|---|---:|---|
+| Baseline TDEE (Moderately Active ×1.55) | **2,635 kcal** | `Metrics.md` line 50 — working baseline `~2,550–2,700` |
+| Intake logged so far | **1,472 kcal** | Revised total above |
+| **Deficit right now (intake-only)** | **~1,163 kcal** | 2,635 − 1,472 |
+| Cycling credit (conservative) | **+150 kcal** | App reported 124 kcal / 9.06 km; the app under-reports, real is nearer **230–290 kcal**. Only 150 is credited here. |
+| **Deficit right now (with ride credit)** | **~1,313 kcal** | 2,635 + 150 − 1,472 |
+| Target deficit for ~1.0–1.1 kg/week | **1,100–1,185 kcal** | Established arithmetic |
+| **Projected day-end deficit at ~1,902 kcal** | **~733 kcal** (intake-only) · **~883 kcal** (with ride) | **Below** the 1,100–1,185 target — see the honesty flag |
+
+**Why the day-end deficit will undershoot:** the 6-serving fruit load (~620 kcal for ~7 g protein) consumed ~33% of the calorie band at ~4% of the protein target. That is the whole story of Day 190. The calories were spent where they buy the least.
+
+#### Decision 4 — the honesty flag: 150 g protein is MATHEMATICALLY UNREACHABLE today
+
+From **1,472 kcal** with only **428 kcal** left, the remaining protein gap is **74.4 g**. That requires **5.8 kcal per gram of protein**. The most protein-dense food available (egg) delivers **11.7 kcal/g** — roughly double the requirement.
+
+| Ceiling check | Value |
+|---|---:|
+| Remaining calorie headroom | 428 kcal |
+| Best available ratio (whole egg) | 11.7 kcal / g protein |
+| **Theoretical maximum protein still addable** | **~36.6 g** |
+| **Absolute best day-end protein** | **~112 g** |
+| Hard floor | **150 g** ❌ **not reachable today, by any food or combination** |
+
+**No rule bars whey on a fish day.** R-A covers water temperature and the almond/chana co-factor; nothing in `Protocol.md` or `BrainState.md` links protein powder to fish. **1 scoop OWN (120 kcal / 25 g)** is the single most efficient remaining lever and would lift the day to **~117.6 g at 1,882 kcal** — inside the band. His choice to skip it is respected, but the protein floor is formally missed today and that must be carried into tomorrow's plan.
+
+#### Decision 5 — dinner quantities (cooked / ready-to-eat grams)
+
+**Recommended — Option A (holds the band, protects the deficit):**
+
+| Component | Quantity to eat | kcal | Protein | Notes |
+|---|---|---:|---:|---|
+| **Daal** | **1.5 katori ≈ 225 g cooked** | 180 | 13.5 g | Thick, not watery — thin daal is mostly water |
+| **Lauki sabzi** | **250 g cooked** | 60 | 2 g | Cook's rule: **max 1 tsp oil**, zero butter/cream/ghee |
+| **Roti** | **0.5 roti** | 50 | 1.5 g | Half — he already had 0.5 at midday; this is the carb to trim |
+| **Whole boiled eggs** | **2 eggs** | 140 | 12 g | Best protein-per-calorie food available at dinner (11.7 kcal/g) |
+| **Dinner total** | — | **430** | **29 g** | |
+| **Day-end (Option A)** | — | **1,902 kcal** ✅ in band | **104.6 g** | Floor still missed — structural, not a compliance failure |
+
+**Option comparison:**
+
+| Option | Dinner composition | Day-end kcal | Day-end protein | In 1,800–1,900 band? |
+|---|---|---:|---:|---|
+| **A — hold the band (recommended)** | daal 1.5 katori + lauki 250 g + 0.5 roti + 2 eggs | **1,902** | 104.6 g | ✅ Yes |
+| B — calorie-first, no eggs | daal 2 katori + lauki 250 g + 1 roti | 1,872 | 98.6 g | ✅ Yes (but 6 g less protein for the same calories) |
+| C — protein-first, off-band | daal 2 katori + lauki 250 g + 1 roti + 3 eggs + 150 g curd | 2,172 | 121.6 g | ❌ Over by 272 kcal |
+| D — **1 scoop OWN** (his call to decline) | 1 scoop OWN + daal 1.5 katori + lauki 250 g + 0.5 roti | **1,882** | **117.6 g** | ✅ Yes — **best protein-per-calorie day available** |
+
+**Do NOT add 150 g curd to Option A** — it is safe (no chicken at dinner, so no R-P conflict), but it costs 90 kcal / 5 g protein, which is a worse ratio than the second egg.
+
+#### Decision 6 — movement add-on (offsets the fruit damage, not the protein gap)
+
+| Protocol | Prescription |
+|---|---|
+| Walking pad | **35 min at 4.5–5.0 km/h** while studying → **~130–150 kcal** |
+| Timing | Any time before 10:30 PM; not a substitute for the Sept 20 Lower + Core session if that was skipped |
+| Net effect | Day-end net deficit moves to **~883–1,033 kcal** — back inside the 1,100–1,185 approach range once the ride credit is included |
+
+**Next actions (Part 4 additions):**
+
+1. **Eat dinner as Option A:** daal **1.5 katori (≈225 g cooked)** + lauki sabzi **250 g cooked with ≤1 tsp oil** + **0.5 roti** + **2 whole boiled eggs**. Target 7:30–8:00 PM.
+2. **If hungry after dinner**, take **1 whole egg + 100 g cucumber** (≈85 kcal / 6 g) — **not** fruit (R-T), **not** the whey he declined.
+3. **Add the 35 min walking pad at 4.5–5.0 km/h** before 10:30 PM.
+4. **Do NOT compensate tomorrow** for today landing at ~1,902 kcal / ~105 g protein. Tomorrow is a normal band day — just protein-first from the first meal.
+5. **Monday Sep 21 = W27 fasted weigh-in** — immediately on waking, after the bathroom, before water, food, or thyroxine. Log the number in `Metrics.md`.
+6. **Monday Sep 21 is an Upper Push day** and the first protein-first day of the rescue week: **≥40 g protein before 10 AM**, no fruit until ≥20 g protein is in (R-T).
+
+**Copilot context (Part 4 additions):**
+
+1. **Day 190 revised intake: ~1,472 kcal / ~75.6 g protein** (was 1,244 / 66 before the SuperYou wafer + 15 cashews were disclosed). **Lunch = the same meal already logged as "breakfast"** — assumed, not double-counted.
+2. **The 150 g protein floor is mathematically unreachable on Day 190** — max achievable was ~112 g. Not a compliance failure; an arithmetic consequence of a 6-serving fruit load. **Day 190 is a formal floor miss.**
+3. **The user believes whey must be avoided on a fish day. No such rule exists** in `Protocol.md` or `BrainState.md`. Do not enforce it; do gently re-offer whey as the last protein lever on low-protein days.
+4. **Dinner prescription of record:** daal 1.5 katori (225 g cooked) + lauki 250 g cooked (≤1 tsp oil) + 0.5 roti + 2 whole eggs = **430 kcal / 29 g**.
+5. **Day 190 is a fruit-overrun case study** — 6 servings (~620 kcal / ~7 g protein / ~111 g sugar) consumed a third of the calorie band for 4% of the protein target. **R-T (max 2 fruit servings/day) is the rule this day broke hardest.**
+6. Use the dinner Option-A composition as the template for future lauki/roti/daal dinners: **trim the roti, keep the daal, always add eggs.**
+
