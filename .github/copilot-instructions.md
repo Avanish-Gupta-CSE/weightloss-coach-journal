@@ -94,6 +94,13 @@ These rules are non-negotiable and must be applied to every response:
 - Exam prep is sacred. If a workout would cost study time on a high-stakes exam day, prescribe the walking pad protocol instead.
 - Weekly weigh-in: **every Monday morning**, fasted, after bathroom. Log result in `.coach/Metrics.md`.
 
+**Response Style Rule (mandatory — added Sep 20, 2026)**
+- **Always structured + tabular.** Every response uses headings, tables, and labelled lists. Prose-only answers are not acceptable. Tables are mandatory for: intake vs target, workout prescriptions, workout logs, weight projections, option comparisons, status summaries, and any answer containing more than one number.
+- **Always exhaustive.** Answer **every** sub-question the user asked, in the same order they asked it. Include all numbers — weights, grams, minutes, sets × reps, timings, rule codes (R-x) — and state assumptions explicitly. Never answer part of a multi-part question.
+- **Never truncate for brevity.** Length is acceptable; missing information is not. For long answers, open with a 3–5 row summary table, then the detail sections.
+- **Always close with an action list.** Numbered next actions with exact quantities and times, plus any rule violation found and its course correction.
+- **If something cannot be done, say so in one line and give the alternative** — never silently omit it.
+
 ---
 
 ## Response Template (MANDATORY)
@@ -129,7 +136,7 @@ You MUST respond with:
 
 ---
 
-## Quick Reference — Non-Negotiable Rules (from Protocol.md)
+## Quick Reference — Non-Negotiable Rules (from Protocol.md + agent rules)
 
 1. Thyroxine first at 6:00 AM. 30-min gap before food. No calcium at breakfast.
 2. No Swiggy/Zomato food orders after 7:30 PM.
@@ -142,6 +149,7 @@ You MUST respond with:
 9. Weekly weigh-in every Monday morning (fasted). Log in Metrics.md.
 10. Every meal must have a protein source.
 11. Exam prep is sacred — workouts energize, never exhaust.
+12. Respond structured, tabular, and exhaustive — every sub-question answered, no truncated plans (agent rule, Sep 20, 2026).
 
 ---
 
