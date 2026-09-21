@@ -90,6 +90,7 @@ The `.coach/` directory contains the persistent memory system:
 | R-Y | No loaf / sliced bread in the house | Do not keep loaf/sliced white **maida** bread at home. If wanted: single-serve, before 6 PM, with ≥25 g protein, atta/multigrain only. |
 | R-Z | Weekly tape + weigh-in | Every Monday fasted: weight **plus five tape measurements in cm** — waist at navel ⭐, chest at nipple line, shoulder/bideltoid, neck, hip — logged in `Metrics.md`. |
 | R-AA | Reveal-then-build | A V-taper is a **ratio** (shoulder ÷ waist), not a weight. Cut now to **reveal**; lean bulk (maintenance +200–300 kcal, 180 g protein) only below ~72 kg to **build**. No visible mass gain while cutting. |
+| R-AB | Vision reality | The assistant **cannot see attached images** (`view` returns no pixels; `analyzeImage` is unprovisioned — 404 for this account). Never claim to have viewed a photo. Image → text via `tesseract` / `documents-ocr_image` (stage files inside the repo root). Never derive body measurements from imagery — use **R-Z tapes**. |
 
 ---
 

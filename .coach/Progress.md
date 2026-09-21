@@ -6481,7 +6481,18 @@ It is a **local Node script started as a VS Code subprocess** — not a GitHub C
 | Image → text | `documents-ocr_image` (works) or `tesseract` directly |
 | Office → PDF | **no working path** (no LibreOffice); use `textutil` for doc/rtf/html → txt |
 
-**Takeaway for image-vs-PDF asymmetry (unchanged):** images (PNG/JPG) reach me **natively as vision input** — no MCP server needed. **PDFs do not** — they require either this MCP server or a shell fallback.
+**Takeaway for image-vs-PDF asymmetry — 🔴 CORRECTED Day 191 (Sep 21 2026); the original wording was WRONG:**
+
+> ~~images (PNG/JPG) reach me **natively as vision input** — no MCP server needed.~~
+
+**This is false and was disproven by controlled test on Day 191.** See **R-AB** in `BrainState.md`. The corrected position:
+
+| Input | Reality |
+|---|---|
+| Image (PNG/JPG) attached to chat | ❌ **Not visible to the model at all.** `view` returns only the string `Viewed image file successfully`; **no pixels are injected**. The `analyzeImage` MCP tool is **unprovisioned** (`404 — Function not found for account`). |
+| Image → **text** | ✅ Works: copy the file **into the repo root**, then `documents-ocr_image`; or `tesseract <file> stdout` directly from bash. |
+| PDF (digital) → text | ✅ Works via `python3` + `pypdf` / `fitz` |
+| **Body composition from a photo** | ❌ **Impossible.** On-device Vision failed to detect shoulders/hips/knees. **Use R-Z tape measurements.** |
 
 **Repair commands (handed to the user, NOT executed):** `brew install poppler ocrmypdf` and `brew install --cask libreoffice`.
 
@@ -6497,7 +6508,7 @@ It is a **local Node script started as a VS Code subprocess** — not a GitHub C
 1. The `documents-*` tools are **not native GHCP**. They come from a hand-written local MCP server at `~/.config/copilot-mcp/servers/documents.mjs`, declared in the **global** VS Code `mcp.json`. They are host-local and session-dependent.
 2. **Only `documents-ocr_image` works.** The other three fail on missing system binaries. Any earlier answer that assumed `documents-extract_pdf_text` works should be treated as untested-and-wrong.
 3. Nine MCP servers are configured: `upstash/context7`, `elastic/mcp-server-elasticsearch`, `github`, `memory`, `sequentialThinking`, `playwright`, `notion`, `diagrams`, `documents`.
-4. **Native GHCP** = the agent harness, `.github/copilot-instructions.md`, `.github/agents/*.agent.md`, image attachments as vision input, and built-in VS Code tools.
+4. **Native GHCP** = the agent harness, `.github/copilot-instructions.md`, `.github/agents/*.agent.md`, and built-in VS Code tools. ⚠️ **Corrected Day 191: "image attachments as vision input" is NOT a native GHCP capability here** — see R-AB.
 5. The server is **workspace-sandboxed** — it cannot read `/tmp`. Stage files in the repo.
 6. Fallbacks already present and verified: **pypdf 6.16.2**, **PyMuPDF**, **tesseract 5.5.3**, `textutil`.
 
@@ -6775,3 +6786,39 @@ Only two grades move; the rest of Part 5.D stands.
 4. **Timeline of record (0.5–0.7 kg/wk):** ~80 kg ≈ 5–6 wks (late Oct–early Nov 2026) · ~78 kg ≈ 8–9 wks · ~75 kg ≈ 13–14 wks · ~72 kg ≈ 18–19 wks · **70 kg ≈ 22–26 wks → late Feb–Mar 2027.** First visible cues ~80 kg, others notice ~78 kg, shirt-off V reads ~74–75 kg, clear athletic V at 70–72 kg. **"Bulky" V requires the subsequent 6–9 month lean bulk → late 2027–mid 2028.**
 5. **No rule was violated this turn.** All changes are additive.
 6. **Rule codes are now R-A → R-AA.** Next free code is **R-AB**.
+
+---
+### Day 191 — Monday, Sep 21, 2026 — Session Update #2 (Vision Capability Audit — DISPROVEN, R-AB created)
+
+**Topics discussed:** The user challenged the earlier claim that the assistant "cannot see images" — *"u have the ability to see images so why are you using nvidia nim?"* — and supplied a screenshot of the failing tool calls. A full controlled audit of every image pathway was run rather than asserting an answer.
+
+**Decisions made:**
+1. **Created R-AB — Vision reality.** A standing rule forbidding any claim of having viewed an image, and mandating `tesseract` / `documents-ocr_image` for image text and **R-Z tapes** for body composition. Propagated to all four agent surfaces.
+2. **Corrected two false claims previously written into this journal** (the old "images reach me natively as vision input" takeaway and the "native GHCP = image attachments as vision input" line). Both were wrong; both are now marked as corrected with the evidence.
+3. **Closed the NIM question.** `analyzeImage` will not be retried — it is an account-level provisioning failure, not an input problem.
+
+**Evidence — three independent findings:**
+
+| # | Pathway tested | Method | Result |
+|---|---|---|---|
+| 1 | `view` (harness file reader) | Authored `/tmp/vis/probe.png` containing the known string **`PROTOCOL-QX7-BANANA42`** twice, then called `view` on it | ❌ Returned only `Viewed image file successfully`. **Could not report the string.** `tesseract probe.png stdout` returned the string correctly → the image was valid, the channel was not. **No pixels are injected.** |
+| 2 | `analyzeImage` (nvidia-nim MCP) | Two attempts: (a) a filesystem path — **my error**, the schema requires a base64 `data:` URL; (b) a **guaranteed-valid** 79-byte 16×16 red PNG as a proper `data:image/png;base64,…` URL | ❌ **Both** returned `404 — Function 'e598bfc1-…': Not found for account '3FUJC…'`. Because (b) had a flawless input, the fault is the **deployment**, not the caller. **Unprovisioned — no retry can fix it.** |
+| 3 | macOS **Vision framework** via `swiftc` (a genuine third route) | Compiled `/tmp/vis/a2.swift`; ran on the 4032×3024 original **and** a 1024×768 downscale | ⚠️ **Partial.** Scene labels ✅ (`people 0.80`, `adult 0.71`). Face detection ✅ (1 face, 181×181 px). **Body pose ❌** — hips, knees, root and ankles **not detected**; shoulder keypoints at anatomically impossible y-values. **Unusable for measurements.** |
+
+**Honest conclusion:** The assistant genuinely **cannot see images** in this harness. The V-taper answer delivered earlier rests entirely on **BMI / LBM / tape arithmetic** — it was **never** photo-derived, and must not be presented as if it were. The `analyzeImage` route was the assistant's own tool choice (a third-party MCP server), not the assistant's eyes — which is exactly why it was used, and it is broken for this account.
+
+**Compliance notes:**
+- No intake and no workout reported for Day 191 in this session — no food table produced.
+- 🔴 **W27 fasted weigh-in (due this morning) remains unreported.**
+- 🔴 **R-Z tape baseline remains untaken** — still zero circumference data in the entire brain-complex.
+
+**Next actions:**
+1. 🔴 Report the **W27 fasted weigh-in** and the **5 R-Z tapes** (waist at navel first — it is the taper denominator).
+2. Confirm whether the township gym has **dumbbells / a lateral-raise station** (the single missing medial-delt input).
+3. For any future image, **stage the file inside the repo root** and use `tesseract` — `view` and `analyzeImage` are both dead ends.
+
+**Copilot context:**
+1. **R-AB now governs all image handling. Next free rule code is R-AC.**
+2. **Never say "I can see your photo."** Two proven dead ends: `view` (no pixel injection) and `analyzeImage` (404, unprovisioned for this account). The only working path for image content is **OCR**.
+3. **Never derive body measurements from imagery.** macOS Vision cannot locate shoulders/hips/knees on these photos. **R-Z tape measurements are the sole valid source.**
+4. The earlier "images reach me natively as vision input" note in the Part-6 tooling section of this journal **was false and has been corrected in place** — do not resurrect it.
