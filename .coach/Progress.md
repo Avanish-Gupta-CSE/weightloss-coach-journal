@@ -6743,3 +6743,35 @@ Only two grades move; the rest of Part 5.D stands.
 4. **Day 190 was a 3-violation day: R-T (7 fruits), carbs-after-3-PM ×2, and maida + refined sugar at midnight.** The nutrition axis — not training — is what is holding 83.75 kg in place.
 5. **Craving Protocol Streak Tracker reset to 0** on Sep 20 — logged in `.coach/CravingProtocol.md`.
 6. The bread disclosure arrived **after** the Part 5 closeout and the Part 6–8 tooling sessions; sequence matters when reading this block.
+
+---
+
+### Day 191 — Monday, Sep 21, 2026 — Session Update (V-Taper Timeline Consultation)
+
+**Topics discussed:** body-composition timeline ("when will I look athletic/bulky/V-shaped?"), physique photo review (blocked), V-taper ratio math, reveal-vs-build phase sequencing, taper-specific gym mapping for the township gym, missing-measurement audit, two new standing rules (R-Z, R-AA).
+
+**Decisions made:**
+1. **A V-taper is a ratio, not a weight.** Target ratio = shoulder/chest girth ÷ waist girth. Added **R-Z** (weekly waist tape + Monday fasted weigh-in as a mandatory pair) and **R-AA** (reveal-then-build sequencing; no hypertrophy expectations while cutting; lean bulk only below ~72 kg).
+2. **Two-phase framing locked:** Phase A = REVEAL (now → ~72 kg, cut, preserve LBM). Phase B = BUILD (≤72 kg → lean bulk at maintenance +200–300 kcal). "Bulky" is a Phase-B output, not a Phase-A one.
+3. **Township-gym taper priority order set:** Tier 1 = lat pulldown, low row, adjustable multi-press (+ lateral raise — equipment unconfirmed). Tier 2 = chest press, pec deck, rod curls, rod overhead triceps. Tier 3 = legs, cable crunch.
+4. **Photo could not be analysed.** Both image paths failed in this harness — `view` does not inject the image, and `analyzeImage` returns a 404 (NVIDIA NIM vision function not provisioned for this account). Rolled forward on tape measurements instead of visual assessment.
+
+**Compliance notes:**
+- No intake reported for Day 191 at time of session — no food table produced this turn.
+- 🔴 **W27 fasted weigh-in (Mon Sep 21) was due first thing and has NOT been reported.** Now 14 consecutive missed official weigh-ins (W14→W27 if unfilled).
+- No workout reported for Day 191. Day 190's Upper Push comes before this; last logged session remains **#58 (Sep 20, Lower + Core)**.
+- Day 190 closed at **~2,200 kcal / ~105 g protein** with 3 violations (R-T 7 fruits, carbs-after-3-PM ×2, maida + refined sugar at midnight).
+
+**Next actions:**
+1. 🔴 Report the **W27 fasted weigh-in** → log in `Metrics.md`.
+2. 🔴 Take the **5 tape measurements** (waist at navel, chest at nipple line, shoulder/bideltoid, neck, hip) and log the first R-Z baseline.
+3. Confirm whether the township gym has **dumbbells or a lateral-raise station** — the medial-delt exercise is the single missing taper input.
+4. Confirm **food scale** is on the counter and in use.
+
+**Copilot context:**
+1. **Vision is NOT available in this harness.** Do not attempt `analyzeImage` on a filesystem path — it needs an inline base64 `data:` URL *and* the NIM function is returning 404. `view` on an image returns success but injects nothing. **Always fall back to tape measurements for physique questions.**
+2. **There is still NO circumference data anywhere in the brain-complex.** `Metrics.md` "Baseline Measurements" holds only weight/height/age/sex. R-Z exists to close this. The **waist-at-navel number is the V-taper denominator** — it is the single most important missing data point in the entire system.
+3. **Est. body-fat ~26–29% at 83.75 kg** (BMI 29.7, 168 cm, age 26, hypothyroid, detrained). Implied **LBM ≈ 58–62 kg**, **FFMI ≈ 20.6–22.0** — i.e. a real muscular base already exists and is simply covered. At 70 kg with LBM preserved this lands at **~13% body fat**, which is a genuinely athletic silhouette. **The 70 kg target *is* the V-taper weight.**
+4. **Timeline of record (0.5–0.7 kg/wk):** ~80 kg ≈ 5–6 wks (late Oct–early Nov 2026) · ~78 kg ≈ 8–9 wks · ~75 kg ≈ 13–14 wks · ~72 kg ≈ 18–19 wks · **70 kg ≈ 22–26 wks → late Feb–Mar 2027.** First visible cues ~80 kg, others notice ~78 kg, shirt-off V reads ~74–75 kg, clear athletic V at 70–72 kg. **"Bulky" V requires the subsequent 6–9 month lean bulk → late 2027–mid 2028.**
+5. **No rule was violated this turn.** All changes are additive.
+6. **Rule codes are now R-A → R-AA.** Next free code is **R-AB**.

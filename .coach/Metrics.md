@@ -98,9 +98,39 @@ Early weeks may show faster loss (water weight + gut inflammation reduction). Ex
 - Training days: 3.0–3.5 L
 - Rest days: 2.5–3.0 L
 
+## Body Measurements (R-Z — added Day 191, Sep 21 2026)
+
+**Why this section exists:** until Day 191 the brain-complex held **zero circumference data** — only weight, height, age and sex. Weight alone cannot answer "am I getting a V-taper?" because **a V-taper is a ratio, not a bodyweight**:
+
+$$\text{Taper Ratio} = \frac{\text{Shoulder (bideltoid) circumference}}{\text{Waist circumference at navel}}$$
+
+| Taper Ratio | What it reads as |
+|---|---|
+| < 1.20 | No taper — shoulders ≈ waist (typical overfat/untrained male) |
+| 1.30 – 1.40 | Beginning to read as athletic |
+| **1.45 – 1.55** | **Clear V-taper — the target zone** |
+| 1.60 + | Bodybuilder-level taper |
+
+**Protocol:** every Monday morning, fasted, post-BM, before food/water/thyroxine. Tape flat against skin, **do not** pull tight or flare; measure at the end of a normal exhale. Take each one **twice** and record the average.
+
+| Site | Landmark | Baseline (cm) |
+|---|---|---|
+| **Waist** ⭐ | At the **navel**, horizontal (primary/denominator) | *(pending — first reading due Mon Sep 28 or on request)* |
+| **Chest** | At the **nipple line**, arms down, end of exhale | *(pending)* |
+| **Shoulder (bideltoid)** | **Widest point** across both deltoids, arms relaxed at sides | *(pending)* |
+| **Neck** | **Narrowest** point, just below the larynx | *(pending)* |
+| **Hip** | **Widest** point across the glutes | *(pending)* |
+| **Estimated body fat** | Derived, not measured — BMI-based with hypothyroid + detrained adjustment | **~26–29 %** |
+
+**Derived baseline of record (Day 191, Sep 21 2026):** at **83.75 kg / 168 cm / age 26**, est. **fat ≈ 22–24 kg**, **LBM ≈ 58–62 kg**, **FFMI ≈ 20.6–22.0**. Preserving that LBM to **70 kg** lands at **≈ 12–13 % body fat** — a genuinely athletic silhouette. **The 70 kg goal *is* the V-taper weight; no extra bulk phase is needed to reach a visible V.**
+
+**Waist estimate trend (derived from fat loss only — ⚠️ replace with real tape numbers ASAP):** roughly **−0.9 to −1.0 cm of waist per kg of fat lost** for a centrally-obese male. Working estimate: **~83.75 kg → ~100–104 cm waist**; **~70 kg → ~84–87 cm**. **Verify with tape — do not quote these as measurements.**
+
+---
+
 ## Weekly Weigh-In Log
 
-Weigh every **Monday morning**, fasted, after bathroom, same clothing (or none).
+Weigh every **Monday morning**, fasted, after bathroom, same clothing (or none). **Also take the five R-Z tape measurements in the same session, before breaking the fast.**
 
 | Week | Date         | Weight (kg)         | Change (kg)       | Cumulative Loss          | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ---- | ------------ | ------------------- | ----------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

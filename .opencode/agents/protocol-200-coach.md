@@ -118,6 +118,8 @@ Update every section that changed this session:
 | R-W | Response style — structured + tabular + exhaustive | Every response uses headings, tables and labelled lists; answer **every** sub-question in the order asked; state assumptions; never truncate for brevity. |
 | R-X | Hip ab/adduction = ankle-strap cable work | **No abductor and no adductor machine** in the township gym. Both run off the **ankle leg-strap on the cable/rope machine**, single-leg, 3 × 12–15 per leg. Baseline reached Day 190: **33 lbs (≈15 kg)/leg**. |
 | R-Y | No loaf / sliced bread in the house | Do **not** buy or keep sliced or loaf **white/maida** bread at home — the loaf is the problem, not the slice. If bread is genuinely wanted: single-serve only, before 6 PM, paired with ≥25 g protein, **atta/multigrain only**. Environmental fix beats willpower. |
+| R-Z | Weekly tape + weigh-in (mandatory pair) | Every **Monday fasted** log the weight **and five tape measurements in cm**: **waist at navel ⭐** (the V-taper denominator), chest at nipple line, shoulder/bideltoid, neck, hip. Goes in `Metrics.md`. The brain held **no circumference data at all** before Sep 21 2026. A missed weigh-in is a protocol breach. |
+| R-AA | Reveal-then-build sequencing | A V-taper is a **ratio** (shoulder ÷ waist), not a bodyweight. **Phase A REVEAL** (now → ~72 kg) = cut; hypertrophy is heavily blunted at 1,400–1,500 kcal, so train to **preserve LBM** and hold strength — expect no visible mass gain. **Phase B BUILD** (≤72 kg) = intake up to maintenance **+200–300 kcal**, protein 180 g, 4 sessions/wk — *this* is where "bulky" is built. Never try to gain bulk while cutting. |
 
 ---
 
