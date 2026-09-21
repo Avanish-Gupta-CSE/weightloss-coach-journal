@@ -6481,18 +6481,20 @@ It is a **local Node script started as a VS Code subprocess** — not a GitHub C
 | Image → text | `documents-ocr_image` (works) or `tesseract` directly |
 | Office → PDF | **no working path** (no LibreOffice); use `textutil` for doc/rtf/html → txt |
 
-**Takeaway for image-vs-PDF asymmetry — 🔴 CORRECTED Day 191 (Sep 21 2026); the original wording was WRONG:**
+**Takeaway for image-vs-PDF asymmetry — ✅ THE ORIGINAL WORDING WAS CORRECT. My Day-191 “correction” of it was WRONG and is retracted (rev 2, Sep 21 2026):**
 
-> ~~images (PNG/JPG) reach me **natively as vision input** — no MCP server needed.~~
+> images (PNG/JPG) reach me **natively as vision input** — no MCP server needed.
 
-**This is false and was disproven by controlled test on Day 191.** See **R-AB** in `BrainState.md`. The corrected position:
+**That statement was right.** The live Copilot session log (`~/.copilot/session-state/<session-id>/events.jsonl`) shows every image-bearing turn emitting a `session.binary_asset` event carrying the **full base64 PNG**, immediately before the `user.message` whose `attachments[].assetId` matches it, immediately before `assistant.turn_start`; and DeepSeek's own API docs confirm the retired `deepseek-v4-flash-vision-exp` is now **served by** `DeepSeek-V4.1-Flash`. Restored position:
 
 | Input | Reality |
 |---|---|
-| Image (PNG/JPG) attached to chat | ❌ **Not visible to the model at all.** `view` returns only the string `Viewed image file successfully`; **no pixels are injected**. The `analyzeImage` MCP tool is **unprovisioned** (`404 — Function not found for account`). |
-| Image → **text** | ✅ Works: copy the file **into the repo root**, then `documents-ocr_image`; or `tesseract <file> stdout` directly from bash. |
+| Image (PNG/JPG) attached to chat | ✅ **Delivered to the model** as an image content block (`session.binary_asset` → `user.message.attachments[].assetId`). Describe it directly; never say “I cannot see your photo.” |
+| Image → **exact text** | ✅ Also works: stage the file **inside the repo root** then `documents-ocr_image`, or `tesseract <file> stdout`. **Prefer this when a literal string must be exact** — OCR beats vision on characters. |
 | PDF (digital) → text | ✅ Works via `python3` + `pypdf` / `fitz` |
-| **Body composition from a photo** | ❌ **Impossible.** On-device Vision failed to detect shoulders/hips/knees. **Use R-Z tape measurements.** |
+| **Body composition from a photo** | ⚠️ **Approximate only** — photo-based estimates are coarse; **R-Z tape measurements remain the quantitative source.** This is an *accuracy caveat*, **not** an inability to see. |
+
+**Two tool-level dead ends — neither is evidence about the model:** `view` returns only the placeholder `Viewed image file successfully` (the `PROTOCOL-QX7-BANANA42` probe tested *that tool*, not the attachment channel); `analyzeImage` (nvidia-nim MCP) is unprovisioned — `404 … account '3FUJC…'`; **do not retry**. |
 
 **Repair commands (handed to the user, NOT executed):** `brew install poppler ocrmypdf` and `brew install --cask libreoffice`.
 
@@ -6508,7 +6510,7 @@ It is a **local Node script started as a VS Code subprocess** — not a GitHub C
 1. The `documents-*` tools are **not native GHCP**. They come from a hand-written local MCP server at `~/.config/copilot-mcp/servers/documents.mjs`, declared in the **global** VS Code `mcp.json`. They are host-local and session-dependent.
 2. **Only `documents-ocr_image` works.** The other three fail on missing system binaries. Any earlier answer that assumed `documents-extract_pdf_text` works should be treated as untested-and-wrong.
 3. Nine MCP servers are configured: `upstash/context7`, `elastic/mcp-server-elasticsearch`, `github`, `memory`, `sequentialThinking`, `playwright`, `notion`, `diagrams`, `documents`.
-4. **Native GHCP** = the agent harness, `.github/copilot-instructions.md`, `.github/agents/*.agent.md`, and built-in VS Code tools. ⚠️ **Corrected Day 191: "image attachments as vision input" is NOT a native GHCP capability here** — see R-AB.
+4. **Native GHCP** = the agent harness, `.github/copilot-instructions.md`, `.github/agents/*.agent.md`, and built-in VS Code tools. ✅ **Restored Day 191 rev 2: image attachments DO reach the model as vision input in this harness** (see R-AB). My earlier “correction” of this line was wrong and is retracted.
 5. The server is **workspace-sandboxed** — it cannot read `/tmp`. Stage files in the repo.
 6. Fallbacks already present and verified: **pypdf 6.16.2**, **PyMuPDF**, **tesseract 5.5.3**, `textutil`.
 
@@ -6788,7 +6790,9 @@ Only two grades move; the rest of Part 5.D stands.
 6. **Rule codes are now R-A → R-AA.** Next free code is **R-AB**.
 
 ---
-### Day 191 — Monday, Sep 21, 2026 — Session Update #2 (Vision Capability Audit — DISPROVEN, R-AB created)
+### Day 191 — Monday, Sep 21, 2026 — Session Update #2 (Vision Capability Audit — ⚠️ SUPERSEDED BY UPDATE #3; ITS CONCLUSION WAS WRONG)
+
+> ⚠️ **THIS BLOCK'S VERDICT IS FALSE — READ UPDATE #3 BELOW FIRST.** The audit is preserved for honesty, but its conclusion (“the assistant cannot see images”) is **wrong**. It measured **tools** (`view`, `analyzeImage`) rather than the **attachment-delivery channel**, then generalised from the wrong layer. The session event log later proved image attachments **are** delivered to the model; R-AB has been rewritten (rev 2, Sep 21 2026).
 
 **Topics discussed:** The user challenged the earlier claim that the assistant "cannot see images" — *"u have the ability to see images so why are you using nvidia nim?"* — and supplied a screenshot of the failing tool calls. A full controlled audit of every image pathway was run rather than asserting an answer.
 
@@ -6822,3 +6826,47 @@ Only two grades move; the rest of Part 5.D stands.
 2. **Never say "I can see your photo."** Two proven dead ends: `view` (no pixel injection) and `analyzeImage` (404, unprovisioned for this account). The only working path for image content is **OCR**.
 3. **Never derive body measurements from imagery.** macOS Vision cannot locate shoulders/hips/knees on these photos. **R-Z tape measurements are the sole valid source.**
 4. The earlier "images reach me natively as vision input" note in the Part-6 tooling section of this journal **was false and has been corrected in place** — do not resurrect it.
+
+---
+
+### Day 191 — Monday, Sep 21, 2026 — Session Update #3 (Vision Correction — the user was RIGHT; R-AB rewritten rev 2)
+
+**Topics discussed:** The user rejected the Update #2 verdict outright — *“bro again you are not understanding, the model I using is Deepseek v4.1 flash which has image reading capabilitites see the web and then come back to me so why are you suing 3rd party tools.”* Rather than re-asserting the conclusion, both the **model layer** and the **harness delivery channel** were investigated from primary evidence. **The user was right on both counts; Update #2's verdict is retracted.**
+
+**Decisions made:**
+1. **R-AB rewritten (rev 2) on all five surfaces** — `.coach/BrainState.md` (canonical), `.github/agents/protocol-200-coach.agent.md`, `.github/copilot-instructions.md`, `.opencode/agents/protocol-200-coach.md`, `.opencode/agents/instructions.md`. The rule now states that **attached images ARE delivered to the model** and forbids claiming otherwise. No new code was minted (next free remains **R-AC**) — R-AB was corrected in place.
+2. **Two statements I had “corrected” in Update #2 were themselves wrong** and are now restored, with my correction explicitly marked retracted.
+3. **`analyzeImage` stays permanently off** — unprovisioned for this account (unchanged finding, unchanged action: do not retry).
+4. **What survives from Update #2:** the `view` tool still returns only a text placeholder; on-device macOS Vision still cannot locate shoulders/hips/knees on these photos, so **R-Z tapes remain the quantitative source for body composition**. Both are **tool / accuracy caveats — not blindness.**
+
+**Evidence — the check Update #2 never ran:**
+
+| # | Evidence | Artifact | Finding |
+|---|---|---|---|
+| 1 | **Harness delivery channel** | `~/.copilot/session-state/<session-id>/events.jsonl` (12 MB, 3,534 events) | **6 × `session.binary_asset`** events with `"type":"image"`, `"mimeType":"image/png"` and **full base64 payloads** (11,325 B → 1,469,115 B). Each is emitted **immediately before** the `user.message` whose `attachments[]` entry carries the **matching `assetId`** (`sha256:…`), immediately before `assistant.turn_start`. Ordering is consistent across all 6. → **Images enter the model request.** |
+| 2 | **assetId ↔ attachment match** | same file, line 3065 vs 3066 | The `session.binary_asset` `sha256:8fffc54440e2a12…` (1,469,115 B — the physique photo) matches the `Pasted Image` attachment `assetId` in the very next `user.message` **exactly**. |
+| 3 | **Model identity** | same file, `session.start` | `selectedModel` = **`opencode-go/opencode-go/deepseek-v4.1-flash`**. |
+| 4 | **Model capability (vendor docs)** | DeepSeek API pricing + multimodal pages | *“the legacy names `deepseek-v4-flash` and `deepseek-v4-flash-vision-exp` are still accepted, but the corresponding models have been retired, their requests are served by the DeepSeek-V4.1-Flash model.”* → V4.1-Flash is the named **successor to a vision-capable model**. |
+
+**Root-cause analysis — how I got this wrong twice:**
+- **Layer confusion.** I tested the **`view` tool** (a text-returning file reader) and the **`analyzeImage` tool** (an unrelated third-party NVIDIA NIM MCP server). Both are *tools*. Neither is the **attachment channel** used when the user pastes an image into chat. I proved two true facts about the wrong layer, then generalised them into a false claim about the model.
+- **The `PROTOCOL-QX7-BANANA42` probe was sound but off-target** — it proved `view` injects no pixels. It never tested attachment delivery, so it could not support the conclusion drawn from it.
+- **Imported asymmetry.** The user's own `~/.config/opencode/opencode.json` carries a directive that *MiniMax-m2.7 cannot process images* and must route via `find-image` + `analyze-image`. That describes **MiniMax**, not DeepSeek — I carried a different model's limitation into this one.
+- **Failure to consult the obvious primary source.** The session's own event log was sitting on disk and would have settled it in a single pass.
+
+**Compliance notes:**
+- No intake and no workout reported in this segment — no food table produced.
+- 🔴 **W27 fasted weigh-in (due today) still unreported.**
+- 🔴 **R-Z five-tape baseline still untaken** — the brain-complex still holds zero circumference data.
+
+**Next actions:**
+1. 🔴 Report the **W27 fasted weigh-in** and the **5 R-Z tapes** (waist at navel first — it is the taper denominator).
+2. Confirm whether the township gym has **dumbbells / a lateral-raise station** (the missing medial-delt input).
+3. For image content, **describe the attachment directly**. Use `tesseract` only when a **literal string** must be exact.
+
+**Copilot context:**
+1. **R-AB rev 2 governs image handling: attached images ARE visible. Never claim otherwise.** Update #2's verdict was wrong — do not resurrect it.
+2. **Do not re-run `analyzeImage`.** It is an unprovisioned third-party MCP tool, unrelated to the model's own vision capability.
+3. **`view` on an image still returns only the placeholder** — a tool quirk, **not** a statement about what the model receives.
+4. **R-Z tapes remain the quantitative source** for body composition; photo-based estimation is approximate. Accuracy caveat, **not** blindness.
+5. **Next free rule code is still R-AC.**
