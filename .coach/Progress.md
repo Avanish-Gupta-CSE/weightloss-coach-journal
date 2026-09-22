@@ -6821,3 +6821,26 @@ Only two grades move; the rest of Part 5.D stands.
 6. Tomorrow AM before water/food/thyroxine: **W27 weigh-in + 5 R-Z tapes**.
 
 **Copilot context:** next free rule code = **R-AD** (unminted this session). TDEE assumption 2,400 kcal lives in this block only. All figures are labelled estimates (no food scale in use). Sep 24 exam is the standing schedule constraint through Friday.
+---
+
+### Day 192 — Tuesday, Sep 22, 2026 — Session Update #4 (13:37 IST — User Correction to the Day Plan)
+
+**Topics discussed:** user rejected two elements of Update #3's plan: (1) 2 scoops whey at once is unrealistic — split to **1 + 1**; (2) rice must stay at lunch, and 250 g cooked sabzi is not a real portion.
+
+**Corrected Day-192 prescription (user-directed):**
+
+| Slot | Items (cooked/ready-to-eat) | kcal | Protein |
+|---|---|---:|---:|
+| Breakfast (done) | 2 apples + 2 paneer parantha + 1 katori dahi + 1 tsp sugar | ~900 | ~23 g |
+| Lunch ~1 PM | **120 g cooked rice + 150 g cooked daal + 150 g cooked turai sabzi (1 tsp oil)** | ~426 | ~17 g |
+| 4:30 PM | **1 scoop OWN whey** + 5 almonds (R-A / R-M) | ~148 | ~24.5 g |
+| Dinner 8 PM | **1 scoop OWN whey** + 200 g cucumber-tomato salad | ~143 | ~25 g |
+| **DAY TOTAL** | — | **≈1,617** | **≈90 g** |
+
+**🔴 Honest constraint verdict:** with the 900 kcal / 23 g breakfast already eaten, rice restored at lunch, and only 2 whey scoops total, the **150 g protein floor is mathematically unreachable inside 1,800 kcal today** — ~183 kcal remain for ~60 g protein (would need ~2.5 more scoops). Closest compromise: **+1 scoop at dinner → ~1,760 kcal / ~114 g** (still −36 g under floor). User to choose.
+
+**Compliance notes:** no new violations; this is a prescription correction, not an intake log.
+
+**Next actions:** eat corrected lunch; 4:30 PM 1 scoop + almonds; decide on the +1 dinner scoop; gym decision by 5 PM (back gate); W27 + tapes tomorrow AM.
+
+**Copilot context:** Update #3's 2+2.5-scoop plan is superseded. Next free rule code = R-AD.
