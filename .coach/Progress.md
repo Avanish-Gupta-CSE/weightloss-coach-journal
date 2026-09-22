@@ -6912,5 +6912,53 @@ Only two grades move; the rest of Part 5.D stands.
 1. **R-AB rev 2 is settled and empirically proven — attached images ARE visible. There is nothing left to relitigate.** Update #2's verdict was wrong; Update #3's correction stands; this entry supplies the direct confirmation.
 2. **Do not re-litigate the vision question or propose `analyzeImage`.** If a *literal string* must be exact, use `tesseract`; if the user attaches a photo, **describe it**.
 3. **The V-taper bottleneck is documented: lat width, not shoulder width.** Next plan revision should bias lat pulldown / low row volume before any other upper-body change.
-4. **Next free rule code is still R-AC.**
+4. ⚠️ **CORRECTED Day 192 (Sep 22): the line "Next free rule code is still R-AC" was WRONG — R-AC was minted inside this very update. Next free code = R-AD.**
 5. Progress.md now contains **two retracted auditors** (Update #2's verdict, and the "was false and has been corrected in place" line) — both are annotated in place with ⚠️ **RETRACTED** markers. Read those markers before trusting any older vision takeaway in this journal.
+
+---
+
+### Day 192 — Tuesday, Sep 22, 2026 — Session Update (Sep-21 log audit: what EXISTS and what is MISSING)
+
+**Topics discussed:** the question *"what we logged for 21st Sept"* → a full audit of the Day-191 record against the raw Copilot session event log; the finding that **Sep 21 was a consult-only day with zero intake and zero training**; the outstanding W27 weigh-in and R-Z tape baseline; today's **R-L** constraint (Tuesday = veg-only).
+
+**Method (evidence, not memory):**
+- Read the `Progress.md` Day-191 blocks (**lines 6762 → 6916**) and the Day-190 block (**5883 → 6761**).
+- Cross-checked **every user turn** against `~/.copilot/session-state/bca7603b-1372-46cb-9a7c-3868ea5a5a3e/events.jsonl` timestamps, converted to IST. Result: **every food/meal/workout turn landed on Sep 20 IST (12:58 → 23:57)**; **all Sep 21 turns (10:15 → 10:35 IST) were the V-taper / vision consultation**; the next user turn is **Sep 22, 11:37 IST**.
+
+**Findings — the Day-191 (Sep 21) record contains four consultative blocks and nothing else:**
+
+| # | Block heading (`Progress.md` line) | ≈ IST | Content logged | Rule | Commit |
+|---|---|---|---|---|---|
+| 1 | `### Day 191 … Session Update (V-Taper Timeline Consultation)` (6762) | ~10:15 | V-taper = ratio not weight; Phase A REVEAL / Phase B BUILD; township-gym taper tiers; missing-measurement audit | **R-Z**, **R-AA** minted | `fff51c0` |
+| 2 | `### Day 191 … Update #2 (Vision Capability Audit — ⚠️ SUPERSEDED)` (6793) | ~10:20–10:27 | Three-pathway vision audit — wrongly concluded vision unavailable | **R-AB** minted (**verdict FALSE**) | `6c7ce20` |
+| 3 | `### Day 191 … Update #3 (Vision Correction — the user was RIGHT)` (6832) | ~10:31 | `session.binary_asset` forensic proof that images **ARE** delivered; root-cause write-up | **R-AB rev 2** | `94f4a7f` |
+| 4 | `### Day 191 … Update #4 (V-Taper from direct observation)` (6876) | ~10:35 | Photo read — clean waist ✅, **no lower-lat flare**, deltoid not domed, trunk rectangular | **R-AC** minted | `c142bab` |
+
+**What is NOT logged for Sep 21 — the direct answer:**
+
+| Domain | Status | Detail |
+|---|---|---|
+| 🔴 Food / intake | **MISSING ENTIRELY** | No intake table exists for Sep 21. **All** meal logging in this journal belongs to **Day 190 = Sun Sep 20**: 2 pomegranate / 2 pears / 2 apples / 2.5 medium fish / 100 g basmati / 0.5 roti / 1 SuperYou wafer / 15 cashews / 1 pear / 2 roti / 3-egg omelette / 50 g lauki sabzi / 2 white-bread slices. |
+| 🔴 Workout | **MISSING ENTIRELY** | No session logged for Sep 21. Last completed = **#58 (Sep 20, Lower + Core — Apple Watch 537 KCal / 82:54)**. The **Part-5.E Day-191 plan (Upper Push calibration, RIR 3)** was never executed or reported. |
+| 🔴 W27 fasted weigh-in | **NOT REPORTED** | Due Mon Sep 21 first thing. Now the **14th consecutive** missed Monday weigh-in. |
+| 🔴 R-Z five-tape baseline | **NOT TAKEN** | Waist-at-navel is still absent from the whole brain-complex → the taper **denominator** remains un-quantified. |
+| ✅ Knowledge capture | **RICH** | 4 blocks, 4 commits, **3 new rules + 1 rule correction** (R-Z, R-AA, R-AB rev 2, R-AC). Sep 21 produced more rule output than any day in the log. |
+
+**Compliance notes:** Sep 21 is **ungradeable** — no data was supplied, so it is scored as a data gap, not a failure. Day 190 closed at **~2,200 kcal / ~105 g protein** with 3 violation flags (R-T 7 fruits, carbs-after-3-PM ×2, maida + refined sugar at 23:57). **Today, Tue Sep 22, is an R-L day → veg-only, no non-veg.**
+
+**Decisions made:**
+1. **The Sep-21 gap is declared a DATA GAP, not a compliance failure.** No food was reported, therefore nothing is scored and **nothing is back-filled** with invented numbers.
+2. **The W27 weigh-in is re-targeted to the next fasted morning — Wed Sep 23, 2026** — and must be logged in `Metrics.md` as W27 with an explicit *"Monday target missed, taken Wed"* note. The **5 R-Z tapes go with it** in the same sitting.
+3. **Today's floor (Day 192): protein ≥150 g, ≥1 training session, ≥30 min walking, veg-only (R-L).** The three relocation-transition non-negotiables still apply.
+
+**Next actions:**
+1. **Wed Sep 23, on waking, before water/food/thyroxine:** W27 **fasted** weight **+** the 5 R-Z tapes (waist at navel ⭐, chest at nipple line, bideltoid, neck, hip) → `Metrics.md`.
+2. **Log today's (Sep 22) intake as it happens.** The food scale goes on the counter; **cooked weights only**.
+3. **Confirm the township gym's dumbbell / lateral-raise situation** — the one missing medial-delt input.
+4. **Lat-first bias (R-AC) applies to the next Upper session:** lat pulldown + low row **before** any other upper-body movement, 4–5 weekly working sets each at RIR 2.
+
+**Copilot context:**
+1. **Sep 21, 2026 = Monday = Day 191 · Sep 22 = Tuesday = Day 192 (today).** Verified with `datetime` **and** event-log timestamps.
+2. **Sep 21 has ZERO intake and ZERO workout in this journal — that is correct and intentional. Do not go hunting for "missing" Sep-21 food numbers; they were never given.**
+3. Day-191 Update #4 ends with a stale line — *"Next free rule code is still R-AC."* **That is wrong: R-AC was minted inside that very update. The next free code is R-AD.**
+4. `Progress.md` is now **7,000+ lines — read the tail only.** `BrainState.md` is ~81 KB / 215 lines — read with `view_range` or grep, never in one shot.
