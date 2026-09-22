@@ -7002,3 +7002,21 @@ Trim to stay inside the cap: **dinner turai 120 g → 100 g** (−24 kcal) → *
 - **Compliance notes:** No eggs today. Lunch is veg-only (R-L Tuesday ✅). Dual-calcium breakfast breach and R-T breach (2 apples in one sitting) still stand from earlier today.
 - **Next actions:** (1) eat the Plan-A lunch ~343 kcal; (2) confirm whether paneer is actually in the fridge — if not, take Plan A-alt; (3) gym Upper-only, 1 scoop whey at ~4:30 PM; (4) dinner by 8:00 PM with the second scoop; (5) count remaining OWN scoops and report the number; (6) Wed Sep 23 AM before anything → W27 fasted weigh-in + the 5 R-Z tapes.
 - **Copilot context:** **Update #5's lunch line is SUPERSEDED — eggs are out.** The egg-free lunch and the Plan A / A-alt dinner are the Day-192 plan of record. Next free rule code remains **R-AE**.
+
+### Day 192 (Sep 22 2026) — Session Update #7 — 14:25 IST
+
+**Topic:** User challenged the meal plan — *"why are you making such mistake that you didnt even accounted that dinner will be there as well?"*
+
+- **Decision 1 — Complaint upheld. The error was ORDERING, not arithmetic.**
+  Reconstructed the Update #5 day: breakfast ~910 + lunch 499 (80 g rice + 150 g daal + 150 g turai + 2 eggs) + whey 113 + whey 113 = **1,635**, which left dinner a **165 kcal allowance**. Lunch ate dinner's food. The plan was structurally overdrawn from the moment lunch was locked.
+- **Decision 2 — Why it happened (honest root cause).**
+  (a) Lunch was prescribed in isolation because that was the meal the user asked about; (b) dinner was treated as a *remainder* rather than a *reservation*; (c) items (2 boiled eggs) were added to close a protein gap without checking whether calories existed for them; (d) the one-line check `1,800 − 900 − 226 = 674 for TWO meals` was never run before quoting portions. **Ordering error, not a math error.**
+- **Decision 3 — NEW STANDING RULE minted: R-AE — Day-budget-first, meal-second.**
+  Before any meal quantity is quoted: cap → minus eaten → minus whey budget → **reserve an explicit kcal figure for every remaining meal** → only the leftover may be spent. Every meal plan must print `cap − eaten − whey − dinner reserve = lunch allowance`. A plan whose dinner line is smaller than its lunch line is presumptively wrong. Next free rule code is now **R-AF**.
+- **Decision 4 — Update #6 plan re-validated under R-AE and confirmed compliant.**
+  Breakfast ~900 − whey 226 → 674 for two meals; lunch 343 + dinner 320 = 663 ≤ 674 ✅. Dinner is now an explicit 320 kcal reservation with a carb-free structure (70 g paneer bhurji + 100 g turai), backed by the 7:30 PM whey scoop.
+- **Decision 5 — Lunch/dinner balance option offered to user.**
+  Current split is lunch 343 / dinner 320 — dinner is thinner than lunch, which is backwards for evening satiety and the 9:30 PM craving window. Same items, rebalanced: **lunch = 150 g daal + 150 g turai (no rice) = 278** and **dinner = 50 g rice + 70 g paneer bhurji + 100 g turai = 385**. Day total unchanged at ~1,789 kcal / ~101 g protein. Awaiting user's pick.
+- **Compliance notes:** No new food consumed this session (planning only). Breakfast breach of record stands (dual calcium, R-T 2 apples, R-J band).
+- **Next actions:** (1) user picks lunch/dinner balance or keeps as-is; (2) Wed Sep 23 AM fasted → W27 weigh-in + 5 R-Z tapes in cm; (3) count remaining OWN whey scoops; (4) Wed = walking pad only (exam eve), Thu Sep 24 = exam rest.
+- **Copilot context:** R-AE is now mandatory for every meal plan — **run the budget subtraction before quoting any portion**. Update #5 is fully superseded; Update #6's quantities stand as the plan of record unless the user picks the Decision 5 rebalance. Next free rule code = **R-AF**.
