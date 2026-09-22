@@ -6640,3 +6640,99 @@ Only two grades move; the rest of Part 5.D stands.
 4. **Open medical item: back soreness (since ~Sep 21).** Gate all Upper Push / axial-loading work on it clearing; train lower + core meanwhile.
 5. **This journal is fitness-only.** No tooling, model-capability, git/commit, or agent-config content is logged here (see `BrainState.md` → How to Update This File).
 6. **Rule codes now run R-A → R-AC.** Next free code is **R-AD**.
+
+---
+
+### Day 192 — Tuesday, Sep 22, 2026 — Session Update (Update #2: Sep-22 spot weigh-in + Day-192 lunch prescription)
+
+**Topics discussed:**
+
+1. New **naked weight reading of 83.15 kg** reported for Tue Sep 22 (Day 192) — first downward move of the new-city block.
+2. **Lunch prescription** requested: rice, daal, turai sabzi — quantities, and the day's deficit consequence.
+3. Protein arithmetic for the rest of Day 192 given a 910 kcal / 23 g breakfast.
+
+**Weigh-in (naked spot check — not a protocol-standard week reading):**
+
+| Date | Reading | Context | Δ vs previous | Coach read |
+|---|---:|---|---:|---|
+| Aug 30, 2026 | 81.15 kg | All-time low (naked morning) | — | Reference low |
+| Sep 17, 2026 | 83.70 kg | Naked morning, post-BM | +2.55 kg in 18 d | Post-relocation rebound |
+| Sep 20, 2026 | ~83.75 kg | Self-reported, not fasted-controlled | +0.05 kg in 3 d | Rebound peak |
+| **Sep 22, 2026** | **83.15 kg** | **Naked, fasted/BM not stated** | **−0.60 kg in 2 d** | ✅ **Water/glycogen/gut, not fat** |
+
+**What the −0.60 kg is NOT:** fat. Sep 20 and Sep 21 ran **+570 kcal** and **+970 kcal** over the aggressive band. A 0.60 kg fat loss in 2 days would require a ~2,300 kcal/day deficit. The drop is **sodium + glycogen + gut-content rebalancing** after two high-carb/high-sodium unweighed days (rice, roti, white bread, Cornitos, pakodi).
+
+**Day-192 lunch prescription (cooked / ready-to-eat weights — Tuesday = R-L veg-only ✅):**
+
+| Item | Quantity (cooked) | kcal | Protein | Constraint |
+|---|---:|---:|---:|---|
+| Basmati rice | **120 g** | ~156 | ~2.6 g | Plain, no ghee |
+| Moong / masoor daal | **150 g** | ~130 | ~9 g | Thin, gut-friendly — no rajma/chana |
+| Turai (bottle gourd) sabzi | **200 g** | ~70 | ~2 g | **Max 1 tsp oil total** (Rule 6) |
+| Tawa paneer cubes | **100 g** | ~265 | ~18 g | **No oil**, non-stick/tawa dry-sear |
+| Cucumber + tomato salad | **100 g** | ~16 | ~1 g | No dressing |
+| **LUNCH TOTAL** | — | **~637 kcal** | **~33 g** | ✅ R-L compliant · ✅ gut-friendly |
+
+**Day-192 intake vs target (with prescribed lunch):**
+
+| Slot | Item | kcal | Protein | Cumulative kcal | Cumulative protein |
+|---|---|---:|---:|---:|---:|
+| Breakfast ✅ | 2 apples + 2 paneer parantha + 1 katori dahi + 1 tsp sugar | ~910 | ~23 g | ~910 | ~23 g |
+| Lunch (prescribed) | rice + daal + turai + paneer + salad | ~637 | ~33 g | **~1,547** | **~56 g** |
+| **Target** | — | **1,400–1,500** | **180 g / 150 g floor** | — | — |
+| **Gap after lunch** | — | **+47 to +147 over band** | **−94 g to floor** | — | — |
+
+**The honest arithmetic (stated plainly):** breakfast spent **910 kcal for only 23 g protein** — a terrible ratio. After the prescribed lunch the day has **~350 kcal of headroom left inside the 1,400–1,500 band** but **~94 g of protein still owed**. That is not satisfiable: 94 g of protein costs at least ~450 kcal even from pure whey. **Today's realistic protein ceiling is ~140–145 g, so the 150 g floor is at risk and the 180 g target is already unreachable.** The structural fix is **tomorrow's breakfast** (protein-first, zero calcium), not a heroic afternoon.
+
+**Afternoon + dinner rescue (to actually hit the floor):**
+
+| Timing | Item | kcal | Protein | Rule |
+|---|---|---:|---:|---|
+| ~4:30 PM | **2 scoops OWN whey** in lukewarm water + **5 almonds** or **30 g roasted chana** | ~240 | ~50 g | **R-A** (never cold), **R-M** |
+| ~6:30 PM | **200 g curd** | ~120 | ~7 g | Not with breakfast |
+| Dinner ~8:30 PM | **150 g paneer + 1 roti + 150 g veg** | ~470 | ~32 g | **R-P** (one main + one carb only) |
+| **RESCUE TOTAL** | — | **~830 kcal** | **~89 g** | → day lands **~2,377 kcal / ~145 g** |
+
+**Flags for Day 192:**
+
+1. 🔴🔴 **Medical (highest priority):** paneer **and** curd at breakfast = dual calcium load blocking thyroxine absorption. Zero-calcium breakfasts from tomorrow.
+2. 🔴 **R-T breach:** 2 apples in one sitting, with only ~23 g protein alongside (threshold is ≥20 g *per sitting* with ≤1 serving of fruit).
+3. 🟡 1 tsp refined sugar with the curd (Rule 5 adjacent).
+4. ⚠️ Verify whether the paneer paranthas were cooked in ghee → Rule 6 if so.
+5. ✅ **R-L compliant** — veg-only day, and the prescribed lunch is fully compliant.
+6. ⚠️ **Back soreness still OPEN** — no Upper Push / no axial loading until pain-free.
+7. 🔴 **R-Z tapes still never taken** — 2nd consecutive day without the five measurements.
+
+**Decisions made:**
+
+1. **83.15 kg is logged as an Unofficial Spot Check**, not as the W27 official reading — the Monday fasted protocol was still missed.
+2. **Lunch is locked at ~637 kcal / ~33 g** as tabulated above.
+3. **The 180 g protein target is formally abandoned for Day 192** and replaced with "get as close to the 150 g floor as the remaining calories allow" — realistic ceiling **~140–145 g**.
+4. **Sep 27 re-forecast:** from 83.15 kg, ~80 kg by Sep 27 is **not physiologically possible** (3.15 kg in 5 days = 0.63 kg/day). Achievable scale weight is **~81.0–81.5 kg** if the band is actually held. Sep 27 is a checkpoint, not a deadline.
+5. **Tomorrow's breakfast is re-specified as protein-first, zero-calcium** — eggs + atta bread or oats, whey only after the 30-min thyroxine gap.
+
+**Next actions:**
+
+1. **Eat the prescribed lunch exactly as tabulated** (120 g rice / 150 g daal / 200 g turai / 100 g paneer / 100 g salad).
+2. **~4:30 PM: 2 scoops OWN whey** with lukewarm water + 5 almonds or 30 g roasted chana (R-A).
+3. **~6:30 PM: 200 g curd.** No more fruit today (R-T — 2 servings already used).
+4. **Dinner ~8:30 PM: 150 g paneer + 1 roti + 150 g veg** (R-P: one main + one carb).
+5. **Tomorrow (Wed Sep 23) on waking, before water/food/thyroxine:** W27 fasted weight **+ the 5 R-Z tapes** (waist at navel ⭐, chest at nipple line, bideltoid, neck, hip) → log in `Metrics.md`.
+6. **Log every remaining item today with the food scale on the counter** — no recalled estimates.
+
+**Compliance notes:**
+
+- ✅ Weigh-in discipline partially restored (naked reading volunteered without being asked).
+- 🔴 Calorie discipline: breakfast alone consumed ~61–65 % of the aggressive band.
+- 🔴 Protein ratio: 23 g from 910 kcal = **25 kcal per gram of protein** — the worst ratio of the week. Target ratio is ≤10.
+- ✅ Lunch prescription is fully R-L and Rule 6 compliant and gut-friendly (turai + moong daal).
+- 🔴 R-Z tapes: day 2 of absence.
+
+**Copilot context:**
+
+1. **Latest weight of record: 83.15 kg (naked, Tue Sep 22, Day 192).** Cumulative **−8.30 kg from Day 0 (91.45 kg)**, BMI ~29.5.
+2. **The −0.60 kg in 2 days is water/glycogen/gut, not fat** — do not present it to the user as fat loss, and do not let him extrapolate 0.30 kg/day into a Sep 27 target.
+3. **Day 192's structural failure is the breakfast ratio (910 kcal / 23 g protein).** All future breakfast prescriptions must be **protein-first and zero-calcium**.
+4. **Day-192 lunch is locked at 120 g cooked rice / 150 g cooked daal / 200 g cooked turai / 100 g tawa paneer / 100 g salad ≈ 637 kcal / 33 g.**
+5. **Day-192 protein ceiling ≈ 140–145 g** — the 180 g target is abandoned for today; the 150 g floor is at risk.
+6. **Rule codes now run R-A → R-AC.** Next free code is **R-AD**. No new rule was minted this update.
