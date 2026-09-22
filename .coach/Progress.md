@@ -6844,3 +6844,123 @@ Only two grades move; the rest of Part 5.D stands.
 **Next actions:** eat corrected lunch; 4:30 PM 1 scoop + almonds; decide on the +1 dinner scoop; gym decision by 5 PM (back gate); W27 + tapes tomorrow AM.
 
 **Copilot context:** Update #3's 2+2.5-scoop plan is superseded. Next free rule code = R-AD.
+
+---
+
+### Day 192 — Tuesday, Sep 22, 2026 — Session Update #5 (14:00 IST — Definitive lunch, Upper-only split, whey timing)
+
+**Topics discussed:** (1) definitive Day-192 lunch composition; (2) today's workout split — **user correctly challenged the earlier plan** ("random and not thought through"); (3) when to drink protein powder; (4) brain-complex log.
+
+#### Decision 1 — the earlier "lat-first Upper" plan was WRONG. User's objection is upheld.
+
+The Update #2 / Update #3 "lat-first Upper" list included **ankle-strap cable hip abduction + adduction** — that is **LOWER-body work**, and **Sep 20 (Day 190, session #58) was Lower + Core**:
+
+| Sep 20 (Day 190) Lower + Core — actually performed | Load |
+|---|---|
+| Cable hip abduction (per leg) | 33 lbs (≈15 kg) × 3 × 12 |
+| Cable hip adduction (per leg) | 33 lbs (≈15 kg) × 3 × 12 |
+| Cable leg curl (per leg) | 33 lbs (≈15 kg) × 3 × 12 |
+| Leg press | **84 kg × 3 × 12** 🔴 R-V violation |
+| Leg extension | >40 lbs (≈18.1 kg) × 3 × 12 |
+| Cable crunch | >100 lbs × 3 × 12 |
+| DB goblet squat | **SKIPPED** |
+
+Programming hip ab/adduction on **Sep 22** would train the glute-hip complex **48 h after it was already worked to failure-adjacent loads**. That is a **split-integrity error**, not a detail. **Removed from today. Moved to Fri Sep 25 Lower.** Minted as **R-AD** (see `BrainState.md` Standing Rule Overrides).
+
+#### Decision 2 — Day-192 lunch, DEFINITIVE (veg-only under R-L; eggs permitted)
+
+**Budget:** cap 1,800 kcal − breakfast ~910 kcal = **890 kcal available**; **~127 g protein owed** against the 150 g floor.
+
+| Item (cooked / ready-to-eat) | kcal | Protein | Note |
+|---|---:|---:|---|
+| Cooked rice | 80 g | ~104 | ~2.2 g | Rice **kept** (user correction). Capped at 80–100 g: rice is **~48 kcal per g protein** |
+| Cooked daal | 150 g | ~180 | ~12 g | ~15 kcal per g protein — the best veg protein per kcal on the plate |
+| Cooked turai sabzi, ≤1 tsp oil | 150 g | ~75 | ~2 g | Sane portion (supersedes the absurd 250 g) |
+| **Whole boiled eggs ×2** | 2 nos | ~140 | ~12 g | **The protein anchor — lifts lunch from 17 g → 28 g for +140 kcal** |
+| **LUNCH TOTAL** | — | **~499** | **~28 g** | ✅ veg-only, gut-friendly, no maida, no deep-fry |
+
+**Optional swap:** drop the 2 eggs → 80 g rice + 150 g daal + 150 g turai = **~359 kcal / ~16 g** (use only if the eggs are unavailable).
+
+#### Decision 3 — Day-192 Upper-only split (back-soreness gated)
+
+| Exercise | Sets × reps | Target weight | Rest | Form cue | Next-session rule |
+|---|---:|---:|---:|---|---|
+| Warm-up | 5 min | Treadmill 5 km/h, 0% incline | — | Easy pace | Keep (no incline available) |
+| Lat pulldown ⭐ R-AC | 1 × 12 calib + 3 × 10–12 | **Calibrate 45 lbs** → working weight where 10–12 reps = RIR 2 | 75 s | Drive elbows down to the hips, no torso swing | Log the weight → new baseline |
+| Seated cable low row ⭐ R-AC | 3 × 10–12 | **Calibrate 30 kg** (RIR 3 today) | 75 s | Neutral spine, no torso lean-back | Log the weight → new baseline |
+| Chest press (machine) | 1 × 12 calib + 3 × 10–12 | **Set 1: 40 lbs · Sets 2–3: 50 lbs** (last baseline 50 lbs) | 75 s | Elbows ~45°, back stays on the pad | Progress at clean 3 × 12 |
+| Pec deck | 3 × 12–15 | **Calibrate 30 lbs** | 60 s | Lead with the elbows, 1 s squeeze | Progress when 3 × 15 is clean |
+| Cable lateral raise (medial delt — secondary per R-AC) | 3 × 12–15 | **Calibrate 10 lbs** | 60 s | Lead with the elbow, stop at shoulder height | Progress when 3 × 15 is clean |
+| Rod bicep curl | 3 × 12 | **Calibrate 20 lbs** | 60 s | Elbows pinned to the ribs | Progress when 3 × 12 is clean |
+| Treadmill | 10 min | 5.5–6.0 km/h, 0% incline | — | Nasal breathing | Keep |
+
+**Session cap ~50 min · RPE ≤ 7 · finish by 6:30 PM.**
+
+**EXCLUDED today, and why:**
+
+| Movement | Reason for exclusion |
+|---|---|
+| Ankle-strap hip abduction / adduction | 🔴 **Lower-body — done Sep 20.** Moved to Fri Sep 25 |
+| Any leg press / leg extension / leg curl / goblet squat | 🔴 Lower-body; leg press also capped at 80 kg (R-V) |
+| DB shoulder press | 🔴 Axial / overhead loading with an open back-soreness item |
+| DB bent-over row | 🔴 Direct spinal loading |
+| Cable crunch / dumbbell crunch | 🔴 Spinal flexion with an open back-soreness item |
+| Rod tricep overhead | 🟡 Overhead cable pattern — hold until the back is asymptomatic 24 h |
+
+**R-S fallback branch:** if the back is sore on waking or mid-session → **30 min walking pad at 4–5 km/h + 12-min bodyweight circuit** (no axial loading). Never skip entirely.
+
+#### Decision 4 — whey timing (standing map)
+
+| Slot | Dose | Rationale |
+|---|---|---|
+| **~4:30 PM — immediately post-gym (within 30–60 min)** | **1 scoop OWN** | Post-exercise window; **R-U** — protein first after any training/cardio, before any fruit or carb |
+| **~7:30–8:00 PM — dinner / pre-sleep anchor** | **1 scoop OWN** | Anchors the lowest-protein meal of the day; slow overnight amino delivery |
+| Optional 3rd — **10:30 AM** (after the 10:00 AM thyroxine gap closes) | 1 scoop | Only if the scoop count allows; the cheapest way to lift the floor |
+
+**Hard whey rules:** **R-A** — lukewarm/room-temp water only, never cold, always with ≥5 almonds or 30 g roasted chana, sip slowly. **R-M** — no cold/fridge water ever. **Never 2 scoops in one sitting** (user rule, 13:37 IST — minted as a standing rule). **Never within 30 min of thyroxine** (so not before 6:30 AM). **Never on a completely empty stomach as the first thing after the pill.**
+
+#### Decision 5 — Day-192 final intake plan (Plan A, recommended)
+
+| Slot | Intake | kcal | Protein | Running kcal / protein |
+|---|---|---:|---:|---|
+| Breakfast (done) | 2 apples + 2 paneer parantha + 1 katori dahi + 1 tsp sugar | ~910 | ~23 g | 910 / 23 g |
+| Lunch ~1:00 PM | 80 g rice + 150 g daal + 150 g turai + **2 boiled eggs** | ~499 | ~28 g | 1,409 / 51 g |
+| 4:30 PM (post-gym) | 1 scoop OWN + 5 almonds | ~148 | ~24.5 g | 1,557 / 75.5 g |
+| 7:30 PM | 1 scoop OWN + 30 g roasted chana + 200 g salad | ~248 | ~31.5 g | **~1,805 / ~107 g** |
+| **Trim to hold the cap:** drop the 5 almonds (−28 kcal) | — | **~1,777** | **~106 g** | ✅ under 1,800 |
+
+**Plan B (floor-chasing, 3 scoops):** lunch as above + 1 scoop at 4:30 PM + 1 scoop at 7:30 PM + 1 scoop + 150 g salad at 9:00 PM → **~1,792 kcal / ~126 g**.
+
+**🔴 Honest ceiling:** with a ~910 kcal / 23 g breakfast already eaten and rice restored at lunch, **150 g protein inside 1,800 kcal is still unreachable** — the absolute mathematical maximum is ~4 scoops + 2 eggs + 150 g daal + 150 g turai ≈ **1,757 kcal / ~147 g**, and that drops the rice entirely. **Report the shortfall; do not pretend the floor was met.**
+
+#### Decision 6 — Day-192 deficit
+
+| Line | Value |
+|---|---:|
+| Estimated TDEE (BMR ≈ 1,756 at 83.15 kg × ~1.37) | ~2,400 kcal |
+| Day-192 intake (Plan A, trimmed) | ~1,777 kcal |
+| Intake-only deficit | **~623 kcal** |
+| Strength-session credit (standing policy: +250, never the raw Watch figure) | **+250 kcal** |
+| **Day-192 total deficit** | **~873 kcal** |
+| Wed Sep 23 → Sat Sep 26 (1,500 kcal lock, ~−900/day × 4) | **−3,600 kcal** |
+| **Block deficit (Sep 22 → Sep 26)** | **~4,473 kcal ≈ 0.58 kg fat** |
+
+#### Decision 7 — weight path (unchanged, re-affirmed)
+
+| Checkpoint | Expected scale |
+|---|---:|
+| Wed Sep 23 (W27 make-up) | ~82.8–83.0 kg |
+| Sat Sep 26 day end | ~82.3–82.6 kg |
+| 81.15 kg re-touch | **≈ Sep 30 – Oct 4** |
+
+**Compliance notes:** breakfast consumed unweighed (~910/~23 g) with two standing flags — R-J timing breach (paneer parantha at breakfast) and the dual-calcium (paneer + curd) medical breach. **R-T breached** (2 apples in one sitting). No gym yet today at time of writing. The Update #2 / Update #3 upper plan is **superseded** by the Upper-only split above.
+
+**Next actions:**
+1. Eat the locked lunch: 80 g cooked rice + 150 g cooked daal + 150 g cooked turai (1 tsp oil) + 2 boiled eggs.
+2. Gym by ~5:00 PM — Upper-only as tabled; back sore → R-S fallback. Cap 50 min.
+3. 4:30 PM post-gym: 1 scoop OWN + 5 almonds, lukewarm water (R-A/R-M).
+4. 7:30 PM: 1 scoop OWN + 30 g roasted chana + 200 g salad. Nothing after 9:30 PM.
+5. **Count the remaining OWN scoops and report the number.**
+6. Tomorrow AM before water/food/thyroxine: **W27 fasted weigh-in + the 5 R-Z tapes** in one sitting.
+
+**Copilot context:** **R-AD minted** (split integrity — an Upper day contains zero lower-body movements; hip ab/adduction is leg work and belongs on Lower days). Next free rule code = **R-AE**. TDEE assumption 2,400 kcal lives in this block. All figures are labelled estimates (no food scale). Sep 24 exam remains the standing schedule constraint; Wed Sep 23 = walking pad only.
