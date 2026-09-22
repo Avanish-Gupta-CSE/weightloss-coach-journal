@@ -6964,3 +6964,41 @@ Programming hip ab/adduction on **Sep 22** would train the glute-hip complex **4
 6. Tomorrow AM before water/food/thyroxine: **W27 fasted weigh-in + the 5 R-Z tapes** in one sitting.
 
 **Copilot context:** **R-AD minted** (split integrity — an Upper day contains zero lower-body movements; hip ab/adduction is leg work and belongs on Lower days). Next free rule code = **R-AE**. TDEE assumption 2,400 kcal lives in this block. All figures are labelled estimates (no food scale). Sep 24 exam remains the standing schedule constraint; Wed Sep 23 = walking pad only.
+
+---
+
+### Day 192 — Tuesday, Sep 22, 2026 — Session Update #6 (14:15 IST — Meal distribution v2: NO eggs, whey capped at 1–2)
+
+**User correction (verbatim intent):** distribute the day so it contains **only 1–2 whey scoops + lunch + dinner**, using **only items already in play** — do **not** introduce anything new. The **2 boiled eggs** added to the Update #5 lunch were **not requested and are REMOVED**. Dinner must be reasoned, not improvised.
+
+**Decision 1 — Eggs removed from the Day-192 plan.** Update #5's lunch (80 g rice + 150 g daal + 150 g turai + **2 boiled eggs** ≈ 499 kcal / ~28 g) is **SUPERSEDED**. The egg-free lunch is **50 g cooked rice + 150 g cooked daal + 150 g cooked turai (½ tsp oil) ≈ 343 kcal / ~15.3 g**.
+
+**Decision 2 — Whey budget locked at 2 scoops (1–2 allowed).** 1 scoop ≈ 113 kcal / ~24.5 g. **2 scoops is the correct choice** because it buys 49 g of protein for 226 kcal — the only protein-dense move available inside 1,800. Distribution: **1 scoop ~4:30 PM post-gym + 1 scoop ~7:30 PM with dinner.** Never 2 at once; R-A (lukewarm + ≥5 almonds or 30 g chana) and R-M (never cold water) apply.
+
+**Decision 3 — The real constraint, stated plainly.** The ~900 kcal / 23 g breakfast already eaten leaves **~900 kcal for lunch + dinner + whey**. Two scoops take 226 → **only ~674 kcal is left for two solid meals.** That is why the portions below are what they are; any addition breaches the 1,800 cap.
+
+**Decision 4 — Day-192 meal distribution, OF RECORD (Plan A, 2 scoops):**
+
+| Slot | Item (cooked / ready-to-eat) | Qty | kcal | Protein |
+|---|---|---:|---:|---:|
+| Breakfast (DONE) | 2 apples + 2 paneer parantha + 1 katori dahi + 1 tsp sugar | — | ~900 | ~23 g |
+| Lunch | Cooked rice | 50 g | 65 | 1.4 g |
+| Lunch | Cooked daal | 150 g | 180 | 12.0 g |
+| Lunch | Cooked turai sabzi, ½ tsp oil | 150 g | 98 | 1.9 g |
+| ~4:30 PM (post-gym) | OWN whey isolate | **1 scoop** | 113 | 24.5 g |
+| Dinner | Paneer bhurji, dry, 1 tsp oil | **70 g paneer** | 252 | 12.6 g |
+| Dinner | Cooked turai sabzi, ½ tsp oil | 120 g | 82 | 1.6 g |
+| ~7:30 PM | OWN whey isolate | **1 scoop** | 113 | 24.5 g |
+| **TOTAL** | | | **~1,803** | **~101 g** |
+
+Trim to stay inside the cap: **dinner turai 120 g → 100 g** (−24 kcal) → **~1,789 kcal / ~101 g** ✅.
+
+**Decision 5 — Plan A-alt (identical macros, if paneer is out).** Dinner swap: **150 g cooked daal + 120 g cooked turai (½ tsp oil) + ½ atta roti** ≈ 317 kcal / ~15 g. Day total **~1,786 kcal / ~102 g** ✅. Both plans are built **entirely** from items already eaten today or confirmed in the kitchen (rice, daal, turai, atta, paneer, curd, whey) — nothing new introduced.
+
+**Decision 6 — Plan B (1 scoop only):** breakfast 900 + lunch (50 g rice + 150 g daal + 150 g turai + 1 tsp oil) 365 + 1 scoop + 5 almonds at 4:30 PM 148 + dinner (80 g paneer bhurji 1 tsp oil + 100 g turai ½ tsp) 325 ≈ **1,738 kcal / ~82 g**. Taking only 1 scoop costs **~19 g of protein** — that is the whole argument for 2.
+
+**Decision 7 — Honest protein verdict, unchanged and re-confirmed.** With a ~900 kcal / 23 g breakfast, rice at lunch, and 2 whey scoops, the day lands **~101–102 g protein**. The 150 g floor remains **mathematically unreachable inside 1,800 kcal** on this breakfast. No eggs, no additional scoop → **~101 g is the number; report it, do not massage it.**
+
+- **Compliance notes:** No eggs today. Lunch is veg-only (R-L Tuesday ✅). Dual-calcium breakfast breach and R-T breach (2 apples in one sitting) still stand from earlier today.
+- **Next actions:** (1) eat the Plan-A lunch ~343 kcal; (2) confirm whether paneer is actually in the fridge — if not, take Plan A-alt; (3) gym Upper-only, 1 scoop whey at ~4:30 PM; (4) dinner by 8:00 PM with the second scoop; (5) count remaining OWN scoops and report the number; (6) Wed Sep 23 AM before anything → W27 fasted weigh-in + the 5 R-Z tapes.
+- **Copilot context:** **Update #5's lunch line is SUPERSEDED — eggs are out.** The egg-free lunch and the Plan A / A-alt dinner are the Day-192 plan of record. Next free rule code remains **R-AE**.
