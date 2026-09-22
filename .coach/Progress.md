@@ -6736,3 +6736,88 @@ Only two grades move; the rest of Part 5.D stands.
 4. **Day-192 lunch is locked at 120 g cooked rice / 150 g cooked daal / 200 g cooked turai / 100 g tawa paneer / 100 g salad ≈ 637 kcal / 33 g.**
 5. **Day-192 protein ceiling ≈ 140–145 g** — the 180 g target is abandoned for today; the 150 g floor is at risk.
 6. **Rule codes now run R-A → R-AC.** Next free code is **R-AD**. No new rule was minted this update.
+---
+
+### Day 192 — Tuesday, Sep 22, 2026 — Session Update #3 (Sep-22 Re-Target: 1,500 kcal lock + whey-led day)
+
+**Topics discussed:** user set an aggressive cut of **1,500 kcal/day from today (Tue Sep 22) through Saturday Sep 26 day end**; framing of the current 83.15 kg as **+2.00 kg vs the Aug 30 low (81.35 kg)** to be fixed; today-only cap of **1,800 kcal** with deficit spread across lunch + dinner; today's lunch quantities (rice, daal, turai sabzi); today's workout split with the **Sep 24 exam** as a decision variable.
+
+**Deficit math (assumption of record):** TDEE ≈ **2,400 kcal** (Mifflin BMR ≈ 1,756 at 83.15 kg / 168 cm / age 26, sedentary office + 30–45 min daily walking, factor ~1.35–1.4). Hypothyroid makes true expenditure slightly lower — treat 2,400 as the ceiling estimate.
+
+| Day | Cap | Deficit vs TDEE ~2,400 |
+|---|---:|---:|
+| Tue Sep 22 (today, exception) | **1,800 kcal** | **−600** |
+| Wed Sep 23 | 1,500 | −900 |
+| Thu Sep 24 (EXAM) | 1,500 | −900 |
+| Fri Sep 25 | 1,500 | −900 |
+| Sat Sep 26 | 1,500 | −900 |
+| **Block total** | — | **−4,200 kcal ≈ 0.55 kg fat + water drop** |
+
+**Day-192 prescription (supersedes the earlier 637 kcal lunch lock — the user raised today's cap and demanded the 150 g floor):**
+
+| Slot | Items (cooked/ready-to-eat) | kcal | Protein |
+|---|---|---:|---:|
+| Breakfast (already eaten) | 2 apples + 2 paneer parantha + 1 katori dahi (~150 g) + 1 tsp sugar | **~900** | **~23 g** |
+| Lunch ~1:00 PM | **250 g cooked moong/masoor daal + 200 g cooked turai sabzi (1 tsp oil) — NO rice today** | **~315** | **~20 g** |
+| Snack 4:30 PM | **2 scoops OWN whey**, lukewarm water, 5 almonds (R-A / R-M), sip slow | **~261** | **~49 g** |
+| Dinner 8:00 PM | **2.5 scoops OWN whey** + 200 g cucumber-tomato salad | **~322** | **~63 g** |
+| **DAY TOTAL** | — | **≈1,798** | **≈152 g** |
+
+- ✅ Cap (1,800) and floor (150 g) both met **only** by this plan. Optional **50 g cooked rice** at lunch = +79 kcal → ~1,877 (over cap — user's call).
+- ⚠️ The 910 kcal / 23 g breakfast forces the afternoon+evening to be **whey-led**; whole food alone cannot deliver ~129 g in 890 kcal.
+- ⚠️ **Verify OWN scoop count before dinner** — if stock <5 scoops, substitute 150 g tawa paneer per missing scoop (worse ratio ~6 kcal/g vs ~4.7).
+- ✅ R-L veg-only respected (no fish/eggs planned today; eggs remain permitted but unused).
+
+**Today's workout — decision tree (two gates: back soreness + Sep 24 exam):**
+
+| Gate | Condition | Prescription |
+|---|---|---|
+| Back | Pain-free last 24 h ✅ | Gym, Lat-first Upper (R-AC), 45–55 min, RPE ≤7, done by 6:30 PM |
+| Back | Sore 🔴 | **R-S fallback:** 30-min walk + 12-min bodyweight circuit, zero axial load |
+| Exam | Sep 24 approaching | Cap study-cost: no session tomorrow (Wed) — walking pad only |
+
+**Lat-first Upper (if gym + pain-free):**
+
+| Exercise | Sets × reps | Target weight | Rest | Cue |
+|---|---|---|---|---|
+| Lat pulldown | 4 × 10–12 | Calibrate: S1 @ 45–50 lbs × 12 easy → lock S2–3 at RIR 2 | 90 s | Chest up, elbows to hips |
+| Seated low row | 4 × 10–12 | Start 25 kg → lock RIR 2 | 90 s | Drive elbows past ribs |
+| Chest press (machine) | 3 × 10–12 | Start 45 lbs → RIR 2 | 90 s | Supported back = safe with back soreness |
+| Lateral raise (if dumbbells/station exist) | 3 × 12–15 | 5 kg or lightest pin | 60 s | R-Z scoreboard secondary (R-AC) |
+| Ankle-strap hip abduction | 3 × 12–15 per leg | 33 lbs | 60 s | Tall posture, no trunk lean |
+| Ankle-strap hip adduction | 3 × 12–15 per leg | 33 lbs | 60 s | Slow return |
+| Treadmill walk | 15 min | 5.5–6 kmph, 0 incline | — | Cool-down |
+
+**Skip today:** any standing/overhead/axial press (back gate), leg press (Lower done Sep 20), heavy cable crunch.
+
+**Sep 23–26 week plan:**
+
+| Day | Plan |
+|---|---|
+| Wed Sep 23 | **AM: W27 fasted weigh-in + 5 R-Z tapes** (waist⭐, chest, shoulder, neck, hip). NO gym — 30-min walking pad @ 4–5 kmph during study. 1,500 kcal, protein-first calcium-free breakfast |
+| Thu Sep 24 | **EXAM DAY** — rest; optional 20-min post-exam walk; 1,500 kcal |
+| Fri Sep 25 | Gym Lower (if back recovered; else R-S fallback); 1,500 kcal |
+| Sat Sep 26 | Gym Upper Pull-bias; 1,500 kcal; block closes at day end |
+| Mon Sep 28 | Next R-Z weigh-in + tapes |
+
+**Weight-path projection (honest):**
+
+| Checkpoint | Expected scale |
+|---|---:|
+| Wed Sep 23 (W27 make-up) | ~82.8–83.0 kg (water drop from today's carb load leaves) |
+| Sat Sep 26 day end | ~**82.3–82.6 kg** |
+| 81.15 kg re-touch | **≈ Sep 30 – Oct 4** if the −900 kcal/day holds + 2–4 sessions |
+
+🔴 **The 81.15 kg mark will NOT return by Saturday** — 83.15 → ~82.5 in 5 days is fat+water at −4,200 kcal; the last ~1.2 kg needs ~1 more week at the same deficit. Sep 27's earlier forecast is superseded by this 5-day lock.
+
+**Compliance notes:** breakfast consumed unweighed (~900/~23 g, 2 flags: R-J timing breach — paneer parantha at breakfast — and the medical no-calcium breach). No gym yet today. No new violations logged beyond those.
+
+**Next actions:**
+1. Eat the locked lunch: 250 g daal + 200 g turai + zero rice.
+2. 4:30 PM: 2 scoops OWN + 5 almonds (R-A/R-M).
+3. **Count OWN scoops** — if <5 remain, report before the 8:00 PM whey dose.
+4. Gym decision by ~5:00 PM: back pain-free → lat-first Upper; sore → R-S fallback. Cap 55 min.
+5. Dinner 8:00 PM: 2.5 scoops whey + 200 g salad. Nothing after (no-carbs-after-3 rule moot today given whey-only).
+6. Tomorrow AM before water/food/thyroxine: **W27 weigh-in + 5 R-Z tapes**.
+
+**Copilot context:** next free rule code = **R-AD** (unminted this session). TDEE assumption 2,400 kcal lives in this block only. All figures are labelled estimates (no food scale in use). Sep 24 exam is the standing schedule constraint through Friday.
