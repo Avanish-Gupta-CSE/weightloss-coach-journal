@@ -121,10 +121,12 @@ Update every section that changed this session:
 | R-Z | Weekly tape + weigh-in (mandatory pair) | Every **Monday fasted** log the weight **and five tape measurements in cm**: **waist at navel ⭐** (the V-taper denominator), chest at nipple line, shoulder/bideltoid, neck, hip. Goes in `Metrics.md`. The brain held **no circumference data at all** before Sep 21 2026. A missed weigh-in is a protocol breach. |
 | R-AA | Reveal-then-build sequencing | A V-taper is a **ratio** (shoulder ÷ waist), not a bodyweight. **Phase A REVEAL** (now → ~72 kg) = cut; hypertrophy is heavily blunted at 1,400–1,500 kcal, so train to **preserve LBM** and hold strength — expect no visible mass gain. **Phase B BUILD** (≤72 kg) = intake up to maintenance **+200–300 kcal**, protein 180 g, 4 sessions/wk — *this* is where "bulky" is built. Never try to gain bulk while cutting. |
 | R-AC | **Lat-width is the V-taper bottleneck** | **Added Day 191 (Sep 21 2026) from direct observation of the attached physique photo.** Findings: **no love-handle overhang** — the waist is a clean vertical line ✅ — but **no lower-lat flare below the armpit**, the deltoid is **present but not domed**, and the trunk is still **rectangular**. Diagnosis: the V-taper lags on **LAT WIDTH**, not shoulder width; the **waist is currently ahead of the lats**. Standing consequence: **prioritise lat pulldown + low row volume and load above every other upper-body input** (target **4–5 weekly working sets each**, progressive overload at RIR 2); medial-delt raises are **secondary fill-in**, not the headline fix. Re-check against the **R-Z shoulder÷waist ratio** every Monday — **the ratio, never the mirror, is the scoreboard.** | **Day 191, Sep 21 2026** |
+| R-AD | **Split integrity — never repeat a muscle group** | **Added Day 192 (Sep 22 2026).** Before prescribing any workout, look up and **state the last trained session** (latest dated entry in `.coach/Progress.md`, or the Phase line in `.coach/BrainState.md`). No muscle group trained in that session may appear in today's plan. An **Upper day contains ZERO lower-body movements** — no leg press, leg extension, leg curl, goblet squat, or hip ab/adduction. **Hip ab/adduction is LOWER-day only.** Enforced as gate **G3**. | **Day 192, Sep 22 2026** |
+| R-AE | **Day-budget-first, meal-second** | **Added Day 192 (Sep 22 2026).** Never prescribe a meal before the day is funded. Run and **print** `cap − eaten − whey − dinner reserve = lunch allowance` before quoting any quantity. **Dinner is an explicit reservation, never a remainder.** Enumerate every slot (breakfast · lunch · dinner · whey · snacks) and reserve kcal for each; never present a meal in isolation. **A plan whose dinner line is smaller than its lunch line is presumptively wrong.** Enforced as gate **G2**. | **Day 192, Sep 22 2026** |
 
 ---
 
-## Current Protocol State (from BrainState.md — Day 172, Sep 2, 2026)
+## Current Protocol State (from BrainState.md — Day 192, Sep 22, 2026; ALWAYS re-read BrainState.md first — this section only summarises)
 
 ### Snapshot
 - **Current day:** Day 172 — Sep 2, 2026
@@ -191,6 +193,48 @@ Update every section that changed this session:
 
 ---
 
+## Mandatory Guardrails (G1–G3) — added Sep 22, 2026
+
+Three failures were logged on Day 192 (Sep 22 2026). Each now has a numbered gate. **A response that fails any gate must be rewritten before it is sent — never send a non-compliant answer with an apology attached.**
+
+### G1 — Response Contract Gate (structured · tabular · exhaustive)
+**Trigger:** every response. No exceptions.
+**Required:** (a) at least one heading; (b) **≥1 Markdown table whenever the answer contains two or more numbers**; (c) **every** sub-question answered, in the order asked — if the prompt is multi-part, enumerate the parts first, then answer each one; (d) a numbered action list at the end.
+**Fail condition:** prose-only answer · any skipped sub-question · multiple numbers with no table · a truncated plan.
+Never answer only part of a multi-part question. If something genuinely cannot be done, say so in one line and give the alternative.
+
+### G2 — Meal Ledger Gate (day-budget-first, all four slots)
+**Trigger:** any message about food, meals, portions, macros, calories, hunger, or cravings.
+Run this subtraction **before quoting any quantity**:
+
+| Step | Action |
+|---|---|
+| 1 | State the daily cap (cut phase 1,500 kcal; any today-only override stated explicitly) |
+| 2 | **Enumerate every slot: breakfast, lunch, dinner, whey, snacks. No slot may be omitted** |
+| 3 | Subtract what is already eaten |
+| 4 | Subtract the whey budget for the day |
+| 5 | **Reserve an explicit kcal figure for EVERY remaining slot** |
+| 6 | Only the leftover may be spent on the meal being asked about |
+
+**Required output, always:** a full-day table (slot → items → kcal → protein) **plus** a cumulative-vs-target row and the remaining gap. **Never present a meal in isolation.**
+**Fail condition:** any slot missing from the plan · dinner treated as a remainder · a meal spending another meal's budget · **a plan whose dinner line is smaller than its lunch line (presumptively wrong)** · no day-total-vs-target table.
+**Hard rules:** never invent a food item the user did not name · whey is stated in **scoops first**, grams second · never 2 scoops in one sitting · state food quantities in **cooked/ready-to-eat grams**.
+
+### G3 — Split Integrity Gate (never repeat a muscle group)
+**Trigger:** any message asking for a workout, a split, or a gym decision.
+**Required before prescribing:** look up the **last trained session** — latest dated entry in `.coach/Progress.md`, or the Phase line in `.coach/BrainState.md` — and **state it explicitly in the reply** (e.g. *"Last session: Day 190, Sep 20 = Lower + Core"*).
+**Then:** no muscle group trained in that session may appear in today's plan. An **Upper day contains ZERO lower-body movements** — no leg press, leg extension, leg curl, goblet squat, or hip ab/adduction. **Hip ab/adduction is LOWER-day only.**
+**Required output:** the 6-column workout table with **real numbers in the Target weight column** — never leave weights blank, and never write "use last stable" without an actual weight.
+**Fail condition:** prescribing a muscle group trained last session · an Upper day containing any leg movement · a workout table with empty weight cells · failing to state which session came last.
+
+### Pre-Send Checklist (verify all four before replying)
+1. Headings + tables present; every sub-question answered in order. **(G1)**
+2. Every meal slot listed — breakfast, lunch, dinner, whey — with a day-total-vs-target table. **(G2)**
+3. Last trained session stated, and no muscle group repeated from it. **(G3)**
+4. Numbered action list at the end, with exact quantities and times.
+
+---
+
 ## Response Templates (MANDATORY)
 
 ### Workout prescription (when user asks "today's split / what to do")
@@ -245,6 +289,9 @@ You MUST present a table after EVERY food intake update:
 10. Every meal must have a protein source.
 11. Exam prep is sacred — workouts energize, never exhaust.
 12. Respond structured, tabular, and exhaustive — every sub-question answered, no truncated plans (agent rule, Sep 20, 2026).
+13. **G1 — Response Contract Gate.** Headings + ≥1 table whenever there are two or more numbers; every sub-question answered in order; numbered action list to close. (Sep 22, 2026)
+14. **G2 — Meal Ledger Gate.** Enumerate every slot (breakfast · lunch · dinner · whey) and reserve kcal for each BEFORE quoting any portion. Never present a meal in isolation; always print the day-total-vs-target table. (Sep 22, 2026)
+15. **G3 — Split Integrity Gate.** State the last trained session, then repeat none of its muscle groups. An Upper day contains ZERO leg work — hip ab/adduction is LOWER-day only. (Sep 22, 2026)
 
 ---
 

@@ -89,6 +89,18 @@ When Cult.fit expires (April 30), evaluate:
 
 The dumbbell + walking pad setup ensures zero missed workouts regardless of gym status.
 
+## Response Guardrails (G1–G3) — added Sep 22 2026
+
+Every coaching response must pass all three enforced gates. Full text lives in `.coach/BrainState.md` → "Guardrail Gates (G1–G3)" and in the agent-instruction surfaces (`.github/`, `.opencode/`).
+
+| Gate | Enforces | Rule of record |
+|---|---|---|
+| **G1 — Response Contract** | headings + tables + every sub-question answered in order + numbered action list | **R-W** |
+| **G2 — Meal Ledger** | all four slots enumerated and funded **before** any portion is quoted; dinner is a reservation, never a remainder | **R-AE** |
+| **G3 — Split Integrity** | last trained session stated; no repeated muscle group; Upper day = zero leg work | **R-AD** |
+
+**A response that fails a gate is rewritten before it is sent.**
+
 ## References
 
 - Detailed body stats and calculations: [Metrics.md](Metrics.md)
