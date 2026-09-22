@@ -6502,6 +6502,8 @@ Only two grades move; the rest of Part 5.D stands.
 
 **Topics discussed:** body-composition timeline ("when will I look athletic / bulky / V-shaped?"), physique photo review, V-taper ratio math, reveal-vs-build phase sequencing, taper-specific exercise mapping for the township gym, missing-measurement audit, two new standing rules (R-Z, R-AA).
 
+**Retro-logged on Sep 22:** Day 191's real **3-meal + snack intake** and the **back-soreness gym skip** (see *Meals & training* below).
+
 **Decisions made:**
 
 1. **A V-taper is a ratio, not a weight.** Target ratio = shoulder/bideltoid girth ÷ waist girth. Added **R-Z** (every Monday fasted weigh-in **plus** five tape measurements in cm, as a mandatory pair, logged in `Metrics.md`) and **R-AA** (reveal-then-build sequencing).
@@ -6509,13 +6511,48 @@ Only two grades move; the rest of Part 5.D stands.
 3. **Township-gym taper priority order set.** **Tier 1** = lat pulldown, low row, adjustable multi-press (+ lateral raise — equipment unconfirmed). **Tier 2** = chest press, pec deck, rod curls, rod overhead triceps. **Tier 3** = legs, cable crunch.
 4. **Photo read (qualitative, first-hand):** landscape mirror selfie, full torso in frame — **no love-handle bulge** (waist is a clean vertical line ✅); deltoid cap present but not domed; **no lower-lat flare** below the armpit; trunk still **rectangular**. Verdict: the V-taper is a **lat-width + waist-narrowing race, and waist is currently ahead of lats.** Minted **R-AC** (lat width is the V-taper bottleneck).
 
+**Meals & training (reporting defect — logged late on Sep 22):**
+
+⚠️ **Day 191's intake WAS consumed — it was simply never reported until Sep 22, so the original Sep-21 audit graded this day as "zero intake." That finding is retracted.** Reconstructed from the user's Sep-22 recall; **all figures are clearly-labelled estimates** (not weighed).
+
+| Meal | Items | Est. kcal | Est. protein |
+|---|---|---:|---:|
+| **Breakfast** | 2 slices white bread (~30 g each) + 2 omelettes of 2 eggs each (**4 eggs**) + ~2 tsp cooking oil | **552** | **~30 g** |
+| **Lunch** | 150 g cooked rice + 100 g cooked daal + 3 flower pakodi | **521** | **~15 g** |
+| **Dinner** | 100 g paneer sabzi (~80 g gravy/sabzi) + 2 roti + 100 g cooked rice | **706** | **~29 g** |
+| **Snacks** | 5 × SuperYou wafer (90 kcal / 5 g each) + 0.75 packet Cornitos | **690** | **~28 g** |
+| **DAY 191 TOTAL** | — | **~2,470 kcal** | **~102 g** |
+
+**Intake vs target — Day 191:**
+
+| Metric | Day 191 actual | Target | Gap | Verdict |
+|---|---:|---:|---:|---|
+| Calories | **~2,470 kcal** | 1,400–1,500 (aggressive cut band) | **+~970** | 🔴 |
+| Calories (vs scoreboard) | **~2,470 kcal** | 1,800–1,900 | **+~570** | 🔴 |
+| Protein | **~102 g** | 180 g (floor **150 g**) | **−48 g under floor** | 🔴 |
+| Carbs (est.) | **~265 g** | ≤170 g | **+~95 g** | 🔴 |
+| Fat (est.) | **~108 g** | ~56 g | **+~52 g** | 🔴 |
+| Fruit | **0 servings** | ≤2 servings (~200 g) | ✅ | ✅ R-T |
+| Deep-fried | 3 flower pakodi + Cornitos (fried corn chips) | Zero | — | 🔴 Rule 4 |
+| Maida | 2 white-bread slices | Zero | — | 🔴 Rule 3 / R-Y |
+| Training | **Skipped** — intended Upper Push | 1 session | −1 | ⚠️ medical (below) |
+| Weigh-in | Not taken | Mon fasted | — | 🔴 Missed |
+
+**Training — why Day 191 was skipped (legitimate):**
+
+- The user **skipped the planned Upper session because of back soreness** — deliberately, because an upper-body/vertical-press split could **worsen** the back. ✅ **Judged protective, not a compliance failure.**
+- ⚠️ **The only deduction:** **R-S** says that when the gym is blocked the day downgrades to **30 min indoor walk + 12-min bodyweight circuit** — *never skip entirely*. The downgrade was not taken. That is the sole mark against the day.
+- Last completed session remains **#58 (Sep 20, Lower + Core — Apple Watch 537 KCal / 82:54)**. September stands at **2 of 16** sessions against the 4/week target.
+
 **Compliance notes:**
 
-- No intake was reported for Day 191 — no food table was produced (nothing to log).
-- 🔴 **The W27 fasted weigh-in (Mon Sep 21) was due first thing and has NOT been reported.** This is now **14 consecutive** missed Monday weigh-ins.
-- No workout was reported for Day 191. The planned **Upper Push calibration (RIR 3)** was never executed or reported; the last logged session remains **#58 (Sep 20, Lower + Core — Apple Watch 537 KCal / 82:54)**.
+- 🔴 **Sep 21 carried 4 violations** — **Rule 3 / R-Y** (2 white-bread slices, maida), **Rule 4** (3 flower pakodi + 0.75 packet Cornitos, deep-fried), **protein floor shortfall** (−48 g), **calorie overrun** (+~970 vs the cut band).
+- ✅ **Fruit ceiling (R-T) was respected** — zero fruit servings on Day 191.
+- ⚠️ **R-S downgrade not taken** — the day went from "skip gym" straight to "no movement," instead of the 30 min walk + 12-min circuit fallback.
+- ⚠️ **Reporting defect, now closed:** intake for Sep 21 existed but was reported ~26 h late. **Do not treat a silent day as a zero-intake day again** — ask before grading.
+- 🔴 **The W27 fasted weigh-in (Mon Sep 21) was due first thing and was not taken** — **14 consecutive** missed Monday weigh-ins.
 - 🔴 **The R-Z five-tape baseline was not taken** — the taper **denominator** (waist at navel) is still absent from the brain-complex.
-- Day 190 closed at **~2,200 kcal / ~105 g protein** with 3 violations (R-T 7 fruits, carbs-after-3-PM ×2, maida + refined sugar at ~11:55 PM).
+- Day 190 closed at **~2,200 kcal / ~105 g protein** with 3 violations (R-T 7 fruits, carbs-after-3-PM ×2, maida + refined sugar at ~11:55 PM). **Two consecutive days (~4,670 kcal combined) now sit ~+300 and ~+970 over band.**
 
 **Next actions:**
 
@@ -6536,49 +6573,70 @@ Only two grades move; the rest of Part 5.D stands.
 
 ### Day 192 — Tuesday, Sep 22, 2026 — Session Update (Sep-21 log audit: workout, meals, calories)
 
-**Topics discussed:** the question *"what we logged for 21st Sept"* → an audit of the Day-191 record; the finding that **Sep 21 was a consult-only day with zero intake and zero training**; the outstanding W27 weigh-in and R-Z tape baseline; today's veg-only constraint (R-L) and the protein floor.
+**Topics discussed:** the question *"what we logged for 21st Sept"* → an audit of the Day-191 record; **the user's correction that Sep 21 had a full, unreported intake and a back-soreness gym skip**; logging the real Sep-21 meals + calories + protein; logging today's (Sep 22) breakfast; the outstanding W27 weigh-in and R-Z tape baseline; today's veg-only constraint (R-L) and the protein floor.
 
 **Findings — the Sep 21 (Day 191) record:**
 
 | Domain | Status | Detail |
 |---|---|---|
-| 🔴 **Workout** | **MISSING ENTIRELY** | No session logged for Sep 21. Last completed = **#58 (Sep 20, Lower + Core — Apple Watch 537 KCal / 82:54)**. The planned **Upper Push calibration (RIR 3)** was never executed or reported. September now stands at **2 of 16** sessions for the 4/week target. |
-| 🔴 **Meals** | **MISSING ENTIRELY** | No intake table exists for Sep 21. **Every** meal item logged in this journal belongs to **Day 190 = Sun Sep 20**: 2 pomegranate · 2 pears · 2 apples · 2.5 medium fish (1.5 roasted, 1 curry) · 100 g basmati · 0.5 roti · 2.5 fish + 80–100 g rice (lunch) · 1 SuperYou wafer (90 kcal / 5 g) · 15 cashew kernels · 1 pear · 2 roti · 3-egg omelette · 50 g lauki sabzi · 2 white-bread slices. |
-| 🔴 **Calories / protein** | **UNGRADEABLE** | No data was supplied for Sep 21, so nothing is scored and **nothing is back-filled** with invented numbers. Nearest anchored day = **Sep 20 at ~2,200 kcal / ~105 g protein**. |
-| 🔴 **W27 fasted weigh-in** | **NOT REPORTED** | Due Mon Sep 21 first thing. **14th consecutive** missed Monday weigh-in. |
+| ⚠️ **Workout** | **SKIPPED — legitimate** | Session skipped due to **back soreness**; an Upper Push session could worsen it. ✅ Protective call. **R-S deduction only:** the fallback (30 min indoor walk + 12-min bodyweight circuit) was not taken. Last completed = **#58 (Sep 20, Lower + Core — Apple Watch 537 KCal / 82:54)**. September stands at **2 of 16** sessions for the 4/week target. |
+| ⚠️ **Meals** | **LOGGED LATE (Sep 22)** | 🔄 **CORRECTED** — the original "MISSING ENTIRELY" finding is **retracted**. Sep 21 had a full 3-meal + snack day; it was simply never reported until ~26 h later. Full table in the Day-191 block above. |
+| ⚠️ **Calories / protein** | **~2,470 kcal / ~102 g protein** | 🔄 **CORRECTED** — no longer "ungradeable." **+~970 kcal over the 1,400–1,500 cut band**, **−48 g under the 150 g protein floor**. All estimates (unweighed), clearly labelled. |
+| 🔴 **W27 fasted weigh-in** | **NOT REPORTED** | Due Mon Sep 21 first thing. **14th consecutive** missed Monday weigh-in. Re-targeted → **Wed Sep 23**. |
 | 🔴 **R-Z five-tape baseline** | **NOT TAKEN** | Waist-at-navel still absent → the taper **denominator** remains un-quantified. |
 
-**Nearest anchored day — Sep 20 (Day 190) closeout vs target:**
+**Three-day comparison — Sep 20 / Sep 21 / Sep 22-to-date:**
 
-| Metric | Sep 20 (Day 190) actual | Target | Gap |
+| Metric | Sep 20 (Day 190) | **Sep 21 (Day 191)** | Sep 22 (Day 192, so far) | Target | Gap on Sep 21 |
+|---|---:|---:|---:|---:|---:|
+| Calories | ~2,200 kcal | **~2,470 kcal** | ~910 kcal (breakfast only) | 1,400–1,500 (cut band) | **+~970** 🔴 |
+| Protein | ~105 g | **~102 g** | ~23 g (and ~127 g still owed) | 180 g (floor 150 g) | **−48 g under floor** 🔴 |
+| Carbs | heavy, 2 events after 3 PM | **~265 g** (est.) | ~110 g (est.) | ≤170 g | +~95 g 🔴 |
+| Fat | high | **~108 g** (est.) | ~42 g (est.) | ~56 g | +~52 g 🔴 |
+| Fruit servings | **7** | **0** ✅ | **2 apples in one sitting** | ≤2 (~200 g), never 2 at once | ✅ R-T respected on Sep 21 |
+| Deep-fried | Cornitos | **3 flower pakodi + 0.75 Cornitos** | none | Zero | 🔴 Rule 4 |
+| Maida | 2 white-bread slices (1 + sugar crystals) | **2 white-bread slices** | none | Zero | 🔴 Rule 3 / R-Y |
+| Training | Session #58 — Lower + Core (537 KCal / 82:54) ✅ | **Skipped — back soreness** ⚠️ | not yet done | 1 session | ⚠️ R-S fallback not taken |
+| Weigh-in | Not reported | Not taken | pending Wed Sep 23 | Mon fasted | 🔴 14th miss |
+
+**Today's (Sep 22, Day 192) intake — breakfast only, logged live:**
+
+| Meal | Items | Est. kcal | Est. protein |
+|---|---|---:|---:|
+| **Breakfast** | 2 apples (~180 g each) + 2 paneer parantha + 1 katori dahi (~150 g) with 1 tsp sugar | **~910** | **~23 g** |
+| **Running total** | — | **~910 kcal** | **~23 g** |
+
+**Sep 22 cumulative vs target:**
+
+| Metric | Consumed | Target | Remaining |
 |---|---:|---:|---:|
-| Calories | **~2,200 kcal** | 1,900 kcal (band 1,800–1,900) | **+300 over band** |
-| Protein | **~105 g** | 180 g (floor 150 g) | **−45 g under floor** |
-| Carbs | Heavy carb load, 2 events after 3 PM | ≤170 g, none after 3 PM | ⚠️ 2 breaches |
-| Fruit servings | **7** | ≤2 servings (~200 g) | 🔴 R-T breach |
-| Maida / refined sugar | 2 white-bread slices (1 with sugar crystals) | Zero | 🔴 Rule 3 + Rule 5 breach |
-| Training | Session #58 — Lower + Core (537 KCal / 82:54) | 1 session | ✅ Done |
-| Weigh-in | Not reported | Mon fasted | 🔴 Missed |
+| Calories | **~910 kcal** | 1,900 (band 1,800–1,900) | **~±990 kcal left today** |
+| Protein | **~23 g** | 180 g (floor **150 g**) | **🔴 ~127 g still owed** |
 
-**Compliance notes:** Sep 21 is **ungradeable** — recorded as a **data gap**, not a compliance failure. Day 190 carried **3 violations** (R-T 7 fruits, carbs-after-3-PM ×2, maida + refined sugar at ~11:55 PM) and closed **+300 kcal** with protein **45 g under floor**. **Today, Tue Sep 22, is an R-L day → VEG-ONLY, no non-veg.**
+**Compliance notes:** 🔄 **The prior "Sep 21 = ungradeable data gap" verdict is retracted** — Sep 21 was a full-intake day carrying **4 violations** (Rule 3/R-Y maida ×2, Rule 4 deep-fried ×2, −48 g protein, +~970 kcal) and a **legitimate back-soreness gym skip** whose only fault is the missing R-S downgrade. Day 190 carried **3 violations** and closed **+300 kcal** with protein **45 g under floor**. **Today, Tue Sep 22, is an R-L day → VEG-ONLY, no non-veg.** 🔴 **Today's breakfast is a medical breach: paneer *and* curd at breakfast = dual calcium load that blocks Levothyroxine absorption — the Protocol forbids curd/milk/paneer at breakfast.** ⚠️ **R-T breach:** 2 apples in one sitting with only ~17 g protein alongside (threshold is ≥20 g). 🟡 1 tsp refined sugar.
 
 **Decisions made:**
 
-1. **The Sep-21 gap is declared a DATA GAP, not a compliance failure.** Nothing is back-filled with estimates.
-2. **The W27 weigh-in is re-targeted to the next fasted morning — Wed Sep 23, 2026** — logged in `Metrics.md` as W27 with a *"Monday target missed, taken Wed"* note. The **5 R-Z tapes go with it in the same sitting**.
-3. **Today's floor (Day 192): protein ≥150 g, ≥1 training session, ≥30 min walking, veg-only (R-L).**
+1. 🔄 **The Sep-21 "zero intake" finding is RETRACTED and the day is re-graded.** The original verdict came from an absence of reports, not an absence of food. **New standing process rule: a silent day is a MISSING REPORT, never an assumed zero — ask before grading.**
+2. **The Sep-21 gym skip is accepted as legitimate** (back soreness; an Upper Push session risked worsening it). **Back soreness is now an open medical item** — the next Upper session is gated on it clearing. **R-S fallback (30 min walk + 12-min circuit) is reaffirmed as mandatory on any skip day.**
+3. **The W27 weigh-in is re-targeted to the next fasted morning — Wed Sep 23, 2026** — logged in `Metrics.md` as W27 with a *"Monday target missed, taken Wed"* note. The **5 R-Z tapes go with it in the same sitting**.
+4. **Today's floor (Day 192): protein ≥150 g, ≥1 training session, ≥30 min walking, veg-only (R-L).** ~127 g protein still owed.
+5. 🔴 **Zero-calcium breakfast rule restated (medical).** Paneer/curd/milk **and** whey must not be taken within 30 min of the 6:00 AM thyroxine dose, and no curd/paneer/milk at breakfast at all — today's 2 paneer parantha + dahi breached this. **Corrected breakfast template: eggs (veg-only days still permit eggs) or 2 slices atta bread + peanut butter, black coffee ≥30 min after the pill.**
 
 **Next actions:**
 
-1. **Wed Sep 23, on waking, before water / food / thyroxine:** W27 **fasted** weight **+** the 5 R-Z tapes (waist at navel ⭐, chest at nipple line, bideltoid, neck, hip) → `Metrics.md`.
-2. **Log today's (Sep 22) intake as it happens** — cooked weights only, food scale on the counter, 2-serving fruit ceiling (R-T).
-3. **Confirm the township gym's dumbbell / lateral-raise situation** — the one missing medial-delt input.
-4. **Lat-first bias (R-AC)** on the next Upper session: lat pulldown + low row before any other upper-body movement, 4–5 weekly working sets each at RIR 2.
-5. **Day 192 protein plan (veg-only, R-L):** 150 g cooked paneer + 2 scoops OWN whey + 200 g curd ≈ **150 g protein**.
+1. 🔴 **Today, immediately:** bank the protein gap — 2 scoops OWN whey + 200 g curd mid-afternoon, then 150 g paneer + 1 roti + veg at dinner → lands ≥150 g.
+2. 🔴 **Tomorrow (Wed Sep 23) on waking, before water / food / thyroxine:** W27 **fasted** weight **+** the 5 R-Z tapes (waist at navel ⭐, chest at nipple line, bideltoid, neck, hip) → `Metrics.md`.
+3. 🔴 **Tomorrow breakfast: ZERO calcium** — no paneer, no curd, no milk, no whey within 30 min of thyroxine. Eggs + atta bread or oats.
+4. 🔴 **Back-soreness gate:** no Upper Push / no axial loading until the back is pain-free; until then train **lower + core + walking pad (R-S)**. Log the pain level and location on the next report.
+5. **Log today's (Sep 22) intake as it happens** — cooked weights only, food scale on the counter, **2-serving fruit ceiling (R-T), never 2 in one sitting**.
+6. **Lat-first bias (R-AC)** on the next Upper session: lat pulldown + low row before any other upper-body movement, 4–5 weekly working sets each at RIR 2.
 
 **Copilot context:**
 
 1. **Sep 21, 2026 = Monday = Day 191 · Sep 22 = Tuesday = Day 192 (today) · Sep 20 = Sunday = Day 190.**
-2. **Sep 21 has ZERO intake and ZERO workout — that is correct and intentional. Do not hunt for "missing" Sep-21 food numbers; they were never given.**
-3. **This journal is fitness-only.** No tooling, model-capability, git/commit, or agent-config content is logged here (see `BrainState.md` → How to Update This File).
-4. **Rule codes now run R-A → R-AC.** Next free code is **R-AD**.
+2. 🔄 **Sep 21 DID have a real intake — ~2,470 kcal / ~102 g protein over 3 meals + snacks — plus a back-soreness gym skip. The earlier "Sep 21 = zero intake" claim was WRONG and is retracted.** Do not carry that finding forward.
+3. **A silent day ≠ a zero day. Ask for the intake before grading any day as empty.**
+4. **Open medical item: back soreness (since ~Sep 21).** Gate all Upper Push / axial-loading work on it clearing; train lower + core meanwhile.
+5. **This journal is fitness-only.** No tooling, model-capability, git/commit, or agent-config content is logged here (see `BrainState.md` → How to Update This File).
+6. **Rule codes now run R-A → R-AC.** Next free code is **R-AD**.
