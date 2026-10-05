@@ -92,6 +92,35 @@ Early weeks may show faster loss (water weight + gut inflammation reduction). Ex
 
 **The timeline is longer but the result is the same.** Slow and steady preserves muscle, keeps your thyroid stable, and doesn't wreck your exam prep energy.
 
+## TDEE Recalibration — STC Kolkata (added Day 205, Oct 5 2026)
+
+**Why this section exists:** every target in this file was derived from a **TDEE of ~2,635 kcal**, which assumed a daily office commute, 5 gym sessions/week and daily walking-pad use. **At the Staff Training Centre none of those exist.** The commute is gone, there is no walking pad, and training is 2–3 sessions/week at best. Recomputing:
+
+| Step | Value |
+|---|---|
+| Weight used | **~83 kg** ⚠️ *assumed — last real reading 83.15 kg on Sep 22; the true value may now be 85–86 kg* |
+| Standard BMR (Mifflin-St Jeor) | 1,755 kcal |
+| **Hypothyroid-adjusted BMR** (−7.5%) | **≈ 1,625 kcal** |
+| TDEE — sedentary (1.20×) | **≈ 1,948 kcal** |
+| TDEE — low activity (1.25×) | **≈ 2,029 kcal** |
+| TDEE — light (1.30×) | **≈ 2,110 kcal** |
+| TDEE — lightly active (1.375×) | **≈ 2,232 kcal** |
+
+### What this changes
+
+| Scenario | TDEE | Intake | Daily deficit | Weekly loss |
+|---|---:|---:|---:|---:|
+| **Old protocol assumption** (commute + 5 gym + walking pad) | 2,635 | 1,900 | 735 | ~0.65 kg |
+| **STC reality, eating the old 1,900 target** | ~2,000–2,250 | 1,900 | **100–350** | **~0.1–0.35 kg** |
+| **STC reality, STC cut band** | ~2,000–2,250 | **1,500–1,650** | 350–750 | **~0.45–0.5 kg** |
+| **Sick day (Day 205, `R-AI`)** | ~2,000 | 1,900 | ~100 | *deliberate near-maintenance* |
+
+> ⚠️ **The headline finding: at the STC, 1,900 kcal is a near-MAINTENANCE intake, not a cut.** Two structural losses caused it — the disappearance of the commute NEAT, and a BMR that has fallen ~85 kcal as bodyweight dropped from 91.45 kg to ~83 kg.
+>
+> ⚠️ **This entire recalibration rests on an assumed 83 kg.** It must be redone the moment a real weight reading exists.
+
+---
+
 ## Daily Water Target
 
 - Current weight x 33 ml/kg = 91.45 x 33 = **3.0 L/day**
@@ -163,6 +192,7 @@ Weigh every **Monday morning**, fasted, after bathroom, same clothing (or none).
 | 26   | Sep 14, 2026 | **MISSED**          | —                 | -10.10 (unofficial)      | **W26 not reported** — same relocation window; Sep 16 was the home-return day. **12 consecutive missed official weigh-ins.** Nearest data point is the Sep 17 spot check (83.70 kg). |
 | 27   | Sep 21, 2026 | *(pending)*         | —                 | —                        | 🔴 **MONDAY WEIGH-IN MISSED (14th consecutive blank — W15–W27 now).** **No value was recorded on Mon Sep 21** — the day ran on a consultation and no weigh-in was reported, and the daily R-Z tape set was not taken either. **RE-TARGETED: Wed Sep 23, 2026 (Day 193).** Protocol: **naked, fasted, post-BM, post-bath-dry**, same scale, before any food or water — **plus the five R-Z tapes in cm** (waist at navel ⭐, chest at nipple line, shoulder/bideltoid, neck, hip). A Wednesday reading is still valid; a 15th blank week is not. Bracketing spot checks: Sep 17 = 83.70, Sep 20 = ~83.75, **Sep 22 = 83.15 (naked)**. A reading in the **82.0–83.0 kg** band is a good outcome; **81.0–82.0** = excellent. Do not read a single number as the trend. |
 | 28   | Sep 28, 2026 | **MISSED**          | —                 | —                        | 🔴 **MONDAY WEIGH-IN MISSED (15th consecutive blank — W15 → W28).** Root cause is now **structural**: the user relocated to the **Staff Training Centre, Kolkata** (joined UCO Bank, residential since Sep 27) and **there is no scale on site**. See the data-blackout note below. |
+| 29   | Oct 5, 2026  | **MISSED**          | —                 | —                        | 🔴 **16th consecutive blank (W15 → W29).** Still no scale at the STC. **Waist-at-navel (R-Z) remains the only available progress metric.** |
 
 > 🔴 **WEIGHT DATA BLACKOUT — Sep 23 → Oct 1, 2026 (9 days, 0 readings).**
 > The last real number is the **Sep 22 naked spot check of 83.15 kg**. From Sep 27 the user is residential at the STC Kolkata mess with **no scale and no ability to weigh food**. **Action: (1) ask the STC medical room / dispensary for a scale; (2) buy a ₹50 tape measure; (3) until then, waist-at-navel (R-Z) is the PRIMARY progress metric and the face-puffiness check is the secondary one.** Any weight quoted for Oct 1 in this file would be a projection, not a measurement — it is deliberately left blank.
