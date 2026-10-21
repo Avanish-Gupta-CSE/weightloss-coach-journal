@@ -121,6 +121,34 @@ Early weeks may show faster loss (water weight + gut inflammation reduction). Ex
 
 ---
 
+## TDEE Recalculation — 81.15 kg (added Day 221, Oct 21 2026)
+
+**Why this section exists:** the Day-205 recalibration rested on an *assumed* 83 kg. A real reading now exists, so the numbers are re-run. Two things changed at once — **weight fell ~1.85 kg** and **training fell to zero**.
+
+| Step | Value |
+|---|---|
+| Weight used | **81.15 kg — measured, Oct 21** |
+| Standard BMR (Mifflin-St Jeor) | 10(81.15) + 6.25(168) − 5(26) + 5 = **1,736 kcal** |
+| **Hypothyroid-adjusted BMR (−7.5%)** | **≈ 1,606 kcal** |
+| TDEE — sedentary, no training (1.20×) | **≈ 1,927 kcal** |
+| TDEE — PG walking + office (1.25×) | **≈ 2,008 kcal** |
+| TDEE — 2 sessions/week (1.30×) | **≈ 2,088 kcal** |
+
+### What this changes
+
+| Scenario | TDEE | Intake | Deficit | Weekly loss |
+|---|---:|---:|---:|---:|
+| **The gap, as actually run** (no training, ~80–90 g protein) | ~1,930–2,000 | ~1,450–1,550 | 400–550 | **~0.45 kg — but ~25–35 % of it lean** |
+| **Re-entry target (`R-AK`, Oct 21 → Nov 4)** | ~1,930–2,000 | **1,600–1,700** | 250–400 | **~0.25–0.35 kg, lean-protected** |
+| **Full protocol from Oct 26** (2–3 sessions/wk) | ~2,050–2,090 | 1,550–1,650 | 400–540 | **~0.4–0.5 kg** |
+| **Goal weight 70 kg** | — | — | — | **11.15 kg to go ≈ 24–28 weeks ≈ Apr–May 2027** |
+
+> ⚠️ **The second line is the important one.** Re-entry deliberately eats **more** than the gap did, because the gap's 2 kg included an estimated **0.4–0.8 kg of lean mass**. Trading 0.2 kg/week of loss for keeping muscle is the correct trade at BMI 28.8.
+>
+> ⚠️ Re-run again once the tape exists — **waist** will tell us whether this estimate of lean loss is right.
+
+---
+
 ## Daily Water Target
 
 - Current weight x 33 ml/kg = 91.45 x 33 = **3.0 L/day**
@@ -193,10 +221,11 @@ Weigh every **Monday morning**, fasted, after bathroom, same clothing (or none).
 | 27   | Sep 21, 2026 | *(pending)*         | —                 | —                        | 🔴 **MONDAY WEIGH-IN MISSED (14th consecutive blank — W15–W27 now).** **No value was recorded on Mon Sep 21** — the day ran on a consultation and no weigh-in was reported, and the daily R-Z tape set was not taken either. **RE-TARGETED: Wed Sep 23, 2026 (Day 193).** Protocol: **naked, fasted, post-BM, post-bath-dry**, same scale, before any food or water — **plus the five R-Z tapes in cm** (waist at navel ⭐, chest at nipple line, shoulder/bideltoid, neck, hip). A Wednesday reading is still valid; a 15th blank week is not. Bracketing spot checks: Sep 17 = 83.70, Sep 20 = ~83.75, **Sep 22 = 83.15 (naked)**. A reading in the **82.0–83.0 kg** band is a good outcome; **81.0–82.0** = excellent. Do not read a single number as the trend. |
 | 28   | Sep 28, 2026 | **MISSED**          | —                 | —                        | 🔴 **MONDAY WEIGH-IN MISSED (15th consecutive blank — W15 → W28).** Root cause is now **structural**: the user relocated to the **Staff Training Centre, Kolkata** (joined UCO Bank, residential since Sep 27) and **there is no scale on site**. See the data-blackout note below. |
 | 29   | Oct 5, 2026  | **MISSED**          | —                 | —                        | 🔴 **16th consecutive blank (W15 → W29).** Still no scale at the STC. **Waist-at-navel (R-Z) remains the only available progress metric.** |
+| 30   | Oct 12, 2026 | **MISSED**          | —                 | —                        | 🔴 **17th consecutive blank (W15 → W30).** By now he has left the STC residential block for a **PG in Kolkata** and a full office posting — still no scale, and no tape either. |
+| 31   | Oct 19, 2026 | **MISSED**          | —                 | —                        | 🔴 **18th consecutive blank (W15 → W31).** Travel/home week. **The next reading came on Wed Oct 21 at home — see the spot-check table.** |
 
-> 🔴 **WEIGHT DATA BLACKOUT — Sep 23 → Oct 1, 2026 (9 days, 0 readings).**
-> The last real number is the **Sep 22 naked spot check of 83.15 kg**. From Sep 27 the user is residential at the STC Kolkata mess with **no scale and no ability to weigh food**. **Action: (1) ask the STC medical room / dispensary for a scale; (2) buy a ₹50 tape measure; (3) until then, waist-at-navel (R-Z) is the PRIMARY progress metric and the face-puffiness check is the secondary one.** Any weight quoted for Oct 1 in this file would be a projection, not a measurement — it is deliberately left blank.
-                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+> ✅ **WEIGHT DATA BLACKOUT ENDED — Oct 21, 2026 (29 days, Sep 23 → Oct 21).**
+> Ended not by a Kolkata scale but by a **home scale in Bareilly: 81.15 kg naked**. **There is still no scale access in Kolkata.** **Action: (1) buy a ₹50 tape measure and take the 5 R-Z readings this week; (2) use any chemist/clinic scale monthly; (3) waist-at-navel stays the PRIMARY metric — the open question is now composition, not bodyweight.**
 
 ## Unofficial Spot Checks
 
@@ -216,3 +245,4 @@ These are **useful trend markers**, but they do **not** replace the Monday faste
 | Sep 17, 2026 | 83.70 | Naked morning spot check, post-BM | **Post-relocation reading — the first data point in the new city.** +2.35 kg vs Aug 30 (81.35). Mostly water/glycogen from the travel + home-return eating window (Day 172 = ~2,683 kcal). All-time low remains 81.15 kg (Aug 30 area). Reference point for the Sep 17–Sep 27 aggressive cut. |
 | Sep 20, 2026 | ~83.75 | **Self-reported** Sep 20 (Day 190) — user: *"my weight bumped to 83.75kgs around (around 84)"*. Not a fasted weigh-in; **not** protocol-standard; no BM/water control stated. | 🔴 **Rebound confirmed but small.** 81.15 (all-time low) → 83.75 = **+2.60 kg in 21 days** — but +2.60 kg of *fat* would require a **+953 kcal/day surplus every single day**, and the worst-logged day in that window (Day 172) was only **+233 kcal**. Decomposition: water/glycogen/gut **1.2–2.0 kg** · true fat **0.6–1.0 kg** · detraining + scale noise **0.2–0.5 kg**. Net real fat regained ≈ **0.6–1.0 kg**. He is still **−7.70 kg from Day 0 (91.45)** and BMI ≈ 29.7. **Nothing "washed down."** Next official = **Mon Sep 21 = W27**, fasted. |
 | Sep 22, 2026 | **83.15** | **Naked** spot check (Day 192, Tuesday). Reported as *"my naked weight today was 83.15kgs"* — fasted/BM/water control **not stated**, so treat as a naked morning reading rather than a protocol-standard weigh-in. | ✅ **First downward move of the new-city block.** Sep 20 ~83.75 → Sep 22 **83.15 = −0.60 kg in 2 days**. Decomposition: almost entirely **water / glycogen / gut**, not fat — the two days that preceded it ran **+570 and +970 kcal over band**, so a 0.60 kg fat loss is arithmetically impossible (that would need a ~2,300 kcal/day deficit). Read it as **sodium + glycogen rebalancing** after the high-carb, high-sodium, unweighed window (Sep 20–21 rice/roti/bread/Cornitos). **Trend line:** 81.15 (Aug 30 low) → 83.70 (Sep 17) → ~83.75 (Sep 20) → **83.15 (Sep 22)**. Still **−8.30 kg from Day 0 (91.45)**. **Still no R-Z tape set — the waist-at-navel number remains the single highest-value missing data point.** |
+| **Oct 21, 2026** | **81.15** | **Naked, home scale, Bareilly** (Day 221). **First reading in 29 days.** | ✅ **Ties the all-time low.** −2.00 kg vs Sep 22 (83.15) over 29 days = **−0.48 kg/week — exactly the target rate** — but achieved with **zero training and ~80–90 g protein/day**, so the loss is **not** clean fat. Estimate: **~1.2–1.6 kg fat · ~0.4–0.8 kg lean.** ⚠️ Different scale + post-travel hydration → carry a **±0.3–0.5 kg** band. **Cumulative −10.30 kg · BMI 28.8.** |

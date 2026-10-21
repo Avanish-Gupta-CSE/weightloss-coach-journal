@@ -7086,3 +7086,65 @@ Trim to stay inside the cap: **dinner turai 120 g → 100 g** (−24 kcal) → *
 - **Compliance notes:** 🔴 **Breaches logged for today: Rule 3 (maida) + R-Y + Rule 6 (butter)** — 2 white bread slices with butter; **Rule 4 (deep-fried)** — 2 puri; **egg yolk discarded** (nutrition error, not a rule breach). ✅ **R-L respected** (Monday — non-veg permitted). ⚠️ **Oct 2–4 (Days 202–204) remain unlogged** — 3 further silent days.
 - **Next actions:** (1) **gargle warm salt water now, and 3× today**; (2) **warm fluids 3.5–4 L — no cold drinks**; (3) **lunch 13:15 — fish 2 pieces, gravy drained, musuri dal 1 medium katori, ½ katori rice, patta gobi, 1 curd; refuse papad/pickle/chutney**; (4) **15:30–15:45 Mid Tea — 1 scoop whey in lukewarm water**; (5) **dinner 20:30 — non-veg main drained + dal + veg + 1 chapati, no rice, no dessert**; (6) **NO TRAINING until 24 h symptom-free**; (7) **ask the STC medical room for a scale while you are there about the throat**, and **buy a ₹50 tape measure** to take the 5 R-Z readings; (8) **report back: fever? tonsil appearance? how many days sick? whey scoop count?**
 - **Copilot context:** **Two new rules in force — `R-AI` (sick-day protocol: maintenance calories, protein ≥150 g, zero training while symptomatic) and `R-AJ` (STC energy budget recalibrated: TDEE ~2,000–2,250, so the STC cut band is 1,500–1,650 kcal and 1,900 is near-maintenance).** **`R-AF`'s rules stand but its calorie band is superseded.** **Last trained session = Sat Oct 3 = UPPER.** **Weight blind since Sep 22 — 13 days; W29 missed.** **Days 202–204 unlogged.** Next free rule code = **R-AK**.
+
+---
+### Day 221 — Wednesday, Oct 21, 2026 — Session Update #1 — 29-day blackout closed: 81.15 kg, protein collapse, PG/office phase, emotional load
+
+**Topics discussed:** The user supplied the missing narrative for **Oct 6 → Oct 20 (Days 206–220)** and today's intake. Reported, in his words: left the STC residential block → **took a PG in Kolkata for one month expressly to hunt a flat** → **started going to office** → **came to his hometown (Bareilly) for a few days** → **returning to Kolkata today** (*"i m in no mood to go that place but yeah i have to go"*). **Home weigh-in: 81.15 kg naked.** **Protein powder and protein intake "shattered".** **Zero gym on every blind day** — *"new city, was feeling overwhelmed, was crying daily so i was not able to go to gym or find any good gym"* — and *"the muscle build up which i used to feel is also seems reduced"*. He asked for the gap to be logged and the brain-complex updated.
+
+**Decision 1 — The gap is logged as a MISSING REPORT *with a narrative*, not back-filled with invented meals.**
+Days 206–220 now have a **cause**, not a **ledger**. No meal, no session and no weight was invented for any of those 15 days. This is the same standing rule installed on Day 192: **a silent day is a missing report, never a zero.** The record now reads: *narrative known, data absent.*
+
+**Decision 2 — 🔴 WEIGHT BLACKOUT CLOSED AT 29 DAYS: 81.15 kg, and it ties the all-time low.**
+**81.15 kg naked, home scale, Bareilly, Oct 21.** Against Sep 22 (83.15): **−2.00 kg in 29 days = −0.48 kg/week — exactly the target rate.** Cumulative **−10.30 kg from Day 0 (91.45)**, **BMI 28.8** (from 32.4). ⚠️ **Read with a ±0.3–0.5 kg band** — different scale, post-travel, hydration uncontrolled. If Kolkata reads 81.5–82.0 that is **not** a regression.
+**W30 (Oct 12) and W31 (Oct 19) are marked MISSED → 18 consecutive blanks (W15 → W31).** The blackout ended at home, not in Kolkata: **there is still no scale access in Kolkata.**
+
+**Decision 3 — The honest composition read: the scale moved correctly, the body did not.**
+2.00 kg down with **zero resistance training for 18 days** and **~80–90 g protein/day** cannot be clean fat. Estimate: **~1.2–1.6 kg fat · ~0.4–0.8 kg lean.** His report that *"the muscle build up … seems reduced"* is therefore **accurate, not imagined** — and roughly **half of that feeling is glycogen and sarcoplasmic volume**, which returns in **2–3 weeks** of training plus normal carbs. **The deficit worked. The protection did not.** That distinction is the whole diagnosis.
+
+**Decision 4 — Root cause of the protein collapse is STRUCTURAL, not motivational.**
+Whey stopped when the STC routine ended and was never rebuilt in the PG. The PG has **no kitchen, no control over cooking**, and PG food is **carb-dominant and protein-poor**. At 81.15 kg the 150 g floor needs **2 whey scoops or 3 animal-protein anchors** — neither exists in that environment. **Fix = buy the tub + set 2 anchors/day.** Nothing about this is a willpower problem.
+
+**Decision 5 — Root cause of the 18-day training stop is also STRUCTURAL, plus load.**
+*"No gym found"* — the township gym of the STC phase is gone, and no replacement was located. That is a **logistics failure**, and it compounded with the emotional state. **Minimum viable ask issued: any gym within walking distance, OR a ₹1,500–2,500/month local gym, OR a 25-min bodyweight circuit in the PG room.** A 25-min / 2-set session has counted since Day 201. **Do not wait for a *good* gym.**
+
+**Decision 6 — 🧠 The emotional load is logged in the Medical Log, not treated as a compliance failure.**
+*"Was crying daily"* for weeks, *"feeling overwhelmed"*, *"no mood to go that place"*. `PSU-Prep/.brain` **Session 82 (Oct 18)** records the crisis point — *"I feel like dying"*, safety question asked, **Tele-MANAS 14416 / KIRAN 1800-599-0019** given; he reported OK on Oct 19. **Read: capacity failure, not character failure.** Three anchors were removed at once — **STC structure, gym access, kitchen control** — on top of a job he dislikes and a solo Spring Boot build (UCO-Realty, Oct 15–20, nights to 01:30). **The correct response to a collapsed base is to shrink the plan, not to re-inflate it.** 🔴 Escalation kept live: **if low mood persists >2 weeks, sleep/appetite collapse, or any self-harm thought returns → doctor/counsellor.**
+
+**Decision 7 — 🆕 NEW RULE `R-AK` — COLLAPSE RE-ENTRY: restart 3 levers, not the whole protocol.**
+After any gap **≥7 days** with no training, run **only three levers for 14 days**: **(1) PROTEIN** — 110 g absolute floor, 140 g target, 2 anchors/day; **(2) TRAINING** — 2 sessions/week × 25 min, 2 sets, **no progressive overload**; **(3) SLEEP** — in bed by 01:00. Calories = **guardrail only (≤1,700), never a target to chase**. **All other rules suspended for the 14 days** — no 5-session weeks, no 150 g-or-fail, no weigh-in guilt, no tape backlog. **Gate back to full protocol: 14 days with 2/2 sessions AND 5/7 days at ≥110 g protein.** Rationale: in a collapsed base the binding constraint is **capacity, not knowledge**.
+
+**Decision 8 — TDEE re-run at the real 81.15 kg (supersedes the assumed-83 kg numbers).**
+Standard BMR **1,736** → hypothyroid-adjusted **≈1,606** → **TDEE ≈ 1,927 (sedentary, no training) · 2,008 (PG walking + office) · 2,088 (2 sessions/wk)**. **Re-entry band 1,600–1,700 kcal**; **full protocol 1,550–1,650 from Oct 26**. ⚠️ **Re-entry deliberately eats MORE than the gap did** — trading ~0.2 kg/week of loss for keeping lean mass is the correct trade at **BMI 28.8**. ⛔ **Never below 1,500.**
+
+**Decision 9 — Today's intake logged (combined breakfast + lunch, travel day), and the day is protein-short.**
+Source: user report. All figures are **household-measure estimates** (no scale).
+
+| Item | Qty | kcal | Protein |
+|---|---|---:|---:|
+| Roti (atta) | 1 | ~105 | ~3.0 g |
+| Cooked rice | 200 g | ~260 | ~5.4 g |
+| Guava | 1 medium (~100 g) | ~68 | ~2.5 g |
+| Orange | 1 medium (~130 g) | ~62 | ~1.2 g |
+| Chicken curry — 4 medium pieces + 2 leg pieces | ~240–290 g edible | ~400–490 | ~70–85 g |
+| **COMBINED BREAKFAST + LUNCH** | — | **≈940 (±15 %)** | **≈90 g** |
+
+**Day total if dinner is eaten as prescribed below: ≈1,585 kcal / ≈157 g protein.** ✅ **Closes the 140 g re-entry target.**
+⚠️ **R-T breached** — guava + orange **in one sitting** (rule: max 2 servings/day, never 2 at once). Not a catastrophe at 130 kcal combined, but it is the same pattern as Day 190's fruit load.
+
+**Decision 10 — This week's priority is the NSPCL exam, not the gym. That is the correct call.**
+**NSPCL Sun Oct 25 (Kolkata) · ISRO Oct 29 · NICL IT Officer form closes 28 Oct (verify).** With **4 days** left, attempting to restart training *and* rebuild protein *and* sit an exam would guarantee a second collapse. **Training resumes Mon Oct 26 — the day after the exam.** Until then: **protein + water + sleep + 20 min walking/day.** The gym is not the emergency; the exam is.
+
+**Compliance notes:** No gym (18th consecutive day). Protein ≈90 g by midday — the **5th week below the 150 g floor**. **R-T breached** (2 fruits in one sitting). No rule 3/4/5 violation reported today — the day contains **no maida, no deep-fried item and no sweet**, which is a **genuine improvement** on the Oct 1 and Oct 5 breakfasts.
+
+**Next actions:**
+1. **Dinner tonight (travel/PG, R-AH if eating out): 200 g chicken or fish (grilled/tandoori, or curry with the gravy drained) + 1 katori dal + 1 roti + salad + 1 katori curd** → closes the day at **≈1,585 kcal / ≈157 g**. No rice, no sweet, no papad.
+2. **Water: 3 L room temperature today** (travel day — carry the bottle, no cold water per **R-M**).
+3. **In bed by 01:00 tonight.** That is lever 3 of `R-AK` and it is not negotiable this week.
+4. **This week: order the whey (1 kg) + a ₹50 tailor's tape.** Two items, one order. Everything else waits.
+5. **Take the 5 R-Z tapes the first morning in Kolkata** — waist-at-navel ⭐ first. It is the only metric that can answer *"how much of the 2 kg was muscle?"*
+6. **Walk 20 min/day** through Oct 24 — no gym until after NSPCL.
+7. **Mon Oct 26 (Day 226): W32 weigh-in + first re-entry session (not Upper — last trained Oct 3 was Upper).**
+8. **Confirm two unknowns:** (a) is the flat found, or is the PG continuing? (b) is the throat infection fully gone?
+
+**Copilot context:** **`R-AK` is now in force (collapse re-entry — 3 levers, 14 days).** Weight blackout closed at **81.15 kg (ties all-time low, −10.30 kg total, BMI 28.8)**; the gap's 2 kg is an estimated **1.2–1.6 kg fat / 0.4–0.8 kg lean**, so **re-entry deliberately eats more, not less**. TDEE re-run at the real weight → **1,600–1,700 re-entry band**. Phase is now **PHASE 4-B (PG + office, no gym)**. **Last trained session = Sat Oct 3 = UPPER.** **Days 206–220 remain data-absent.** Next free rule code = **R-AL**.
