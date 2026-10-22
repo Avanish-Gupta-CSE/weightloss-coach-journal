@@ -7148,3 +7148,106 @@ Source: user report. All figures are **household-measure estimates** (no scale).
 8. **Confirm two unknowns:** (a) is the flat found, or is the PG continuing? (b) is the throat infection fully gone?
 
 **Copilot context:** **`R-AK` is now in force (collapse re-entry — 3 levers, 14 days).** Weight blackout closed at **81.15 kg (ties all-time low, −10.30 kg total, BMI 28.8)**; the gap's 2 kg is an estimated **1.2–1.6 kg fat / 0.4–0.8 kg lean**, so **re-entry deliberately eats more, not less**. TDEE re-run at the real weight → **1,600–1,700 re-entry band**. Phase is now **PHASE 4-B (PG + office, no gym)**. **Last trained session = Sat Oct 3 = UPPER.** **Days 206–220 remain data-absent.** Next free rule code = **R-AL**.
+
+---
+### Day 222 — Thursday, Oct 22, 2026 — Session Update #1 — Day 221 actual close (2,152 / 139 g), Day 222 running ledger, GNC sachet, deficit
+
+**Topics discussed:** The user supplied the **actual Day-221 close** (which differs from the planned dinner) and today's intake so far. Reported: **in office now**, bought the **same daal-bhari puri + aloo-gobhi sabzi** for lunch, and has **1 sachet of GNC whey** in stock. Asked for the **deficit**, the logging, and an **exhaustive tabular** answer.
+
+**Decision 1 — Day 221 ACTUAL close supersedes the Day-221 *plan* (which assumed a 645 kcal / 67 g fish-or-chicken dinner).**
+The planned dinner was **not** eaten. Actual evening + night intake was logged instead. No figure from the plan is carried forward.
+
+| Slot | Item | kcal | Protein |
+|---|---|---:|---:|
+| Breakfast + lunch (combined) | 1 roti · 200 g rice · 1 guava · 1 orange · 4 medium + 2 leg chicken pieces | ~940 | ~90.0 g |
+| Evening | 1 cup chai | ~90 | ~3.0 g |
+| Evening | 1 masala papad | ~110 | ~3.0 g |
+| Night | 50 g cooked rice | ~65 | ~1.4 g |
+| Night | 2 medium chicken pieces | ~145 | ~23.0 g |
+| Night | 2 roti | ~210 | ~6.0 g |
+| Night | 1 serving wheat nimki (~30 g) | ~150 | ~3.0 g |
+| Night | 1 Nagpur orange (medium) | ~62 | ~1.2 g |
+| Night | 2 daal-bhari puri, made in ghee | ~380 | ~8.0 g |
+| **DAY 221 TOTAL** | | **≈2,152** | **≈138.6 g** |
+
+**Verdict:** **+152 kcal over the re-entry cap of 1,700 — but the best protein day in five weeks.** 139 g is the first day at the 140 g target since Sep 22. **The surplus is small and the protein is the win.** ⚠️ All figures are household-measure estimates (±15–20 %).
+
+**Decision 2 — Day 221 breaches logged, with severity ranked.**
+
+| Rule | Breach | Severity |
+|---|---|---|
+| **Rule 4** — no deep-fried | **masala papad + wheat nimki + 2 daal-bhari puri in ghee = 3 deep-fried items in one evening/night** | 🔴 Highest |
+| **Rule 3 / R-Y** — no maida | nimki and papad are maida-based; daal puri likely maida | 🟠 High |
+| **R-T** — max 2 fruit servings/day, never 2 at once | **3 servings** on Day 221 (guava + orange at noon, orange again at night) | 🟠 High |
+| **R-AE / cap** | 2,152 vs 1,700 | 🟡 +452 |
+| **Ghee** | 2 puris made in ghee ≈ +10–14 g fat | 🟡 Note |
+
+**Decision 3 — Day 222 running ledger (breakfast eaten, lunch bought, whey sachet in hand).**
+
+| Slot | Item | kcal | Protein |
+|---|---|---:|---:|
+| Breakfast (eaten) | 2 daal-bhari puri + aloo-gobhi sabzi 50 g | ~440 | ~9.0 g |
+| Lunch (bought, in office) | 2 daal-bhari puri + aloo-gobhi sabzi 50 g | ~440 | ~9.0 g |
+| **4:30–5:00 PM** | **1 GNC whey sachet (~30 g, in room-temp water)** | **~120** | **~24.0 g** |
+| **RUNNING TOTAL** | | **≈1,000** | **≈42.0 g** |
+
+**Decision 4 — 🔴 The structural fault is now visible in one line: 9 g of protein per solid meal.**
+Two meals of fried bread + potato-cauliflower = **18 g of protein for ~880 kcal**. That is **~49 kcal per gram of protein** — the worst ratio on the entire protocol (for comparison: daal ≈ 15, chicken ≈ 5, whey ≈ 4.5). **This, not appetite or willpower, is why the 29-day average sat at 80–90 g.** A fried-bread breakfast costs the whole day's protein budget before 9 AM.
+
+**Decision 5 — GNC sachet: use it at 4:30–5:00 PM, not now, and not with lunch.**
+One sachet ≈ **120 kcal / ~24 g** — it is a **patch, not a supply**. Rules that apply: **R-A (lukewarm/room-temp water only, never cold), R-M (no cold water), sip over 5 min, never on a completely empty stomach, never 2 scoops at once.** Timing rationale: lunch is protein-poor and dinner is 4–5 h away — the sachet bridges the exact window where the day usually collapses. **It closes today at 42 → 66 g. It cannot close the day on its own.**
+
+**Decision 6 — R-AE budget subtraction for the rest of today (printed as required).**
+
+| Line | kcal |
+|---|---:|
+| Re-entry cap (`R-AK`) | **1,700** |
+| − breakfast | 440 |
+| − lunch | 440 |
+| − whey sachet | 120 |
+| **= Dinner allowance** | **700** |
+
+**Dinner must carry ~98 g of protein inside 700 kcal.** That is only possible with **meat or eggs as the whole meal** — no rice, no roti, no puri, no fried item.
+
+**Decision 7 — Dinner, two compliant builds (pick one).**
+
+| Build | Items | kcal | Protein |
+|---|---|---:|---:|
+| **A — meat-led (recommended)** | 300 g chicken or fish (grilled/tandoori, or curry with gravy drained) + 1 katori dal + 1 katori curd + a dry veg | ~690 | ~103 g |
+| **B — split-protein** | 250 g chicken or fish + 2 whole eggs + 1 katori dal + a dry veg | ~620 | ~96 g |
+| **DAY 222 TOTAL (A)** | | **≈1,690** | **≈145 g** |
+| **DAY 222 TOTAL (B)** | | **≈1,620** | **≈138 g** |
+
+Both land **inside 1,700 with protein at or above the 140 g target.** ✅ **No rice, no roti, no fried item at dinner** — the day has already spent its fried budget twice over.
+
+**Decision 8 — Deficit, stated on both days.**
+
+| Line | Day 221 (actual) | Day 222 (planned) |
+|---|---:|---:|
+| TDEE (office day, no training, PG walking) | ~2,000 | ~2,000 |
+| Intake | 2,152 | 1,690 |
+| **Net** | **+152 (surplus)** | **−310 (deficit)** |
+| Fat equivalent | +0.02 kg | −0.04 kg |
+| **Two-day net** | — | **−158 kcal ≈ −0.02 kg ≈ flat** |
+
+**Honest read: the two days cancel.** Day 221's surplus was paid for by Day 222's dinner discipline. **The week is flat, not lost** — and it is the first pair of days in a month where protein was not the failure.
+
+**Decision 9 — Sodium warning, given the 81.15 kg baseline.**
+Masala papad + nimki + 4 puris + office food is a **1,500–2,500 mg sodium load**. If he weighs tomorrow it may read **+0.5–1.0 kg of water**, not fat. **Do not panic-read that number.** The next protocol weigh-in is **W32, Mon Oct 26**, fasted.
+
+**Decision 10 — Tomorrow's breakfast is the single change that matters.**
+The fried-bread breakfast is the whole problem in one meal. **Standing substitution for the office week: 3 whole eggs (boiled/bhurji) + 1 roti, or 1 katori curd + 30 g chana + 1 fruit, or 1 whey scoop + 1 roti.** Same effort, **~20 g protein instead of 9 g**, and it leaves the fried budget unspent.
+
+**Compliance notes:** Day 221 — **3 deep-fried items, 3 fruit servings, ~+450 kcal**. Day 222 — **2 deep-fried items already eaten** (breakfast + lunch puri); **no fried item permitted at dinner**. ✅ **No calcium at breakfast on either day** — the thyroxine rule (R-AG) was respected. ✅ **Protein** — 139 g Day 221, projected 145 g Day 222: **two consecutive days at target, first time in five weeks.**
+
+**Next actions:**
+1. **4:30–5:00 PM — 1 GNC sachet in room-temp water, sipped over 5 min.** Not cold (R-A/R-M).
+2. **Dinner tonight — Build A:** 300 g chicken/fish (gravy drained) + 1 katori dal + 1 katori curd + dry veg. **No rice, no roti, no fried item.**
+3. **Water 3 L room-temp** — the sodium load needs the volume.
+4. **Order the whey TUB tonight** (1 kg). One sachet is not a supply and tomorrow is another 42 g-by-lunch day.
+5. **Tomorrow's breakfast: 3 whole eggs + 1 roti** — swap out of the puri pattern.
+6. **No weight tomorrow; W32 is Mon Oct 26.** If tempted anyway, expect +0.5–1.0 kg of water and ignore it.
+7. **NSPCL is Sunday — 3 days.** No gym until after it.
+8. **Still owed:** flat-vs-PG status, throat confirmation.
+
+**Copilot context:** **Day 221 closed 2,152 kcal / 139 g** (actual, supersedes the 157 g plan). **Day 222 running 1,000 / 42 g**, dinner allowance **700 kcal / ~98 g needed**. **Two-day net ≈ flat (−158 kcal).** **The binding fault is 9 g protein per fried-bread meal — not appetite.** **GNC: 1 sachet = 120 kcal / 24 g = a patch, not a supply.** Next free rule code = **R-AL**.
