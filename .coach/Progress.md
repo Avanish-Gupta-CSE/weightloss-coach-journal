@@ -7251,3 +7251,60 @@ The fried-bread breakfast is the whole problem in one meal. **Standing substitut
 8. **Still owed:** flat-vs-PG status, throat confirmation.
 
 **Copilot context:** **Day 221 closed 2,152 kcal / 139 g** (actual, supersedes the 157 g plan). **Day 222 running 1,000 / 42 g**, dinner allowance **700 kcal / ~98 g needed**. **Two-day net ≈ flat (−158 kcal).** **The binding fault is 9 g protein per fried-bread meal — not appetite.** **GNC: 1 sachet = 120 kcal / 24 g = a patch, not a supply.** Next free rule code = **R-AL**.
+
+### Day 222 — Thursday, Oct 22, 2026 — Session Update #2 (post-lunch correction + calf pain)
+
+**Topics discussed:** User corrected lunch — **3 daal-bhari puri + ~50 g gobhi-aloo sabzi**, not 2. Reported **calf pain**, noting it *"used to happen before I started going to gym, then it improved, and today it happened after a long while"*, and that he **did not sleep properly last night**. Asked whether it is gym-related, and whether sleep could be the cause.
+
+**Decision 1 — Day 222 ledger corrected (Update #1 understated lunch by one puri).**
+
+| Slot | Item | kcal | Protein |
+|---|---|---:|---:|
+| Breakfast | 2 daal-bhari puri + gobhi-aloo 50 g | ~440 | ~9.0 g |
+| Lunch (corrected) | **3 daal-bhari puri** + gobhi-aloo 50 g | **~630** | **~13.0 g** |
+| 4:30–5:00 PM | 1 GNC sachet | ~120 | ~24.0 g |
+| **RUNNING** | | **≈1,190** | **≈46 g** |
+
+**Dinner allowance recalculated:** 1,700 − 1,190 = **510 kcal**, against **~94 g of protein still owed**. That is a **protein-only dinner** — 300 g chicken or fish grilled/tandoori with salad, **no rice, no roti, no dal katori** (dal costs 15 kcal per g protein; there is no room). Day lands **≈1,685 kcal / ≈138 g**. ⚠️ Five puris = 1,010 kcal of the day; the budget is tight because breakfast and lunch spent it.
+
+**Decision 2 — 🦵 Calf pain: triage splits on ONE question — one leg or both?**
+This is the single fact that separates a benign picture from a serious one, and it was not reported. **Both calves → benign pathway. One calf → DVT must be excluded, same day.**
+
+**Decision 3 — Ranked differential (benign first, because the history supports it).**
+
+| # | Likely cause | Why it fits | Confidence |
+|---|---|---|---|
+| 1 | **Dependent venous pooling from travel** | Long Bareilly → Kolkata journey the day before; hours seated; calf is the dependent reservoir | **High** |
+| 2 | **Deconditioning (19 days no training)** | Calf muscle pump is the venous return engine; it detrains in ~2–3 weeks. Exactly matches *"it improved when I started gym"* | **High** |
+| 3 | **Sodium/potassium imbalance → cramp** | 2 days of papad + nimki + 5 puri + no fruit today; very high sodium, low potassium | **High** |
+| 4 | **Sleep deprivation** | Raises cramp frequency and lowers pain threshold; he slept poorly | **Moderate–high** |
+| 5 | **Dehydration** | Travel day + low water intake | **Moderate** |
+| 6 | **Hypothyroid myalgia** | Cramps/aches are a known symptom of under-replacement; the Oct-1 puffiness was never explained; TSH never tested in Kolkata | **Low–moderate, but worth ruling out** |
+| 7 | **Vitamin D deficiency** | Endemic in India; indoor office life; causes diffuse myalgia | **Low–moderate** |
+| 8 | **Lumbar referral (L5–S1)** | He had back soreness Sep 21; calf pain can be radicular | **Low** |
+
+**Decision 4 — The mechanism that explains the "it came back" pattern precisely.**
+Calf pain before gym = **sedentary + poor venous return + cramps**. It improved with training because **the calf muscle pump got stronger, capillary density rose, and pain tolerance rose**. **19 days detrained + a long travel day + bad sleep + a high-sodium diet reversed all three inputs at once.** So the answer to *"is it because I stopped gym?"* is **yes, partly — but the gym is the treatment, not the cause.** ⚠️ It is **not** caused by training, because there has been no training.
+
+**Decision 5 — What to do today, exact.**
+**(1)** Walk **10 min every 2 h** while in office — the calf pump is the treatment. **(2)** **Water 3 L room-temp** (R-M). **(3)** **Potassium today: 1 banana or 1 coconut water or 1 orange** — he has an unused fruit allowance and the sodium load needs the counter-ion. **(4)** **Calf stretch 30 s × 3 per leg**, plus **legs elevated 15 min** when home. **(5)** **Warm shower, not hot.** **(6)** **In bed by 01:00** — sleep is a direct lever on cramp threshold.
+
+**Decision 6 — 🔴 Red flags that convert this from "manage it" to "see a doctor today".**
+**One calf only · visible swelling · warmth or redness · pain on pulling the toes up (dorsiflexion) · breathlessness · chest pain · calf pain that worsens with rest.** Any of these → **same-day doctor, Doppler ultrasound to exclude DVT.** He is 26 with BMI 28.8 and just completed a long journey — the risk is low, but it is the one thing not to miss.
+
+**Decision 7 — Medical escalation rule logged (second, independent of DVT).**
+If the calf pain **recurs in clusters**, or arrives with **puffiness / fatigue / cold intolerance / constipation / dry skin / hair thinning → TSH + free T4 in Kolkata.** The Oct-1 facial puffiness was never explained and hypothyroid myalgia is a real mechanism. This is the second reason to get thyroid function checked since Oct 1.
+
+**Compliance notes:** Day 222 so far — **5 deep-fried puris (breakfast 2 + lunch 3)**, plus a maida/sodium-heavy two-day run. **No fruit eaten today yet** — that is now an *action*, because potassium is the anti-cramp lever. ✅ Protein is on track to clear target despite the fried food, which is the one thing genuinely improving.
+
+**Next actions:**
+1. **Answer one question: is the calf pain in BOTH legs or ONE?** Any swelling, warmth or redness?
+2. **Walk 10 min every 2 h** for the rest of the office day.
+3. **Water 3 L room-temp** + **1 banana / coconut water / orange** for potassium.
+4. **Dinner = protein only:** 300 g chicken or fish, grilled/tandoori, gravy drained, + salad. **No rice, no roti, no dal.** Closes ≈1,685 kcal / ≈138 g.
+5. **Calf stretch 30 s × 3/leg + legs elevated 15 min** at home.
+6. **In bed by 01:00.**
+7. **If ONE calf / swelling / warmth / breathlessness → doctor today, not tomorrow.**
+8. **No gym before NSPCL (Sun).** Training resumes **Mon Oct 26** — and it is the actual fix for the calf.
+
+**Copilot context:** **Day 222 lunch corrected to 3 puri → 1,190 kcal / 46 g by lunch; dinner allowance 510 kcal / ~94 g owed.** 🦵 **Calf pain logged — laterality unknown; both = benign (pooling + deconditioning + sodium/potassium + sleep), one = exclude DVT.** **Mechanism: 19 days detrained + travel + poor sleep + high sodium reversed the protection that training had built.** Next free rule code = **R-AL**.
