@@ -7308,3 +7308,109 @@ If the calf pain **recurs in clusters**, or arrives with **puffiness / fatigue /
 8. **No gym before NSPCL (Sun).** Training resumes **Mon Oct 26** — and it is the actual fix for the calf.
 
 **Copilot context:** **Day 222 lunch corrected to 3 puri → 1,190 kcal / 46 g by lunch; dinner allowance 510 kcal / ~94 g owed.** 🦵 **Calf pain logged — laterality unknown; both = benign (pooling + deconditioning + sodium/potassium + sleep), one = exclude DVT.** **Mechanism: 19 days detrained + travel + poor sleep + high sodium reversed the protection that training had built.** Next free rule code = **R-AL**.
+
+### Day 223 — Friday, Oct 23, 2026 — Session Update #1 — Day 222 close (2,528 / 172 g), Day 223 ledger, first bodyweight protocol
+
+**Topics discussed:** User supplied the **Day-222 evening** (which included the planned protein dinner plus snacks) and **Day 223 so far**. Asked to research and log the **Yoga Bar 26 g protein shake**, to compute the deficit, and stated an intention: *"till I join [a gym] I think to do body[weight] exercise as it will definitely keep my body muscles active at least till then."* That intention is now a rule (**R-AL**).
+
+**Decision 1 — Day 222 ACTUAL close: 2,528 kcal / ≈172 g protein.**
+
+| Slot | Item | kcal | Protein |
+|---|---|---:|---:|
+| Breakfast | 2 daal puri + gobhi-aloo 50 g | ~440 | ~9.0 g |
+| Lunch | 3 daal puri + gobhi-aloo 50 g | ~630 | ~13.0 g |
+| 4:30–5 PM | 1 GNC sachet *(assumed taken — confirm)* | ~120 | ~24.0 g |
+| Evening | Box chicken, 5–6 medium pieces incl. 1 leg (~320–350 g edible) | ~540 | ~92.0 g |
+| Evening | 80 g cooked rice | ~104 | ~2.2 g |
+| Evening | 1 large tandoori roti | ~210 | ~6.5 g |
+| Evening | 1–2 small paneer pieces + paneer gravy sabzi | ~150 | ~7.0 g |
+| Evening | 10 pieces atta nimki | ~150 | ~3.0 g |
+| Evening | 1 Jim Jam biscuit | ~35 | ~0.5 g |
+| Evening | 4–5 cashew kernels | ~45 | ~1.5 g |
+| Evening | ½ Yoga Bar 26 g shake (cold coffee) | ~104 | ~13.0 g |
+| **DAY 222 TOTAL** | | **≈2,528** | **≈172 g** |
+
+**Verdict: +528 kcal surplus against a ~2,000 TDEE — but 172 g protein is the highest single day since May 2026.** ✅ The protein collapse is over. ⚠️ The surplus is real and it came from **fried bread + snack items, not from the chicken**. ⚠️ **If the "box chicken" was breaded/fried (KFC-style) rather than curry/grilled, add ~250 kcal and ~10 g fat** — the estimate assumes curry/grilled.
+
+**Decision 2 — Yoga Bar shake: the arithmetic, and the caveat.**
+User reports **₹107 · 26 g protein · ~207 kcal** for the full bottle, of which he drank **half** → **≈104 kcal / ≈13 g**. That is self-consistent (26 g protein = 104 kcal on its own, plus carbs/fat = ~207). ⚠️ **Web lookup failed (search API returned HTTP 402), so this is label-math, not a verified product page.** **Action: photograph the back label — if it reads 200 ml / 26 g / 207 kcal, the logged figure stands; if it is the 20 g version, half is ~75 kcal / 10 g.**
+
+**Decision 3 — Day 223 running ledger (breakfast + lunch + snacks + sachet).**
+
+| Slot | Item | kcal | Protein |
+|---|---|---:|---:|
+| Breakfast | 2 medium Shimla apples + 3 daal puri | ~730 | ~12.6 g |
+| Lunch | 3 daal puri + gobhi-aloo 50 g | ~630 | ~13.0 g |
+| Evening snack | 1 whole cut Shimla apple | ~80 | ~0.3 g |
+| Evening | 1 GNC sachet | ~120 | ~24.0 g |
+| **RUNNING** | | **≈1,560** | **≈50 g** |
+
+**Decision 4 — 🔴 Day 223 is the structural fault in its purest form: 6 puris = 1,140 kcal for 24 g protein.**
+Add 3 apples (240 kcal / 1 g) and the day has spent **1,560 kcal on 50 g of protein** — **31 kcal per gram of protein**, versus 5 for chicken. The cap is gone before dinner and the protein target is still 90 g away. **No amount of discipline fixes this ordering.** The fix is positional: **protein must be eaten before the puri, not after it.**
+
+**Decision 5 — Dinner: protein-only, and the cap is knowingly breached. Stated plainly, not hidden.**
+
+| Option | Dinner | Day kcal | Day protein | Verdict |
+|---|---|---:|---:|---|
+| A — hold 1,700 | 1 egg (140 kcal left) | 1,700 | **57 g** | ❌ Hits the cap, fails the actual goal |
+| **B — protein first (RECOMMENDED)** | **300 g chicken/fish, grilled/tandoori, gravy drained + plain salad** | **2,055** | **143 g** | ✅ **+55 = maintenance, protein at target** |
+| C — balance | 200 g chicken + 2 whole eggs | 2,030 | 124 g | 🟡 Under target by 16 g |
+
+**Call: Option B.** `R-AK` makes protein the fixed point and calories the guardrail — and 57 g is the exact failure this recovery is trying to end. **The cap is breached by 355 kcal, in exchange for 86 g of protein. That is the right trade and it is being logged as a breach, not excused.**
+
+**Decision 6 — Three-day deficit, stated honestly.**
+
+| Day | Intake | TDEE | Net |
+|---|---:|---:|---:|
+| Mon–Tue (Oct 21) | 2,152 | 2,000 | **+152** |
+| Wed (Oct 22) | 2,528 | 2,000 | **+528** |
+| Thu (Oct 23, planned B) | 2,055 | 2,000 | **+55** |
+| **3-day total** | **6,735** | **6,000** | **+735 ≈ +0.10 kg** |
+
+**The last three days have been maintenance-to-surplus, not a cut.** The reason is not the chicken — it is **6 puris + nimki + biscuit + cashews + half a shake**, which together are **~1,500 kcal for ~40 g of protein**. **W32 (Mon Oct 26) will therefore read ~81.2–81.8 kg, i.e. flat — and that is the arithmetic, not water.**
+
+**Decision 7 — 🆕 NEW RULE `R-AL`: the portable bodyweight floor.**
+The user's own instinct is correct and it fixes the deepest structural flaw in this protocol. **Three consecutive months collapsed on the same mechanism — every relocation killed the gym, and the gym took the whole protocol with it** (Aug = 8 sessions · Sep = relocation · Oct = 1 session). Proposed and adopted: **when no gym exists, the session becomes the 22-minute room circuit, 3×/week, 2 sets.**
+
+| # | Movement | Sets × reps | Scaling | Trains |
+|---|---|---|---|---|
+| 1 | Incline push-up (hands on bed/desk) | 2 × 8–12 | Lower the surface to progress | Chest, triceps |
+| 2 | Backpack row (books/water bottles) | 2 × 10–12 | Add load | **Lats — R-AC priority** |
+| 3 | Split squat (fingertips on chair) | 2 × 6–8/leg | Bodyweight only at first | Quads, glutes |
+| 4 | Glute bridge | 2 × 12–15 | Single-leg to progress | Glutes, hamstrings |
+| 5 | **Calf raise off a step** | 2 × 15–20 | 3 s down, full stretch | **Calf pump — also the current calf-pain rehab** |
+| 6 | Plank | 2 × 20–30 s | Knee plank | Core |
+| 7 | Superman | 2 × 10 | — | Spinal erectors |
+
+**Session = ~22 min · 45 s rest · 2 sets · RIR 4 for the first two weeks.** Progression order: **reps → tempo → backpack load** (never add load before 12 clean reps). **A room circuit counts as a completed session and is logged as one.**
+
+**Decision 8 — Start date is Monday, not today. The exam outranks the enthusiasm.**
+**NSPCL is Sunday Oct 25 — 2 days away.** Starting a deconditioned circuit on 2 nights of bad sleep, while the calf is still sore and an exam is pending, is how a good intention becomes an injury. **This weekend: 10-min mobility + 2×15 calf raises + 20-min walk only. Full Session A on Mon Oct 26.** The calf component (movement 5) is also the **rehab** for the current calf pain, so it starts immediately in a light form.
+
+**Decision 9 — Weekly layout from Mon Oct 26.**
+
+| Day | Session |
+|---|---|
+| Mon | **Room circuit (R-AL)** — Session A |
+| Tue | 20–30 min walk + 10-min mobility |
+| Wed | **Room circuit** — Session A (repeat) |
+| Thu | 20–30 min walk + 10-min mobility |
+| Fri | **Room circuit** — Session A |
+| Sat | 20–30 min walk |
+| Sun | Rest / NSPCL-style exam day |
+
+⚠️ **All three sessions are the same circuit for the first 2 weeks** — that is deliberate. Novelty is not the goal; **showing up 3× is.** Split variety returns when the gate is passed and a gym is found.
+
+**Compliance notes:** Day 222 — **surplus +528**, deep-fried items at breakfast and lunch (5 puri), but **protein 172 g ✅** and **no calcium at breakfast ✅** (R-AG respected). Day 223 — **6 puri + 3 apples**, cap breached at dinner by design (Decision 5). ✅ **Protein is no longer the failing variable; total fried-bread calories are.** 🦵 **Calf pain: laterality still unconfirmed.**
+
+**Next actions:**
+1. **Dinner tonight — Option B:** 300 g chicken/fish, grilled or tandoori, gravy drained + plain salad. Nothing else. Day closes **≈2,055 / ≈143 g**.
+2. **Photograph the Yoga Bar back label** — confirm 26 g / 207 kcal, or correct the log.
+3. **Photograph the GNC sachet label** too (confirm it is not a gainer).
+4. **This weekend only: 10-min mobility + 2×15 calf raises + 20-min walk.** No circuit before Monday.
+5. **Mon Oct 26 — Session A of `R-AL`**, 22 min, 2 sets, RIR 4. Log the session number as **#62**.
+6. **Stop the puri pattern from Monday:** breakfast = 3 whole eggs + 1 roti. Same effort, +11 g protein, −230 kcal.
+7. **Calf: still need "both legs or one".**
+8. **W32 weigh-in Mon Oct 26, fasted** — expect ~81.2–81.8, flat.
+
+**Copilot context:** **Day 222 closed 2,528 / 172 g** (highest protein since May; +528 surplus). **Day 223 running 1,560 / 50 g**; dinner Option B → **2,055 / 143 g** with a **logged +355 cap breach**. **3-day net +735 kcal ≈ +0.10 kg — the week is flat, not a cut.** **`R-AL` minted: portable bodyweight floor, 3×/week, 22 min, starts Mon Oct 26.** **The failure mode has shifted from low protein to fried-bread calories.** Yoga Bar figure is **label-math, unverified (web search unavailable)**. Next free rule code = **R-AM**.
